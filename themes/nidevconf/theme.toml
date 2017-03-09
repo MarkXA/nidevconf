@@ -1,0 +1,17 @@
+name = "NIDevConf"
+license = "MIT"
+licenselink = "https://github.com/.../.../LICENSE.md"
+description = ""
+homepage = "http://NIDevConf.com/"
+tags = ["", ""]
+features = ["", ""]
+
+[author]
+  name = ""
+  homepage = ""
+
+[taxonomies]
+  sponsor = "sponsors"
+  speaker = "speakers"
+  event = "events"
+  day = "days"
