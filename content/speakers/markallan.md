@@ -8,8 +8,8 @@ speakertitle = "Programmer, mostly"
 linkedin = "https://linkedin.com/in/MarkXA"
 twitter = "https://twitter.com/MarkXA"
 github = "https://github.com/MarkXA"
-talk = "Azure - The Good Parts"
-subtitle = "Azure - The Good Parts"
+talk = "Going Serverless"
+subtitle = "We don't need no stinking servers"
 session = "markallan"
 +++
 

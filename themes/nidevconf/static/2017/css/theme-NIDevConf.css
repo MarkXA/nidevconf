@@ -2049,13 +2049,13 @@ p.question {
 }
 
 .platinum-sponsors .sponsor {
-  height: 80px;
-  line-height: 80px;
+  height: 160px;
+  line-height: 160px;
 }
 
 .platinum-sponsors .sponsor img {
-  max-width: 170px;
-  max-height: 80px;
+  max-width: 340px;
+  max-height: 160px;
 }
 
 .gold-sponsors .sponsor {
