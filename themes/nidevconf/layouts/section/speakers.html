@@ -1,45 +1,24 @@
-{{ partial "header.html" . }}
- <body>
-      {{ partial "navbar.html" . }}
-      <div class="main-container">
-        <a id="top"></a>
-				
-        <section class="speakers">
-          <div class="container">
-            <div class="row">
-              <div class="col-sm-12">
-                <h1>Speakers</h1>
-              </div>
-            </div>
-
-            {{ $speakers := where .Data.Pages "Section" "speakers" }}
-
-            {{ range $speaker := $speakers }}
-            <div class="row">
-              <div class="speaker-with-bio">
-                <div class="speaker col-md-3">
-                  <div class="image-holder">
-                    <img class="background-image" alt="Speaker" src="{{$speaker.Params.speakerimage}}">
-                    <div class="hover-state text-center preserve3d">
-                    </div>
-                  </div>
-                </div>
-    
-                <div class="speaker-description col-md-9">
-                  <h2>{{ $speaker.Title }}</h2>
-                  <span class="sub">{{ $speaker.Params.talk }}</span>
-                  {{ $speaker.Content }}
-                </div>
-              </div>
-            </div>
-          {{ end }}
-          </div>
-        </section>
- 
-{{ partial "sponsors.html" . }}
-
-        </div>
-</main>
-
-
+{{ partial "header.html" . }} {{ partial "navbar.html" . }}
+<section class="row">
+  <div class="main-container">
+    <a id="top"></a>
+    <main class="container generic">
+      <div class="col-md-12 main">
+        <h3>Call for Speakers</h3>
+        <p>
+          You're building some interesting stuff, either in your day job or as a side project. Why not come and tell us about it? We're
+          taking submissions for both 30-minute standard talks and 5-minute lightning talks, and we're happy to help novice
+          speakers with preparation and advice.
+        </p>
+        <p>
+          <a class="inner-link" href="https://goo.gl/forms/Zhr26wiaAEy3rz3r1">Submit a talk now! &raquo;</a>
+        </p>
+        <p>
+          Proposals must be submitted by the April 30th (at 23:59:59).
+        </p>
+      </div>
+    </main>
+    {{ partial "speakers.html" . }}
+  </div>
+</section>
 {{ partial "footer.html" . }}

@@ -1,0 +1,73 @@
+{{ $speakers := where .Data.Pages "Section" "speakers" }}
+{{ $keynotespeakers := where $speakers "Params.keynote" true }}
+{{ $normalspeakers := where $speakers "Params.keynote" false }}
+{{ $sessions := where .Data.Pages "Section" "sessions" }}
+
+<section class="speakers">
+  {{ if $keynotespeakers }}
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Keynote Speakers</h1>
+        </div>
+      </div>
+      {{ range $speaker := $keynotespeakers }}
+        <div class="row">
+          <div class="speaker-with-bio">
+            <div class="speaker col-md-3">
+              <div class="image-holder">
+                <img class="background-image" alt="Speaker" src="{{$speaker.Params.speakerimage}}">
+                <div class="hover-state text-center preserve3d">
+                </div>
+              </div>
+            </div>
+            <div class="speaker-description col-md-9">
+              <h2>{{ $speaker.Title }}</h2>
+              <p>
+                {{ $speaker.Content }}
+              </p>
+              {{ range $session := $sessions }}
+                {{ if eq $session.Params.speaker $speaker.File.BaseFileName }}
+                  <a href="{{ $session.Permalink }}">{{ $session.LinkTitle }}</a>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+  {{ if $normalspeakers }}
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Speakers</h1>
+        </div>
+      </div>
+      {{ range $speaker := $normalspeakers }}
+        <div class="row">
+          <div class="speaker-with-bio">
+            <div class="speaker col-md-3">
+              <div class="image-holder">
+                <img class="background-image" alt="Speaker" src="{{$speaker.Params.speakerimage}}">
+                <div class="hover-state text-center preserve3d">
+                </div>
+              </div>
+            </div>
+            <div class="speaker-description col-md-9">
+              <h2>{{ $speaker.Title }}</h2>
+              <p>
+                {{ $speaker.Content }}
+              </p>
+              {{ range $session := $sessions }}
+                {{ if eq $session.Params.speaker $speaker.File.BaseFileName }}
+                  <a href="{{ $session.Permalink }}">{{ $session.LinkTitle }}</a>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+</section>

@@ -3,66 +3,7 @@
     	<a id="top"></a>
       <div class="nav-container">
 				<nav class="overlay-nav">
-          <div class="colors-container">
-            <div class="colors">
-              <div class="col-xs-2"></div>
-              <div class="col-xs-2"></div>
-              <div class="col-xs-2"></div>
-              <div class="col-xs-2"></div>
-              <div class="col-xs-2"></div>
-              <div class="col-xs-2"></div>
-            </div>
-          </div>
-					<div class="container">
-						<div class="row">
-							<div class="col-md-2">
-								<img alt="Logo" class="logo logo-dark" src="2017/img/NIDevConf2017.png">
-							</div>
-					
-							<div class="col-md-10 text-right">
-                  <ul class="menu">
-                    <li><a class="inner-link" href="https://getinvited.to/nidevconf/northern-ireland-developers-conference-launch-event/">Launch Event</a></li>
-                    <li><a class="inner-link" href="http://eepurl.com/cobbT5">Register Interest</a></li>
-                    <li><a class="inner-link" href="mailto:inbox@nidevconf.com">Contact Us</a></li>
-                  </ul>
-                  <!--<ul class="menu">
-                    <li class="has-dropdown">
-                      <a href="#">About</a>
-                      <ul class="nav-dropdown">
-                        <li><a href="/location">Location</a></li>
-                        <li><a class="inner-link" href="/code-of-conduct">Code of Conduct</a></li>
-                        <li><a href="/guide-program">Guide Program</a></li>
-                      </ul>
-                    </li>
-                    <li><a class="inner-link" href="https://ti.to/NIDevConf/NIDevConf-2017">Tickets</a></li>
-                    <li class="has-dropdown">
-                      <a href="#">Events</a>
-                      <ul class="nav-dropdown">
-                        <li><a class="inner-link" href="/events/afterparty">After Party</a></li>
-                        <li><a class="inner-link" href="/events/preparty">Kick Off Party</a></li>
-                      </ul>
-                    </li>
-                    <li class="has-dropdown">
-                      <a href="#">Schedule</a>
-                      <ul class="nav-dropdown">
-                        <li><a class="inner-link" href="/schedule">Schedule</a></li>
-                        <li><a class="inner-link" href="/speakers">Speakers</a></li>
-                        <li><a class="inner-link" href="/sessions">Sessions</a></li>
-                      </ul>
-                    </li>
-                    <li class="has-dropdown">
-                      <a href="#">Sponsors</a>
-                      <ul class="nav-dropdown">
-                        
-                        <li><a class="inner-link" href="/sponsors">NIDevConf Sponsors</a></li>
-                        <li><a class="inner-link" href="/NIDevConf2017Prospectus.pdf">Sponsorship Prospectus</a></li>
-                      </ul>
-                    </li>
-                  </ul>-->
-								<div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
-							</div>
-						</div>
-					</div>
+          {{ partial "mainmenu.html" . }}
 				</nav>
       </div>
       <div class="main-container">
@@ -70,7 +11,7 @@
           <ul class="slides">
             <li class="video-header">
               <div class="background-image-holder parallax-background">
-                <img class="background-image" alt="Background Image" src="https://adventuresingeology.files.wordpress.com/2012/03/giants-causeway-ireland.jpg">
+                <img class="background-image" alt="Background Image" src="/images/giants-causeway.jpg">
               </div>
               
               <div class="video-wrapper">
@@ -83,7 +24,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                    <img alt="logo" class="logo" src="2017/img/NIDevConf2017.png">
+                    <img alt="logo" class="logo" src="/2017/img/NIDevConf2017.png">
 									  <span class="uppercase text-white">June 10th 2017 - Queens University Belfast<br>Belfast, Northern Ireland</span>
                     <h1 class="large-h1 text-white">Join the Northern Ireland developer family.</h1>
                   </div>
@@ -102,7 +43,7 @@
               <!--<a href="http://eepurl.com/cobbT5" class="block-content">
                 <div class="col-md-2 col-sm-4 text-center">
                   <i>
-                    <img class="icon" src="2017/img/icons/Starred Ticket-70.png" width="65" style="margin-top: -12px">
+                    <img class="icon" src="/2017/img/icons/Starred Ticket-70.png" width="65" style="margin-top: -12px">
                   </i>
                 </div>
               
@@ -114,25 +55,26 @@
                 </div>
               </a>-->
               
-              <a href="https://getinvited.to/nidevconf/northern-ireland-developers-conference-launch-event/" class="block-content">
+              <a href="https://goo.gl/forms/Zhr26wiaAEy3rz3r1" class="block-content">
                 <div class="col-md-2 col-sm-4 text-center">
                   <i>
-                    <img class="icon" src="2017/img/icons/Starred Ticket-70.png" width="65" style="margin-top: -12px">
+                    <img class="icon" src="/2017/img/icons/Advertising-70.png" width="65" style="margin-top: -12px">
                   </i>
                 </div>
               
                 <div class="col-md-4 col-sm-8">
-                  <h1>Launch Event</h1>
+                  <h1>Call for speakers</h1>
                   <p>
-                    Come to our launch on the 7th. Tickets will be available at a very special price!
+                    Come and talk about the cool stuff you're doing! Lightning talks or the full half-hour, we're open to anybody.
+                    Assistance available for novice speakers.
                   </p>
                 </div>
               </a>
 
-              <a href="mailto:inbox@nidevconf.com" class="block-content">
+              <a href="/2017/downloads/sponsorship.pdf" class="block-content">
                 <div class="col-md-2 col-sm-4 text-center">
                   <i>
-                    <img class="icon" src="2017/img/icons/Handshake-70.png" width="60" style="margin-top: -12px">
+                    <img class="icon" src="/2017/img/icons/Handshake-70.png" width="60" style="margin-top: -12px">
                   </i>
                 </div>
               
@@ -170,45 +112,7 @@
           </div>
         </section>
 
-        <!--<section class="speakers">
-          <div class="container">
-            <div class="row">
-              <div class="col-sm-12">
-                <h1>Speakers</h1>
-              </div>
-            </div>
-            {{ $speakers := where .Data.Pages "Section" "speakers" }}
-            {{ $sessions := where .Data.Pages "Section" "sessions" }}
-
-            {{ range $speaker := $speakers }}
-            <div class="row">
-              <div class="speaker-with-bio">
-                <div class="speaker col-md-3">
-                  <div class="image-holder">
-                    <img class="background-image" alt="Speaker" src="{{$speaker.Params.speakerimage}}">
-                    <div class="hover-state text-center preserve3d">
-                    </div>
-                  </div>
-                </div>
-    
-                <div class="speaker-description col-md-9">
-                  <h2>{{ $speaker.Title }}</h2>
-                  <span class="sub">{{ $speaker.Params.talk }}</span>
-
-                  {{ range $session := $sessions }}
-                    {{ if eq $session.Params.speaker $speaker.Params.session }}
-                      {{ $session.Content }}
-                    {{ end }}
-                  {{ end }}
-                  <div class="speaker-bio">
-                    {{ $speaker.Content }}
-                  </div>
-                </div>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </section>-->
+        {{ partial "speakers.html" . }}
 
         {{ partial "sponsors.html" . }}
       </div>

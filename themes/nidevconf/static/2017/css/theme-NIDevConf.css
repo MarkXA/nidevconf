@@ -1322,7 +1322,7 @@ nav .container {
 }
 .speaker-with-bio {
   overflow: hidden;
-  margin-bottom: 72px;
+  /*margin-bottom: 72px;*/
 }
 
 .speaker-description h2 a {
@@ -2036,6 +2036,10 @@ p.question {
 .sponsors span a {
   color: #004470;
   border-color: #004470;
+}
+.sponsors img {
+  max-width: 400px;
+  max-height: 400px;
 }
 
 .diamond-sponsors .sponsor {
@@ -2766,7 +2770,7 @@ body .colors .col-xs-2:nth-child(6n+0) {
 
 .diamond, .gold, .bronze, .platinum, .silver {
   height: 180px;
-  width: 180px;
+  /*width: 180px;*/
   vertical-align: middle;
   text-align: center;
   margin-top: 12px;
