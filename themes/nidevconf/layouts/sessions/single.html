@@ -1,3 +1,6 @@
+{{ $speakerId := .Params.speaker }}
+{{ $speakers := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" $speakerId }}
+
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 <div class="main-container">
@@ -5,17 +8,21 @@
     <div class="container">
       <div class="row">
         <div class="speaker col-md-5">
-          <a href="/speakers/{{.Params.speaker}}" style="display:block">
+          {{ range $speakers }}
+          <a href="{{ .RelPermalink }}" style="display:block">
             <div class="image-holder">
-              <img class="background-image" alt="Speaker" src="{{.Params.speakerimage}}" alt="{{.LinkTitle}}">
-              <div class="hover-state text-center preserve3d">
-              </div>
+              <img class="background-image" alt="Speaker" src="{{ .Params.speakerimage }}" alt="{{ .LinkTitle }}">
+              <div class="hover-state text-center preserve3d"></div>
             </div>
           </a>
+          {{ end}}
         </div>
         <div class="speaker-description col-md-9">
-          <h2>{{.Params.talk}}</h2>
-          <span class="sub"><a href="/speakers/{{.Params.speaker}}">{{.LinkTitle}}</a></span> {{.Content}}
+          <h2>{{ .Title }}</h2>
+          {{ range $speakers }}
+          <span class="sub"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+          {{ end }}
+          <p>{{ .Content }}</p>
         </div>
       </div>
   </section>

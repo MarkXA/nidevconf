@@ -1,9 +1,25 @@
-X{{ .Site.BaseURL }}Y
+{{ $speakerId := .File.BaseFileName }}
+{{ $sessions := where .Site.Pages "Section" "sessions" }}
 
-A{{ $.Title }}B
-
-C{{ $sessions := "sessions" }}D
-
-E{{ $sessions }}F
-
-G{{ (where $.Data.Pages "Section" "sessions") }}H
+<div class="row">
+    <div class="speaker-with-bio">
+        <div class="speaker col-md-3">
+            <div class="image-holder">
+                <img class="background-image" alt="Speaker" src="{{ .Params.speakerimage}}">
+                <div class="hover-state text-center preserve3d">
+                </div>
+            </div>
+        </div>
+        <div class="speaker-description col-md-9">
+            <h2>{{ .Title }}</h2>
+            <p>
+                {{ .Content }}
+            </p>
+            {{ range $session := $sessions }}
+                {{ if eq $session.Params.speaker $speakerId }}
+                    <a href="{{ $session.RelPermalink }}">{{ $session.LinkTitle }}</a>
+                {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</div>

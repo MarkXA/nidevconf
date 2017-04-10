@@ -1,30 +1,12 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
-{{ $speakers := where .Data.Pages "Section" "speakers" }}
-
 <div class="main-container">
   <section class="speakers">
     <div class="container">
-      <div class="row">
-        <div class="speaker col-md-5">
-          <div class="image-holder">
-            <img class="background-image" alt="Speaker" src="{{.Params.speakerimage}}" alt="{{.LinkTitle}}">
-            <div class="hover-state text-center preserve3d">
-            </div>
-          </div>
-        </div>
-        <div class="speaker-description col-md-9">
-          <h2>{{.LinkTitle}}</h2>
-          <div id="social-wrapper">
-            {{ with .Params.twitter }}
-            <a href="{{.}}"><i class="fa fa-twitter"></i></a> {{ end }} {{ with .Params.github }}
-            <a href="{{.}}"><i class="fa fa-github"></i></a> {{ end }} {{ with .Params.linkedin }}
-            <a href="{{.}}"><i class="fa fa-linkedin"></i></a> {{ end }}
-          </div>
-          <span class="sub"><a href="/sessions/{{.Params.session}}">{{.Params.talk}}</a></span> {{.Content}}
-        </div>
-      </div>
+      {{ partial "speaker.html" . }}
+    </div>
   </section>
 </div>
+
 {{ partial "footer.html" . }}

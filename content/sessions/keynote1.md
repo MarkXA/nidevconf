@@ -1,8 +1,7 @@
 +++
 keynote = true
-speaker = "martinwoodward"
-speakerimage = "https://pbs.twimg.com/profile_images/1222290756/martinwo_2011_sq_256.jpg"
 title = "Keynote: The Importance of DevOps – Lessons from the Industrial Revolution"
+speaker = "martinwoodward"
 sessiontime = "TBC"
 +++
 
