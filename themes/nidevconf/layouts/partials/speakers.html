@@ -28,7 +28,7 @@
               </p>
               {{ range $session := $sessions }}
                 {{ if eq $session.Params.speaker $speaker.File.BaseFileName }}
-                  <a href="{{ $session.Permalink }}">{{ $session.LinkTitle }}</a>
+                  <a href="{{ $session.RelPermalink }}">{{ $session.LinkTitle }}</a>
                 {{ end }}
               {{ end }}
             </div>
