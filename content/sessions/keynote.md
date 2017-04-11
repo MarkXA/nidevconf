@@ -1,6 +1,6 @@
 +++
 keynote = true
-title = "Keynote: The Importance of DevOps – Lessons from the Industrial Revolution"
+title = "The Importance of DevOps – Lessons from the Industrial Revolution"
 speaker = "martinwoodward"
 sessiontime = "TBC"
 +++

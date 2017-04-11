@@ -1,14 +1,13 @@
 {{ $speakers := where .Site.Pages "Section" "speakers" }}
 {{ $keynotespeakers := where $speakers "Params.keynote" true }}
 {{ $normalspeakers := where $speakers "Params.keynote" false }}
-{{ $sessions := where .Site.Pages "Section" "sessions" }}
 
 <section class="speakers">
   {{ if $keynotespeakers }}
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-          <h1>Keynote Speakers</h1>
+          <h1>Keynote Speaker</h1>
         </div>
       </div>
       {{ range $speaker := $keynotespeakers }}

@@ -1,10 +1,10 @@
-$(document).ready(function() { 
+$(document).ready(function () {
 
-	"use strict";
+    "use strict";
 
     /************** Nav Scripts **************/
 
-    $(window).scroll(function() {
+    $(window).scroll(function () {
         if ($(window).scrollTop() > 1) {
             $('nav').addClass('sticky-nav');
         } else {
@@ -12,7 +12,7 @@ $(document).ready(function() {
         }
     });
 
-    $('a').click(function() {
+    $('a').click(function () {
         if ($(this).attr('href') === '#') {
             return false;
         }
@@ -26,13 +26,13 @@ $(document).ready(function() {
 
     // Mobile menu toggle
 
-    $('.mobile-menu-toggle').click(function() {
+    $('.mobile-menu-toggle').click(function () {
         $('nav').toggleClass('open-menu');
     });
 
     // Sidebar menu toggle
 
-    $('.sidebar-menu-toggle').click(function() {
+    $('.sidebar-menu-toggle').click(function () {
         if ($('.instagram-sidebar').hasClass('show-sidebar')) {
             $('.instagram-sidebar').toggleClass('show-sidebar');
             $('.sidebar-menu').toggleClass('show-sidebar');
@@ -43,7 +43,7 @@ $(document).ready(function() {
         }
     });
 
-    $('.instagram-toggle').click(function() {
+    $('.instagram-toggle').click(function () {
         if ($('.sidebar-menu').hasClass('show-sidebar')) {
             $('.sidebar-menu').toggleClass('show-sidebar');
             $('.instagram-sidebar').toggleClass('show-sidebar');
@@ -54,7 +54,7 @@ $(document).ready(function() {
         }
     });
 
-    $('.main-container').click(function() {
+    $('.main-container').click(function () {
         if ($('.sidebar-menu').hasClass('show-sidebar')) {
             $('.sidebar-menu').toggleClass('show-sidebar');
             $('.main-container').toggleClass('reveal-sidebar');
@@ -70,7 +70,7 @@ $(document).ready(function() {
 
     /************** Divider Scripts **************/
 
-    $('.background-image-holder').each(function() {
+    $('.background-image-holder').each(function () {
 
         // Append background-image <img>'s as li item CSS background for better responsive performance
         var imgSrc = $(this).children('.background-image').attr('src');
@@ -82,16 +82,16 @@ $(document).ready(function() {
 
     /************** Countdown Timer **************/
 
-    $('.countdown').each(function() {
+    $('.countdown').each(function () {
         $(this).countdown({
             until: new Date($(this).attr('data-date'))
         });
     });
-}); 
+});
 
-$(window).load(function() { 
+$(window).load(function () {
 
-	"use strict";
+    "use strict";
 
     var navHeight = $('nav').outerHeight();
     $('.inner-link').smoothScroll({
@@ -115,7 +115,7 @@ $(window).load(function() {
         prefix = '-webkit-';
     }
 
-    $('.parallax-background').each(function() {
+    $('.parallax-background').each(function () {
         $(this).attr('data-bottom-top', prefix + 'transform: translate3d(0px,-100px, 0px)');
         $(this).attr('data-center', prefix + 'transform: translate3d(0px,0px, 0px)');
         $(this).attr('data-top-bottom', prefix + 'transform: translate3d(0px,100px, 0px)');
@@ -126,4 +126,10 @@ $(window).load(function() {
             forceHeight: false
         });
     }
-}); 
+});
+
+jQuery(function ($) {
+    $(".sponsor").each(function () {
+        $(this).css({ "order": Math.floor(Math.random() * 1000), "visibility": "visible" });
+    });
+});

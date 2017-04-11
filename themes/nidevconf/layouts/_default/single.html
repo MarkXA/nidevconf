@@ -1,17 +1,6 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
-<section class="row"> 
-  <main class="container generic">
-    <div class="col-md-8 main">
-        {{ .Content }}
-    </div><!-- generic col-md-10 -->
+{{ .Content }}
 
-    {{ partial "sidebar.html" . }}
-  </main>
-</section>
-
-<main>
-  {{ partial "sponsors.html" . }}
-</main>
 {{ partial "footer.html" . }}

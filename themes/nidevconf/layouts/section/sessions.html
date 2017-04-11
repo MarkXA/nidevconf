@@ -1,4 +1,5 @@
-{{ partial "header.html" . }} {{ partial "navbar.html" . }}
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
 <div class="main-container">
   <a id="top"></a>
   <section class="speakers">
@@ -13,15 +14,13 @@
         <div class="speaker-with-bio">
           <div class="speaker col-md-3">
             <div class="image-holder">
-              <img class="background-image" alt="Speaker" src="{{.Params.speakerimage}}">
-              <div class="hover-state text-center preserve3d">
-              </div>
+              <img class="background-image" alt="Speaker" src="{{ .Params.speakerimage }}">
             </div>
           </div>
 
           <div class="speaker-description col-md-9">
-            <h2><a href={{.RelPermalink}}>{{ .Params.talk }}</a></h2>
-            <span class="sub"><a href="/speakers/{{.Params.speaker}}">{{ .Title }}</a></span> {{.Content}}
+            <h2><a href={{ .RelPermalink }}>{{ .Params.talk }}</a></h2>
+            <span class="sub"><a href="/speakers/{{ .Params.speaker }}">{{ .Title }}</a></span> {{.Content}}
           </div>
         </div>
       </div>

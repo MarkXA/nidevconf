@@ -1,65 +1,10 @@
-{{ partial "header.html" . }} {{ partial "navbar.html" . }}
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
 <section class="row">
-  <main class="container generic sponsors" style="text-align: center">
-    <div class="col-md-12 main">
-      <!--<div class="row">
-        <h2>Diamond Sponsors</h2>
-        {{ range .Data.Pages }}
-          {{ if eq "diamond"  .Params.sponsorclass}} 	
-            <div class="col-md-4 diamond">
-              <a href="{{ .RelPermalink}}"><img src="{{ .Params.logo }}" /></a>
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>
-      <hr>-->
-      <div class="row">
-        <h2>Platinum Sponsors</h2>
-      </div>
-      <div class="row">
-        {{ range .Data.Pages }}
-          {{ if eq "platinum" .Params.sponsorclass}}
-            <div class="col-md-6 platinum">
-              <a href="{{ .RelPermalink}}"><img src="{{ .Params.logo }}" /></a>
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>
-      <!--<hr>
-      <div class="row">
-        <h2>Gold Sponsors</h2>
-        {{ range .Data.Pages }}
-          {{ if eq "gold"  .Params.sponsorclass}} 	
-            <div class="col-md-4 gold">
-              <a href="{{ .RelPermalink}}"><img src="{{ .Params.logo }}" /></a>
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>-->
-      <!--<hr>
-      <div class="row">
-        <h2>Silver Sponsors</h2>
-        {{ range .Data.Pages }}
-          {{ if eq "silver"  .Params.sponsorclass}} 	
-            <div class="col-md-4 silver">
-              <a href="{{ .RelPermalink}}"><img src="{{ .Params.logo }}" /></a>
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>-->
-      <!--<hr>
-      <div class="row">
-        <h2>Bronze Sponsors</h2>
-        {{ range .Data.Pages }}
-          {{ if eq "bronze"  .Params.sponsorclass}} 	
-            <div class="col-md-4 bronze">
-              <a href="{{ .RelPermalink}}"><img src="{{ .Params.logo }}" /></a>
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>
-    </div>-->
-    {{ partial "sponsorshipflyer.html" . }}
-  </main>
+  <div class="main-container">
+    {{ partial "sponsors.html" . }}
+  </div>
 </section>
+
 {{ partial "footer.html" . }}
