@@ -2404,9 +2404,11 @@ p.question {
   color: black;
   border: solid 1px transparent;
   margin: 1em;
+  transition: opacity 0.2s ease-in-out;
+  opacity: 1;
 }
 .sponsor a:hover {
-  border-color: #eee;
+  opacity: 0.75;
 }
 
 .sponsor img {
