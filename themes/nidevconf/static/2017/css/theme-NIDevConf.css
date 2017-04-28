@@ -417,16 +417,12 @@ p a,
   font-weight: 600;
   color: #fff;
   display: inline-block;
-  border-bottom: 4px solid #fff;
-  padding-bottom: 6px;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
 }
 
-span a,
-p a,
-.text-link a {
+a.highlight {
   padding-bottom: 4px;
   border-bottom: 3px solid #fff;
 }
@@ -439,7 +435,6 @@ p a,
 .text-link a {
   color: #004470 !important;
   border-color: #004470;
-  padding-bottom: 2px;
 }
 
 p a,
@@ -447,8 +442,8 @@ p a,
   color: #333333;
 }
 
-p a.subtle {
-  border: 0;
+p a.highlight {
+  border-color: #004470;
 }
 
 .btn {
@@ -2394,7 +2389,6 @@ p.question {
   flex: 0 0 15%;
   display: flex;
   flex-direction: row;
-  visibility: hidden;
 }
 
 .sponsor a {
@@ -3219,4 +3213,12 @@ body .colors .col-xs-2:nth-child(6n+0) {
 .main h4 {
   margin-top: 24px;
   margin-bottom: 12px;
+}
+
+.flexcolumn {
+  display: flex;
+  flex-direction: column;
+}
+.randomorder {
+  visibility: hidden;
 }

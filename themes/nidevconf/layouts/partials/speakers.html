@@ -10,9 +10,11 @@
           <h1>Keynote Speaker</h1>
         </div>
       </div>
-      {{ range $speaker := $keynotespeakers }}
-        {{ partial "speaker.html" $speaker }}
-      {{ end }}
+      <div class="flexcolumn">
+        {{ range $speaker := $keynotespeakers }}
+          {{ partial "speaker.html" $speaker }}
+        {{ end }}
+      </div>
     </div>
   {{ end }}
   {{ if $normalspeakers }}
@@ -22,9 +24,11 @@
           <h1>Speakers</h1>
         </div>
       </div>
-      {{ range $speaker := $normalspeakers }}
-        {{ partial "speaker.html" $speaker }}
-      {{ end }}
+      <div class="flexcolumn">
+        {{ range $speaker := $normalspeakers }}
+          {{ partial "speaker.html" $speaker }}
+        {{ end }}
+      </div>
     </div>
   {{ end }}
 </section>

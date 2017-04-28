@@ -8,7 +8,7 @@
             <div class="col-md-12 main">
                 <h1>Tickets</h1>
                 <p>
-                    <a class="inner-link" href="https://ti.to/nidc/nidc2017">Buy your ticket now! &raquo;</a>
+                    <a class="inner-link highlight" href="https://ti.to/nidc/nidc2017">Buy your ticket now! &raquo;</a>
                 </p>
                 <h3>How much are tickets?</h3>
                 <p>
@@ -37,7 +37,7 @@
                 </p>
                 <h3>Great! Where do I get tickets?</h3>
                 <p>
-                    <a class="inner-link" href="https://ti.to/nidc/nidc2017">Here &raquo;</a>
+                    <a class="inner-link highlight" href="https://ti.to/nidc/nidc2017">Here &raquo;</a>
                 </p>
             </div>
         </main>

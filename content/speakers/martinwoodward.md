@@ -2,7 +2,7 @@
 draft = false
 title = "Martin Woodward"
 keynote = true
-speakerimage = "https://pbs.twimg.com/profile_images/1222290756/martinwo_2011_sq_256.jpg"
+speakerimage = "/2017/img/speakers/martinwoodward.jpg"
 linkedin = "https://linkedin.com/in/martinwoodward"
 twitter = "https://twitter.com/martinwoodward"
 github = "https://github.com/martinwoodward"
