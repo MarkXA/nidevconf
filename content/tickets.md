@@ -1,4 +1,5 @@
 +++
+title = "Tickets"
 +++
 
 <section class="row">

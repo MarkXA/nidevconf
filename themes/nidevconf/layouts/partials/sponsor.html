@@ -1,5 +1,11 @@
 <div class="sponsor randomorder">
+  {{ if .Params.link }}
   <a href="{{ .Params.link }}">
     <img src="{{ .Params.logo }}" alt="{{ .LinkTitle }}" />
   </a>
+  {{ else }}
+  <a href="{{ .RelPermalink }}">
+    <img src="{{ .Params.logo }}" alt="{{ .LinkTitle }}" />
+  </a>
+  {{ end }}
 </div>

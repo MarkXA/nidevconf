@@ -3,7 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Northern Ireland Developer Conference 2017</title>
+    <title>
+        {{ if eq .Site.Title .Title }}
+            {{ .Site.Title }}
+        {{ else }}
+            {{ .Title }} - {{ .Site.Title }}
+        {{ end }}
+        </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="/2017/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
     <link href="/2017/css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
