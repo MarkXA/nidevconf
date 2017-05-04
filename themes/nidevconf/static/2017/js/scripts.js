@@ -130,7 +130,7 @@ $(window).load(function () {
 
 jQuery(function ($) {
     $(".randomorder").each(function () {
-        $(this).css({ "order": Math.floor(Math.random() * 1000), "visibility": "visible" });
+        $(this).css({ "order": String(Math.floor(Math.random() * 1000)), "visibility": "visible" });
     });
 
     $("a").each(function () {

@@ -1,1 +1,1 @@
-start hugo server -t nidevconf -d ..\gh-pages
+start hugo server -t nidevconf

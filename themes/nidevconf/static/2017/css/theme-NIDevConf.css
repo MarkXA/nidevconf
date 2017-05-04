@@ -2392,6 +2392,8 @@ p.question {
 }
 
 .sponsor a {
+  display: flex;
+  align-items: center;
   text-align: center;
   color: black;
   border: solid 1px transparent;
@@ -2404,7 +2406,7 @@ p.question {
 }
 
 .sponsor img {
-  flex: 1 1 auto;
+  flex: 0 0 auto;
   display: block;
   width: 80%;
   margin: auto;
