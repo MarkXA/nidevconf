@@ -1562,7 +1562,7 @@ nav .container {
 
 .speaker-with-bio {
   overflow: hidden;
-  /*margin-bottom: 72px;*/
+  margin-bottom: 2em;
 }
 
 .speaker-description h2 a {

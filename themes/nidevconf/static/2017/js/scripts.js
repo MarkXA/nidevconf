@@ -136,7 +136,7 @@ jQuery(function ($) {
     $("a").each(function () {
         var $this = $(this);
         var href = $this.prop("href");
-        if (href.indexOf("://") !== -1 && href.indexOf("://" + location.hostname + "/") === -1) {
+        if (href.indexOf("://") !== -1 && href.indexOf("://" + location.host) === -1) {
             $this.prop("target", "_blank");
             $this.click(function () {
                 ga("send", "event", "Click to external site", $this.prop("href"));
