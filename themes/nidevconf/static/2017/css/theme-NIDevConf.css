@@ -1599,6 +1599,18 @@ nav .container {
   line-height: 1.3;
 }
 
+.sessionlink {
+  display: flex;
+  align-items: center;
+}
+.sessionlink img {
+  height: 1em;
+  margin-right: 0.5em;
+}
+.sessionlink span {
+  margin: 0;
+}
+
 @media all and (max-width: 767px) {
   .speaker-with-bio .speaker {
     width: 100%;
@@ -2401,6 +2413,7 @@ p.question {
   transition: opacity 0.2s ease-in-out;
   opacity: 1;
 }
+
 .sponsor a:hover {
   opacity: 0.75;
 }
@@ -3219,6 +3232,7 @@ body .colors .col-xs-2:nth-child(6n+0) {
   display: flex;
   flex-direction: column;
 }
+
 .randomorder {
   visibility: hidden;
 }

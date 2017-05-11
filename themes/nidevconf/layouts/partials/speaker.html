@@ -15,7 +15,12 @@
             </p>
             {{ range $session := $sessions }}
                 {{ if eq $session.Params.speaker $speakerId }}
-                    <a href="{{ $session.RelPermalink }}">{{ $session.LinkTitle }}</a>
+                    <p>
+                        <a href="{{ $session.RelPermalink }}" class="sessionlink">
+                            <img src="/2017/img/icons/session.png" />
+                            <span>{{ $session.LinkTitle }}</span>
+                        </a>
+                    </p>
                 {{ end }}
             {{ end }}
         </div>
