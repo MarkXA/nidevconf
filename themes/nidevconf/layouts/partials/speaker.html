@@ -9,7 +9,21 @@
             </div>
         </div>
         <div class="speaker-description col-md-9">
-            <h2>{{ .Title }}</h2>
+            <h2 style="display:flex; align-items:center">
+                <span>{{ .Title }}</span>
+                {{ if .Params.twitter}}
+                    <a href="{{ .Params.twitter }}" target="_blank" class="socialicon"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.linkedin}}
+                    <a href="{{ .Params.linkedin }}" target="_blank" class="socialicon"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.github}}
+                    <a href="{{ .Params.github }}" target="_blank" class="socialicon"><i class="fa fa-github" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.website}}
+                    <a href="{{ .Params.website }}" target="_blank" class="socialicon"><i class="fa fa-globe" aria-hidden="true"></i></a>
+                {{ end }}
+            </h2>
             <p>
                 {{ .Content }}
             </p>
@@ -18,11 +32,13 @@
                     <p>
                         <a href="{{ $session.RelPermalink }}" class="sessionlink">
                             <img src="/2017/img/icons/session.png" />
-                            <span>{{ $session.LinkTitle }}</span>
+                            <span class="sessionlink">{{ $session.LinkTitle }}</span>
                         </a>
                     </p>
                 {{ end }}
             {{ end }}
+            <p>
+            </p>
         </div>
     </div>
 </div>

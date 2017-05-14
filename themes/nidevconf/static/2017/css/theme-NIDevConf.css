@@ -1569,10 +1569,13 @@ nav .container {
   color: #333;
 }
 
-.speaker-description span {
+.speaker-description .sessionlink {
   display: inline-block;
-  margin-bottom: 18px;
   font-weight: 600;
+}
+
+.speaker-description h2 span {
+  margin-right: 0.5em;
 }
 
 .speaker-description span a {
@@ -1603,12 +1606,26 @@ nav .container {
   display: flex;
   align-items: center;
 }
+
 .sessionlink img {
   height: 1em;
   margin-right: 0.5em;
 }
+
 .sessionlink span {
   margin: 0;
+}
+
+.socialicon {
+  border: 1px solid #333;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
 }
 
 @media all and (max-width: 767px) {
