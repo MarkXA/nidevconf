@@ -1514,7 +1514,12 @@ nav .container {
 }
 
 .speaker .image-holder {
-  max-width: 175px;
+  width: 175px;
+  height: 175px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
   margin-bottom: 12px;
 }
 

@@ -10,10 +10,7 @@
         <div class="speaker col-md-5">
           {{ range $speakers }}
           <a href="{{ .RelPermalink }}" style="display:block">
-            <div class="image-holder">
-              <img class="background-image" alt="Speaker" src="{{ .Params.speakerimage }}" alt="{{ .LinkTitle }}">
-              <div class="hover-state text-center preserve3d"></div>
-            </div>
+            <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
           </a>
           {{ end}}
         </div>
