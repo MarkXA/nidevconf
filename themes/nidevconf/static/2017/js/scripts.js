@@ -129,8 +129,28 @@ $(window).load(function () {
 });
 
 jQuery(function ($) {
+    function seededRandom(seed) {
+        this.m = 0x80000000;
+        this.a = 1103515245;
+        this.c = 12345;
+
+        this.state = seed ? seed : Math.floor(Math.random() * (this.m - 1));
+    }
+    seededRandom.prototype.nextInt = function () {
+        this.state = (this.a * this.state + this.c) % this.m;
+        return this.state;
+    }
+
+    var now = new Date().getTime();
+    var seed = document.cookie.replace(/(?:(?:^|.*;\s*)randomSeed\s*\=\s*([^;]*).*$)|^.*$/, "$1") || now;
+    if (now - seed > 60*1000)
+        seed = now;
+    document.cookie = "randomSeed=" + seed;
+
+    var rand = new seededRandom(seed);
     $(".randomorder").each(function () {
-        $(this).css({ "order": String(Math.floor(Math.random() * 1000)), "visibility": "visible" });
+        var delta = $(this).data("delta") || 0;
+        $(this).css({ "order": String((rand.nextInt() % 1000) + 1000 - delta), "visibility": "visible" });
     });
 
     $("a").each(function () {

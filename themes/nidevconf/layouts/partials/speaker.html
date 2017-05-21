@@ -1,10 +1,12 @@
 {{ $speakerId := .File.BaseFileName }}
 {{ $sessions := where .Site.Pages "Section" "sessions" }}
 
-<div class="row randomorder">
+<div class="row randomorder" data-delta="{{ .Params.delta }}">
     <div class="speaker-with-bio">
         <div class="speaker col-md-3">
-            <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
+            {{ if .Params.speakerimage }}
+                <div class="image-holder" style="background-image:url({{ .Params.speakerimage }})"></div>
+            {{ end }}
         </div>
         <div class="speaker-description col-md-9">
             <h2 style="display:flex; align-items:center">

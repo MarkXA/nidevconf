@@ -10,7 +10,9 @@
         <div class="speaker col-md-5">
           {{ range $speakers }}
           <a href="{{ .RelPermalink }}" style="display:block">
-            <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
+            {{ if .Params.speakerimage }}
+              <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
+            {{ end }}
           </a>
           {{ end}}
         </div>
