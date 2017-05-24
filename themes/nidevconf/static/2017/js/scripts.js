@@ -143,7 +143,7 @@ jQuery(function ($) {
 
     var now = new Date().getTime();
     var seed = document.cookie.replace(/(?:(?:^|.*;\s*)randomSeed\s*\=\s*([^;]*).*$)|^.*$/, "$1") || now;
-    if (now - seed > 60*1000)
+    if (now - seed > 10*60*1000)
         seed = now;
     document.cookie = "randomSeed=" + seed;
 

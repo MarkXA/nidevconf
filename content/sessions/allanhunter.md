@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "User Focused Testing - blending user research and software testing"
 speaker = "allanhunter"
 keynote = false

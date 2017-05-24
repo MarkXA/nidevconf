@@ -1607,18 +1607,8 @@ nav .container {
   line-height: 1.3;
 }
 
-.sessionlink {
-  display: flex;
-  align-items: center;
-}
-
-.sessionlink img {
-  height: 1em;
+.sessionlink i {
   margin-right: 0.5em;
-}
-
-.sessionlink span {
-  margin: 0;
 }
 
 .socialicon {

@@ -1,5 +1,7 @@
 {{ $speakerId := .Params.speaker }}
+{{ $speaker2Id := .Params.speaker2 }}
 {{ $speakers := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" $speakerId }}
+{{ $speakers2 := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" $speaker2Id }}
 
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
@@ -9,7 +11,14 @@
       <div class="row">
         <div class="speaker col-md-5">
           {{ range $speakers }}
-          <a href="{{ .RelPermalink }}" style="display:block">
+          <a href="{{ .RelPermalink }}" style="display:inline-block">
+            {{ if .Params.speakerimage }}
+              <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
+            {{ end }}
+          </a>
+          {{ end}}
+          {{ range $speakers2 }}
+          <a href="{{ .RelPermalink }}" style="display:inline-block; margin-left:1em">
             {{ if .Params.speakerimage }}
               <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
             {{ end }}
@@ -20,6 +29,9 @@
           <h2>{{ .Title }}</h2>
           {{ range $speakers }}
           <span class="sub"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+          {{ end }}
+          {{ range $speakers2 }}
+          <span class="sub"> and <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
           {{ end }}
           <p>{{ .Content }}</p>
         </div>
