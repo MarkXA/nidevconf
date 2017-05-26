@@ -2405,7 +2405,7 @@ p.question {
 .sponsors {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
   align-items: stretch;
 }
 
@@ -2450,10 +2450,12 @@ p.question {
 
 .gold .sponsor {
   flex-basis: 25%;
+  min-width: 250px;
 }
 
 .silver .sponsor {
   flex-basis: 15%;
+  min-width: 200px;
 }
 
 /*

@@ -2,9 +2,15 @@
 {{ partial "navbar.html" . }}
 
 <div class="main-container">
-    <section class="speakers">
+    <section class="sponsors">
         <div class="container">
-            <h1>{{ .Title }}</h1>
+            <h1>
+            {{ if .Params.titleimage }}
+                <img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />
+            {{ else }}
+                {{ .Title }}
+            {{ end }}
+            </h1>
             {{ .Content }}
         </div>
     </section>

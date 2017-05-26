@@ -2,6 +2,7 @@
 draft = false
 title = "Mark McCaigue"
 keynote = false
+speakerimage = "/2017/img/speakers/markmccaigue.jpg"
 twitter = "https://twitter.com/trymarkcatch"
 linkedin = "https://www.linkedin.com/in/mark-mccaigue-81267630"
 +++
