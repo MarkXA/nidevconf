@@ -6,6 +6,10 @@
     <title>
         {{ if eq .Site.Title .Title }}
             {{ .Site.Title }}
+        {{ else if eq .Title "Agendas" }}
+            Agenda - {{ .Site.Title }}
+        {{ else if eq .Title "Teams" }}
+            Team - {{ .Site.Title }}
         {{ else }}
             {{ .Title }} - {{ .Site.Title }}
         {{ end }}

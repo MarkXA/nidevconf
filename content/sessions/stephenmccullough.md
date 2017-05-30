@@ -4,7 +4,8 @@ title = "Keeping your skills sharp in an ever changing industry"
 speaker = "stephenmccullough"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "10:40"
+room = "3"
 +++
 
 Our industry evolves at breakneck speed. Being a developer is rewarding but keeping up with the latest technologies, techniques and tools is a constant struggle.

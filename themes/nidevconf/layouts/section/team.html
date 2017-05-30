@@ -1,0 +1,52 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ $committee := where .Site.Pages "Params.role" "committee" }}
+{{ $organisers := where .Site.Pages "Params.role" "organiser" }}
+
+<section class="row">
+  <div class="main-container">
+    <a id="top"></a>
+    <div class="container generic">
+      <div class="col-md-12 main">
+        <h1>The NIDC Team</h1>
+      </div>
+    </div>
+    {{ if $committee }}
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <h2>Committee</h2>
+            <p>
+              Blame should be addressed here.
+            </p>
+          </div>
+        </div>
+        <div class="flexcolumn">
+          {{ range $speaker := $committee }}
+            {{ partial "team.html" $speaker }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+    {{ if $organisers }}
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <h2>Organisers</h2>
+            <p>
+              These fine people have provided invaluable assistance in organising the conference.
+            </p>
+          </div>
+        </div>
+        <div class="flexcolumn">
+          {{ range $speaker := $organisers }}
+            {{ partial "team.html" $speaker }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

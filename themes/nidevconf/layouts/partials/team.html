@@ -1,0 +1,63 @@
+{{ $speakerId := .File.BaseFileName }}
+{{ $sessions := where .Site.Pages "Section" "sessions" }}
+
+<div class="row randomorder" data-delta="{{ .Params.delta }}">
+    <div class="speaker-with-bio">
+        <div class="speaker col-md-3">
+            {{ if .Params.image }}
+                <div class="image-holder" style="background-image:url({{ .Params.image }})"></div>
+            {{ end }}
+        </div>
+        <div class="speaker-description col-md-9">
+            <h2 style="display:flex; align-items:center">
+                <span>{{ .Title }}</span>
+                {{ if .Params.twitter }}
+                    <a href="{{ .Params.twitter }}" target="_blank" class="socialicon"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.twitter2 }}
+                    <a href="{{ .Params.twitter2 }}" target="_blank" class="socialicon"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.linkedin }}
+                    <a href="{{ .Params.linkedin }}" target="_blank" class="socialicon"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.linkedin2 }}
+                    <a href="{{ .Params.linkedin2 }}" target="_blank" class="socialicon"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.google }}
+                    <a href="{{ .Params.google }}" target="_blank" class="socialicon"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.github }}
+                    <a href="{{ .Params.github }}" target="_blank" class="socialicon"><i class="fa fa-github" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.codepen }}
+                    <a href="{{ .Params.codepen }}" target="_blank" class="socialicon"><i class="fa fa-codepen" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.website }}
+                    <a href="{{ .Params.website }}" target="_blank" class="socialicon"><i class="fa fa-globe" aria-hidden="true"></i></a>
+                {{ end }}
+                {{ if .Params.website2 }}
+                    <a href="{{ .Params.website2 }}" target="_blank" class="socialicon"><i class="fa fa-globe" aria-hidden="true"></i></a>
+                {{ end }}
+            </h2>
+            <p>
+                {{ .Content }}
+            </p>
+            {{ range $session := $sessions }}
+                {{ if or (eq $session.Params.speaker $speakerId) (eq $session.Params.speaker2 $speakerId) }}
+                    <p>
+                        <a href="{{ $session.RelPermalink }}" class="sessionlink">
+                            {{ if .Params.lightning}}
+                                <i class="fa fa-bolt" aria-hidden="true"></i>
+                            {{ else }}
+                                <i class="fa fa-comment" aria-hidden="true"></i>
+                            {{ end }}
+                            {{ $session.LinkTitle }}
+                        </a>
+                    </p>
+                {{ end }}
+            {{ end }}
+            <p>
+            </p>
+        </div>
+    </div>
+</div>

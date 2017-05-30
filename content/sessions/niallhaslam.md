@@ -1,10 +1,11 @@
 +++
-draft = true
+draft = false
 title = "axial3D - patient data made real"
 speaker = "niallhaslam"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "15:25"
+room = "1"
 +++
 
 At axial3D our mission is to improve the quality of care hospitals can provide by enhancing existing practices, giving their clinicians easy access to patient specific 3D printed models. All bespoke products axial3D provide are designed to improve diagnosis and help plan a personalised treatment for each individual patient, improving their care while subsequently reducing resource burden on a hospital. Our goal is to become a market leader in providing the service of 3D printing & associated software to the medical industry. We will specialise in a wide range of medical applications following on from our flagship service of 3D printing for pre-operative planning purposes.

@@ -4,7 +4,8 @@ title = "Needs Fewer Pixels: Rapid Game Prototyping In JS"
 speaker = "neilmccallion"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "13:15"
+room = "2"
 +++
 
 As a grizzled old 8-bit fan and staunch supporter of the Web, our protagonist finds himself in a creative and ideological pickle: how can he stop sucking at game dev and enjoy some old-school fun, while still JavaScripting All The Things™ like he knows he should?

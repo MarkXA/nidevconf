@@ -310,7 +310,13 @@ h6 {
 h1 {
   font-size: 28px;
   line-height: 36px;
-  margin-bottom: 42px;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom: 1em;
 }
 
 h3 {
@@ -328,11 +334,12 @@ h3 {
 p {
   font-size: 16px;
   line-height: 24px;
+  margin-bottom: 1em;
 }
 
-p:last-child {
+/*p:last-child {
   margin-bottom: 0px;
-}
+}*/
 
 p.lead {
   font-size: 16px;
@@ -3240,6 +3247,16 @@ body .colors .col-xs-2:nth-child(6n+0) {
 .main h4 {
   margin-top: 24px;
   margin-bottom: 12px;
+}
+
+.session-description h3 {
+  margin: 0.25em 0 0.5em 0;
+}
+
+.session-description span a {
+  border: none;
+  color: #777777 !important;
+  font-weight: 600;
 }
 
 .flexcolumn {

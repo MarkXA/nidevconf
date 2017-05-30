@@ -1,8 +1,11 @@
 +++
-keynote = false
+draft = false
 title = "From Monolith to Microservices and back again. Twice."
 speaker = "paddycarey"
-sessiontime = "TBC"
+keynote = false
+lightning = false
+sessiontime = "10:40"
+room = "1"
 +++
 
 The benefits of a microservice architecture to a growing organisation have been discussed by many, many people at conferences, in books, and on video. As an industry, we're good at waxing lyrical about the gains in agility, productivity and reliability that such an architecture can provide. The problem is that very few organisations get this right, certainly not the first time, and certainly not without some serious pain along the way.

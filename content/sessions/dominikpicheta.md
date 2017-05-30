@@ -4,7 +4,8 @@ title = "An introduction to the Nim programming language"
 speaker = "dominikpicheta"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "10:40"
+room = "2"
 +++
 
 Nim is a young systems programming language that is incredibly fast,

@@ -1,12 +1,13 @@
 +++
 draft = false
-title = "Are you missing great engineers because of beer and pizza?"
+title = "How to build a Robot!"
 speaker = "allenoneill"
 keynote = false
-lightning = true
-sessiontime = "TBC"
+lightning = false
+sessiontime = "17:25"
+room = "2"
 +++
 
-When we talk diversity in the tech sector, the usual suspects highlighted are the gender/sexuality gaps. But its not really about diversity, its about inclusion. If we get inclusion right, the diversity and its benefits will follow. This quick session will give you some different ways of looking at things, and offer practical tips to help make a better, more inclusive and diverse workplace.
+The aim of the talk is to  show developers how to leap from only working with software, to diving into the fascinating world of Internet of Things.
 
-Oh yea, and we'll also look at the impact of beer and pizza on inclusion in the tech community!
+In this session Allen will talk about many things: the engineers urge to scratch an itch, systems analysis, reverse engineering, decomposition, making leaps (big ones and small ones), but most importantly, lessons learned, and his adventures in learning to how to build a robot!

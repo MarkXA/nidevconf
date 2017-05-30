@@ -1,8 +1,11 @@
 +++
-keynote = false
+draft = false
 title = "Applied Awesomation"
 speaker = "richardmccall"
-sessiontime = "TBC"
+keynote = false
+lightning = false
+sessiontime = "15:25"
+room = "2"
 +++
 
 More detail to follow!

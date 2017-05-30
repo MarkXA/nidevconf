@@ -25,8 +25,11 @@
           </a>
           {{ end}}
         </div>
-        <div class="speaker-description col-md-9">
+        <div class="session-description col-md-9">
           <h2>{{ .Title }}</h2>
+          {{ if or (.Params.sessiontime) (.Params.room) }}
+            <h3>{{ if .Params.sessiontime }}{{ .Params.sessiontime }}, {{ end }}{{ if .Params.room }}Room {{ .Params.room }}{{ end }}</h3>
+          {{ end }}
           {{ range $speakers }}
           <span class="sub"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
           {{ end }}

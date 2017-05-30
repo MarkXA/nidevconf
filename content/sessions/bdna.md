@@ -5,7 +5,8 @@ speaker = "pawelniemiec"
 speaker2 = "philwilkinson"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "11:20"
+room = "1"
 +++
 
 When BDNA Belfast set out to redesign the Silicon Valley company's core data platform, the team encountered a data modelling challenge vastly different from anything we had seen before - the need for a structured, flexible taxonomy containing a highly-relational dataset with the ability to scale.

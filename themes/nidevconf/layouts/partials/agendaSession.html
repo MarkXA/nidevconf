@@ -1,0 +1,28 @@
+{{ $session := .session }}
+{{ $room := .room }}
+
+{{ if $session }}
+    {{ range $session }}
+        <div>
+            <a href="{{ .RelPermalink }}" class="sessionlink">
+                {{ if $room }}
+                    <span class="agendaRoom">Room {{ $room }} - </span>
+                {{ end }}
+                {{ if .Params.keynote }}
+                    <strong>KEYNOTE:
+                {{ end }}
+                {{ .Title }}
+                {{ if .Params.keynote }}
+                    </strong>
+                {{ end }}
+            </a>
+        </div>
+    {{ end }}
+{{ else }}
+    <div>
+        {{ if $room }}
+            <span class="agendaRoom">Room {{ $room }} - </span>
+        {{ end }}
+        TBC
+    </div>
+{{ end }}

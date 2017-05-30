@@ -4,7 +4,8 @@ title = "Exploring serverless architecture and applying a test first approach"
 speaker = "conallbennett"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "14:35"
+room = "3"
 +++
 
 Warning to all developers, this talk involve many emphatic and graphic references to testing! 

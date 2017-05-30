@@ -4,7 +4,8 @@ title = "21 Grams - Could a Microsoft HoloLens replace my ski goggles?"
 speaker = "niallmcloughlin"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "12:00"
+room = "2"
 +++
 
 A practical guide to Microsoft HoloLens development with Unity 3D, HoloToolkit and Visual Studio.   

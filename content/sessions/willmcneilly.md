@@ -1,10 +1,10 @@
 +++
 draft = true
-title = "PiggyPot - Betting on React Native."
+title = "PiggyPot - Betting on React Native"
 speaker = "willmcneilly"
 keynote = false
 lightning = true
-sessiontime = "TBC"
+Room = "4"
 +++
 
 I'd like to propose a talk on how a team of web developers, thanks to React Native, built an app for the iOS platform using the web technologies we know and love.

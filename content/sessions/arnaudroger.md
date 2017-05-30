@@ -4,7 +4,8 @@ title = "Getting ready for Java 9"
 speaker = "arnaudroger"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "16:45"
+room = "1"
 +++
 
 Java 9 is scheduled for GA in July 2017, what changes will it bring? what will be the impact?

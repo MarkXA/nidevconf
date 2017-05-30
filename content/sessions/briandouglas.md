@@ -4,7 +4,8 @@ title = "Visualising IoT Data"
 speaker = "briandouglas"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "13:15"
+room = "3"
 +++
 
 In this session I'll take you through my journey analysing IoT Data in R and Python, weighing up the merits of each.

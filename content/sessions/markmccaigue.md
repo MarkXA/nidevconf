@@ -4,7 +4,8 @@ title = "A Tale of Two Codebases - Our Journey With Xamarin"
 speaker = "markmccaigue"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "17:25"
+room = "3"
 +++
 
 Stories from the coalface of development with Xamarin. From conception through to release, a walk through our adventures in overhauling our mobile client architecture at TheAppBuilder. Along the way we will look at strategies for mobile client development, why we chose Xamarin and when you might too, and the what and why of the Xamarin technologies on offer.

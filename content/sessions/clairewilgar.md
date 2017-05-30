@@ -4,7 +4,8 @@ title = "Accessibility for Everyone"
 speaker = "clairewilgar"
 keynote = false
 lightning = false
-sessiontime = "TBC"
+sessiontime = "11:20"
+room = "3"
 +++
 
 Do you think about accessibility when building your product? Have you ever had a look but not been sure how to get started?
