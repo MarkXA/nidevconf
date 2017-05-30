@@ -37,17 +37,6 @@ title = "About"
                     <a class="subtle" href="/venue/">The Peter Froggatt Centre, Queen's University Belfast &raquo;</a>
                 </p>
                 <h3>See you there!</h3>
-                <p>
-                    The committee:
-                    <ul>
-                        <li><a class="subtle" href="http://flaxandteal.co.uk/">Phil Weir</a></li>
-                        <li><a class="subtle" href="http://www.martinnaughton.com/">Martin Naughton</a></li>
-                        <li><a class="subtle" href="https://twitter.com/JoanMcAleer">Joan McAleer</a></li>
-                        <li><a class="subtle" href="https://twitter.com/ruthyfrizzy">Ruth Frizzell</a></li>
-                        <li><a class="subtle" href="https://twitter.com/michealcolhoun/">Micheal Colhoun</a></li>
-                        <li><a class="subtle" href="https://twitter.com/MarkXA">Mark Allan</a></li>
-                    </ul>
-                </p>
             </div>
         </main>
     </div>
