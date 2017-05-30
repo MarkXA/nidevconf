@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Telling stories with d3.js"
 speaker = "rosekanequinn"
 keynote = false
