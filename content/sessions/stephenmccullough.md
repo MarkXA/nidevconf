@@ -4,7 +4,7 @@ title = "Keeping your skills sharp in an ever changing industry"
 speaker = "stephenmccullough"
 keynote = false
 lightning = false
-sessiontime = "10:40"
+sessiontime = "12:00"
 room = "3"
 +++
 
