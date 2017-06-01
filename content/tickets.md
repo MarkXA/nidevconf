@@ -14,10 +14,11 @@ title = "Tickets"
                 <h3>How much are tickets?</h3>
                 <p>
                     <ul>
-                        <li><strong>Standard price</strong> - <strong>£45</strong> / £25 concession*</li>
-                        <li><strong>On The Day</strong> (10th June): <strong>£50</strong> / £30 concession*</li>
+                        <li><strong>Standard price</strong> - <strong>£45</strong> / £25 concession</li>
+                        <li><strong>Last Minute</strong> (7th June onwards): <strong>£50</strong> / £30 concession</li>
                     </ul>
-                    *Concessionary prices are for students, unwaged etc.
+                    Concessionary prices are for students, unwaged etc.<br/>
+                    Last Minute tickets do NOT include lunch due to being booked after catering numbers have been confirmed.
                 </p>
                 <h3>I'd love to come but I can't afford it</h3>
                 <p>
