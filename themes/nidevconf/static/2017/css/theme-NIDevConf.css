@@ -2465,6 +2465,33 @@ p.question {
   min-width: 200px;
 }
 
+.prizes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.prize {
+  flex: 0 0 15%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 1em;
+  text-align: center;
+}
+
+.prize img {
+  flex: 0 0 auto;
+  display: block;
+  width: 100%;
+  margin: auto;
+}
+
+.prize div {
+  font-size: 80%;
+  font-weight: bold;
+}
+
 /*
 .diamond, .gold, .bronze, .platinum, .silver {
   height: 180px;

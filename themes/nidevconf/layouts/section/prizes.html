@@ -1,0 +1,73 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ $sponsors := where (where .Site.Pages "Section" "sponsors") ".Params.sponsorlevel" "supporter" }}
+{{ $prizes := where .Site.Pages "Section" "prizes" }}
+
+<div class="main-container">
+  <a id="top"></a>
+  <section class="speakers">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Prizes!</h1>
+          <p>
+            The following companies and organisations have kindly donated prizes to be raffled off to attendees at the end of the conference.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="sponsors supporter">
+          {{ range $sponsors }}
+            {{ partial "sponsor.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>
+            What you could win
+          </h2>
+          <p>
+            Prizes donated so far include the following:
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="sponsors supporter">
+          {{ range $prizes }}
+            {{ partial "prize.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>Get involved</h2>
+          <p>
+            Local company? Want to join in the fun? Just <a href="mailto:inbox@nidevconf.com">email us</a> and let us know what prize you're donating.
+            If you're not sure what to donate, here are some ideas submitted by local devs:
+          </p>
+          <ul>
+            <li>Your own product or service (<em>obviously!</em>)</li>
+            <li>Drones</li>
+            <li>Bluetooth Star Wars BB-8</li>
+            <li>Headphones (noise cancelling)</li>
+            <li>Raspberry Pi 3 dev kit</li>
+            <li>Nespresso machine</li>
+            <li>Aeropress</li>
+            <li>Amazon Echo</li>
+            <li>Google Home</li>
+            <li>Philips Hue kit</li>
+            <li>Sonos</li>
+            <li>Chromebook</li>
+            <li>Amazon vouchers</li>
+            <li>Online training subscription (Safari, Pluralsight, etc)</li>
+            <li>Software subscription (e.g. JetBrains)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+{{ partial "footer.html" . }}
