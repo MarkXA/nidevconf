@@ -2475,21 +2475,33 @@ p.question {
 .prize {
   flex: 0 0 15%;
   display: flex;
+  flex-direction: row;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+.prize > * {
+  display: flex;
   flex-direction: column;
   margin: 0 1em;
+  align-items: center;
   text-align: center;
+  color: black;
+  border: solid 1px transparent;
+  margin: 1em;
+  transition: opacity 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.prize > *:hover {
+  opacity: 0.75;
 }
 
 .prize img {
   flex: 0 0 auto;
   display: block;
-  width: 100%;
+  width: 80%;
   margin: auto;
-}
-
-.prize div {
-  font-size: 80%;
-  font-weight: bold;
 }
 
 /*

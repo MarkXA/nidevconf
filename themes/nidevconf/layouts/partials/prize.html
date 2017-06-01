@@ -1,4 +1,13 @@
 <div class="prize">
+  {{ if .Params.link }}
+    <a href="{{ .Params.link }}">
+  {{ else }}
+    <div>
+  {{ end }}
   <img src="{{ .Params.image }}" alt="{{ .LinkTitle }}" title="{{ .LinkTitle }}" />
-  <div>{{ .LinkTitle }}</div>
+  {{ if .Params.link }}
+    </a>
+  {{ else }}
+    </div>
+  {{ end }}
 </div>
