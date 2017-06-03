@@ -6,35 +6,18 @@
 
 <div class="main-container">
   <a id="top"></a>
-  <section class="speakers">
+  <section class="row">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
           <h1>Prizes!</h1>
           <p>
-            These kind donors are providing prizes to be raffled off to attendees at the conference.
+            These kind supporters are providing prizes to be raffled off to attendees at the conference.
           </p>
         </div>
       </div>
       <div class="row">
-        <div class="sponsors supporter">
-          {{ range $sponsors }}
-            {{ partial "sponsor.html" . }}
-          {{ end }}
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <h2>
-            What you could win
-          </h2>
-          <p>
-            Prizes confirmed so far are:
-          </p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="sponsors supporter">
+        <div class="prizes">
           {{ range $prizes }}
             {{ partial "prize.html" . }}
           {{ end }}
@@ -51,7 +34,6 @@
             <li style="margin-bottom:1em">Your own product or service</li>
             <li>Drones</li>
             <li>Amazon Echo</li>
-            <li>Google Home</li>
             <li>Philips Hue kit</li>
             <li>Raspberry Pi 3 dev kit</li>
             <li>GoPro</li>

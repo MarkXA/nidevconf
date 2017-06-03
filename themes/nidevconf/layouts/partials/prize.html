@@ -1,13 +1,20 @@
-<div class="prize randomorder">
-  {{ if .Params.link }}
-    <a href="{{ .Params.link }}">
-  {{ else }}
-    <div>
-  {{ end }}
-  <img src="{{ .Params.image }}" alt="{{ .LinkTitle }}" title="{{ .LinkTitle }}" />
-  {{ if .Params.link }}
-    </a>
-  {{ else }}
-    </div>
-  {{ end }}
+{{ $prize := . }}
+{{ $sponsorId := .Params.sponsor }}
+{{ $sponsors := where .Site.Pages "Section" "sponsors" }}
+{{ range $sponsor := where $sponsors ".File.BaseFileName" $sponsorId }}
+
+<div class="prize randomorder" data-delta="{{ $prize.Params.delta }}">
+  <a class="prizesponsor" href="{{ $sponsor.Params.link }}">
+    <img src="{{ $sponsor.Params.logo }}" alt="{{ $sponsor.LinkTitle }}" title="{{ $sponsor.LinkTitle }}" />
+  </a>
+  <div class="prizedetail">
+    <span><a href="{{ $sponsor.Params.link }}">{{ $sponsor.LinkTitle }}</a></span>
+    <span>are giving away a</span>
+    <span><a href="{{ $prize.Params.link }}">{{ $prize.LinkTitle }}</a></span>
+  </div>
+  <a class="prizeprize" href="{{ $prize.Params.link }}">
+    <img src="{{ $prize.Params.image }}" alt="{{ $prize.LinkTitle }}" title="{{ $prize.LinkTitle }}" />
+  </a>
 </div>
+
+{{ end }}

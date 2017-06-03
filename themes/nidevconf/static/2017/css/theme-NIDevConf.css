@@ -2467,41 +2467,49 @@ p.question {
 
 .prizes {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   justify-content: center;
   align-items: stretch;
 }
 
 .prize {
-  flex: 0 0 15%;
   display: flex;
   flex-direction: row;
-  font-size: 80%;
-  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2em 0;
 }
-
-.prize > * {
+.prizesponsor {
+  width: 140px;
+}
+.prizedetail {
+  width: 15em;
+  margin: 1em;
   display: flex;
   flex-direction: column;
-  margin: 0 1em;
   align-items: center;
+  justify-content: center;
   text-align: center;
-  color: black;
-  border: solid 1px transparent;
-  margin: 1em;
+}
+.prizeprize {
+  width: 140px;
+}
+.prize a {
   transition: opacity 0.2s ease-in-out;
   opacity: 1;
+  color: #428bca;
+  font-weight: bold;
 }
-
-.prize > *:hover {
+.prize a:hover {
   opacity: 0.75;
+  color: #428bca;
 }
 
-.prize img {
-  flex: 0 0 auto;
-  display: block;
-  width: 80%;
-  margin: auto;
+@media all and (max-width: 660px) {
+  .prize {
+    flex-direction: column;
+  }
 }
 
 /*
