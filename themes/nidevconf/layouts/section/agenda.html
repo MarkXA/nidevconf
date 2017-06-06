@@ -154,6 +154,11 @@
                     <div class="agendaItem">
                       {{ $title }}
                     </div>
+                    {{ if eq $timespan "12:30-13:15"}}
+                      <div><span class="agendaRoom">Room 4</span> - Open Space intro from 12:55</div>
+                    {{ else if eq $timespan "15:05-15:25"}}
+                      <div><span class="agendaRoom">Room 4</span> - Open Space by Liberty IT until 17:15</div>
+                    {{ end }}
                   {{ end }}
                 </div>
               {{ end }}
@@ -219,26 +224,33 @@
                       </td>
                     {{ end }}
                     {{ if eq $time "10:40"}}
-                      <td rowspan="3">
-                        <div>TBC</div>
+                      <td rowspan="3" class="agendaBlocked">
                       </td>
                     {{ else if eq $time "13:15"}}
                       <td rowspan="3" class="lightnings">
                         <div><strong>Lightning talks</strong></div>
                         {{ partial "agendaSession.html" (dict "session" $lightnings) }}
                       </td>
-                    {{ else if eq $time "15:25"}}
-                      <td rowspan="4">
-                        <div>TBC</div>
-                      </td>
+                    {{ else if eq $time "17:25"}}
+                      <td class="agendaBlocked"></td>
                     {{ end }}
                   {{ else }}
                     <td class="agendaTimeHead">
                       {{ $timespan}}
                     </td>
-                    <td colspan="4" class="agendaSeparator">
+                    <td colspan="3" class="agendaSeparator">
                       {{ $title }}
                     </td>
+                    {{ if eq $timespan "12:30-13:15"}}
+                      <td>
+                        <div>Open Space intro from 12:55</div>
+                      </td>
+                    {{ else if eq $timespan "15:05-15:25"}}
+                      <td rowspan="4">
+                        <div>Open Space by</div>
+                        <div><img src="/2017/img/sponsors/libertyit.jpg" alt="Liberty IT" title="Liberty IT" style="width:75%" /></div>
+                      </td>
+                    {{ end }}
                   {{ end }}
                 </tr>
               {{ end }}
