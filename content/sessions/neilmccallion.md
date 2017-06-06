@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Needs Fewer Pixels: Rapid Game Prototyping In JS"
+title = "Needs Fewer Pixels: Building A JavaScript Retro Game Engine"
 speaker = "neilmccallion"
 keynote = false
 lightning = false
