@@ -1,8 +1,9 @@
 +++
-draft = true
+draft = false
 title = "Christopher McAlorum"
 keynote = false
+speakerimage = "/2017/img/speakers/christophermcalorum.jpg"
+twitter = "https://twitter.com/Chris_McAlorum"
 +++
 
-Manager at Northern Ireland Land and Property Services within the Mapping 
-Directorate (Northern Ireland’s National Mapping Authority responsible for maintaining and updating Ordnance Survey of Northern Ireland digital map products). Very diverse role working across technical, commercial, and customer facing work-streams, managing teams of Geographical Information Systems Analysts working across public sectors & supporting the development of Northern Ireland’s latest mapping database i.e. the OSNI mapping products, used by 1,000 of commercial customers, across the public sector and members of the general public.
+Manager at Northern Ireland Land & Property Services involved with the development of Ordnance Survey of Northern Ireland digital mapping products and consultancy services. Chartered Geographer (CGeog) with a Geographic Information Systems (GIS) specialism. Advocate for incorporating geographic information and relevant geospatial technologies for business and societal benefits. As an affiliate of the Royal Society of Designers, he promotes best practice in digital product, service, and business design.

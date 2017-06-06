@@ -1,0 +1,54 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ $sponsors := where (where .Site.Pages "Section" "sponsors") ".Params.sponsorlevel" "supporter" }}
+{{ $prizes := where .Site.Pages "Section" "prizes" }}
+
+<div class="main-container">
+  <a id="top"></a>
+  <section class="row">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Prizes!</h1>
+          <p>
+            These kind supporters are providing prizes to be raffled off to attendees at the conference.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="prizes">
+          {{ range $prizes }}
+            {{ partial "prize.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h2>Get involved</h2>
+          <p>
+            Local company? Want to join in the fun (or just ingratiate yourselves with attendees through the medium of swag)? <a href="mailto:inbox@nidevconf.com">Email us</a> and let us know what prize you're donating.
+            If you're not sure what to donate, here are some ideas submitted by local devs:
+          </p>
+          <ul style="list-style: inherit; padding-left: inherit">
+            <li style="margin-bottom:1em">Your own product or service</li>
+            <li>Drones</li>
+            <li>Amazon Echo</li>
+            <li>Philips Hue kit</li>
+            <li>Raspberry Pi 3 dev kit</li>
+            <li>GoPro</li>
+            <li>Headphones (noise cancelling)</li>
+            <li>Coffee machine</li>
+            <li>Sonos</li>
+            <li>Chromebook</li>
+            <li>Online training subscription (Safari, Pluralsight, etc)</li>
+            <li>Software subscription (e.g. JetBrains)</li>
+            <li>Amazon vouchers</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+{{ partial "footer.html" . }}

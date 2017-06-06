@@ -2465,6 +2465,53 @@ p.question {
   min-width: 200px;
 }
 
+.prizes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.prize {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2em 0;
+}
+.prizesponsor {
+  width: 140px;
+}
+.prizedetail {
+  width: 15em;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.prizeprize {
+  width: 140px;
+}
+.prize a {
+  transition: opacity 0.2s ease-in-out;
+  opacity: 1;
+  color: #428bca;
+  font-weight: bold;
+}
+.prize a:hover {
+  opacity: 0.75;
+  color: #428bca;
+}
+
+@media all and (max-width: 660px) {
+  .prize {
+    flex-direction: column;
+  }
+}
+
 /*
 .diamond, .gold, .bronze, .platinum, .silver {
   height: 180px;

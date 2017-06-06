@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Kubernetes - Why, What, How ..."
 speaker = "adrianhannigan"
 keynote = false
