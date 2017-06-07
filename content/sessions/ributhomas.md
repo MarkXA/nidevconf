@@ -3,6 +3,7 @@ draft = false
 title = "Journey towards PaaS and API"
 keynote = false
 lightning = false
+speaker = "ributhomas"
 sessiontime = "12:00"
 room = "1"
 +++

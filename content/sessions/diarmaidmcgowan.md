@@ -3,6 +3,7 @@ draft = false
 title = "Test Driven Development - Live!"
 keynote = false
 lightning = false
+speaker = "diarmaidmcgowan"
 sessiontime = "16:05"
 room = "2"
 +++
