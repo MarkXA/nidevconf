@@ -139,7 +139,11 @@
                         {{ partial "agendaSession.html" (dict "session" $session "room" $room) }}
                       </div>
                     {{ end }}
-                    {{ if eq $time "13:15"}}
+                    {{ if eq $time "10:40" }}
+                      <div class="agendaItem">
+                        <span class="agendaRoom">Room 4</span> - Demo area - Bring in your game, app etc and show it off!
+                      </div>
+                    {{ else if eq $time "13:15" }}
                       <div class="agendaItem">
                         <div><span class="agendaRoom">Room 4</span> - Lightning talks (end by 15:05)</div>
                         <div style="margin-left:2em">
@@ -152,12 +156,21 @@
                       {{ $timespan }}
                     </div>
                     <div class="agendaItem">
-                      {{ $title }}
+                      {{ if eq $timespan "12:30-13:15"}}
+                        LUNCH - Sponsored by <a href="http://instil.co"><img src="http://instil.co/img/instil-logo-header.png" alt="Instil" title="Instil" style="height:2em"></a>
+                      {{ else }}
+                        {{ $title }}
+                      {{ end }}
                     </div>
                     {{ if eq $timespan "12:30-13:15"}}
-                      <div><span class="agendaRoom">Room 4</span> - Open Space intro from 12:55</div>
+                      <div><span class="agendaRoom">Room 4</span> - <a href="/sessions/openspace/">Open Space intro from 12:55</a></div>
                     {{ else if eq $timespan "15:05-15:25"}}
-                      <div><span class="agendaRoom">Room 4</span> - Open Space by Liberty IT until 17:15</div>
+                      <div>
+                        <span class="agendaRoom">Room 4</span> - 15:05-17:15 -
+                        <a href="/sessions/openspace/">
+                          Open Space by <img src="/2017/img/sponsors/libertyit.jpg" alt="Liberty IT" title="Liberty IT" style="height:4em" />
+                        </a>
+                      </div>
                     {{ end }}
                   {{ end }}
                 </div>
@@ -168,6 +181,14 @@
                 </div>
                 <div class="agendaItem">
                   <span class="agendaRoom">Room 1</span> - Closing address and prize draw
+                </div>
+              </div>
+              <div class="agendaSlot">
+                <div class="agendaTime">
+                  AFTERWARDS
+                </div>
+                <div class="agendaItem">
+                  Complimentary food and drink at the Botanic Inn
                 </div>
               </div>
             </div>  
@@ -224,7 +245,9 @@
                       </td>
                     {{ end }}
                     {{ if eq $time "10:40"}}
-                      <td rowspan="3" class="agendaBlocked">
+                      <td rowspan="3">
+                        <div>Demo area</div>
+                        <div>Bring in your game, app etc and show it off!</div>
                       </td>
                     {{ else if eq $time "13:15"}}
                       <td rowspan="3" class="lightnings">
@@ -239,16 +262,21 @@
                       {{ $timespan}}
                     </td>
                     <td colspan="3" class="agendaSeparator">
-                      {{ $title }}
+                      {{ if eq $timespan "12:30-13:15"}}
+                        LUNCH - Sponsored by <a href="http://instil.co"><img src="http://instil.co/img/instil-logo-header.png" alt="Instil" title="Instil" style="height:2em"></a>
+                      {{ else }}
+                        {{ $title }}
+                      {{ end }}
                     </td>
                     {{ if eq $timespan "12:30-13:15"}}
                       <td>
-                        <div>Open Space intro from 12:55</div>
+                        <div><a href="/sessions/openspace/">Open Space intro from 12:55</a></div>
                       </td>
                     {{ else if eq $timespan "15:05-15:25"}}
                       <td rowspan="4">
-                        <div>Open Space by</div>
-                        <div><img src="/2017/img/sponsors/libertyit.jpg" alt="Liberty IT" title="Liberty IT" style="width:75%" /></div>
+                        <a href="/sessions/openspace/">
+                          Open Space by <img src="/2017/img/sponsors/libertyit.jpg" alt="Liberty IT" title="Liberty IT" style="height:4em" />
+                        </a>
                       </td>
                     {{ end }}
                   {{ end }}
@@ -262,6 +290,14 @@
                   <strong>Closing address and prize draw</strong>
                 </td>
                 <td colspan="3" class="agendaBlocked"></td>
+              </tr>
+              <tr>
+                <td class="agendaTimeHead">
+                  AFTERWARDS
+                </td>
+                <td colspan="4" class="agendaSeparator">
+                  Complimentary food and drink at the Botanic Inn
+                </td>
               </tr>
             </table>
           </div>
