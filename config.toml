@@ -1,3 +1,9 @@
-baseurl = "http://www.nidevconf.com/"
 title = "Northern Ireland Developer Conference 2017"
+baseurl = "/"
 languageCode = "en-us"
+theme = "nidevconf"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"

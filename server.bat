@@ -1,1 +1,0 @@
-start hugo server -t nidevconf
