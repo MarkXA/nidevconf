@@ -2,7 +2,7 @@
 draft = false
 title = "Phil Weir"
 role = "committee"
-image = "/2017/img/team/philweir.jpg"
+image = "/img/team/philweir.jpg"
 twitter = "https://twitter.com/flaxandteal"
 linkedin = "https://www.linkedin.com/in/phil-weir-033b5a62"
 github = "https://github.com/flaxandteal"

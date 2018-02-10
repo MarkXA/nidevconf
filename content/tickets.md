@@ -9,12 +9,12 @@ title = "Tickets"
             <div class="col-md-12 main">
                 <h1>Tickets</h1>
                 <p>
-                    <a class="inner-link highlight" href="https://ti.to/nidc/nidc2017">Buy your ticket now! &raquo;</a>
+                    <a class="inner-link highlight" href="https://ti.to/nidc/nidc2018">Buy your ticket now! &raquo;</a>
                 </p>
                 <h3>How much are tickets?</h3>
                 <p>
                     <ul>
-                        <li><strong>Early Bird</strong> (April) - <strong>£25</strong> / £15 concession</li>
+                        <li><strong>Early Bird</strong> (available until the end of April) - <strong>£25</strong> / £15 concession</li>
                         <li><strong>Standard price</strong> - <strong>£45</strong> / £25 concession</li>
                     </ul>
                     Concessionary prices are for students, unwaged etc.
@@ -25,7 +25,7 @@ title = "Tickets"
                 </p>
                 <h3>Great! Where do I get tickets?</h3>
                 <p>
-                    <a class="inner-link highlight" href="https://ti.to/nidc/nidc2017">Here &raquo;</a>
+                    <a class="inner-link highlight" href="https://ti.to/nidc/nidc2018">Here &raquo;</a>
                 </p>
             </div>
         </main>

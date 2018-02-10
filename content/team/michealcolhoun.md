@@ -2,7 +2,7 @@
 draft = false
 title = "Micheal Colhoun"
 role = "organiser"
-image = "/2017/img/team/michealcolhoun.jpg"
+image = "/img/team/michealcolhoun.jpg"
 twitter = "https://twitter.com/michealcolhoun"
 linkedin = "https://www.linkedin.com/in/michealcolhoun"
 github = "https://github.com/colhountech"

@@ -2,7 +2,7 @@
 draft = false
 title = "Ruth Frizzell"
 role = "organiser"
-image = "/2017/img/team/ruthfrizzell.jpg"
+image = "/img/team/ruthfrizzell.jpg"
 twitter = "https://twitter.com/ruthyfrizzy"
 linkedin = "https://www.linkedin.com/in/ruthfrizzell"
 delta = 400

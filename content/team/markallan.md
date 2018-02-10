@@ -2,7 +2,7 @@
 draft = false
 title = "Mark Allan"
 role = "committee"
-image = "/2017/img/team/markallan.jpg"
+image = "/img/team/markallan.jpg"
 twitter = "https://twitter.com/markxa"
 linkedin = "https://linkedin.com/in/markxa"
 github = "https://github.com/markxa"

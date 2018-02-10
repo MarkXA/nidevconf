@@ -9,34 +9,23 @@ title = "Venue"
             <div class="col-md-12 main">
                 <h1>Venue</h1>
                 <p>
-                    The Peter Froggatt Centre, Queen's University Belfast
+                    Riddel Hall, Queen's University Belfast
                 </p>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2312.095053752075!2d-5.9356652841145!3d54.584699180257225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486108efde6570dd%3A0x9ed1910675dd5799!2sPeter+Froggatt+Centre!5e0!3m2!1sen!2suk!4v1496080304509" frameborder="0" style="width:100%; height:450px; border:0" allowfullscreen></iframe>
-
-                <p>
-                    For directions within the campus, please refer to the <a href='http://www.qub.ac.uk/puremaths/btm30/campusmap.pdf'>QUB campus map</a>, on which the Peter Froggatt Centre is marked as Location <strong>2</strong></p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2312.571346010759!2d-5.937136684114829!3d54.576306080255215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486108e9a278df55%3A0x79f7e47de7983186!2sRiddel+Hall!5e0!3m2!1sen!2suk!4v1518300225307" frameborder="0" style="width:100%; height:450px; border:0" allowfullscreen></iframe>
 
                 <h3>Transport</h3>
                 <p>
-                    A Belfast Bikes stand is near to the entrance, beside the Botanic Gardens entrance off Botanic Avenue. Bicycle stands are also available.
+                    The nearest train station is Botanic, approximately 1 mile from the venue.
                 </p>
                 <p>
-                    Train access is via Botanic Station, approximately 500m from the venue.
+                    Bus service 8a runs twice an hour from the city centre to the Stranmillis Mews stop outside Riddel Hall, also stopping on Bradbury Place near Botanic Station.
                 </p>
                 <p>
-                    Buses are available from the city centre (e.g. Great Victoria Street) stopping near the corner of Botanic Avenue and University Avenue, approximately 40m from the venue. These include 7a, 7b, 7c, 7d Translink Metro services.
-                </p>
-                <p>
-                    Free parking is available near the ground floor venue entrance, off Botanic Avenue, beside the entrance to the Botanic Gardens. Early arrival to ensure parking availability is recommended, although the event is outside university term time and on the weekend, so a lower level of space contention is expected than otherwise.
+                    Ample free parking is available on site. Bicycle stands are also provided.
                 </p>
                 <h3>Accessibility</h3>
                 <p>
                     Please see the <a href='/accessibility'>accessibility and access page</a> for more information.
-                </p>
-                <p>
-                <h3>Indicative layout</h3>
-                <p class="text-center">
-                    <img width='50%' src='/2017/img/Map.svg' alt='Internal map of the Peter Froggatt Centre' />
                 </p>
                 <h3>Anything else</h3>
                 <p>
