@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Joan McAleer"
-role = "organiser"
+role = "committee"
 image = "/img/team/joanmcaleer.jpg"
 twitter = "https://twitter.com/joanmcaleer"
 linkedin = "https://www.linkedin.com/in/joan-mcaleer-83015533/"
