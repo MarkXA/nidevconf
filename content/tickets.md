@@ -19,10 +19,10 @@ title = "Tickets"
                     </ul>
                     Concessionary prices are for students, unwaged etc.
                 </p>
-                <!-- <h3>I'd love to come but I can't afford it</h3>
+                <h3>I'd love to come but I can't afford it</h3>
                 <p>
                     Come anyway! Choose an "honesty" ticket and just pay whatever you can afford.
-                </p> -->
+                </p>
                 <h3>Great! Where do I get tickets?</h3>
                 <p>
                     <a class="inner-link highlight" href="https://ti.to/nidc/nidc2018">Here &raquo;</a>
