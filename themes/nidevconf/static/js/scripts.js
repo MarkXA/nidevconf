@@ -170,11 +170,11 @@ jQuery(function ($) {
         var testimonials = wrapper.querySelectorAll(".testimonial");
         var index = 0;
         var nextTestimonal = function() {
-        for (var n = 0; n < testimonials.length; n++)
-            testimonials[n].style.opacity = (index == n) ? 1 : 0;
-        index = (index + 1) % testimonials.length;  
+            for (var n = 0; n < testimonials.length; n++)
+                testimonials[n].style.opacity = (index == n) ? 1 : 0;
+            index = (index + 1) % testimonials.length;  
         };
         nextTestimonal();
-        setInterval(nextTestimonal, 3000);
+        setInterval(nextTestimonal, 3500);
     })();
 });

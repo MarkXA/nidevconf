@@ -1,5 +1,5 @@
 +++
 draft = false
-quote = "A day of high quality talks, countless networking opportunities and a showcase of what Northern Ireland's developer community are doing. I highly recommend anyone interested in or working in software development to attend"
+quote = "High quality talks, countless networking opportunities and a showcase of what NI's developer community are doing. Highly recommended for anyone interested in or working in software development."
 name = "Jason Bell, Mastodon C"
 +++
