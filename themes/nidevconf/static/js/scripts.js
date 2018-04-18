@@ -175,6 +175,6 @@ jQuery(function ($) {
             index = (index + 1) % testimonials.length;  
         };
         nextTestimonal();
-        setInterval(nextTestimonal, 3500);
+        setInterval(nextTestimonal, 4000);
     })();
 });
