@@ -1,0 +1,7 @@
+{{ $testimonials := where (where .Site.Pages "Section" "testimonials") ".Params.quote" "!=" nil }}
+
+<div class="testimonials">
+  {{ range $testimonial := $testimonials }}
+    {{ partial "testimonial.html" $testimonial }}
+  {{ end }}
+</section>

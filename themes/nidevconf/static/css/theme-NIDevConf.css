@@ -983,7 +983,7 @@ nav .container {
 }
 
 .hero-slider .slides li {
-  height: 650px;
+  height: 750px;
   position: relative;
   overflow: hidden;
   -webkit-transform-style: preserve-3d;
@@ -1103,27 +1103,6 @@ nav .container {
   }
 }
 
-.testimonials-slider {
-  position: relative;
-  margin-bottom: 48px;
-}
-
-.testimonials-slider .flex-control-nav a {
-  background: rgba(0, 0, 0, 0.3);
-}
-
-.testimonials-slider .flex-control-nav a.flex-active {
-  background: rgba(0, 0, 0, 0.8);
-}
-
-.testimonials-slider .flex-control-nav a:hover {
-  background: rgba(0, 0, 0, 0.8);
-}
-
-.testimonials-slider .flex-control-nav {
-  bottom: -48px;
-  text-align: left;
-}
 
 .primary-overlay:before {
   background-color: #004470;
@@ -1995,7 +1974,19 @@ nav .container {
 }
 
 .testimonials {
-  background: #f5f5f5;
+  position: relative;
+}
+
+.testimonial {
+  position: absolute;
+  width: 100%;
+  color: white;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.testimonialQuote {
+  font-style: italic;
 }
 
 .contained-gallery .instagram,
@@ -3081,7 +3072,7 @@ body .colors .col-xs-2:nth-child(6n+0) {
   }
 
   .hero-slider .slides li {
-    height: 650px;
+    height: 750px;
   }
 
   /*-- color section --*/
@@ -3154,7 +3145,7 @@ body .colors .col-xs-2:nth-child(6n+0) {
   }
 
   .hero-slider .slides li {
-    height: 500px;
+    height: 750px;
   }
 
   /*-- color section --*/
