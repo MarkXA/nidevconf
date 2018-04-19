@@ -2422,6 +2422,7 @@ p.question {
   margin: 1em;
   transition: opacity 0.2s ease-in-out;
   opacity: 1;
+  width: 100%;
 }
 
 .sponsor a:hover {
@@ -2442,12 +2443,12 @@ p.question {
 }
 
 .platinum .sponsor {
-  flex-basis: 33%;
+  flex-basis: 50%;
   min-width: 300px;
 }
 
 .gold .sponsor {
-  flex-basis: 25%;
+  flex-basis: 33%;
   min-width: 250px;
 }
 
