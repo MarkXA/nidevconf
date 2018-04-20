@@ -167,7 +167,7 @@ jQuery(function ($) {
     (function() {
         var wrapper = document.querySelector(".testimonials");
         if (!wrapper) return;
-        var testimonials = wrapper.querySelectorAll(".testimonial");
+        var testimonials = [].slice.call(wrapper.querySelectorAll(".testimonial")).sort(function(a,b) { return Math.random() - 0.5; });
         var index = 0;
         var nextTestimonal = function() {
             for (var n = 0; n < testimonials.length; n++)
