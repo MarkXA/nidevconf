@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "An Introduction to Open Banking"
-speaker = "zekikucuk-kose"
+speaker = "zekikucukkose"
 keynote = false
 lightning = false
 +++
