@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Unidentifed Speaker"
+title = "Unidentified Speaker"
 keynote = false
 speakerimage = "/img/speakers/unidentifiedspeaker.jpg"
 +++
