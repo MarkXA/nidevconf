@@ -1,0 +1,44 @@
+{{ $gold := where .Site.Pages "Params.sponsorlevel" "gold" }}
+{{ $silver := where .Site.Pages "Params.sponsorlevel" "silver" }}
+
+  <main class="container generic" style="text-align: center">
+    <div class="col-md-12 main">
+      {{ if $gold }}
+      <hr/>
+      <div class="row">
+        <h2>Gold Sponsors</h2>
+      </div>
+      <div class="row">
+        <div class="sponsors gold">
+          {{ range $gold }}
+            {{ partial "sponsor.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      {{ if $silver }}
+      <hr/>
+      <div class="row">
+        <h2>Silver Sponsors</h2>
+      </div>
+      <div class="row">
+        <div class="sponsors silver">
+          {{ range $silver }}
+            {{ partial "sponsor.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      <!--<hr>
+      <div class="row">
+        <h2>Bronze Sponsors</h2>
+        {{ range .Data.Pages }}
+          {{ if eq "bronze"  .Params.sponsorclass}} 	
+            <div class="col-md-4 bronze">
+              <a href="{{ .RelPermalink}}"><img src="{{ .Params.logo }}" /></a>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>-->
+  </main>

@@ -1,0 +1,17 @@
+{{ $platinum := where .Site.Pages "Params.sponsorlevel" "platinum" }}
+
+  <main class="container generic" style="text-align: center">
+    <div class="col-md-12 main">
+      {{ if $platinum }}
+      <div class="row">
+        <h2>Platinum Sponsors</h2>
+      </div>
+      <div class="row">
+        <div class="sponsors platinum">
+          {{ range $platinum }}
+            {{ partial "sponsor.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+  </main>

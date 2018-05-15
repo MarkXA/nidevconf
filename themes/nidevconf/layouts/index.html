@@ -112,10 +112,14 @@
           </div>
         </section>
 
+        <section class="row">
+          {{ partial "sponsorsplatinum.html" . }}
+        </section>
+
         {{ partial "speakers.html" . }}
 
         <section class="row">
-        {{ partial "sponsors.html" . }}
+        {{ partial "sponsorsnonplatinum.html" . }}
         </section>
       </div>
   {{ partial "footer.html" . }}
