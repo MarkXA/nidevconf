@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Claire Wilgar"
 keynote = false
+speakerimage = "/img/speakers/clairewilgar.jpg"
 twitter = "https://twitter.com/clairedotw"
 linkedin = "https://www.linkedin.com/in/clairewilgar"
 github = "https://github.com/clairebones"

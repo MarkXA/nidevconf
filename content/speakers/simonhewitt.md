@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Simon Hewitt"
 keynote = false
+speakerimage = "/img/speakers/simonhewitt.jpg"
 twitter = "https://twitter.com/tyndyll"
 +++
 

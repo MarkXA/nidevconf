@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Gophers with Antlers"
 speaker = "rogersimms"
 speaker2 = "simonhewitt"

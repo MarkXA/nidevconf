@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Release the Monkey!!"
 speaker = "markmcconnell"
 keynote = false
