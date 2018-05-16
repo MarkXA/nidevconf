@@ -21,9 +21,11 @@
  17. Footers
 
 // --------------------------------------------------*/
+
 /*!
 // 1. Useful Mixins
 // --------------------------------------------------*/
+
 .vertical-align {
   position: relative;
   top: 50%;
@@ -78,9 +80,11 @@
   position: relative;
   z-index: 2;
 }
+
 /*!
 // 2. Helper Classes & Resets
 // --------------------------------------------------*/
+
 .go-right {
   right: 0px;
 }
@@ -125,9 +129,11 @@ nav {
   margin-left: 0;
   margin-right: 0;
 }
+
 /*!
 // 3. Loader
 // --------------------------------------------------*/
+
 .loader {
   position: fixed;
   top: 0px;
@@ -185,7 +191,6 @@ nav {
     -webkit-transform: translate3d(0px, 0px, 0px);
     -moz-transform: translate3d(0px, 0px, 0px);
   }
-
   50% {
     transform: translate3d(0px, 0px, 0px);
     -webkit-transform: translate3d(0px, 0px, 0px);
@@ -194,7 +199,6 @@ nav {
     -webkit-transform: scale(4, 1);
     -moz-transform: scale(4, 1);
   }
-
   100% {
     transform: translate3d(-50px, 0px, 0px);
     -webkit-transform: translate3d(-50px, 0px, 0px);
@@ -208,7 +212,6 @@ nav {
     -webkit-transform: translate3d(-50px, 0px, 0px);
     -moz-transform: translate3d(-50px, 0px, 0px);
   }
-
   50% {
     transform: translate3d(0px, 0px, 0px);
     -webkit-transform: translate3d(0px, 0px, 0px);
@@ -217,7 +220,6 @@ nav {
     -webkit-transform: scale(4, 1);
     -moz-transform: scale(4, 1);
   }
-
   100% {
     transform: translate3d(50px, 0px, 0px);
     -webkit-transform: translate3d(50px, 0px, 0px);
@@ -231,7 +233,6 @@ nav {
     -webkit-transform: translate3d(-50px, 0px, 0px);
     -moz-transform: translate3d(-50px, 0px, 0px);
   }
-
   50% {
     transform: translate3d(0px, 0px, 0px);
     -webkit-transform: translate3d(0px, 0px, 0px);
@@ -240,7 +241,6 @@ nav {
     -webkit-transform: scale(4, 1);
     -moz-transform: scale(4, 1);
   }
-
   100% {
     transform: translate3d(50px, 0px, 0px);
     -webkit-transform: translate3d(50px, 0px, 0px);
@@ -267,9 +267,11 @@ nav {
 .hide-loader {
   opacity: 0 !important;
 }
+
 /*!
 // 4. Colours
 // --------------------------------------------------*/
+
 .background-dark {
   background-color: #333333 !important;
 }
@@ -277,9 +279,11 @@ nav {
 .color-heading {
   color: #333333;
 }
+
 /*!
 // 5. Typography
 // --------------------------------------------------*/
+
 .text-white {
   color: #fff;
 }
@@ -374,30 +378,28 @@ ul {
     line-height: 28px;
     margin-bottom: 36px;
   }
-
   h2 {
     font-size: 20px;
     line-height: 36px;
   }
-
   .large-h1 {
     font-size: 24px;
     line-height: 28px;
   }
-
   p {
     font-size: 13px;
     line-height: 22px;
   }
-
   p.lead {
     font-size: 15px;
     line-height: 26px;
   }
 }
+
 /*!
 // Spacing Standards
 // --------------------------------------------------*/
+
 section {
   padding: 72px 0px;
   background: #fff;
@@ -410,9 +412,11 @@ section.blue {
 .duplicatable-content {
   padding-bottom: 36px;
 }
+
 /*!
 // 6. Buttons
 // --------------------------------------------------*/
+
 a:hover {
   text-decoration: none;
 }
@@ -511,9 +515,11 @@ p a.highlight {
   min-width: 230px;
   border-radius: 35px;
 }
+
 /*!
 // Backgrounds & Parallax
 // --------------------------------------------------*/
+
 .background-image-holder {
   position: absolute;
   width: 100%;
@@ -531,9 +537,11 @@ p a.highlight {
   position: relative;
   overflow: hidden;
 }
+
 /*!
 // 7. Navigation
 // --------------------------------------------------*/
+
 nav .logo {
   max-height: 45px;
   max-width: 110px;
@@ -542,7 +550,7 @@ nav .logo {
   opacity: 1;
 }
 
-.navbar-brand  img {
+.navbar-brand img {
   max-height: 30px;
   max-width: 30px;
 }
@@ -907,45 +915,36 @@ nav .container {
     max-height: 67px;
     overflow: hidden;
   }
-
   nav .menu li {
     float: none;
     margin-bottom: 24px;
   }
-
   nav .menu li a {
     color: #fff !important;
     padding-bottom: 0px;
   }
-
   nav .logo {
     max-width: 90px;
     top: -2px;
   }
-
   nav .logo-dark {
     opacity: 0 !important;
   }
-
   nav .logo-light {
     opacity: 1 !important;
   }
-
   nav .menu {
     width: 100%;
     display: block;
     margin-top: 67px;
     margin-right: 0px;
   }
-
   nav .social-link {
     float: left !important;
   }
-
   .sidebar-menu-toggle {
     display: none;
   }
-
   .mobile-menu-toggle {
     display: block;
     position: fixed;
@@ -953,28 +952,26 @@ nav .container {
     right: 24px;
     color: #fff !important;
   }
-
   .open-menu {
     background: #35566a !important;
     max-height: 800px !important;
   }
-
   .nav-dropdown {
     position: relative;
     display: none;
   }
-
   .has-dropdown:hover .nav-dropdown {
     display: block;
   }
-
   .has-dropdown:before {
     color: #333333;
   }
 }
+
 /*!
 // 8. Sliders & Dividers & Headers
 // --------------------------------------------------*/
+
 .hero-slider {
   padding: 0px;
   position: relative;
@@ -1076,33 +1073,26 @@ nav .container {
   .hero-slide .logo {
     max-width: 100px;
   }
-
   .register-header .logo {
     display: none;
   }
-
   .register-header h1 {
     display: none;
   }
-
   .register-header form h1 {
     display: block;
   }
-
   .register-header span.lead {
     display: none;
   }
-
   .register-header input,
   .register-header .select-holder {
     max-width: 100% !important;
   }
-
   .hero-slider h1 {
     margin-bottom: 18px;
   }
 }
-
 
 .primary-overlay:before {
   background-color: #004470;
@@ -1237,11 +1227,9 @@ nav .container {
   .countdown {
     margin-top: 48px;
   }
-
   .countdown-row {
     font-size: 36px;
   }
-
   .countdown-period {
     font-size: 16px;
   }
@@ -1331,9 +1319,11 @@ nav .container {
     padding: 72px 0px;
   }
 }
+
 /*!
 // 9. Image with text
 // --------------------------------------------------*/
+
 .image-with-text {
   overflow: hidden;
   position: relative;
@@ -1356,7 +1346,6 @@ nav .container {
     height: auto;
     padding: 72px 0px;
   }
-
   .image-with-text .vertical-align {
     top: 0px;
     -webkit-transform: translateY(0px);
@@ -1364,9 +1353,11 @@ nav .container {
     transform: translateY(0px);
   }
 }
+
 /*!
 // Promo Blocks
 // --------------------------------------------------*/
+
 .color-blocks {
   padding: 48px 0px;
   position: relative;
@@ -1439,16 +1430,13 @@ nav .container {
     overflow: hidden;
     display: block;
   }
-
   .block-content:last-of-type {
     margin-bottom: 0px;
   }
-
   .color-block {
     height: 50%;
     width: 100%;
   }
-
   .block-right {
     top: 50%;
   }
@@ -1459,9 +1447,11 @@ nav .container {
     margin-bottom: 30px;
   }
 }
+
 /*!
 // 10. Speakers & Topics
 // --------------------------------------------------*/
+
 .speakers-row {
   padding: 0px 15px;
 }
@@ -1613,7 +1603,6 @@ nav .container {
   .speaker-with-bio .speaker {
     width: 100%;
   }
-
   .speaker-with-bio .speaker-description {
     width: 100%;
     padding-left: 0px;
@@ -1660,7 +1649,6 @@ nav .container {
     bottom: 18px;
     left: 12px;
   }
-
   .topic i {
     margin-bottom: 12px;
   }
@@ -1678,9 +1666,11 @@ nav .container {
     float: left !important;
   }
 }
+
 /*!
 // 11. Schedule
 // --------------------------------------------------*/
+
 .inline-video {
   background: #f5f5f5;
 }
@@ -1709,7 +1699,6 @@ nav .container {
     height: 200px;
     margin-top: 30px;
   }
-
   .inline-video .btn {
     margin-top: 18px;
   }
@@ -1849,9 +1838,11 @@ nav .container {
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
 }
+
 /*!
 // 12. Galleries
 // --------------------------------------------------*/
+
 .instagram,
 .lightbox-gallery {
   position: relative;
@@ -1869,7 +1860,6 @@ nav .container {
   .gallery-header .logo {
     max-width: 200px;
   }
-
   .gallery-header h1 {
     font-size: 24px !important;
     line-height: 32px !important;
@@ -1937,7 +1927,6 @@ nav .container {
   .lightbox-gallery li:nth-child(n+9) {
     display: none;
   }
-
   .instagram li,
   .lightbox-gallery li {
     width: 25%;
@@ -1949,7 +1938,6 @@ nav .container {
   .lightbox-gallery li:nth-child(n+7) {
     display: none;
   }
-
   .instagram li,
   .lightbox-gallery li {
     width: 33.333333%;
@@ -1961,12 +1949,10 @@ nav .container {
   .lightbox-gallery {
     padding: 144px 0px;
   }
-
   .instagram li:nth-child(n+5),
   .lightbox-gallery li:nth-child(n+5) {
     display: none;
   }
-
   .instagram li,
   .lightbox-gallery li {
     width: 50%;
@@ -2009,16 +1995,13 @@ nav .container {
   .contained-gallery .instagram li:nth-child(n+7) {
     display: none;
   }
-
   .contained-gallery .lightbox-gallery li:nth-child(n+7) {
     display: none;
   }
-
   .contained-gallery .instagram li,
   .contained-gallery .lightbox-gallery li {
     width: 33.33333%;
   }
-
   .contained-gallery .instagram,
   .contained-gallery .lightbox-gallery {
     padding: 200px 0px;
@@ -2030,29 +2013,27 @@ nav .container {
   .contained-gallery .lightbox-gallery {
     margin-bottom: 32px;
   }
-
   .contained-gallery .btn {
     margin-bottom: 0px;
   }
-
   .contained-gallery .instagram li:nth-child(n+5),
   .contained-gallery .lightbox-gallery li:nth-child(n+5) {
     display: block !important;
   }
-
   .contained-gallery .instagram li:nth-child(n+7),
   .contained-gallery .lightbox-gallery li:nth-child(n+7) {
     display: none !important;
   }
-
   .contained-gallery .instagram li,
   .contained-gallery .lightbox-gallery li {
     width: 33.33333% !important;
   }
 }
+
 /*!
 // 13. Pricing
 // --------------------------------------------------*/
+
 .pricing-option {
   overflow: hidden;
   background: #f5f5f5;
@@ -2143,14 +2124,15 @@ nav .container {
   .type {
     margin-bottom: 12px;
   }
-
   .pricing-option {
     text-align: center !important;
   }
 }
+
 /*!
 // Frequently Asked Questions
 // --------------------------------------------------*/
+
 .faq-item {
   margin-bottom: 36px;
 }
@@ -2160,9 +2142,11 @@ p.question {
   color: #333333;
   font-size: 16px;
 }
+
 /*!
 // Visitor Info
 // --------------------------------------------------*/
+
 .info-box {
   margin-bottom: 36px;
   position: relative;
@@ -2195,9 +2179,11 @@ p.question {
     float: left;
   }
 }
+
 /*!
 // 14. Subscribe
 // --------------------------------------------------*/
+
 .subscribe-1 {
   position: relative;
   overflow: hidden;
@@ -2283,14 +2269,15 @@ p.question {
     font-size: 20px;
     line-height: 26px;
   }
-
   .subscribe-2 .form-email {
     margin-bottom: 24px;
   }
 }
+
 /*!
 // 15. Contact
 // --------------------------------------------------*/
+
 .contact-tweets {
   background: #004470;
   color: #fff;
@@ -2397,9 +2384,11 @@ p.question {
   height: 100%;
   z-index: 2;
 }
+
 /*!
 // Sponsors
 // --------------------------------------------------*/
+
 .sponsors {
   display: flex;
   flex-wrap: wrap;
@@ -2472,9 +2461,11 @@ p.question {
   flex-wrap: wrap;
   margin: 2em 0;
 }
+
 .prizesponsor {
   width: 140px;
 }
+
 .prizedetail {
   width: 15em;
   margin: 1em;
@@ -2484,15 +2475,18 @@ p.question {
   justify-content: center;
   text-align: center;
 }
+
 .prizeprize {
   width: 140px;
 }
+
 .prize a {
   transition: opacity 0.2s ease-in-out;
   opacity: 1;
   color: #428bca;
   font-weight: bold;
 }
+
 .prize a:hover {
   opacity: 0.75;
   color: #428bca;
@@ -2518,10 +2512,10 @@ p.question {
 }
 */
 
-
 /*!
 // 16. Forms
 // --------------------------------------------------*/
+
 form.register {
   overflow: hidden;
   padding-top: 24px;
@@ -2669,7 +2663,6 @@ form .field-error {
     width: 100% !important;
     max-width: 100%;
   }
-
   .subscribe-1 .email-subscribe input[type="text"] {
     margin-bottom: 24px;
   }
@@ -2680,19 +2673,19 @@ form .field-error {
     width: 50%;
     float: left;
   }
-
   form.register input,
   form.register .select-holder {
     max-width: 95% !important;
   }
-
   form.register input[type="submit"] {
     max-width: 100% !important;
   }
 }
+
 /*!
 // Utility Pages
 // --------------------------------------------------*/
+
 .error-page {
   background: #004470;
   padding: 0px;
@@ -2731,9 +2724,11 @@ form .field-error {
     display: none;
   }
 }
+
 /*!
 // 17. Footers
 // --------------------------------------------------*/
+
 .footer .top-border {
   height: 2px;
   width: 100%;
@@ -2784,11 +2779,9 @@ form .field-error {
   .footer .text-right {
     text-align: left !important;
   }
-
   .footer .menu {
     margin-top: 24px;
   }
-
   .footer .menu li {
     float: none;
     margin-bottom: 12px;
@@ -3032,27 +3025,26 @@ body .colors .col-xs-2:nth-child(6n+0) {
 }
 
 /* Large Devices, Wide Screens */
+
 @media only screen and (max-width: 1200px) {
-  .hero-slider img.logo {
-  }
+  .hero-slider img.logo {}
 }
 
 /* Medium Devices, Desktops */
-@media only screen and (max-width: 992px) {
 
+@media only screen and (max-width: 992px) {
   /*-- video section --*/
   .embedded-video-holder {
     margin-top: 30px;
   }
-
   .embedded-video-holder iframe {
     height: 230px;
   }
 }
 
 /* Small Devices, Tablets */
-@media only screen and (max-width: 768px) {
 
+@media only screen and (max-width: 768px) {
   /*-- Hero section --*/
   .hero-slider img.logo {
     display: block;
@@ -3061,50 +3053,40 @@ body .colors .col-xs-2:nth-child(6n+0) {
     text-align: center;
     width: 70%;
   }
-
   .hero-slider .container {
     top: 50%;
   }
-
   .video-header .uppercase,
   .countdown-header .uppercase {
     margin-bottom: 24px;
     margin-top: 24px;
   }
-
   .hero-slider .slides li {
     height: 750px;
   }
-
   /*-- color section --*/
   .block-content {
     margin-bottom: 0;
   }
-
   .color-block {
     height: 100%;
     width: 50%;
   }
-
   .block-right {
     right: 0;
     top: 0 !important;
   }
-
   .color-blocks a {
     float: left;
     width: 50%;
   }
-
   /*-- video section --*/
   .embedded-video-holder {
     margin-top: 30px;
   }
-
   .embedded-video-holder iframe {
     height: 370px;
   }
-
   /*-- hotel styles --*/
   .info-box img {
     display: block;
@@ -3112,12 +3094,10 @@ body .colors .col-xs-2:nth-child(6n+0) {
     max-width: 100%;
     width: 100%;
   }
-
   .hotel-price {
     float: left;
     width: auto;
   }
-
   .visitor-info .col-sm-6 {
     float: left;
     width: 50%;
@@ -3125,8 +3105,8 @@ body .colors .col-xs-2:nth-child(6n+0) {
 }
 
 /* Extra Small Devices, Phones */
-@media only screen and (max-width: 480px) {
 
+@media only screen and (max-width: 480px) {
   /*-- Hero section --*/
   .hero-slider img.logo {
     display: block;
@@ -3134,53 +3114,43 @@ body .colors .col-xs-2:nth-child(6n+0) {
     max-width: 70%;
     text-align: center;
   }
-
   .hero-slider .container {
     top: 50%;
   }
-
   .video-header .uppercase,
   .countdown-header .uppercase {
     margin-bottom: 24px;
     margin-top: 24px;
   }
-
   .hero-slider .slides li {
     height: 750px;
   }
-
   /*-- color section --*/
   .block-content {
     display: block;
     margin-bottom: 144px;
     overflow: hidden;
   }
-
   .color-block {
     height: 50%;
     width: 100%;
   }
-
   .block-right {
     bottom: 0 !important;
     right: 0;
     top: auto !important;
   }
-
   .color-blocks a {
     float: none;
     width: 100%;
   }
-
   /*-- video section --*/
   .embedded-video-holder {
     margin-top: 30px;
   }
-
   .embedded-video-holder iframe {
     height: 250px;
   }
-
   /*-- hotel styles --*/
   .info-box img {
     display: block;
@@ -3188,12 +3158,10 @@ body .colors .col-xs-2:nth-child(6n+0) {
     max-width: 100%;
     width: 100%;
   }
-
   .hotel-price {
     float: left;
     width: auto;
   }
-
   .visitor-info .col-sm-6 {
     float: none;
     width: 100%;
@@ -3201,6 +3169,7 @@ body .colors .col-xs-2:nth-child(6n+0) {
 }
 
 /* Custom, iPhone Retina */
+
 @media only screen and (max-width: 320px) {
   /*-- Hero section --*/
   .hero-slider img.logo {
@@ -3209,53 +3178,43 @@ body .colors .col-xs-2:nth-child(6n+0) {
     max-width: 70%;
     text-align: center;
   }
-
   .hero-slider .container {
     top: 50%;
   }
-
   .video-header .uppercase,
   .countdown-header .uppercase {
     margin-bottom: 24px;
     margin-top: 24px;
   }
-
   .hero-slider .slides li {
     height: 500px;
   }
-
   /*-- color section --*/
   .block-content {
     display: block;
     margin-bottom: 144px;
     overflow: hidden;
   }
-
   .color-block {
     height: 50%;
     width: 100%;
   }
-
   .block-right {
     bottom: 0 !important;
     right: 0;
     top: auto !important;
   }
-
   .color-blocks a {
     float: none;
     width: 100%;
   }
-
   /*-- video section --*/
   .embedded-video-holder {
     margin-top: 30px;
   }
-
   .embedded-video-holder iframe {
     height: 250px;
   }
-
   /*-- hotel styles --*/
   .info-box img {
     display: block;
@@ -3263,12 +3222,10 @@ body .colors .col-xs-2:nth-child(6n+0) {
     max-width: 100%;
     width: 100%;
   }
-
   .hotel-price {
     float: left;
     width: auto;
   }
-
   .visitor-info .col-sm-6 {
     float: none;
     width: 100%;
@@ -3298,24 +3255,34 @@ body .colors .col-xs-2:nth-child(6n+0) {
   font-weight: 600;
 }
 
+.session-description ul {
+  list-style: disc;
+  padding-left: 1em;
+  margin-bottom: 1em;
+  font-size: 16px;
+}
+
 .flexcolumn {
   display: flex;
   flex-direction: column;
 }
+
 .scrollSection {
   position: relative;
 }
+
 .scrollSection .flexcolumn {
   position: relative;
   height: 60vh;
   overflow-y: scroll;
 }
+
 .scrollSection:before {
   content: '';
   position: absolute;
-  left:0;
-  top:0;
-  right:0;
+  left: 0;
+  top: 0;
+  right: 0;
   bottom: 0;
   z-index: 1;
   display: block;
