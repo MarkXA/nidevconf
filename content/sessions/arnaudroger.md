@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "You don't need scrum to be agile"
 speaker = "arnaudroger"
 keynote = false
