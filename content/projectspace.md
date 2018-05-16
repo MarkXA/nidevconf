@@ -14,7 +14,7 @@ title = "Project Space"
                 </p>
                 <h3>Why</h3>
                 <p>
-                  We would like to help attendees show off their personel projects. Maybe you want people to test it, to get involved in your projects or you just want to show off.
+                  We would like to help attendees show off their personal projects. Maybe you want people to test it, to get involved in your projects or you just want to show off.
                 </p>
                 <h3>When</h3>
                 <p>
