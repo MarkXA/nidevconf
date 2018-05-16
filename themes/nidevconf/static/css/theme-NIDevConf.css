@@ -3319,7 +3319,7 @@ body .colors .col-xs-2:nth-child(6n+0) {
   bottom: 0;
   z-index: 1;
   display: block;
-  background-image: linear-gradient(to top, rgba(245, 245, 245, 1), rgba(245, 245, 245, 0) 25%, rgba(245, 245, 245, 0));
+  background-image: linear-gradient(to top, rgba(245, 245, 245, 1), rgba(245, 245, 245, 0.9) 72px, rgba(245, 245, 245, 0) calc(72px + 20vh), rgba(245, 245, 245, 0));
   pointer-events: none;
 }
 
