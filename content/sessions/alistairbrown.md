@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Instrument your life"
 speaker = "alistairbrown"
 keynote = false
