@@ -3302,9 +3302,25 @@ body .colors .col-xs-2:nth-child(6n+0) {
   display: flex;
   flex-direction: column;
 }
+.scrollSection {
+  position: relative;
+}
 .scrollSection .flexcolumn {
+  position: relative;
   height: 60vh;
   overflow-y: scroll;
+}
+.scrollSection:before {
+  content: '';
+  position: absolute;
+  left:0;
+  top:0;
+  right:0;
+  bottom: 0;
+  z-index: 1;
+  display: block;
+  background-image: linear-gradient(to top, rgba(245, 245, 245, 1), rgba(245, 245, 245, 0.9) 72px, rgba(245, 245, 245, 0) calc(72px + 20vh), rgba(245, 245, 245, 0));
+  pointer-events: none;
 }
 
 .randomorder {
