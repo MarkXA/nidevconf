@@ -3302,6 +3302,10 @@ body .colors .col-xs-2:nth-child(6n+0) {
   display: flex;
   flex-direction: column;
 }
+.scrollSection .flexcolumn {
+  height: 60vh;
+  overflow-y: scroll;
+}
 
 .randomorder {
   visibility: hidden;
