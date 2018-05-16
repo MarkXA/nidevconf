@@ -9,11 +9,11 @@ title = "Access and Accessibility"
             <div class="col-md-12 main">
                 <h1>Children</h1>
 
-                <p>Full details are TBD, but we intend to provide a cr&egrave;che facility at this year's conference.</p>
+                <p>Childcare will be available, but to give us time to finalise arrangements you <strong>must</strong> reserve a child ticket on or before Thursday <strong>24th May</strong> to get a place.</p>
 
-                <p>Children will of course be welcome to attend free of charge.</p>
+                <p>Children are of course be welcome to attend free of charge.</p>
 
-                <p>If you have any specific questions at this stage, please let us know at <a href='inbox@nidevconf.com'>inbox@nidevconf.com</a>.</p>
+                <p>If you have any specific questions, please let us know at <a href='inbox@nidevconf.com'>inbox@nidevconf.com</a>.</p>
             </div>
         </main>
     </div>

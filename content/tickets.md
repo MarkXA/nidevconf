@@ -16,6 +16,7 @@ title = "Tickets"
                     <ul>
                         <li><strong>Early Bird</strong> (strictly limited availability!) - <strong>£25</strong> / £10 concession</li>
                         <li><strong>Standard price</strong> - <strong>£45</strong> / £15 concession</li>
+                        <li><strong>Children and carers</strong> - <strong>Free</strong>
                     </ul>
                     Concessionary prices are for students, unwaged etc.
                 </p>
