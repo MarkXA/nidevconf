@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Alan Stirling"
 keynote = false
+speakerimage = "/img/speakers/alanstirling.jpg"
 twitter = "https://twitter.com/AlanStirling"
 website = "https://www.astirling.co.uk/"
 website2 = "https://www.alderhilldigital.co.uk/"

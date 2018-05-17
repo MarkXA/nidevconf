@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Joan McAleer"
 keynote = false
+speakerimage = "/img/speakers/joanmcaleer.jpg"
 twitter = "https://twitter.com/joanmcaleer"
 linkedin = "https://www.linkedin.com/in/joan-mcaleer-83015533"
 +++

@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Stephen Rushe"
 keynote = false
+speakerimage = "/img/speakers/stephenrushe.jpg"
 twitter = "https://twitter.com/srushe"
 github = "https://github.com/srushe"
 website = "https://deeden.co.uk/"
