@@ -2,7 +2,7 @@
 draft = false
 title = "Chloe McAteer"
 keynote = false
-speakerimage = "/img/speakers/chloemcateer.JPG"
+speakerimage = "/img/speakers/chloemcateer.jpg"
 twitter = "https://twitter.com/ChloeMcAteer3"
 linkedin = "https://www.linkedin.com/in/chloe-mcateer-67285312a/"
 github = "https://github.com/c-mcateer"
