@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Introduction to Product Management (ie. WTF is 'product'?)"
 speaker = "emmamulholland"
 keynote = false

@@ -1,7 +1,12 @@
 +++
-draft = true
+draft = false
 title = "Jason Lawson"
 keynote = false
+speakerimage = "/img/speakers/jasonlawson.jpg"
 +++
 
-I am a software engineer at Liberty IT with approximately 15 years experience in the industry, currently working on a small agile based team. I particularly enjoy collaborative code, refactor, clean and learn sessions such as team mobbing.
+Jason is a software engineer at Liberty IT, working on a small agile based team that provides cloud native solutions for parent company Liberty Mutual Insurance Group.
+
+He particularly enjoys collaborative code, refactor, clean mob sessions.
+
+Outside of development he likes chocolate, hiking and photography – which he often combines into one activity in the Mournes.
