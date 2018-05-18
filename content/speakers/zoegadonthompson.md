@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Zoe Gadon-Thompson"
 keynote = false
+speakerimage = "/img/speakers/zoegadonthompson.jpg"
 twitter = "https://twitter.com/gingerzoealex"
 github = "https://github.com/zoealexandra"
 website = "https://gingerzoealex.co.uk/"
