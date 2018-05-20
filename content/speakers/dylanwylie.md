@@ -1,11 +1,14 @@
 +++
-draft = true
+draft = false
 title = "Dylan Wylie"
 keynote = false
+speakerimage = "/img/speakers/dylanwylie.jpg"
 twitter = "https://twitter.com/dylwylie"
 linkedin = "https://www.linkedin.com/in/dylanjwylie/"
-github = "https://github.com/dylan1312"
+github = "https://github.com/Dylan1312"
 website = "http://wyl.ie"
 +++
 
-Dylan got into programming by writing bots for games when he was 12. He studied Physics at Queens and works in the internet advertising world being one of the first employees in SpotX Belfast. In his spare time he puts out fires as one of the directors over at Farset Labs.
+Dylan Wylie is a Senior Software Engineer working in the adtech world, being one of the first employees at SpotX Belfast.
+
+He got into programming as a kid, writing bots for games. In his spare time he puts out fires as a director over at Farset Labs.
