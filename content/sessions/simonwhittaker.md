@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Data (in)security in a Cloud Environment"
 speaker = "simonwhittaker"
 keynote = false

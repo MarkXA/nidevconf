@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Simon Whittaker"
 keynote = false
+speakerimage = "/img/speakers/simonwhittaker.jpg"
 twitter = "https://twitter.com/szlwzl"
 linkedin = "https://www.linkedin.com/in/simonwhittaker/"
 github = "https://github.com/szlwzl"
