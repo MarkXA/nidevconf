@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Music metadata identifiers gamechangers for copyrighting"
 speaker = "ritubhatt"
 keynote = false
