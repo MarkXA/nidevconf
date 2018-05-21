@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Let Tester write some code."
 speaker = "maciejwyrodek"
 keynote = false

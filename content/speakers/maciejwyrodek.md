@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Maciej Wyrodek"
 keynote = false
+speakerimage = "/img/speakers/maciejwyrodek.jpg"
 twitter = "https://twitter.com/thebrokentest"
 linkedin = "https://www.linkedin.com/in/wyrodek"
 github = "https://github.com/mwyrodek"
