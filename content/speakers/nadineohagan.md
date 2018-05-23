@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Nadine O'Hagan"
 keynote = false
+speakerimage = "/img/speakers/nadineohagan.jpg"
 twitter = "https://twitter.com/cudibu"
 linkedin = "https://www.linkedin.com/in/nadine-o-hagan-92b44395"
 +++

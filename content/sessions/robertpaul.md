@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "The Mythical Rewrite"
 speaker = "robertpaul"
 keynote = false

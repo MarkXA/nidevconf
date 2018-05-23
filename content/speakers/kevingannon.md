@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Kevin Gannon"
 keynote = false
+speakerimage = "/img/speakers/kevingannon.jpg"
 twitter = "https://twitter.com/kevin_gannon"
 linkedin = "http://www.linkedin.com/in/kevgannon"
 +++
