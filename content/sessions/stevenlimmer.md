@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Modern Agile - let's do things right!"
+title = "Modern Agile; lets make it safe!"
 speaker = "stevenlimmer"
 keynote = false
 lightning = false
