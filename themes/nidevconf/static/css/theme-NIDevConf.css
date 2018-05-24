@@ -2446,6 +2446,11 @@ p.question {
   min-width: 200px;
 }
 
+.supporter .sponsor {
+  flex-basis: 10%;
+  min-width: 200px;
+}
+
 .prizes {
   display: flex;
   flex-direction: column;
