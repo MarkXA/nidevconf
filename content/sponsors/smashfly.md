@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Smashfly"
 sponsorlevel = "silver"
 logo = "/img/sponsors/smashfly.svg"
