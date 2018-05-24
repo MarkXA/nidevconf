@@ -1,5 +1,5 @@
 +++
-draft = true 
+draft = false 
 title = "ShopKeep"
 sponsorlevel = "supporter"
 logo = "/img/sponsors/shopkeep.png"
