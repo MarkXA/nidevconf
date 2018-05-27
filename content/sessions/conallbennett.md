@@ -4,6 +4,8 @@ title = "Consumer driven development for your micro services"
 speaker = "conallbennett"
 keynote = false
 lightning = false
+time = "9"
+room = "0"
 +++
 
 Despite the title this talk is all about testing and taking a customer / consumer centric approach to designing and developing your api and integrating your micro services, by applying good testing patterns to inform your design. This talk will cover an explanation of what Consumer driven contract (CDC) testing is and how it can help inform your design choices for micro services, streamline your functional testing and continuous delivery cycle with earlier feedback on api integration and provide greater confidence for your deployment. It will also introduce some tools you can use to implement the pattern and some different implementation approaches.

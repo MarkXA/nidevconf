@@ -5,6 +5,8 @@ speaker = "rogersimms"
 speaker2 = "simonhewitt"
 keynote = false
 lightning = false
+time = "2"
+room = "0"
 +++
 
 Using the power of ANTLR and Go we will build a simple language allowing our users to dynamically script while simultaneously allowing our engineers to statically compile. 

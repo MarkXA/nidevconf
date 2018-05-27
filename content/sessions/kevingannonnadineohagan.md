@@ -5,6 +5,8 @@ speaker = "kevingannon"
 speaker2 = "nadineohagan"
 keynote = false
 lightning = false
+time = "8"
+room = "0"
 +++
 
 This talk will give a brief intro to Blockchain and delve into more detail on a number of the different Blockchain and Distributed Ledger Technology stacks available and the use cases they are suited to. From the many options available a few years back, funnelling down to a few main players; we will explain how we continue to match use case requirements to blockchain fabric criteria.

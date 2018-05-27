@@ -4,6 +4,8 @@ title = "An Introduction to Open Banking"
 speaker = "zekikucukkose"
 keynote = false
 lightning = false
+time = "7"
+room = "1"
 +++
 
 The talk will cover:

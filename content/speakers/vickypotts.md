@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Vicky Potts"
 keynote = false
+speakerimage = "/img/speakers/noavatar.jpg"
 twitter = "https://twitter.com/whitepotvicky"
 linkedin = "https://www.linkedin.com/in/vickypotts/"
 github = "https://github.com/Vixxd"

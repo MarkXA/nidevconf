@@ -4,6 +4,8 @@ title = "The Rookie's Survival Guide"
 speaker = "ryanwilson"
 keynote = false
 lightning = false
+time = "3"
+room = "3"
 +++
 
 Much like leaving secondary school for university, leaving university for work flips the table on your life, resetting the playing field. The high of finishing off a long torrid slog through classes, projects and dissertations, is quickly dashed as the realisation hits - you’ve become the rookie once more in the new world of work. 

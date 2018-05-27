@@ -4,6 +4,8 @@ title = "There’s no Imposters Here"
 speaker = "chrislaughlin"
 keynote = false
 lightning = false
+time = "10"
+room = "2"
 +++
 
 The google trend for imposter syndrome took a spike in December 2014, it wasn’t until mid 2017 that the topic reached peek in the tech industry. It is an indiscriminate force that affects all people in tech. Fueled by the constant bombardment of blog posts, tweets and new advancements in technology. Imposter syndrome can haunt someone throughout their career.

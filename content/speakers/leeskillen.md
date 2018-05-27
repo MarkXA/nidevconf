@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Lee Skillen"
 keynote = false
+speakerimage = "/img/speakers/noavatar.jpg"
 twitter = "https://twitter.com/lskillen"
 linkedin = "https://linkedin.com/in/lskillen"
 github = "https://github.com/lskillen"

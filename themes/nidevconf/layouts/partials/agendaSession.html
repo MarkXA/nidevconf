@@ -1,12 +1,13 @@
 {{ $session := .session }}
 {{ $room := .room }}
+{{ $time := .time }}
 
 {{ if $session }}
     {{ range $session }}
         <div>
             <a href="{{ .RelPermalink }}" class="sessionlink">
                 {{ if $room }}
-                    <span class="agendaRoom">Room {{ $room }} - </span>
+                    <span class="agendaRoom">{{ $room }} - </span>
                 {{ end }}
                 {{ if .Params.keynote }}
                     <strong>KEYNOTE:
@@ -21,8 +22,12 @@
 {{ else }}
     <div>
         {{ if $room }}
-            <span class="agendaRoom">Room {{ $room }} - </span>
+            <span class="agendaRoom">{{ $room }} - </span>
         {{ end }}
-        TBC
+        {{ if or (eq $time "5") (eq $time "6") }}
+            LUNCH
+        {{ else }}
+            TBC
+        {{ end }}
     </div>
 {{ end }}

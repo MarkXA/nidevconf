@@ -4,6 +4,8 @@ title = "Grokking Your Mental Health"
 speaker = "neillboyd"
 keynote = false
 lightning = false
+time = "7"
+room = "2"
 +++
 
 This talk will involve me opening up about my own experiences with s Bi-polar II Disorder and how it has both helped and hindered me in a long career in the tech space. I will discuss my own experiences in order to help others make sense of anything they may be going through or anyone they know*. The discussion will really be in two parts, my personal experiences followed by how what I have learnt can help companies and individuals. The topics covered will be:

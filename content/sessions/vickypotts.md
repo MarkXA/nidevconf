@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "NI Game Dev Scene"
 speaker = "vickypotts"
 keynote = false

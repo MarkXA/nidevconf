@@ -4,6 +4,8 @@ title = "Building Microservices with Spring Cloud/Netflix OSS"
 speaker = "udhayakumarrajendran"
 keynote = false
 lightning = false
+time = "5"
+room = "0"
 +++
 
 In this talk we will explore how to build simple microservices using Spring Boot

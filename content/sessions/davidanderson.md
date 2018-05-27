@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Serverless says: 'This is your time'"
 speaker = "davidanderson"
 keynote = false

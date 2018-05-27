@@ -4,6 +4,8 @@ title = "Instrument your life"
 speaker = "alistairbrown"
 keynote = false
 lightning = false
+time = "7"
+room = "3"
 +++
 
 Every day we generate huge amounts information about our lives; sometimes that information is lost by never being recorded (eg. was today a good day or bad day? what did I work on today?), sometimes it gets recorded automatically only to be siloed within a particular service without ever being thought about (eg. the shows I've streamed on Netflix, a restaurant review on TripAdvisor).

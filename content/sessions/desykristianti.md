@@ -4,6 +4,8 @@ title = "Middleware Integrations: An Innovative Approach to Connecting Enterpris
 speaker = "desykristianti"
 keynote = false
 lightning = false
+time = "9"
+room = "1"
 +++
 
 How does technology support large enterprises? Typically these businesses have multiple applications serving many different purposes, including customer management, order management, billing, HR, and payroll.

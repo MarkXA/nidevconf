@@ -4,6 +4,8 @@ title = "The Balancing Act of Tech, Business and Customers"
 speaker = "krisjones"
 keynote = false
 lightning = false
+time = "12"
+room = "2"
 +++
 
 As a new CTO in a fast growing startup, beginning its journey from R&D to commercialisation the challenges of balancing tech, business vision and customer requirements is a continuous discussion. 

@@ -4,6 +4,8 @@ title = "Application Security and the OWASP Top 10"
 speaker = "diarmaidmcgowan"
 keynote = false
 lightning = false
+time = "4"
+room = "2"
 +++
 
 Today, more and more of our personal lives are spent connected to the Internet. 

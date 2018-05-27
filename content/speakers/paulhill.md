@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Paul Hill"
 keynote = false
 speakerimage = "/img/speakers/paulhill.jpg"

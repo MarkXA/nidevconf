@@ -1,9 +1,11 @@
 +++
-draft = true
+draft = false
 title = "The Backend Strikes Back"
 speaker = "chrisnixon"
 keynote = false
 lightning = false
+time = "12"
+room = "0"
 +++
 
 Vaguely star wars themed, Sequel to "A Node Hype". Live demo with some background, using rust, cargo, npmjs.com and web pack
