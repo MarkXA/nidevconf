@@ -10,7 +10,7 @@ title = "Information for speakers"
                 <h1>Speaker Information</h1>
                 <h2>Checklist</h2>
                 <ul>
-                  <li>Before the day
+                    <li><h3>Before the day</h3>
                   <ul>
                     <li>Get to speaker events on May 30 and Jun 6, if you can!</li>
                     <li>Recommend doing a test run with someone for feedback</li>
@@ -20,7 +20,7 @@ title = "Information for speakers"
                     <li>Include any links to Twitter
                   </ul>
                   </li>
-                  <li>On the day
+                    <li><h3>On the day</h3>
                   <ul>
                     <li>Check in with your MC earlier in day</li>
                     <li>Get to room at least 5min before your talk (10min if you haven't already seen MC!)</li>
