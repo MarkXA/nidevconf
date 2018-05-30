@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Information for speakers"
 +++
 
 <section class="row">
@@ -33,7 +33,7 @@ title = "About"
                   </li>
                 </ul>            
                 <h2>Presenting</h2>
-                <p>Each room will have an MC and a room monitor - please introduce yourself the MC in your room earlier than
+                <p>Each room will have an MC and a room monitor - please introduce yourself to the MC in your room earlier than
                 your slot, so they can recognise you, and please arrive early in the 10 minute break before your slot to get
                 set up.</p>          
                 <p>You have 30 mins to present, and may include questions in that if desired. Certain rooms are more focused
