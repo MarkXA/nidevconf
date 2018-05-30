@@ -1,9 +1,11 @@
 +++
 draft = false
-title = "Confidence through Design : Helping users defeat hackers"
+title = "Confidence through Design: Helping users defeat hackers"
 speaker = "cearamccurdy"
 keynote = false
 lightning = false
+time = "11"
+room = "2"
 +++
 
 In today’s world security breaches are a seemingly everyday occurrence. We are constantly being bombarded with news reports on data breaches, warnings about your connected devices spying on you, and anyone who has an email address receiving phishing emails which (for the most part) seem to be getting a little too realistic as time passes. Depending on your knowledge of IT and how to be secure this can be a really scary place.

@@ -4,6 +4,8 @@ title = "Data (in)security in a Cloud Environment"
 speaker = "simonwhittaker"
 keynote = false
 lightning = false
+time = "8"
+room = "1"
 +++
 
 Cloud hosting, cloud storage, and the resulting data exposure, none of this is new. We’ve been overwhelmed over the past year or so with the volume of press and opinion on the impact of open S3 buckets in particular with reference to the exposure of data from the RNC, Accenture and Verizon.

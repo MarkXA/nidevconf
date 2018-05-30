@@ -4,6 +4,8 @@ title = "Coding in Kotlin with Arrow"
 speaker = "garthgilmour"
 keynote = false
 lightning = false
+time = "4"
+room = "0"
 +++
 
 Kotlin is one of the new generation of languages which are taking over from Java. It initially gained popularity on Android but has since spread to all kinds of application development. Although originally a JVM based language compilers have now been released that target JavaScript and native code.

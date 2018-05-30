@@ -4,6 +4,8 @@ title = "Doing More Design"
 speaker = "thomasswann"
 keynote = false
 lightning = false
+time = "3"
+room = "1"
 +++
 
 In this talk we will discuss the value of good design in successfully delivering software and how this is a process in which everyone on a development team should get involved.

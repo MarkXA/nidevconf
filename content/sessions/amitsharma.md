@@ -4,6 +4,8 @@ title = "What is a Blockchain? Learn by building one"
 speaker = "amitsharma"
 keynote = false
 lightning = false
+time = "1"
+room = "1"
 +++
 
 Satoshi Nakamoto released a white paper in 2009 titled, "Bitcoin: A Peer-to-Peer Electronic Cash System". Since then, cryptocurrencies have an estimated market value of $425 billion (as of time of writing). 

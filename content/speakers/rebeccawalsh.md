@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Rebecca Walsh"
 keynote = false
+speakerimage = "/img/speakers/noavatar.jpg"
 twitter = "https://twitter.com/ink_consultancy"
 +++
 

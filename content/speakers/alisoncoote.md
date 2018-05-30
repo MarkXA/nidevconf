@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Alison Coote"
 keynote = false
+speakerimage = "/img/speakers/noavatar.jpg"
 twitter = "https://twitter.com/alisoncoote"
 +++
 

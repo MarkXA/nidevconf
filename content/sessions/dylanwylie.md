@@ -4,6 +4,8 @@ title = "Petabyte-scale fast analytics with Druid. How the AdTech world combined
 speaker = "dylanwylie"
 keynote = false
 lightning = false
+time = "12"
+room = "1"
 +++
 
 Come and find out about some of the technology the advertising industry uses to understand its audience.

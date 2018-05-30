@@ -4,6 +4,8 @@ title = "The Benefits and Dangers of Design/Component Libraries"
 speaker = "clairewilgar"
 keynote = false
 lightning = false
+time = "3"
+room = "0"
 +++
 
 This talk will focus on Design/Component Libraries - basically a set of design rules and standardised/templated UI components for a project.

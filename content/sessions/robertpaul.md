@@ -4,6 +4,8 @@ title = "The Mythical Rewrite"
 speaker = "robertpaul"
 keynote = false
 lightning = false
+time = "11"
+room = "1"
 +++
 
 I've had the (mis?)fortune of spending almost half my career tasked with performing what Joel Spolsky calls the "single worst strategic mistake" a software company can make - rewriting applications from scratch. It's usually been the right decision, but it's often been a much greater challenge than it first appeared.

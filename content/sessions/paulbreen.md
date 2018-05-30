@@ -4,6 +4,8 @@ title = "Introduction to Azure Cognitive Services"
 speaker = "paulbreen"
 keynote = false
 lightning = false
+time = "1"
+room = "0"
 +++
 
 A walk through of some of the cognitive services available from azure, including (but not limited to) :

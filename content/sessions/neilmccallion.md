@@ -4,6 +4,8 @@ title = "Raising The Roof with Browser Audio Visualisation"
 speaker = "neilmccallion"
 keynote = false
 lightning = false
+time = "11"
+room = "0"
 +++
 
 When I was a kid, I had a vision. The room was ablaze in digital light, pulsing to the beat and dancing under my fingertips, while the crowd roared and raised their hands in the air. Forced to choose between being cool and being a nerd, however, I chose the latter.

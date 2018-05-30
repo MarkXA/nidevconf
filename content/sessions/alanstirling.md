@@ -4,6 +4,8 @@ title = "Open Data, Open Source ... Open Development"
 speaker = "alanstirling"
 keynote = false
 lightning = false
+time = "1"
+room = "2"
 +++
 
 A talk about a project that pulled together a multidisciplinary team of people from different businesses and sectors to produce tools for the open industry.

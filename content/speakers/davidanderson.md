@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "David Anderson"
 keynote = false
+speakerimage = "/img/speakers/noavatar.jpg"
 twitter = "https://twitter.com/davidand393"
 linkedin = "https://www.linkedin.com/in/david-anderson-lit"
 +++

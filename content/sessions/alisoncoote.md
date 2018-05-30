@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Product Management - why everyone needs to get involved"
 speaker = "alisoncoote"
 keynote = false

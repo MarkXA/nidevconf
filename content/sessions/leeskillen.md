@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Be Like GitHub, Don't Use GitHub"
 speaker = "leeskillen"
 keynote = false

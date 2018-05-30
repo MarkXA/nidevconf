@@ -1,9 +1,11 @@
 +++
-draft = true
+draft = false
 title = "Service Design in Gov - Connecting the online to the offline"
 speaker = "rebeccawalsh"
 keynote = false
 lightning = false
+time = "4"
+room = "3"
 +++
 
 The public sector has a reputation for focusing on delivery of pre-defined solutions and not designing tech based on the needs of the public. GDS (Government Digital Services) UK has started to shift that focus with the adoption of Service Design but in Northern Ireland we are struggling to keep up.
