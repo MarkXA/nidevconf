@@ -27,7 +27,7 @@ title = "Exhibition Space"
                 <p>
                   Here is the layout on the day. There is 3 entrances to the main area.
                 </p>
-                <img src="/img/exhibtions/exhibtionsarea.png"/>
+                <img src="/static/img/exhibtions/exhibtionsarea.png"/>
                 <h3>Ideas for attracting developers</h3>
                 <p>
                    <ul>
@@ -42,9 +42,9 @@ title = "Exhibition Space"
                 <p>
                   We visited the main area when there was exhbitors from another conference. Here is some pictures.
                 <p>
-                <img style="height:600px; width:700px; src="/img/exhibtions/main1.jpg"/>
-                <img style="height:600px; width:700px; src="/img/exhibtions/main2.jpg"/>
-                <img style="height:600px; width:700px; src="/img/exhibtions/main3.jpg"/>
+                <img style="height:600px; width:700px; src="/static/img/exhibtions/main1.jpg"/>
+                <img style="height:600px; width:700px; src="/static/img/exhibtions/main2.jpg"/>
+                <img style="height:600px; width:700px; src="/static/img/exhibtions/main3.jpg"/>
                 <h3>See you there!</h3>
             </div>
         </main>
