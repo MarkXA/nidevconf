@@ -38,6 +38,8 @@ title = "Exhibition Space"
                      <li>Your own great ideas</li>
                    </ul>
                 </p>
+                <h3>Frequently Ask Questions</h3>
+                <p>None at the moment</p>
                 <h3>Pictures of the Exhbitors area</h3>
                 <p>
                   We visited the main area when there was exhbitors from another conference. Here is some pictures.
