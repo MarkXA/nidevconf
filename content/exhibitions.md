@@ -27,8 +27,9 @@ title = "Exhibition Space"
                 <p>
                   Here is the layout on the day. There is 3 entrances to the main area.
                 </p>
-                ![This is an image](/img/exhibtions/exhibtionsarea.png)
-                <img src="/static/img/exhibtions/exhibtionsarea.png"/>
+                ![This is an image](/img/exhibtions/exhibitorarea.png)
+                <img src="/static/img/exhibtions/exhibitorarea.png"/>
+                <img src="/img/exhibtions/exhibitorarea.png"/>
                 <h3>Ideas for attracting developers</h3>
                 <p>
                    <ul>
