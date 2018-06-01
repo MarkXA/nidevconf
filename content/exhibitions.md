@@ -42,7 +42,7 @@ title = "Exhibition Space"
                 <p>None at the moment</p>
                 <h3>Pictures of the Exhbitors area</h3>
                 <p>
-                  We visited the main area when there was exhbitors from another conference. Here is some pictures.
+                  We visited the main area when there was exhibitors from another conference. Here is some pictures.
                 <p>
                 <img style="height:600px; width:700px;"  src="/img/exhibtions/main1.jpg"/>
                 <img style="height:600px; width:700px;"  src="/img/exhibtions/main2.jpg"/>
