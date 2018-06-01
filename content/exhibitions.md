@@ -42,10 +42,9 @@ title = "Exhibition Space"
                 <p>
                   We visited the main area when there was exhbitors from another conference. Here is some pictures.
                 <p>
-                <img src="img/exhibtions/"/>
-                <img src="img/exhibtions/"/>
-                <img src="img/exhibtions/"/>
-                <img src="img/exhibtions/"/>
+                <img src="/img/exhibtions/main1.jpg"/>
+                <img src="/img/exhibtions/main2.jpg"/>
+                <img src="/img/exhibtions/main3.jpg"/>
                 <h3>See you there!</h3>
             </div>
         </main>
