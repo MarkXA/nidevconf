@@ -23,26 +23,26 @@ title = "Exhibition Space"
                     <li>Power Extension lead connection</li>
                   </ul>
                 </p>
-                <h3>Exhbitors layout</h3>
+                <h3>Exhibitors layout</h3>
                 <p>
-                  Here is the layout on the day. There is 3 entrances to the main area.
+                  Here is the layout on the day. There are 3 entrances to the main area.
                 </p>
                 <img src="/img/exhibtions/exhibitorarea.png"/>
                 <h3>Ideas for attracting developers</h3>
                 <p>
                    <ul>
                      <li>Have them sign up for a competition. We can announce it at the opening and closing parts of the day. You can tweet about it and we retweet from our account.</li>
-                     <li>Code Challenge: Give them code on a page. See if they can find all the issue wrong with it</li>
+                     <li>Code Challenge: Give them code on a page. See if they can find all the things wrong with it</li>
                      <li>VR/AR experience with a product you are developing</li>
-                     <li>Screen with an interactive program like chatbots/Games/Blockchain/AI etc. </li>
-                     <li>Your own great ideas</li>
+                     <li>Screen with an interactive program like chatbots / games / blockchain / AI etc. </li>
+                     <li>Your own great ideas :)</li>
                    </ul>
                 </p>
-                <h3>Frequently Ask Questions</h3>
-                <p>None at the moment</p>
+                <h3>Frequently Asked Questions</h3>
+                <p>None at the moment!</p>
                 <h3>Pictures of the Exhbitors area</h3>
                 <p>
-                  We visited the main area when there was exhibitors from another conference. Here is some pictures.
+                  We visited the main area when there were exhibitors present for another conference. Here are some pictures.
                 <p>
                 <img style="height:600px; width:700px;"  src="/img/exhibtions/main1.jpg"/>
                 <img style="height:600px; width:700px;"  src="/img/exhibtions/main2.jpg"/>
