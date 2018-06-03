@@ -15,7 +15,7 @@ title = "Access and Accessibility"
 
                 <p>While we will not be able to provide live captioning, if you would be benefited by suitable seat reservation, or there are other ways we can facilitate your experience of the event, please get in touch via <a href='mailto:inbox@nidevconf.com'>inbox@nidevconf.com</a> or one of our organizing team directly. We do have some preparation space that may be used as a quieter area, however, if find you need access to a suitable space during the day, please let one of our organizing team know.</p>
 
-                <img src='/img/floorplan.png' style='max-width: 700px' />
+                <img src='/img/floorplan-rh.png' style='max-width: 700px' />
                 <p><em>Full venue accessibility will be available shortly.</em></p>
 
                 <p>If there is information that you feel should be here, but is not, please let us know at <a href='inbox@nidevconf.com'>inbox@nidevconf.com</a>.</p>
