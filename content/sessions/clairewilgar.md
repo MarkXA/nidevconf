@@ -4,7 +4,7 @@ title = "The Benefits and Dangers of Design/Component Libraries"
 speaker = "clairewilgar"
 keynote = false
 lightning = false
-time = "3"
+time = "8"
 room = "0"
 +++
 

@@ -5,7 +5,7 @@ speaker = "kevingannon"
 speaker2 = "nadineohagan"
 keynote = false
 lightning = false
-time = "8"
+time = "3"
 room = "0"
 +++
 
