@@ -1,0 +1,1637 @@
+﻿{
+  "date": "2018-06-09",
+  "lightningIntro": "Lightning talks will start at 9:50 and run until approximately 13:00.",
+  "sessions": [
+    {
+      "draft": false,
+      "title": "Open Data, Open Source ... Open Development",
+      "speaker": "alanstirling",
+      "keynote": false,
+      "lightning": false,
+      "time": "1",
+      "room": "2",
+      "id": "alanstirling",
+      "description": "A talk about a project that pulled together a multidisciplinary team of people from different businesses and sectors to produce tools for the open industry.\n\nWhat is Open Development? There is no hard and fast definition but one of the best ways to try and answer this question is to look at some of the general principles in the context of a real world project. The project was initiated to create tools to help people in the open data industry; it used open source software and the project team was about as open as it gets.\n\nSo, how did it come about? What were the processes used? What was the outcome? and was the project successful? These are all things we will see at as we look at this in more detail."
+    },
+    {
+      "draft": false,
+      "title": "Product Management - why everyone needs to get involved",
+      "speaker": "alisoncoote",
+      "keynote": false,
+      "lightning": true,
+      "order": 1,
+      "id": "alisoncoote",
+      "description": "As a product manager its not all about me. I take information from a lot of different disciplines such as engineers and designers which enable the teams I work with to built the right thing and build it right."
+    },
+    {
+      "draft": false,
+      "title": "Instrument your life",
+      "speaker": "alistairbrown",
+      "keynote": false,
+      "lightning": false,
+      "time": "7",
+      "room": "3",
+      "id": "alistairbrown",
+      "description": "Every day we generate huge amounts information about our lives; sometimes that information is lost by never being recorded (eg. was today a good day or bad day? what did I work on today?), sometimes it gets recorded automatically only to be siloed within a particular service without ever being thought about (eg. the shows I've streamed on Netflix, a restaurant review on TripAdvisor).\n\nThis talk will discuss the different kinds of information we can collect and, where it isn't automatically collected, the techniques we can use to remove barriers for manual data collection. It will look at why this data is important and why we'd want to instrument parts of our lives, discussing tooling for extraction. Finally it will then move on to how we can take all of this data and combine it to provide context, gaining insights by making it more useful than the sum of its parts.\n\nThe aim is for the audience to see some of the information we inadvertently give out about our lives, that we can actively record or retrieve that information, and the ways we can combine that information to gain better insight about ourselves. Hopefully they will be inspired to look into the data they own across the services they use and think about what parts of their lives they'd want to record and measure."
+    },
+    {
+      "draft": false,
+      "title": "What is a Blockchain? Learn by building one",
+      "speaker": "amitsharma",
+      "keynote": false,
+      "lightning": false,
+      "time": "1",
+      "room": "1",
+      "id": "amitsharma",
+      "description": "Satoshi Nakamoto released a white paper in 2009 titled, \"Bitcoin: A Peer-to-Peer Electronic Cash System\". Since then, cryptocurrencies have an estimated market value of $425 billion (as of time of writing). \n\nMost people who are aware of crypto have typically heard of the two \"B's\" - Bitcoin and Blockchain. The former, created in 2009, is a type of digital currency and was the first ever decentralised cryptocurrency. It has been coined the digital gold of the 21st century, and it's popularity lead to the creation of hundreds of other cryptocurrencies which are commonly known as alt-coins (alternative coins). At the heart of Bitcoin and many of these alt-coins, they employ a technology known as a Blockchain. Being one of the core features of a cryptocurrency, it took me a while to truly grasp what it was and what role it played in a functioning cryptocurrency.\n\nIn the 30 minutes provided I hope to demystify what a Blockchain is and break down the core features of a Blockchain by walking the audience through one created in JavaScript (being a JavaScript enthusiast and all..)."
+    },
+    {
+      "draft": false,
+      "title": "Idiots Guide to (Open) Data Science",
+      "speaker": "andrewbolster",
+      "keynote": false,
+      "lightning": false,
+      "time": "2",
+      "room": "1",
+      "id": "andrewbolster",
+      "description": "Setup, configuration, and use of Python Data Science tools, highlighting some of the technical pitfalls / statistical failings people often come across in the cleaning and analysis of data. Focus on using multiple datasets from OpenDataNI to generate insights into economic policy and educational attainment in Northern Ireland."
+    },
+    {
+      "draft": false,
+      "title": "You don't need scrum to be agile",
+      "speaker": "arnaudroger",
+      "keynote": false,
+      "lightning": true,
+      "order": 2,
+      "id": "arnaudroger",
+      "description": "In the world of scrum certification and scrum master, few seen it as it really is a marketing ploy to sell certification. Let's dig into scrum and have a bit of laugh to try to get back to what really matters for success."
+    },
+    {
+      "draft": false,
+      "title": "Confidence through Design: Helping users defeat hackers",
+      "speaker": "cearamccurdy",
+      "keynote": false,
+      "lightning": false,
+      "time": "11",
+      "room": "2",
+      "id": "cearamccurdy",
+      "description": "In today’s world security breaches are a seemingly everyday occurrence. We are constantly being bombarded with news reports on data breaches, warnings about your connected devices spying on you, and anyone who has an email address receiving phishing emails which (for the most part) seem to be getting a little too realistic as time passes. Depending on your knowledge of IT and how to be secure this can be a really scary place.\n\nFor this talk I’m going to take you to the other side of this problem. How do we build software to empower users to be more secure? Working on the UX team we strive to help our users know exactly what is happening and where they’re being attacked. To do this we need to filter out a huge amount of noise and help them pinpoint the exact moment of attack, and even better what they need to do next."
+    },
+    {
+      "draft": false,
+      "title": "Worst case scenario they say no!",
+      "speaker": "chloemcateer",
+      "keynote": false,
+      "lightning": true,
+      "order": 3,
+      "id": "chloemcateer",
+      "description": "I have recently realised the importance of taking as many opportunities as possible especially as a student. In the tech industry there are so many different ways to get involved in the local community, such as going to hackathons, meet ups or even conferences. All of these are great for finding other people in similar situations to yourself or finding people to learn from. Throughout my talk I want to explain why this is so important and my experiences in getting involved."
+    },
+    {
+      "draft": false,
+      "title": "There’s no Imposters Here",
+      "speaker": "chrislaughlin",
+      "keynote": false,
+      "lightning": false,
+      "time": "10",
+      "room": "2",
+      "id": "chrislaughlin",
+      "description": "The google trend for imposter syndrome took a spike in December 2014, it wasn’t until mid 2017 that the topic reached peek in the tech industry. It is an indiscriminate force that affects all people in tech. Fueled by the constant bombardment of blog posts, tweets and new advancements in technology. Imposter syndrome can haunt someone throughout their career.\n\nHowever “there are no imposters here” The tech community is actively working to remove barriers and provide inclusion for all. In these times we need to identify and stop imposter syndrome. \n\nIn this talk I will provide examples of imposter syndrome, providing methods to prevent this. Also look into the psychology of the syndrome and the affects it can have on the tech community."
+    },
+    {
+      "draft": false,
+      "title": "The Backend Strikes Back",
+      "speaker": "chrisnixon",
+      "keynote": false,
+      "lightning": false,
+      "time": "12",
+      "room": "0",
+      "id": "chrisnixon",
+      "description": "Vaguely star wars themed, Sequel to \"A Node Hype\". Live demo with some background, using rust, cargo, npmjs.com and web pack\n\nOutline:\n\n- Quick intro to WebAssembly\n- Even quicker intro to rust\n- Example of creating a rust package (crate)\n- Publishing said crate to npmjs as wasm module\n- Create a barebones html page in a clean environment (with no rust toolchain)\n- Install rust crate/webassembly module from npm\n- Embed the webassembly module in said html page\n- Show it running, hopefully...\n\nSummary:\n\n- Come to the dark side we have performance and powerful types\n- Examples of some other projects using webassembly for cool things\n- Potential warnings/drawbacks, no more view source, etc.\n\nIf I have time:\n\n- Brief sermon about formal reasoning being very powerful\n- Implications in other areas (webassembly on the server? unikernels?)\n- Some of my own Prognostication\n\nPotential gags include:\n\n- Some sort of language based you killed my father/I am your father joke.\n- Disappointing prequels (flash, java)\n- BIG CORPORATE (still a bit disappointing, but better) sequels (asmjs, PNACL)\n- \"I am the Senate/It's treason then\" (reduced democratisation of the web)\n\nAudience Outcomes:\n\n- Awareness that WebAssembly exists\n- Awareness of Rust\n- Demo that webassembly is already practical, _now_.\n- Pun exhaustion\n- Where we are on the \"Birth and Death of Javascript\" timeline"
+    },
+    {
+      "draft": false,
+      "title": "What Is DevSecOps? Where Security Meets Agile",
+      "speaker": "ciaranconliffe",
+      "keynote": false,
+      "lightning": true,
+      "order": 4,
+      "id": "ciaranconliffe",
+      "description": "\"Devsecops\" is one of the big buzzwords in the modern information security world, but what exactly does it mean? In this lightning talk I cover how \"traditional\" security practices break down in the face of modern Agile development practices, and how developers can manage to create secure code while maintaining speed to market.\n\nAmong the topics discussed are security education for developers, using red-teaming to drive security awareness, automated security testing (in its various different forms) and proactive security monitoring of applications."
+    },
+    {
+      "draft": false,
+      "title": "The Benefits and Dangers of Design/Component Libraries",
+      "speaker": "clairewilgar",
+      "keynote": false,
+      "lightning": false,
+      "time": "8",
+      "room": "0",
+      "id": "clairewilgar",
+      "description": "This talk will focus on Design/Component Libraries - basically a set of design rules and standardised/templated UI components for a project.\n\nWe will look at why this technique has gained in popularity, and whether it's worth considering for your project. We'll look at the potential benefits and drawbacks with these systems depending on how they are implemented, and what should be avoided to make sure you don’t over-complicate your system, make development more difficult or encourage bad standards.\n\nBy the end of this talk, you should have a reasonable idea of whether or not a style guide and component library would be a good tool for your project, and what steps you should take to ensure the addition does not create further problems or complexities."
+    },
+    {
+      "draft": false,
+      "title": "Consumer driven development for your micro services",
+      "speaker": "conallbennett",
+      "keynote": false,
+      "lightning": false,
+      "time": "9",
+      "room": "0",
+      "id": "conallbennett",
+      "description": "Despite the title this talk is all about testing and taking a customer / consumer centric approach to designing and developing your api and integrating your micro services, by applying good testing patterns to inform your design. This talk will cover an explanation of what Consumer driven contract (CDC) testing is and how it can help inform your design choices for micro services, streamline your functional testing and continuous delivery cycle with earlier feedback on api integration and provide greater confidence for your deployment. It will also introduce some tools you can use to implement the pattern and some different implementation approaches.\n\nTakeaways for participants:\n\n- introduction to CDC testing as a technique and the technical problem it helps solve\n- Understanding how this helps in development and early integration of your micro services\n- Understanding how to fit this into your testing approach and strategy\n- Tooling that exists around this technique and recommendations\n\n(I may also attempt a simple demo of the tooling and the pattern)"
+    },
+    {
+      "draft": false,
+      "title": "Visual Programming - Should Coders Stop Writing Code And Start Drawing Code?",
+      "speaker": "conorwoods",
+      "keynote": false,
+      "lightning": true,
+      "order": 5,
+      "id": "conorwoods",
+      "description": "Visual programming tools such as Scratch, Ardublock & Blockly have been around for a while but are generally scoffed at by 'real' developers for doing 'real' work. However, with the maturity of some of the tools available, is it now time for coders to seriously consider switching from 'writing' code to 'drawing' code for a living?"
+    },
+    {
+      "draft": false,
+      "title": "Serverless says: 'This is your time'",
+      "speaker": "davidanderson",
+      "keynote": false,
+      "lightning": true,
+      "order": 6,
+      "id": "davidanderson",
+      "description": "Every year the level of abstraction lifts and there are two type of engineer. Those who reject and those who embrace. If you are a developer who embraces change, it's never been better!\n\nThis talk will start to build on the simple concept of \"writing code for a user\" to \"delivering outcomes at speed\". All the latest cloud services put incredible power at the finger-tips of the developer, but with great abstraction comes great responsibility! \nLet's describe the Serverless concept, how AWS uses it to plug powerful services together. Then dive into the challenges with working in this way - performance, monitoring, cost, reliability, security..etc... Then jump into the Customer interaction, you can release really quickly, so there's a different way of working. Finally, focus on the different way of thinking and design systems - event driven, triggers and bounded context - not easy."
+    },
+    {
+      "draft": false,
+      "title": "Oh FOSS It - Free helpers through open source",
+      "speaker": "davidcutting",
+      "keynote": false,
+      "lightning": true,
+      "order": 7,
+      "id": "davidcutting",
+      "description": "In 2008 I replaced a bunch of disconnected ageing scripts that monitored my servers with a single simple network monitor... and released it open source in case anyone (or two) might use it. Over the next ten years it grew thanks to free community involvement both in terms of testing, suggestions, code submissions, community support, and everything else. Along the way it's spawned two independent FOSS projects which are spun-off components of the monitor which have their own lives now.\n\nThis talk will be a brief journey through this story and the lessons I've learnt that encourage me to release everything I can as FOSS - mainly to help me build the product if for no other reason!"
+    },
+    {
+      "draft": false,
+      "title": "The early Internet in Northern Ireland",
+      "speaker": "dermotbradley",
+      "keynote": false,
+      "lightning": false,
+      "time": "8",
+      "room": "2",
+      "id": "dermotbradley",
+      "description": "Northern Ireland has had Internet connectivity since the early 1990s. The speaker founded Northern Ireland's first commercial Internet Provider and recalls the technology of those early days as well as sharing some strange and funny stories along the way."
+    },
+    {
+      "draft": false,
+      "title": "Middleware Integrations: An Innovative Approach to Connecting Enterprise Applications",
+      "speaker": "desykristianti",
+      "keynote": false,
+      "lightning": false,
+      "time": "9",
+      "room": "1",
+      "id": "desykristianti",
+      "description": "How does technology support large enterprises? Typically these businesses have multiple applications serving many different purposes, including customer management, order management, billing, HR, and payroll.\n\nImagine this scenario: You receive an order from a new customer, they have to be added to the customer management system, the order has to be added to the order management system with the customer ID, and an invoice has to be produced in the billing system with the order number and customer ID. In essence, multiple applications need to be integrated to enable data flow.\n\nHowever, what happens if one of these systems is out of support or needs to be replaced? Re-building the integrations from scratch with a new application will be costly and time consuming.\n\nHear how middleware integrations can help connect these enterprise applications in a more innovative way.\n\nThere will be a live demo using a leading Integration Platform as a Service (iPaaS) solution so you can see it in action!"
+    },
+    {
+      "draft": false,
+      "title": "Application Security and the OWASP Top 10",
+      "speaker": "diarmaidmcgowan",
+      "keynote": false,
+      "lightning": false,
+      "time": "4",
+      "room": "2",
+      "id": "diarmaidmcgowan",
+      "description": "Today, more and more of our personal lives are spent connected to the Internet. \n\n\"Even without changing a single line of your application's code, you may become vulnerable as new flaws are discovered and attack methods are refined.\" (Quote OWASP Top 10)\n\nThis talk will provide an overview of the OWASP Top 10 Application Security Risks – 2017"
+    },
+    {
+      "draft": false,
+      "title": "Petabyte-scale fast analytics with Druid. How the AdTech world combined a search engine and a columnar datastore.",
+      "speaker": "dylanwylie",
+      "keynote": false,
+      "lightning": false,
+      "time": "12",
+      "room": "1",
+      "id": "dylanwylie",
+      "description": "Come and find out about some of the technology the advertising industry uses to understand its audience.\n\nLearn about the mechanisms that result in you seeing an ad for that George Foreman grill across the internet after you clicked on it by accident.\n\nI'll present a deep dive into Druid, an open source, high-performance, column-oriented datastore. We’ll talk about how it stores data and the optimisations that take place that allow it to answer questions on billions (and billions) of rows of data in less than a second.\n\nI'll also be talking about approximate algorithms and the architecture that allows Druid to scale to meet modern companies' needs.\n\nThen find out about the open source community that’s formed around Druid and how you can contribute."
+    },
+    {
+      "draft": false,
+      "title": "Introduction to Product Management (ie. WTF is 'product'?)",
+      "speaker": "emmamulholland",
+      "keynote": false,
+      "lightning": false,
+      "time": "8",
+      "room": "3",
+      "id": "emmamulholland",
+      "description": "High level introduction to what \"product\" as a concept is, and how product managers and developers work together to create products that people love."
+    },
+    {
+      "draft": false,
+      "title": "Coding in Kotlin with Arrow",
+      "speaker": "garthgilmour",
+      "keynote": false,
+      "lightning": false,
+      "time": "4",
+      "room": "0",
+      "id": "garthgilmour",
+      "description": "Kotlin is one of the new generation of languages which are taking over from Java. It initially gained popularity on Android but has since spread to all kinds of application development. Although originally a JVM based language compilers have now been released that target JavaScript and native code.\n\nArrow is a functional coding library, aimed at developers who love Kotlin but also want to use frameworks previously only available in languages like F#, Haskell and Scala. Its most fundamental feature is provision for Typeclasses. On top of this are built implementations of standard FP monadic datatypes (Try, Option, State etc...), types for managing effects (IO, Async etc...), support for Optics and integrations with other frameworks like RxJava.\n\nThis talk will introduce, via copious examples, the more functional style of Kotlin development possible with Arrow and discuss its merits in typical industry scenarios. No previous Kotlin or Arrow experience is required. Attendees wishing to follow along should bring a laptop with Java 8 and the latest version of IntelliJ Community Edition."
+    },
+    {
+      "draft": false,
+      "title": "Breaking Down Algorithm Design Problems Using Poker",
+      "speaker": "jasonbell",
+      "keynote": false,
+      "lightning": false,
+      "time": "10",
+      "room": "0",
+      "id": "jasonbell",
+      "description": "Is it possible to design an algorithm that will decide what to do with a poker hand in under 30 minutes? In this session I'll attempt to do so, breaking down the problem in small functions and showing you how it translates to code.\n\nThis talk is for everyone regardless of experience: coders, project managers and anyone interested in solving problems. It also gives us a glimpse into incomplete information scenarios which form the basis to machine learning and artificial intelligence. How do we decide when we don't have all the information?"
+    },
+    {
+      "draft": false,
+      "title": "Using Analogies: A common language for diverse teams",
+      "speaker": "jasonlawson",
+      "keynote": false,
+      "lightning": true,
+      "order": 8,
+      "id": "jasonlawson",
+      "description": "Agile development has led to increased communication and collaboration within more diverse teams.  With that positive shift comes plenty of opportunity for misinterpretation, misunderstanding and stressed relationships.\n\nAnalogies are a great tool for communicating complex ideas & concepts in a way that everyone can understand their value.  They can even be fun and entertaining.\n\nI will discuss how analogies can help with communication, dissonance and engagement by illustrating some I have used, including one for the often-fraught subject of Refactoring.   Find out how refactoring isn’t just for code development, it also ensures you get a great meal at your favourite restaurant."
+    },
+    {
+      "draft": false,
+      "title": "Leading software development teams to success",
+      "speaker": "joanmcaleer",
+      "keynote": false,
+      "lightning": false,
+      "time": "3",
+      "room": "2",
+      "id": "joanmcaleer",
+      "description": "Every software development team has to deliver, some are more successful than others and tend to be happier with a lower attrition rate.  The main reason for this is a great team culture but how does a team achieve this?  This talk is a crash course in how to achieve this providing practical tips which anyone on a team can implement on their team but especially beneficial to those in leadership positions like project manager, lead developer or tech lead."
+    },
+    {
+      "draft": false,
+      "title": "How to translate tech-talk",
+      "speaker": "jorourke",
+      "keynote": false,
+      "lightning": true,
+      "order": 9,
+      "id": "jorourke",
+      "description": "You've spent months developing something; you've researched, coded, pulled all-nighters and generally lived and breathed your project. \n\nNext step: getting people to actually use it. \n\nWhether you're trying to get people to download it, click on it, read about it or buy it, it's easy to fall into the features trap.\n\nYou'll know you're in the features trap if people's eyes glaze over when you start talking about your project.\n\nNon-techie people don't really care about the cool features (mostly because they don't know what they mean.)\n\nThey just want to know what it does for them. \n\nDoes it make their life easier?\n\nSave them time?\n\nMake them money?\n\nStop them feeling bad?\n\nThis is the value of your product. That's what you need to communicate."
+    },
+    {
+      "draft": false,
+      "title": "Be a great teacher for the greater good",
+      "speaker": "keshiamorrison",
+      "keynote": false,
+      "lightning": true,
+      "order": 10,
+      "id": "keshiamorrison",
+      "description": "If you're a developer you know you have plenty of resources available to you: books, online courses, stack overflow! But do we have as many good teachers available to us?\n\nWhen self-learning is king and self-taught success stories plentiful, are there too many excuses available for making time to be a teacher let alone a good one?\n\nAs a junior dev I'm concerned about the ratio of junior to senior. About the availability of teachers around me. And I hear them shout from the crowd \"there's plenty of teachers! You just need to reach out!\" And maybe I could go back to my laptop, and some more hours of frustration and insecurity that I'm just not cut out to be a developer, but I know I'm not alone in feeling like this. If all that happens is that I find out I've just been looking in the wrong places, I'll be delighted! If not, at the very least I hope to inspire others to be try to be better teachers for those around them and themselves. (I'm no perfect pupil, but that's a talk for someone else to give, and I'd love to hear it!)\n\nI want to share some of the skills and qualities I think make for not just good but great teachers. Things I have seen in the many great teachers I have had over the years and qualities I try to demonstrate when I teach; from children to my own peers. Qualities like patience and generosity of time. The ability to know when someone needs help. \n\nAnd to finish on an almighty cliche and sum up why I feel the need to share this talk, here is a quote I randomly found on Google: \"The most valuable resource that teachers have is eachother. Without collaboration our growth is limited to our own perspectives\" - Robert John Meehan"
+    },
+    {
+      "draft": false,
+      "title": "Thinking outside the Blocks",
+      "speaker": "kevingannon",
+      "speaker2": "nadineohagan",
+      "keynote": false,
+      "lightning": false,
+      "time": "3",
+      "room": "0",
+      "id": "kevingannonnadineohagan",
+      "description": "This talk will give a brief intro to Blockchain and delve into more detail on a number of the different Blockchain and Distributed Ledger Technology stacks available and the use cases they are suited to. From the many options available a few years back, funnelling down to a few main players; we will explain how we continue to match use case requirements to blockchain fabric criteria.\n\nThrough the lenses of our own experience in developing production applications across many industries, we’ll discuss how emerging technologies like Blockchain can be adopted by engineering teams to code, build and deploy using standard engineering practices.\n\nBy breaking through the hype and mistruth barrier, the audience will learn more about the main Blockchain and DLT stacks and their strengths and weaknesses. You will gain a better understanding of some of the key criteria useful in evaluating these offerings, the use case requirements they can solve and how engineers can adopt them."
+    },
+    {
+      "draft": false,
+      "title": "The Balancing Act of Tech, Business and Customers",
+      "speaker": "krisjones",
+      "keynote": false,
+      "lightning": false,
+      "time": "12",
+      "room": "2",
+      "id": "krisjones",
+      "description": "As a new CTO in a fast growing startup, beginning its journey from R&D to commercialisation the challenges of balancing tech, business vision and customer requirements is a continuous discussion. \n\nOver the past year we, at Secure Broadcast, have had to continuously reflect and improve our processes to maximise efficiency and ensure the right decisions were being made. This includes product and technology decisions that will shape the future of the tech stack and product roadmap. This talk will outline how we go about making these decisions and how we ensure we get the right people in the room at the right time."
+    },
+    {
+      "draft": false,
+      "title": "Be Like GitHub, Don't Use GitHub",
+      "speaker": "leeskillen",
+      "keynote": false,
+      "lightning": true,
+      "order": 11,
+      "id": "leeskillen",
+      "description": "A quick dive into the pros and cons of using GitHub Releases versus traditional Package Management for releasing code. The underlying earworm for takeaway is that GitHub doesn't use GitHub Releases for distribution of things like its Large File System support, for Linux at least, preferring instead to use Package Management repositories to leverage things like intelligent version updates (e.g. via apt update) and channels (separation into stable, unstable, etc.) So yes, even GitHub don't use GitHub, sometimes. Let's discuss why."
+    },
+    {
+      "draft": false,
+      "title": "Let Tester write some code.",
+      "speaker": "maciejwyrodek",
+      "keynote": false,
+      "lightning": true,
+      "order": 12,
+      "id": "maciejwyrodek",
+      "description": "Testers are annoying, those pesky little beasts that find issues in your perfect code. What a nightmare.\n\nThey waste time testing stuff that is covered by unit tests. They waste time testing stuff that is not important! And yet somehow they do find bugs by a lucky guess.\n\nAnd yes paragraph above is extreme hyperbole. But the truth there is often divided between developers and testers. Let's look at one of the ways of fixing this divide. Letting them write some code, even production code! \n\nI know it sounds crazy, but this works. It makes them understand developers much more. Their pride and frustration. \nSo join me and take a look what Dev can do to break the wall."
+    },
+    {
+      "draft": false,
+      "title": "Release the Monkey!!",
+      "speaker": "markmcconnell",
+      "keynote": false,
+      "lightning": false,
+      "time": "7",
+      "room": "0",
+      "id": "markmcconnell",
+      "description": "In this talk we will be wreaking havoc with Chaos Monkey, a resiliency tool by Netflix that helps applications tolerate random instance failures by randomly terminating virtual machine instances and containers that run inside of your production environment, to test how effectively your cluster can heal itself."
+    },
+    {
+      "draft": false,
+      "title": "Interpersonal Skills for Bots",
+      "speaker": "maryjanemcbride",
+      "keynote": false,
+      "lightning": false,
+      "time": "9",
+      "room": "2",
+      "id": "maryjanemcbride",
+      "description": "As technology progresses, we’re seeing a greater emphasis of interpersonal skills on people in their jobs (I’m not going to discuss whether AI will replace your job) - but I don’t think the robots will be successful until we maximise their interpersonal skills too. We want software that was made by and for humans. And when it comes to human computer interaction, the most natural way for humans to interact is with language. In my talk, I’ll discuss why chatbots have so much potential, and the “personality traits” needed to make a successful chatbot."
+    },
+    {
+      "draft": false,
+      "title": "Licences: What is all the FOSS about?",
+      "speaker": "maycheung",
+      "keynote": false,
+      "lightning": true,
+      "order": 13,
+      "id": "maycheung",
+      "description": "Developers probably regard software licences as the dull part of the install, but they form a key part of the infrastructure that underpins Free and Open Source Software (FOSS).  Licences allow and protect the use of FOSS worldwide and in this talk May will provide a quick guide to the basics of FOSS licences.\n\nThis will include pointers on what common licences allow so that one does not just do the ethical thing, but also remains on the right side of the law, whether integrating FOSS as a developer or running it as an end user."
+    },
+    {
+      "draft": false,
+      "title": "Tools and tribulations: The Road To Automating Quality Microservices",
+      "speaker": "michaelhughes",
+      "keynote": false,
+      "lightning": false,
+      "time": "4",
+      "room": "1",
+      "id": "michaelhughes",
+      "description": "The tools and tribulations we’ve gone through to go from concept to (almost) production ensuring quality in our microservices stack. From inception to Jenkins in Kubernetes in AWS with a fully automated pipeline standing up our full stack. Come with us as we journey through the layers."
+    },
+    {
+      "draft": false,
+      "title": "The Unexpected Voyage from Developer to Startup Co-Founder",
+      "speaker": "michealcolhoun",
+      "keynote": false,
+      "lightning": false,
+      "time": "6",
+      "room": "3",
+      "id": "michealcolhoun",
+      "description": "After 20 years of working as a Software Developer I share my journey to becoming a startup Co-Founder of a Business that relies heavily on Technology. Sounds like it should be easy however the greatest challenges were not Technology but rather what technologies to avoid including my own Software Solutions. This talk is a raw and opinionated view into the evolution (or Otherwise?) of running a real technology focussed business."
+    },
+    {
+      "draft": false,
+      "title": "Grokking Your Mental Health",
+      "speaker": "neillboyd",
+      "keynote": false,
+      "lightning": false,
+      "time": "7",
+      "room": "2",
+      "id": "neillboyd",
+      "description": "This talk will involve me opening up about my own experiences with s Bi-polar II Disorder and how it has both helped and hindered me in a long career in the tech space. I will discuss my own experiences in order to help others make sense of anything they may be going through or anyone they know*. The discussion will really be in two parts, my personal experiences followed by how what I have learnt can help companies and individuals. The topics covered will be:\n\n- My experiences of opening up about my own personal situation in the work place (Both negative and positive)\n- Analysis of how our industry tends to normalise mental health issues\n- What led me to this journey of accepting my mental health\n- How I manage my mental health in a demanding industry\n- What I, as someone who struggles with mental health, expect of a company I'm going to work for.\n- What a company I work for can expect of me.\n\n* Note - this talk will absolutely in no way offer anything that is in anyway a substitute to actual professional help. Too many people talk about mental health and attempt to \"treat\" others. This is purely informational and based on my experiences."
+    },
+    {
+      "draft": false,
+      "title": "Raising The Roof with Browser Audio Visualisation",
+      "speaker": "neilmccallion",
+      "keynote": false,
+      "lightning": false,
+      "time": "11",
+      "room": "0",
+      "id": "neilmccallion",
+      "description": "When I was a kid, I had a vision. The room was ablaze in digital light, pulsing to the beat and dancing under my fingertips, while the crowd roared and raised their hands in the air. Forced to choose between being cool and being a nerd, however, I chose the latter.\n\nIt's been hard to live with this unfulfilled dream of audiovisual nirvana. To exorcise my demons, I must concoct a potent mix of web technologies - including JavaScript, CSS, Canvas, Web Audio and MIDI - in the hope of finally realising my techno-utopian 90s fantasies, right inside the browser.\n\nPack your party bags* and join me to learn about creative web APIs, realtime graphics, music visualisation, and browser performance techniques, all wrapped up in an acid house/rave spin on retro aesthetics. You'll learn a lot, have a good time, and we'll all be friends forever (maybe).\n\n* Partying not guaranteed."
+    },
+    {
+      "draft": false,
+      "title": "The Software Test Clinic Belfast!",
+      "speaker": "nicholasshaw",
+      "keynote": false,
+      "lightning": true,
+      "order": 14,
+      "id": "nicholasshaw",
+      "description": "In this lightning talk I'll introduce the Software Testing Clinic (SWTC) that is launching in Belfast this June, I'll explain what it is, who it's for and give you a sampling of what participants can expect to learn from it.\n\nSWTC offers completely free monthly evening sessions for anybody interested in the testing craft. They are run in an interactive way using whiteboard sessions, hands-on exercises and discussions as a group as well as in smaller teams to deepen our understanding of software testing.\n\nWe're seeking to spread the word about the SWTC to create awareness, find local experts to help mentor those less experienced and hopefully many in the community will benefit. This an incredible learning opportunity from those experienced in software testing to those who will be completely new to the field to flourish in their careers.\n\nHelp us create learning opportunities for those wishing to develop their testing knowledge, and show how practitioners of any parts of the craft can mentor and advance their own skills through the SWTC Belfast!"
+    },
+    {
+      "draft": false,
+      "title": "Discovery & Framing – What’s that about?",
+      "speaker": "oliviamccartan",
+      "speaker2": "louisecraven",
+      "keynote": false,
+      "lightning": false,
+      "time": "12",
+      "room": "3",
+      "id": "oliviamccartanlouisecraven",
+      "description": "Louise and Olivia have embarked on the journey of discovering and framing a new product.\n\nThis talk will help demystify the concept of D&F based on their experience, explaining what it is and why it’s so important to carry out this activity when developing a new product.\n\nHear about some of the tools & techniques along with hints & tips to help discover your user’s problems. Find out how you can frame a Minimal Viable Product (MVP) tailored to delight your end user and add business value."
+    },
+    {
+      "draft": false,
+      "title": "DadOps: 5 lessons having a baby has taught me about building software",
+      "speaker": "paddycarey",
+      "keynote": false,
+      "lightning": true,
+      "order": 15,
+      "id": "paddycarey",
+      "description": "2 years ago(ish) my life changed forever, my son was born and there hasn't been a whole lot of sleep in our house since. You might not think a baby has much to teach an experienced engineer about software, but you'd be wrong.\n\nThis talk comprises a number of lessons, some old principles hammered home, and some entirely new i'd never even considered before."
+    },
+    {
+      "draft": false,
+      "title": "Blender 3D - Create 3D Content on No Budget",
+      "speaker": "paulbarrett",
+      "keynote": false,
+      "lightning": true,
+      "order": 16,
+      "id": "paulbarrett",
+      "description": "Blender is one of the most substantial open source projects going. Not just free but feature packed. This talk will be an overview of the core features (modelling, rigging, animation, simulation, rendering, compositing, motion tracking, video editing), plugins and the future of Blender.\n\nIt has come a long way since it was first open sourced, giving the costly competitors an honest run for their money.\n\nBlender is in the process of getting its biggest overhaul in nearly 10 years, which the talk will also cover. It recently completed a successful funding campaign raising over $100K to fly all the core developers from around the world to meet up for several months in order to work on a massive code refactor, implement long gestating new features and spring clean the UI."
+    },
+    {
+      "draft": false,
+      "title": "Introduction to Azure Cognitive Services",
+      "speaker": "paulbreen",
+      "keynote": false,
+      "lightning": false,
+      "time": "1",
+      "room": "0",
+      "id": "paulbreen",
+      "description": "A walk through of some of the cognitive services available from azure, including (but not limited to) :\n\nVision API :  Retrieving a text description and other basic information from image, including facial detection. \n\nLanguage API : Evaluate meaning and intent, and auto moderation.\n\nSpeech Recognition API : Recognising a user by their voice.\n\nA demonstration website will be provided for attendees to try out themselves."
+    },
+    {
+      "draft": false,
+      "title": "Building and Leading high quality talent",
+      "speaker": "paulhill",
+      "keynote": false,
+      "lightning": false,
+      "time": "11",
+      "room": "3",
+      "id": "paulhill",
+      "description": "Building and leading top technical talent. It's not all about the money or benefits. How does Bazaarvoice attract, build, and lead software engineering talent to own, create, manage, and grow the software that supports almost 1 billion unique user devices, over 300 million products, 140 billion queries, and more on a monthly basis. No holds bar all the fact what works well and what hasn't."
+    },
+    {
+      "draft": false,
+      "title": "Observing your applications with Prometheus",
+      "speaker": "petermcconnell",
+      "keynote": false,
+      "lightning": false,
+      "time": "10",
+      "room": "1",
+      "id": "petermcconnell",
+      "description": "Observability is key to ensuring your system is performing as intended for users. In this talk we’ll take a look at understanding what Service Level Objectives (SLOs) are, defining some example SLOs and then a demo of how to implement the tracking of those metrics and configuring some alarms to fire when they’re at risk.\n\nThis demo will include some Golang, AWS and Prometheus. Maybe a sprinkle of chaos engineering."
+    },
+    {
+      "draft": false,
+      "title": "Just tell me when it’s done",
+      "speaker": "peterpito",
+      "keynote": false,
+      "lightning": false,
+      "time": "2",
+      "room": "3",
+      "id": "peterpito",
+      "description": "‘When will it be done?’ is one of the first questions that you will be asked when you engage in building a software solution. If you are like most of us you will get it wrong more often than you will get it right and you are going to spend a lot of time in the process. What about if there is an alternative and you can provide a more accurate answer without even estimating? This talk offers an answer by implementing a #NoEstimate approach built on an Agile delivery process based on a ‘measurement and observation’ philosophy where trusted forecasts are a reality."
+    },
+    {
+      "draft": false,
+      "title": "The Science of Where",
+      "speaker": "rachelmckane",
+      "keynote": false,
+      "lightning": false,
+      "time": "2",
+      "room": "2",
+      "id": "rachelmckane",
+      "description": "A brief history of how GIS as a discipline and then a technology came into being. This will include an overview of Esri Inc and Esri Ireland, including the type of jobs available here on the island. I will also talk about the ArcGIS Developer Program and demonstrate how easy it is to add data to a map and then how to embed the created map into an HTML web page. I will show how quickly an app can be created and shared."
+    },
+    {
+      "draft": false,
+      "title": "An App for Culture Night: App Development for Events",
+      "speaker": "rebeccamartin",
+      "keynote": false,
+      "lightning": false,
+      "time": "6",
+      "room": "1",
+      "id": "rebeccamartin",
+      "description": "This talk will be about my experience as a total newbie to Typescript, the Ionic framework and Laravel, for writing a mobile application and website for Culture Night. It will also cover my motivations for writing the app, learning several new languages and frameworks at the same time, and my takeaways from my experience. The talk will also concern how app development could be used for local events in Northern Ireland for helping with visitor satisfaction and organisation."
+    },
+    {
+      "draft": false,
+      "title": "Service Design in Gov - Connecting the online to the offline",
+      "speaker": "rebeccawalsh",
+      "keynote": false,
+      "lightning": false,
+      "time": "4",
+      "room": "3",
+      "id": "rebeccawalsh",
+      "description": "The public sector has a reputation for focusing on delivery of pre-defined solutions and not designing tech based on the needs of the public. GDS (Government Digital Services) UK has started to shift that focus with the adoption of Service Design but in Northern Ireland we are struggling to keep up.\n\nThere are many reasons for this:\n\n- We don’t understand it\n- It’s not easy\n- It can seem costly\n- We don’t have enough trained Service Designers\n\nDuring this talk I will take you through the challenges I have faced trying to embed Service Design in the Public Sector and what we have to do to shift our thinking towards the integration of the online and offline and how we can easily start focusing on users and not just tech."
+    },
+    {
+      "draft": false,
+      "title": "Music metadata identifiers gamechangers for copyrighting",
+      "speaker": "ritubhatt",
+      "keynote": false,
+      "lightning": true,
+      "order": 17,
+      "id": "ritubhatt",
+      "description": "There is a gap when it comes to matching music metadata specially in the face of Youtube and FaceBook where anyone can upload their videos. The use of music needs to be identified and the artists and publishers need to be paid the royalty for their creative works. We are working on a Project to map and match the various music identifiers and come up with a futuristic guidelines /identifier for tracking music metadat across web, AR/VR. This research is undertaken in collaboration with IPO(Intellectual Property Office) and PRS/PPL who are major stakeholders."
+    },
+    {
+      "draft": false,
+      "title": "The Mythical Rewrite",
+      "speaker": "robertpaul",
+      "keynote": false,
+      "lightning": false,
+      "time": "11",
+      "room": "1",
+      "id": "robertpaul",
+      "description": "I've had the (mis?)fortune of spending almost half my career tasked with performing what Joel Spolsky calls the \"single worst strategic mistake\" a software company can make - rewriting applications from scratch. It's usually been the right decision, but it's often been a much greater challenge than it first appeared.\n\nIn my experience, \"just rewrite it\" is such a common suggestion that it's worth talking about how you make the choice between a scorched Earth-style rewrite and an incremental refactor; what are some of the cognitive biases that lead you to think that a rewrite is the answer (code is easier to write than read; it's easy to forget than those that came before you probably made okay decisions); and once you've made the decision to rewrite an application, how you approach that task without living to regret it.\n\nBy the end of the talk, hopefully the audience will have gained some insights from practical experience of rebuilding multiple applications (sometimes more than once), the mistakes made along the way, and we'll all have learned the single most important lesson of all: it's never as simple as you think it is."
+    },
+    {
+      "draft": false,
+      "title": "Gophers with Antlers",
+      "speaker": "rogersimms",
+      "speaker2": "simonhewitt",
+      "keynote": false,
+      "lightning": false,
+      "time": "2",
+      "room": "0",
+      "id": "rogersimmssimonhewitt",
+      "description": "Using the power of ANTLR and Go we will build a simple language allowing our users to dynamically script while simultaneously allowing our engineers to statically compile. \n\nOur teachers always told us that Grammar was important, but it took having to write a query language to make us realise they were right.\n\nANTLR is a \"parser generator for reading, processing, executing, or translating structured text or binary files\". Given a set of rules, or Grammar, ANTLR can generate a number of tools with which we can convert text into executable code. Released in December 2016, Version 4.6 of ANTLR included Go as a target, meaning that we could finally use Go to implement the generated parsers.\n\nUsing Open Cypher as a base, we will see how we can use the same Cypher Query to execute against Neo4J and an SQL relational database with no change to the calling code.\n\nAnd just because we can, does that mean we should?"
+    },
+    {
+      "draft": false,
+      "title": "GDPR has landed. So?",
+      "speaker": "rorycampbell",
+      "keynote": false,
+      "lightning": false,
+      "time": "1",
+      "room": "3",
+      "id": "rorycampbell",
+      "description": "On 25th May the GDPR, the EU's new data law, came into force. It's come with dire warnings of multi-million pound fines and rigorous compliance standards, at a time when high profile data breaches stalk the headlines. Is this really the data Armageddon? We explain why we don't think so. We show how the GDPR is about fundamental business change, rather than compliance. We explain the data audit, data processes and data transparency which businesses will now need to show - and we suggest how the canny developer may use the GDPR to help customers in restructuring their apps, management systems and infrastructure supply. In particular, we focus on the GDPR's Holy Grail of \"privacy by design\" - and we'll issue a challenge to delegates to show how they can demonstrate privacy by design as part of their work in such a way as to make NI a leader in GDPR excellence."
+    },
+    {
+      "draft": false,
+      "title": "The Rookie's Survival Guide",
+      "speaker": "ryanwilson",
+      "keynote": false,
+      "lightning": false,
+      "time": "3",
+      "room": "3",
+      "id": "ryanwilson",
+      "description": "Much like leaving secondary school for university, leaving university for work flips the table on your life, resetting the playing field. The high of finishing off a long torrid slog through classes, projects and dissertations, is quickly dashed as the realisation hits - you’ve become the rookie once more in the new world of work. \n\nIn this talk I will look at my experience in development since my leaving University just over 2 years ago. The journey from Uni to the workplace and the challenges I have had to face in that time.\n\nHear the birth and death of a start up, the trials and tribulations of overcoming my rational and irrational fears that come with kicking off a career as a developer and ultimately embracing the culture of a team.\n\nCome listen to my story and see how I survived, learned how and when to ask for help and embraced meet-ups and Berocca (although not in that order :D )."
+    },
+    {
+      "draft": false,
+      "title": "Progress, Politics, and Programming",
+      "speaker": "sarahrudek",
+      "keynote": false,
+      "lightning": false,
+      "time": "9",
+      "room": "3",
+      "id": "sarahrudek",
+      "description": "This talk will discuss the intersection of tech, politics, and progress. Specifically, it will highlight a few brief fascinating case studies, such as how supposedly blind algorithms can enforce human prejudices and how digital photography is influenced by current beauty standards, and then go about highlighting some potential solutions or mitigating tactics for those of us involved in making such tech. And yes, probably something about Brexit and the recent US presidential election."
+    },
+    {
+      "draft": false,
+      "title": "Data (in)security in a Cloud Environment",
+      "speaker": "simonwhittaker",
+      "keynote": false,
+      "lightning": false,
+      "time": "3",
+      "room": "1",
+      "id": "simonwhittaker",
+      "description": "Cloud hosting, cloud storage, and the resulting data exposure, none of this is new. We’ve been overwhelmed over the past year or so with the volume of press and opinion on the impact of open S3 buckets in particular with reference to the exposure of data from the RNC, Accenture and Verizon.\n\nThe question is whether this has had an impact on how data is stored in cloud environments and whether we have learned anything.\n\nThis talk will hope to provide a level of understanding about the use of insecure cloud storage facilities with a focus on a particular technology under extensive use. We will present our findings on the amount of data exposed, why and how it was exposed and a case study of how to identify the owners of the data to promote responsible disclosure."
+    },
+    {
+      "draft": false,
+      "title": "Sales - The Last Silo (Or Why Sales & Techies need to Talk!)",
+      "speaker": "siobhangallagher",
+      "keynote": false,
+      "lightning": true,
+      "order": 18,
+      "id": "siobhangallagher",
+      "description": "First there was DevOps, now there's DevSecOps. But, we can all agree that we probably won't see DevSecOpsSales anytime soon. As an experienced IT Sales professional, I am constantly left wondering how sales and techies can communicate better.\n\nThis is a humorous attempt to deconstruct some of the stereotypes and start that conversation. With an overview of how sales has evolved from the 70's when sales guys were rewarded for behaving badly, to a world where we have multiple sales methodologies, the concept of social selling and increased transparency of processes. In between, the techie has become king!\n\nThis talk is aimed at those working in SMEs and Enterprises where the developer, ops and sales teams are not only silo'ed, but may all be on separate continents. This is an honest overview of how two tribes with one goal can work better together - towards getting people to use the tech we are involved in."
+    },
+    {
+      "draft": false,
+      "title": "Playing with the IndieWeb",
+      "speaker": "stephenrushe",
+      "keynote": false,
+      "lightning": false,
+      "time": "5",
+      "room": "2",
+      "id": "stephenrushe",
+      "description": "I’ve recently been exploring the world of the IndieWeb, and owning my own content rather than being reliant on the continued existence of “silos” to maintain it. This has led me to discover the varied eco-system of IndieWeb, such as IndieAuth, Microformats, Micropub, Webmentions, Microsub, POSSE, and PESOS. I’ll give a whirlwind high-level tour of each and also show examples of the related projects I’ve spend my time on in recent months, including hand-crafted artisanal music scrobbling."
+    },
+    {
+      "draft": false,
+      "title": "Modern Agile; lets make it safe!",
+      "speaker": "stevenlimmer",
+      "keynote": false,
+      "lightning": false,
+      "time": "10",
+      "room": "3",
+      "id": "stevenlimmer",
+      "description": "Everyone is doing Agile, right? I mean, it's just the standard way of doing things now? But is it really? For many, it's just stand-ups and sprints, and nothing else has changed. In fact, it's probably worse, because Agile promises to be so much, and when it's not done properly, leaves real disappointment and resentment; it feels like the Emperor's new clothes. It just doesn't feel very SAFe.\n\nModern Agile attempts to address this by putting safety at the core of its being: the safety to experiment, the safety to fail, the safety to learn. This is more important for building awesome products, services and solutions than anything else, and unlocks true potential.\n\nI'm going to talk about management theory, about motivation, about safety, and about how Modern Agile principles should be at the core of doing things well."
+    },
+    {
+      "draft": false,
+      "title": "Creating a JavaScript library and why you should",
+      "speaker": "stevenringland",
+      "keynote": false,
+      "lightning": true,
+      "order": 19,
+      "id": "stevenringland",
+      "description": "Why bother creating libraries? What can you learn? Well my aim is the answer both in this short dive into creating JS libraries and publishing them.\n\nI’ll cover everything you need to create them, covering common build tools, useful libraries, writing solid tests and docs along with how to version them properly and publish them to NPM."
+    },
+    {
+      "draft": false,
+      "title": "It’s free to play ...",
+      "speaker": "suzannemclaughlin",
+      "keynote": false,
+      "lightning": true,
+      "order": 20,
+      "id": "suzannemclaughlin",
+      "description": "Ordnance Survey Northern Ireland (OSNI) have lots and lots of cool locational data from aerial photography, maps of all scales, addresses, and elevation data. All of this data is available free to developers in order to encourage you to get creative with the data. Only when (and if) you start to make a commercial product from which you derive an income will you have to return any royalties to OSNI. You will be very surprised at how little of your hard earned cash you will have to pay back! So come along and find out how you can get involved and get your hands on some mapping data."
+    },
+    {
+      "draft": false,
+      "title": "Doing More Design",
+      "speaker": "thomasswann",
+      "keynote": false,
+      "lightning": false,
+      "time": "8",
+      "room": "1",
+      "id": "thomasswann",
+      "description": "In this talk we will discuss the value of good design in successfully delivering software and how this is a process in which everyone on a development team should get involved.\n\nWe will consider how taking some time to stop and think can help us to better tackle important issues such as technical debt or reduce the risk associated with technically challenging elements of our projects.\n\nAttendees will learn how they can make design a core part of their team's workflow as I talk about my experience of using Open Design Proposals as a means of creating an inclusive process that demystifies the experience and helps everyone's voice to be heard."
+    },
+    {
+      "draft": false,
+      "title": "Building Microservices with Spring Cloud/Netflix OSS",
+      "speaker": "udhayakumarrajendran",
+      "keynote": false,
+      "lightning": false,
+      "time": "5",
+      "room": "0",
+      "id": "udhayakumarrajendran",
+      "description": "In this talk we will explore how to build simple microservices using Spring Boot\non the Spring Cloud Project supported by Netflix OSS tools including:\n\n- Configuration\n- Discovery\n- Circuit Breakers\n- Routing\n- Tracing/Logging"
+    },
+    {
+      "draft": false,
+      "title": "I'm Not Trying To Be Mean, But It's Okay To Be Average",
+      "speaker": "unidentifiedspeaker",
+      "keynote": false,
+      "lightning": true,
+      "order": 21,
+      "id": "unidentifiedspeaker",
+      "description": "The tech industry is hellbent on making everyone into being the very best they can be: rockstars, 10x engineers, entrepreneurs and thought leaders are what we're told to aspire to be.\n\nThe problem is that we can't all be the best, and this industry's determination to push us all of us to be the best means that there are an awful lot of people out there who feel like they're not living up to expectations.\n\nThis talk is about telling people that it's okay to be average because, statistically speaking, someone has to be. It's about telling people that you don't have to climb the entirety of the career ladder in 5 years, that you don't have to go to Top Gun if you don't want to, and that if you want to just go to meet ups and listen rather than present, then that's okay too.\n\nThis talk will not be amazing. It might not even be good. Average is okay."
+    },
+    {
+      "draft": false,
+      "title": "NI Game Dev Scene",
+      "speaker": "vickypotts",
+      "keynote": false,
+      "lightning": true,
+      "order": 22,
+      "id": "vickypotts",
+      "description": "Hi there! I did a talk on 'Student to Startup' last year. I'd like to do my 'I've levelled up a wee bit' talk - which is about the NI Game Dev scene in Northern Ireland and the tools that we use, for those who may not even know such a scene exists. \n\nThe talk will roughly cover the following:\n\nThe Job of a Games Developer\nTraining & Skills Needed\nWhat Do Games Companies Look For\nWhat Development Software is Useful\nJourney to Whitepot\nThe NI Games Development Industry"
+    },
+    {
+      "draft": false,
+      "title": "Intro to building a lightning fast site with GatsbyJS",
+      "speaker": "victoriasloan",
+      "keynote": false,
+      "lightning": true,
+      "order": 23,
+      "id": "victoriasloan",
+      "description": "Gatsby is a blazing fast static site generator based on ReactJS. The aim of the talk is to give the audience an insight into how simple it can be to create a fast static site using Gatsby and GraphQL content queries."
+    },
+    {
+      "draft": false,
+      "title": "An Introduction to Open Banking",
+      "speaker": "zekikucukkose",
+      "keynote": false,
+      "lightning": false,
+      "time": "7",
+      "room": "1",
+      "id": "zekikucukkose",
+      "description": "The talk will cover:\n\n- What open banking is\n- Why it is needed\n- How the UK is implementing it \n- How it will build an ecosystem for developers to enter the fintech space. \n\nAfter explaining the concepts behind open banking, I will run through the open banking APIs that exist in the UK and how developers can get involved. The overall aim of the talk is to encourage people to get involved in fintech and help them learn how they can start up their own side project using this new technology."
+    },
+    {
+      "draft": false,
+      "title": "I Don't Know What I'm Doing",
+      "speaker": "zoegadonthompson",
+      "keynote": false,
+      "lightning": true,
+      "order": 24,
+      "id": "zoegadonthompson",
+      "description": "I knew literally nothing about coding until I started to study. On my first day of Java at foundation degree level I had no clue what was going on. Everyone had some experience with computers, IT or gaming and I was light years behind. I was asking my peers for help and getting stuck on everything. I was really feeling like I'd made the wrong choice of career path.\n\nTo save myself from embarrassment I dove head first into the land of curly brackets and pizza meetups in an attempt to learn everything I could.\n\nI'm going to share how I have managed an attempt at kick starting my career despite not knowing wtf I'm doing."
+    }
+  ],
+  "speakers": [
+    {
+      "draft": false,
+      "title": "Alan Stirling",
+      "keynote": false,
+      "speakerimage": "/img/speakers/alanstirling.jpg",
+      "twitter": "https://twitter.com/AlanStirling",
+      "website": "https://www.astirling.co.uk/",
+      "website2": "https://www.alderhilldigital.co.uk/",
+      "id": "alanstirling",
+      "description": "IT Trainer, developer and consultant working to help digital companies achieve their best. Owner of Alderhill Digital."
+    },
+    {
+      "draft": false,
+      "title": "Alison Coote",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "twitter": "https://twitter.com/alisoncoote",
+      "id": "alisoncoote",
+      "description": "Alison is a product leader @ Kainos and has been fulfilling the Product Manager role for about 5 Years. Over the years Alison has played many roles on client engagements covering everything from being a Developer, Tester, through to Project Manager. Alison loves learning new things so regularly brings people to together to share experiences and is the co-founder of ProductCamp Belfast."
+    },
+    {
+      "draft": false,
+      "title": "Alistair Brown",
+      "keynote": false,
+      "speakerimage": "/img/speakers/alistairbrown.jpg",
+      "twitter": "https://twitter.com/alistairjcbrown",
+      "linkedin": "https://www.linkedin.com/in/alistairjcbrown",
+      "github": "https://twitter.com/alistairjcbrown",
+      "website": "https://keybase.io/alistairjcbrown",
+      "id": "alistairbrown",
+      "description": "Lead engineer at ShopKeep, mostly building stuff in JavaScript."
+    },
+    {
+      "draft": false,
+      "title": "Amit Sharma",
+      "keynote": false,
+      "speakerimage": "/img/speakers/amitsharma.jpg",
+      "twitter": "https://twitter.com/asharma_93",
+      "linkedin": "https://linkedin.com/in/asharma93/",
+      "id": "amitsharma",
+      "description": "All things JavaScript."
+    },
+    {
+      "draft": false,
+      "title": "Andrew Bolster",
+      "keynote": false,
+      "speakerimage": "/img/speakers/andrewbolster.jpg",
+      "twitter": "https://www.twitter.com/bolster",
+      "linkedin": "https://www.linkedin.com/in/andrewbolster",
+      "github": "http://www.github.com/andrewbolster",
+      "website": "https://andrewbolster.info/about",
+      "id": "andrewbolster",
+      "description": "Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.\n\nCurrently Data Scientist at AlertLogic, using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.\n\nRecently completed PhD Research at The University of Liverpool (formerly at Queen’s University Belfast’s ECIT Institute) investigating Trust and Reputation in Marine Communications for Autonomous Systems of Systems under the joint Anglo-French Defence Research Group, established at the 2010 Anglo-French Summit\n\nFounding Director of Farset Labs, Northern Ireland’s First Hackerspace, located in Weavers Court Business Park, Belfast, developed while I was finishing off a Masters in Electronics and Software Engineering at QUB. Farset Labs now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders."
+    },
+    {
+      "draft": false,
+      "title": "Arnaud Roger",
+      "keynote": false,
+      "speakerimage": "/img/speakers/arnaudroger.jpg",
+      "twitter": "https://twitter.com/arnaudroger",
+      "linkedin": "https://www.linkedin.com/in/aroger",
+      "github": "https://github.com/arnaudroger",
+      "website": "https://arnaudroger.github.io/blog/",
+      "id": "arnaudroger",
+      "description": "A relatively old software developer who worked in many industries - finance, media, security - with a particular interest in Java, the JVM and performance. He likes to play with byte-code generation and indulges in looking at the ASM generated by hotspot."
+    },
+    {
+      "draft": false,
+      "title": "Ceara McCurdy",
+      "keynote": false,
+      "speakerimage": "/img/speakers/cearamccurdy.jpg",
+      "twitter": "https://twitter.com/CearaNissa",
+      "linkedin": "https://www.linkedin.com/in/cearamccurdy/",
+      "id": "cearamccurdy",
+      "description": "Ceara has worked with Rapid7 in Belfast since January 2016, and in UX for a total of 7 years. She studied Interactive Media Design, followed by a Masters in Service Design both at the University of Dundee. Passionate about providing a good user experience, especially in often tricky situations, a move into Rapid7 and the world of security made sense. As part of the Rapid7 design team Ceara helps tackle problems involving large quantities of data, security breach alerts and providing consistent experiences across product offerings. In previous roles she has worked in the world of American healthcare and advised on accessibility."
+    },
+    {
+      "draft": false,
+      "title": "Chloe McAteer",
+      "keynote": false,
+      "speakerimage": "/img/speakers/chloemcateer.jpg",
+      "twitter": "https://twitter.com/ChloeMcAteer3",
+      "linkedin": "https://www.linkedin.com/in/chloe-mcateer-67285312a/",
+      "github": "https://github.com/c-mcateer",
+      "website": "https://medium.com/@chloemcateer/worst-case-scenario-they-say-no-2ff93b64e7d5",
+      "id": "chloemcateer",
+      "description": "I am currently a student software engineer studying at Queens and out on my placement year at Kainos. Love hackathons, conferences and all things tech! Enjoy designing and creating new projects with different technologies and getting involved in as much as I can."
+    },
+    {
+      "draft": false,
+      "title": "Chris Laughlin",
+      "keynote": false,
+      "speakerimage": "/img/speakers/chrislaughlin.jpg",
+      "twitter": "http://twitter.com/chrislaughlin",
+      "linkedin": "https://uk.linkedin.com/in/chris-laughlin-57a15425",
+      "github": "https://github.com/chrislaughlin",
+      "website": "https://thedyslexicdeveloper.com",
+      "id": "chrislaughlin",
+      "description": "JavaScript nerd, making and breaking the web."
+    },
+    {
+      "draft": false,
+      "title": "Chris Nixon",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "id": "chrisnixon",
+      "description": "Programming language nerd with an interest in everything from Formal verification and type systems to embedded development."
+    },
+    {
+      "draft": false,
+      "title": "Ciaran Conliffe",
+      "keynote": false,
+      "speakerimage": "/img/speakers/ciaranconliffe.jpg",
+      "twitter": "https://twitter.com/shinyemptyhead",
+      "linkedin": "https://www.linkedin.com/in/ciaran-conliffe-7133843a",
+      "id": "ciaranconliffe",
+      "description": "Ciaran is a technologist at Liberty IT; a Belfast and Dublin based company that focuses on creating world class IT solutions for parent company Liberty Mutual. There he’s been working in the space between development and security for the last seven years after ten previous years in development. He has previously spoken at DevSecCon Boston on the challenges of managing a Secure Development program for a large company.\n\nIn his spare time, Ciaran writes a weekly history column for the Dublin-based cultural website HeadStuff. He also enjoys guesting on podcasts and occasionally pops up on stage in the Workman’s Club in Dublin talking about some of the stranger corners of history."
+    },
+    {
+      "draft": false,
+      "title": "Claire Wilgar",
+      "keynote": false,
+      "speakerimage": "/img/speakers/clairewilgar.jpg",
+      "twitter": "https://twitter.com/clairedotw",
+      "linkedin": "https://www.linkedin.com/in/clairewilgar",
+      "github": "https://github.com/clairebones",
+      "id": "clairewilgar",
+      "description": "​Claire Wilgar is a frontend developer with a passion for accessibility, currently working for Bazaarvoice Belfast.\n\nShe is an avid speaker at conferences & meetups, and organises local events and groups such as Women Techmakers Belfast, Women in Tech Lean In Belfast, Global Game Jam and BelfastJS.\n\nClaire is also the Community Manager for Farset Labs and has worked with the CoderDojo and other local and education events."
+    },
+    {
+      "draft": false,
+      "title": "Conall Bennett",
+      "keynote": false,
+      "speakerimage": "/img/speakers/conallbennett.jpg",
+      "linkedin": "https://www.linkedin.com/in/conall-bennett-956b69ab",
+      "id": "conallbennett",
+      "description": "Conall is a Test Lead at CME Group Belfast working in a cloud migration team involved in the enterprise adoption of DevOps practises, cloud native technologies and micro service architecture. Prior to this Conall has worked in consulting and in various financial enterprise organisations in a variety of Agile and testing leadership roles. Conall has been involved locally in co-organising the NI tester meet up and contributing to various other local tech meet ups in Belfast. He spends most of his time evangelising on Agile and testing practices, tinkering with emerging technologies and trying to find new ways (or rediscover old ways) of causing trouble via testing while exploring new technologies."
+    },
+    {
+      "draft": false,
+      "title": "Conor Woods",
+      "keynote": false,
+      "speakerimage": "/img/speakers/conorwoods.jpg",
+      "twitter": "https://twitter.com/ProductiveProg",
+      "linkedin": "https://www.linkedin.com/in/woodsconor",
+      "website": "https://productiveprogrammer.io",
+      "id": "conorwoods",
+      "description": "Conor has over 18 years’ experience working as a \"full stack\" software developer.\n\nHis development roles include working as a senior software engineer for the BBC, Verint and several high profile companies in both the public and private sector (clients in include UK Home Office, TFL, Scottish Power, PowerNi, Met Police, Network Rail).\n\nHis wide spectrum of experience has led him to lead diverse I.T. projects from community based collaboration platforms for disaster stricken citizens, to big data search portals to find relevant information for journalists.\n\nHis technical experience includes a wide knowledge of mobile, web and server technologies."
+    },
+    {
+      "draft": false,
+      "title": "David Anderson",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "twitter": "https://twitter.com/davidand393",
+      "linkedin": "https://www.linkedin.com/in/david-anderson-lit",
+      "id": "davidanderson",
+      "description": "As Director of Technology with Liberty IT, working on many Liberty Mutual key systems, David has exposure to a wide range of technologies and techniques covering Architecture, UX, Dev, Test, DevOps, Analytics & Cyber-Security. A life-long programmer, David brings deep technical knowledge along with strong collaboration and teamwork skills to deliver business value. Since 1997, Liberty IT has created complex world class IT solutions exclusively for Fortune 100 U.S. parent company, Liberty Mutual Insurance, developing a wide range of enterprise scale, Customer Focused solutions which leverage cloud technologies, agile engineering and disciplined practice to enable highly dynamic business needs. Software Development is a critical component of digital transformation."
+    },
+    {
+      "draft": false,
+      "title": "David Cutting",
+      "keynote": false,
+      "speakerimage": "/img/speakers/davidcutting.jpg",
+      "twitter": "https://twitter.com/davex0x29a",
+      "github": "https://github.com/purplepixie",
+      "website": "https://blog.purplepixie.org/",
+      "website2": "https://davecutting.uk/",
+      "id": "davidcutting",
+      "description": "David Cutting is a lecturer in computer science at Queen's University Belfast having previously worked in England and completed a PhD in Software Engineering. Outside of academia he works as a consultant and is involved in a number of businesses in the technology space. In his spare time he develops poor open-source software that the community makes better."
+    },
+    {
+      "draft": false,
+      "title": "Dermot Bradley",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "id": "dermotbradley",
+      "description": "IT Consultant/Contractor in Linux and Internet Technologies. Founder of NI's first Internet Provider in the early 90s, worked on early SMS and WAP (Internet-on-your-phone) systems for mobile operators around the world."
+    },
+    {
+      "draft": false,
+      "title": "Desy Kristianti",
+      "keynote": false,
+      "speakerimage": "/img/speakers/desykristianti.jpg",
+      "twitter": "https://twitter.com/dessskris",
+      "linkedin": "https://uk.linkedin.com/in/desyk",
+      "github": "https://github.com/dessskris",
+      "other": "https://about.me/desy.kristianti",
+      "id": "desykristianti",
+      "description": "Desy Kristianti works in Technology Consulting at Deloitte. Her specialisation is within Enterprise Integrations using middleware tools such as Dell Boomi and MuleSoft to create a network of applications that communicate with each other. Early in her career, she has delivered a 6-month digital transformation programme building integrations to reduce architecture complexity and deliver a customer centric business strategy.\n\nOutside of work, Desy is a City Leader at Women Who Code (WWCode) Belfast, which is a non-profit organisation dedicated to inspiring women to excel in technology careers. She is responsible for organising meetups, building relationships with local companies and organisations, and building a strong WWCode community.\n\nDesy also co-founded Women of Indonesia (WIN) Career Network and acts as the Events VP. WIN is a non-profit global network aiming to empower Indonesian women in achieving their professional objectives."
+    },
+    {
+      "draft": false,
+      "title": "Diarmaid McGowan",
+      "keynote": false,
+      "speakerimage": "/img/speakers/diarmaidmcgowan.jpg",
+      "twitter": "https://twitter.com/diarmaidmcgowan",
+      "linkedin": "https://www.linkedin.com/in/diarmaidmcgowan",
+      "other": "https://www.allstate.com/northern-ireland/",
+      "id": "diarmaidmcgowan",
+      "description": "Diarmaid McGowan is an enthusiastic IT professional with 22 years of experience working with both proprietary and open source software.\nDiarmaid was a Full Stack Software Engineer as part of Allstate’s agile innovation hub @CompozedLabs and recently moved into an Application security engineer role."
+    },
+    {
+      "draft": false,
+      "title": "Dylan Wylie",
+      "keynote": false,
+      "speakerimage": "/img/speakers/dylanwylie.jpg",
+      "twitter": "https://twitter.com/dylwylie",
+      "linkedin": "https://www.linkedin.com/in/dylanjwylie/",
+      "github": "https://github.com/Dylan1312",
+      "website": "http://wyl.ie",
+      "id": "dylanwylie",
+      "description": "Dylan Wylie is a Senior Software Engineer working in the adtech world, being one of the first employees at SpotX Belfast.\n\nHe got into programming as a kid, writing bots for games. In his spare time he puts out fires as a director over at Farset Labs."
+    },
+    {
+      "draft": false,
+      "title": "Emma Mulholland",
+      "keynote": false,
+      "speakerimage": "/img/speakers/emmamulholland.jpg",
+      "twitter": "https://twitter.com/e_mulholland",
+      "linkedin": "https://www.linkedin.com/in/emulholland",
+      "id": "emmamulholland",
+      "description": "Product Manager with a mission to make people passionate about Product, and the use of Product Management theory and tools, to create software that not only meets users needs, but also delights. \n\nProduct Manager @ShopKeep, and Trainer for Mind the Product.\nPreviously worked in an XP (extreme programming) lab for Allstate where she used lean techniques and Design Thinking to solve business problems across the enterprise. Prior to that Emma worked as a Product Manager in eCommerce, working on the Search and User Experience for Marks and Spencer, and Tesco\n\nCo-founder ProductTank Belfast and ProductCamp Belfast"
+    },
+    {
+      "draft": false,
+      "title": "Garth Gilmour",
+      "keynote": false,
+      "speakerimage": "/img/speakers/garthgilmour.jpg",
+      "twitter": "https://twitter.com/GarthGilmour",
+      "linkedin": "https://www.linkedin.com/in/garthgilmour",
+      "website": "https://medium.com/@garthgilmour",
+      "id": "garthgilmour",
+      "description": "Garth Gilmour gave up full time development back in 1999 to teach and mentor full time. Since then he's delivered well over a thousand courses and workshops to all kinds of programmers from all kinds of backgrounds. He started teaching C++ to C coders, then Java to C++ coders, then C# to Java coders and now teaches everything to everybody, since we work in an industry pathologically incapable of making up its mind. Although self employed for most of this career he came to roost five years ago as 'Head of Learning' at Instil. When not at the whiteboard he coaches Krav Maga, lifts heavy weights and fights nerf wars with his kids."
+    },
+    {
+      "draft": false,
+      "title": "Jason Bell",
+      "keynote": false,
+      "speakerimage": "/img/speakers/jasonbell.jpg",
+      "twitter": "https://twitter.com/jasonbelldata",
+      "website": "https://dataissexy.wordpress.com",
+      "id": "jasonbell",
+      "description": "Jason Bell is a practitioner of Big Data, Machine Learning and high volume streaming application and speaks regularly about putting these technologies together. In 2014 he wrote author of Machine Learning Hands on for Developers and Technical Professionals published by Wiley."
+    },
+    {
+      "draft": false,
+      "title": "Jason Lawson",
+      "keynote": false,
+      "speakerimage": "/img/speakers/jasonlawson.jpg",
+      "id": "jasonlawson",
+      "description": "Jason is a software engineer at Liberty IT, working on a small agile based team that provides cloud native solutions for parent company Liberty Mutual Insurance Group.\n\nHe particularly enjoys collaborative code, refactor, clean mob sessions.\n\nOutside of development he likes chocolate, hiking and photography – which he often combines into one activity in the Mournes."
+    },
+    {
+      "draft": false,
+      "title": "Joan McAleer",
+      "keynote": false,
+      "speakerimage": "/img/speakers/joanmcaleer.jpg",
+      "twitter": "https://twitter.com/joanmcaleer",
+      "linkedin": "https://www.linkedin.com/in/joan-mcaleer-83015533",
+      "id": "joanmcaleer",
+      "description": "Joan is a Senior Software Consultant for Deloitte Digital, having just returned from a year leading a product Development team for Deloitte Ventures. She a has a diverse career spanning 13 years with experience in delivery of large scale financial enterprise systems, product development and integration software. She is very passionate about women in tech particularly encouraging more women to be developers. She is currently on maternity leave with newborn twins and a toddler."
+    },
+    {
+      "draft": false,
+      "title": "Jo Rourke",
+      "keynote": false,
+      "speakerimage": "/img/speakers/jorourke.jpg",
+      "twitter": "https://twitter.com/Jo_SilverT",
+      "linkedin": "https://www.linkedin.com/in/jorourkecopywriter",
+      "website": "https://silvertonguetranslations.com/blog/",
+      "other": "https://www.instagram.com/jo.rourke/",
+      "id": "jorourke",
+      "description": "Jo Rourke is a content strategist and writer. She helps people talk about themselves and their products without feeling like a tool."
+    },
+    {
+      "draft": false,
+      "title": "Keshia Morrison",
+      "keynote": false,
+      "speakerimage": "/img/speakers/keshiamorrison.jpg",
+      "linkedin": "https://www.linkedin.com/in/keshiamorrison",
+      "id": "keshiamorrison",
+      "description": "Developer trying to get into front-end."
+    },
+    {
+      "draft": false,
+      "title": "Kevin Gannon",
+      "keynote": false,
+      "speakerimage": "/img/speakers/kevingannon.jpg",
+      "twitter": "https://twitter.com/kevin_gannon",
+      "linkedin": "http://www.linkedin.com/in/kevgannon",
+      "id": "kevingannon",
+      "description": "Kevin has over 14 years experience working within the Technology and Software Engineering scene. He is currently a Solutions Architect and lead blockchain engineer at PwC's Belfast Blockchain Lab. He designs solutions for clients across multiple industries and leads the build out from PoC and beyond. As an avid agile practitioner and advocate of continuous improvement, he strives to do the right thing in the right way."
+    },
+    {
+      "draft": false,
+      "title": "Kris Jones",
+      "keynote": false,
+      "speakerimage": "/img/speakers/krisjones.jpg",
+      "twitter": "https://twitter.com/Krisjones4",
+      "linkedin": "https://uk.linkedin.com/in/kris-jones-6708a95b",
+      "github": "https://github.com/KrisjonesSB",
+      "id": "krisjones",
+      "description": "CTO at Secure Broadcast. Passionate about Tech and Product."
+    },
+    {
+      "draft": false,
+      "title": "Lee Skillen",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "twitter": "https://twitter.com/lskillen",
+      "linkedin": "https://linkedin.com/in/lskillen",
+      "github": "https://github.com/lskillen",
+      "website": "https://blog.cloudsmith.io",
+      "id": "leeskillen",
+      "description": "Chief Code Mercenary (CTO) at Cloudsmith, Father of Two, All-Round Technology Geek."
+    },
+    {
+      "draft": false,
+      "title": "Louise Craven",
+      "keynote": false,
+      "speakerimage": "/img/speakers/louisecraven.jpg",
+      "id": "louisecraven",
+      "description": "Louise Craven is a Product Designer at Liberty IT, working on developing a B2B product for Liberty Mutual Surety. She is passionate about all things product and evolving creative solutions that work for business and the end user."
+    },
+    {
+      "draft": false,
+      "title": "Maciej Wyrodek",
+      "keynote": false,
+      "speakerimage": "/img/speakers/maciejwyrodek.jpg",
+      "twitter": "https://twitter.com/thebrokentest",
+      "linkedin": "https://www.linkedin.com/in/wyrodek",
+      "github": "https://github.com/mwyrodek",
+      "website": "http://thebrokentest.com",
+      "id": "maciejwyrodek",
+      "description": "\"I am part of that power which eternally wills evil and eternally works good\"\n\nTester Specializing in Automation. Part of IT since 2011 He had the opportunity to work, among others, on projects for Dell, Volvo, Creditsafe, Jetshop, Kobo, Contium.\n\nHe became tester because outside becoming demolition expert it was only available option to get paid for breaking stuff. Even though he specialises in Test Automation, his first love is Human Testing. He loves experimenting seeing new things and how they affect his world.\n\nSince 2016 tries to give more to the community by presenting at conferences, meetups and workshops.\n\nIn free time writing his blog thebrokentest.com. Where he aims to discuss different code smells in test automation."
+    },
+    {
+      "draft": false,
+      "title": "Mark McConnell",
+      "keynote": false,
+      "speakerimage": "/img/speakers/markmcconnell.jpg",
+      "linkedin": "https://www.linkedin.com/in/mark-mcconnell-4b16b734/",
+      "github": "https://github.com/mjmcconnell",
+      "id": "markmcconnell",
+      "description": "Senior developer at whitespace ventures\n\nBackground in building highly performant web applications for some of the world’s largest brands, including Ford, Red Bull and Google. Recently moved towards the fintech sector working with creating large scale data monitoring systems for trades. While my day to day job is working with python, I'm often found working on everything from project management to devops."
+    },
+    {
+      "draft": false,
+      "title": "Mary-Jane McBride",
+      "keynote": false,
+      "speakerimage": "/img/speakers/maryjanemcbride.jpg",
+      "twitter": "https://twitter.com/a_crafty_coder",
+      "linkedin": "https://www.linkedin.com/in/mary-jane-mcbride/",
+      "github": "https://github.com/maryjanem",
+      "id": "maryjanemcbride",
+      "description": "A recent graduate from Queen’s University Belfast, Mary-Jane recently began working as a software engineer at Kainos where she joined the Applied Innovation team and has been experimenting with machine learning and chatbots ever since."
+    },
+    {
+      "draft": false,
+      "title": "May Cheung",
+      "keynote": false,
+      "speakerimage": "/img/speakers/maycheung.jpg",
+      "twitter": "https://twitter.com/FluxusNerd",
+      "linkedin": "https://www.linkedin.com/in/maycheungni",
+      "id": "maycheung",
+      "description": "May has a foot in both the tech community and legal sector, having worked in the latter for the past 13 years.  Likes FOSS, Farset, and fast cars."
+    },
+    {
+      "draft": false,
+      "title": "Michael Hughes",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "id": "michaelhughes",
+      "description": "TBC"
+    },
+    {
+      "draft": false,
+      "title": "Micheal Colhoun",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "twitter": "https://twitter.com/michealcolhoun",
+      "linkedin": "https://uk.linkedin.com/in/michealcolhoun",
+      "website": "https://www.transformingPeople.com",
+      "id": "michealcolhoun",
+      "description": "Micheal Colhoun is Developer, Trainer and Co-Founder of ColhounTech and Transforming People Academy. \n\nOver the past 20 years, he has worked with clients such as The London Stock Exchange, CME group, IBM & NCR and has worked with a long list of startups and small businesses."
+    },
+    {
+      "draft": false,
+      "title": "Nadine O'Hagan",
+      "keynote": false,
+      "speakerimage": "/img/speakers/nadineohagan.jpg",
+      "twitter": "https://twitter.com/cudibu",
+      "linkedin": "https://www.linkedin.com/in/nadine-o-hagan-92b44395",
+      "id": "nadineohagan",
+      "description": "Nadine is a Senior Software Engineer with 7 years’ experience in the Tech industry. After 5 years as a developer at LIT, she is currently working at PwC in the Blockchain and Digital Technology team, researching the latest Blockchain technologies and building out a range of technical solutions for clients in diverse areas."
+    },
+    {
+      "draft": false,
+      "title": "Neill Boyd",
+      "keynote": false,
+      "speakerimage": "/img/speakers/neillboyd.jpg",
+      "twitter": "https://twitter.com/BelfastTester",
+      "linkedin": "https://www.linkedin.com/in/neill-boyd-a0614839",
+      "github": "https://github.com/neillboyd",
+      "website": "https://www.BelfastTester.com/",
+      "id": "neillboyd",
+      "description": "Neill is a quality focused engineer trying to redefine how Flexera 'do quality'. Neill has tried to bring good test practices to teams across many sectors, from FinTech to Software Analysis and everything in between. With close to 15 years in this game, if Neill isn't talking about testing and quality at some level, then he more than likely isn't feeling very well. When not disproving assumptions about software, Neill is at home with his daughter Alex or attempting to learn something new (magic, instruments, technology)."
+    },
+    {
+      "draft": false,
+      "title": "Neil McCallion",
+      "keynote": false,
+      "speakerimage": "/img/speakers/neilmccallion.jpg",
+      "twitter": "https://twitter.com/njmcode",
+      "linkedin": "https://www.linkedin.com/in/neil-mccallion-311729ba",
+      "github": "https://github.com/njmcode",
+      "website": "https://njmcode.github.io/blog",
+      "codepen": "https://codepen.io/njmcode",
+      "id": "neilmccallion",
+      "description": "Neil McCallion is a Senior JavaScript Engineer at ShopKeep, and is also an organiser and MC for the popular BelfastJS meetup group. A long-time and dedicated 'web person', Neil likes to do the occasional bit of game development, audio stuff and general creative meddling in the browser, while pushing for performant and accessible user experiences. Is known to like cake."
+    },
+    {
+      "draft": false,
+      "title": "Nicholas Shaw",
+      "keynote": false,
+      "speakerimage": "/img/speakers/nicholasshaw.jpg",
+      "twitter": "https://twitter.com/Shicky4",
+      "linkedin": "https://www.linkedin.com/in/nicholasshaw4/",
+      "github": "https://github.com/shicky4",
+      "website": "https://nicholaspshaw.com/",
+      "id": "nicholasshaw",
+      "description": "Nick is currently a software engineer with Puppet.\n\nHe has worked as a developer, a support engineer, a tester and a shelf stacker! But right now he is fascinated by efficiency and loves to optimise feedback systems to be quicker, offer more clarity, as well as proving more reliable. \n\nHe enjoys the variety that working as a tester provides him with most of all. In the same day he can find himself head down in an IDE, having high-level discussions about the effectiveness of an upcoming feature to address business needs and looking over analytics to see where he should focus his testing efforts.\n\nNick likes to learn while helping others and does so by co-organising the NI Testers meetup as well as helping out at Code Club Holywood. You can find him on twitter @Shicky4 or at his blog www.nicholaspshaw.com"
+    },
+    {
+      "draft": false,
+      "title": "Olivia McCartan",
+      "keynote": false,
+      "speakerimage": "/img/speakers/oliviamccartan.jpg",
+      "id": "oliviamccartan",
+      "description": "Olivia McCartan is a Product Owner at Liberty IT, working on developing a B2B product for Liberty Mutual Surety. She enjoys working as part of a product team with a user centric design focus."
+    },
+    {
+      "draft": false,
+      "title": "Paddy Carey",
+      "keynote": false,
+      "speakerimage": "/img/speakers/paddycarey.jpg",
+      "twitter": "https://twitter.com/paddycarey",
+      "github": "https://github.com/paddycarey",
+      "id": "paddycarey",
+      "description": "Lead Engineer @ ShopKeep."
+    },
+    {
+      "draft": false,
+      "title": "Paul Barrett",
+      "keynote": false,
+      "speakerimage": "/img/speakers/paulbarrett.jpg",
+      "twitter": "https://twitter.com/barrett_paul",
+      "id": "paulbarrett",
+      "description": "Multimedia developer based in Belfast. Mainly frontend development & web design but also 3D modelling, animation, game development, etc."
+    },
+    {
+      "draft": false,
+      "title": "Paul Breen",
+      "keynote": false,
+      "speakerimage": "/img/speakers/paulbreen.jpg",
+      "twitter": "https://twitter.com/paulbreen",
+      "linkedin": "https://www.linkedin.com/in/paul-breen-841ab534/",
+      "github": "https://github.com/paulbreen",
+      "id": "paulbreen",
+      "description": "Senior Software Engineer, Civica Belfast."
+    },
+    {
+      "draft": false,
+      "title": "Paul Hill",
+      "keynote": false,
+      "speakerimage": "/img/speakers/paulhill.jpg",
+      "twitter": "https://twitter.com/smallmtn",
+      "linkedin": "https://www.linkedin.com/in/smallmtn",
+      "github": "https://github.com/smallmtn",
+      "id": "paulhill",
+      "description": "For over 30 years Paul has been immersed within leadership and management roles: beginning his career as an officer candidate leading to ten years in the USAF as an Officer in B-52 Operations, before going on to host multiple roles in leadership positions within the software industry.  During his ten years in the Air Force, Paul has acted as a B-52 Navigator, Flight Operations scheduler, Radar Navigator, and Director of Current Operations for Minot Air Force Base.  Working in the field of operations with the Air Force has given Paul the appreciation and capability of making high quality, fast-paced, critical decisions in high pressure situations.  After leaving the Air Force, he used his prolific experience in leadership and Computer Science to build and lead software development teams. Paul has over nine years of experience with managing 24x7 operations for SaaS solutions. Additionally, he joined Bazaarvoice in 2014, quickly becoming a leader in R&D assisting and kick-starting its transformation into a lean and agile organization.\n\n\"I firmly believe that quality is the #1 thing when building software.  Ultimately, if you sacrifice quality in order to finish a product sooner the cost to the client, consumer, and company is greater than anyone anticipates.  In the past 3.5 years in which I have been with Bazaarvoice, my teams have delivered a tremendous amount of value with a 'quality-first' mentality and I look forward to bringing similar success into building the Bazaarvoice Belfast Office and R&D team.\""
+    },
+    {
+      "draft": false,
+      "title": "Peter McConnell",
+      "keynote": false,
+      "speakerimage": "/img/speakers/petermcconnell.jpg",
+      "twitter": "https://twitter.com/PeteMcConnell_",
+      "linkedin": "https://www.linkedin.com/in/pemcconnell/",
+      "github": "https://github.com/pemcconnell",
+      "id": "petermcconnell",
+      "description": "Engineer at State Street."
+    },
+    {
+      "draft": false,
+      "title": "Peter Pito",
+      "keynote": false,
+      "speakerimage": "/img/speakers/peterpito.jpg",
+      "twitter": "https://twitter.com/theppito",
+      "linkedin": "https://uk.linkedin.com/in/peterpito",
+      "website": "https://medium.com/@peterpito",
+      "id": "peterpito",
+      "description": "Peter Pito is a technical lead at Deloitte Digital with over 20 years of experience designing and delivering software products. \n\nAn agilist practitioner, a bit of developer, a bit of manager, curious by nature; he likes to understand why things work, constantly reminded how little he knows. \n\nPeter has worked as a software developer, consultant and managing director across a wide variety of domains and technologies. His focus is on helping software teams deliver high quality software predictably."
+    },
+    {
+      "draft": false,
+      "title": "Rachel McKane",
+      "keynote": false,
+      "speakerimage": "/img/speakers/rachelmckane.jpg",
+      "twitter": "https://twitter.com/remckane",
+      "linkedin": "https://www.linkedin.com/in/rmckane",
+      "id": "rachelmckane",
+      "description": "Rachel McKane is a Customer Success Manager for Esri Ireland. In her role she gets to partner with a diverse set of customers to deliver business solutions, helping them utilise existing data to answer critical business questions based on the science of where.\n\nPrior to joining Esri Ireland, Rachel was the first female to be promoted to the position of Principal Mapping and Charting Officer (Grade 7) in Ordnance Survey Northern Ireland (OSNI). During her time in OSNI she managed high profile projects such as the Positional Improvement Project and the DARD Single Farm Payment Project. In these projects she managed over 100 technical staff across multiple teams, disciplines and locations to deliver a common goal.\n\nRachel was elected to the position of Chair of the Northern Ireland Branch of BCS, The Chartered Institute for IT in September 2016. Only the second women in Northern Ireland to take up this position in its 60-year history."
+    },
+    {
+      "draft": false,
+      "title": "Rebecca Martin",
+      "keynote": false,
+      "speakerimage": "/img/speakers/rebeccamartin.jpg",
+      "twitter": "https://twitter.com/laches1sm",
+      "linkedin": "https://www.linkedin.com/in/rebecca-martin-1b497a129/",
+      "github": "https://github.com/becca1993",
+      "id": "rebeccamartin",
+      "description": "I'm a junior developer, currently working in Flexera and have contributed to open source projects such as Project Lintol. I mainly focus on Python, but I am also interested in Go, Rust, PHP and FLOSS in general."
+    },
+    {
+      "draft": false,
+      "title": "Rebecca Walsh",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "twitter": "https://twitter.com/ink_consultancy",
+      "id": "rebeccawalsh",
+      "description": "Rebecca has a background in Aeronautical Engineering with nearly 10 years’ experience in innovation and design thinking with 3 years’ experience in Service Design. Rebecca currently works in the Public Sector Innovation Lab as a Service Designer and has worked on several in projects in Health and Social Care and with local councils. She loves running, travelling, working as a STEM ambassador and being a voluntary member of Code4Good NI."
+    },
+    {
+      "draft": false,
+      "title": "Ritu Bhatt",
+      "keynote": false,
+      "speakerimage": "/img/speakers/ritubhatt.jpg",
+      "twitter": "https://twitter.com/ritudb/ https://twitter.com/iEngageIT",
+      "linkedin": "https://www.linkedin.com/in/ritu-bhatt-32551228/",
+      "id": "ritubhatt",
+      "description": "16 years of software development experience."
+    },
+    {
+      "draft": false,
+      "title": "Robert Paul",
+      "keynote": false,
+      "speakerimage": "/img/speakers/robertpaul.jpg",
+      "twitter": "https://twitter.com/itsrobertpaul",
+      "github": "https://github.com/robertwpaul",
+      "id": "robertpaul",
+      "description": "Software Engineer based in Belfast. Jack of all trades."
+    },
+    {
+      "draft": false,
+      "title": "Roger Simms",
+      "keynote": false,
+      "speakerimage": "/img/speakers/rogersimms.jpg",
+      "id": "rogersimms",
+      "description": "Journeyman, poet, world class engineer. None of these are words that have ever appeared on Roger's annual reviews. Words that do appear are hat wearer, whiskey drinker and \"well done for putting up with Simon\"."
+    },
+    {
+      "draft": false,
+      "title": "Rory Campbell",
+      "keynote": false,
+      "speakerimage": "/img/speakers/rorycampbell.jpg",
+      "twitter": "https://twitter.com/fordecampbell",
+      "id": "rorycampbell",
+      "description": "Founder director at Forde Campbell, the NI international tech and data law firm."
+    },
+    {
+      "draft": false,
+      "title": "Ryan Wilson",
+      "keynote": false,
+      "speakerimage": "/img/speakers/ryanwilson.jpg",
+      "twitter": "https://twitter.com/___ryanw",
+      "id": "ryanwilson",
+      "description": "24 years old. Studied Computing (Game Development) at Ulster University Coleraine, graduated with First Class Honours. Working as a Junior Software Engineer at PwC. Part-time game developer, Full time nerd."
+    },
+    {
+      "draft": false,
+      "title": "Sarah Rudek",
+      "keynote": false,
+      "speakerimage": "/img/speakers/sarahrudek.jpg",
+      "twitter": "https://twitter.com/is_that_sarah",
+      "website": "http://shieldmaiden-studios.com",
+      "id": "sarahrudek",
+      "description": "Sarah Rudek is a games developer and the founder of Belfast-based Shieldmaiden Studios. As a perpetual techno-optimist she strives to make the future accessible, fair, and smart for all."
+    },
+    {
+      "draft": false,
+      "title": "Simon Hewitt",
+      "keynote": false,
+      "speakerimage": "/img/speakers/simonhewitt.jpg",
+      "twitter": "https://twitter.com/tyndyll",
+      "id": "simonhewitt",
+      "description": "Simon dreams of one day fulfilling his life long dream of buying a chainsaw and moving to the Canadian wilderness. Until this time he is stuck writing code, attending meetings, falling out with Roger and generally living a software based lifestyle."
+    },
+    {
+      "draft": false,
+      "title": "Simon Whittaker",
+      "keynote": false,
+      "speakerimage": "/img/speakers/simonwhittaker.jpg",
+      "twitter": "https://twitter.com/szlwzl",
+      "linkedin": "https://www.linkedin.com/in/simonwhittaker/",
+      "github": "https://github.com/szlwzl",
+      "id": "simonwhittaker",
+      "description": "Simon Whittaker is Cyber Security Director of Vertical Structure Ltd and has been providing security services & security training for over 10 years.\n\nThe majority of Simon’s work involves working with companies to test and improve secure coding practices, penetration & security testing and providing security consultancy to companies that are keen to improve their processes & procedures.\n\nSimon has great experience in developing & implementing efficient and effective practices across all sections of an organisation to assist with securing and retaining external quality recognition such as ISO27001, ISO9001 and CSA STAR. This has been frequently proven through his work with clients throughout the UK and Ireland.\n\nSimon also has a wealth of experience assisting companies with understanding their current security posture, their future goals and outlining how to achieve those goals. This has included working with companies on a long-term basis using coaching and mentoring techniques to help drive process improvement and provide external feedback."
+    },
+    {
+      "draft": false,
+      "title": "Siobhan Gallagher",
+      "keynote": false,
+      "speakerimage": "/img/speakers/siobhangallagher.jpg",
+      "twitter": "https://twitter.com/cyber_belfast",
+      "linkedin": "https://www.linkedin.com/in/siobhang",
+      "id": "siobhangallagher",
+      "description": "OWASP Chapter Leader,  PWC Cyber Business Lead for NI, Women in Tech Exec member, keen supporter of getting women and kids into STEM and a Bring IT On Ambassador. Have delivered £15 million + in tech sales, an avid techie meetup attendee and a massive supporter of the NI Tech Community.\n\nI truly believe we'd all do better if sales and techies could understand each other a little better."
+    },
+    {
+      "draft": false,
+      "title": "Stephen Rushe",
+      "keynote": false,
+      "speakerimage": "/img/speakers/stephenrushe.jpg",
+      "twitter": "https://twitter.com/srushe",
+      "github": "https://github.com/srushe",
+      "website": "https://deeden.co.uk/",
+      "id": "stephenrushe",
+      "description": "Stephen spends (what some would call) a disturbing amount of time writing software but would probably give it up for the opportunity to live on a cat island. He can often be found drinking tea, and muttering about the accuracy of cricket statistical data. He is possibly powered by sarcasm. He is uncertain about writing about himself in the third person."
+    },
+    {
+      "draft": false,
+      "title": "Steven Limmer",
+      "keynote": false,
+      "speakerimage": "/img/speakers/stevenlimmer.jpg",
+      "twitter": "https://twitter.com/_slimmer_",
+      "linkedin": "https://www.linkedin.com/in/steven-limmer-6a4629155",
+      "id": "stevenlimmer",
+      "description": "Steven is an agile consultant with over a decade's experience working in the tech industry, covering government, finance and e-commerce sectors. During that time he's been a tester, test lead, scrum master, agile coach, and covering any other gaps that appear. His sweet spot is working with people to create high-performing, but more importantly, healthy and fun teams. He's currently working as a Delivery Manager in Ministry of Justice's Digital and Technology department, at the cutting edge of digital service delivery. Never scared to speak his mind, which is why he's self-employed."
+    },
+    {
+      "draft": false,
+      "title": "Steven Ringland",
+      "keynote": false,
+      "speakerimage": "/img/speakers/stevenringland.jpg",
+      "twitter": "https://twitter.com/sringland",
+      "linkedin": "https://linkedin.com/in/sringland",
+      "github": "https://github.com/rnglnd",
+      "id": "stevenringland",
+      "description": "I am a frontend developer working mostly with React but I’m just a big JS fan in general."
+    },
+    {
+      "draft": false,
+      "title": "Suzanne McLaughlin",
+      "keynote": false,
+      "speakerimage": "/img/speakers/suzannemclaughlin.jpg",
+      "twitter": "https://twitter.com/SuzieMcLaughlin",
+      "linkedin": "https://linkedin.com/in/suzanne-mclaughlin-9b67074",
+      "id": "suzannemclaughlin",
+      "description": "Suzanne is the Deputy Chief Survey Officer in Ordnance Survey and is responsible for Geospatial Systems & Data Management. She previously worked in developing the Open Data Strategy for Northern Ireland and setting up the OpenDataNI portal. In a nutshell she loves anything to do with data!"
+    },
+    {
+      "draft": false,
+      "title": "Thomas Swann",
+      "keynote": false,
+      "speakerimage": "/img/speakers/thomasswann.jpg",
+      "twitter": "https://twitter.com/Tam_III",
+      "linkedin": "https://uk.linkedin.com/in/tamthethird",
+      "github": "https://github.com/tswann",
+      "website": "https://medium.com/@tam_III",
+      "id": "thomasswann",
+      "description": "Tom Swann is a developer and architect who lives in Newtownards with his wife, son and two grumpy guinea pigs.\n\nHe worked for Kainos in Belfast for 12 years on a variety of projects across utilities, financial services and the public sector before moving into the world of cyber security with Anomali, working on their threat intelligence cloud platform.\n\nHe currently works as an architect for State Street bank."
+    },
+    {
+      "draft": false,
+      "title": "Udhayakumar Rajendran",
+      "keynote": false,
+      "speakerimage": "/img/speakers/udhayakumarrajendran.jpg",
+      "linkedin": "https://www.linkedin.com/in/udhayakumar-rajendran/",
+      "id": "udhayakumarrajendran",
+      "description": "Senior Software Engineer @ Camlin Technologies, Lisburn."
+    },
+    {
+      "draft": false,
+      "title": "Unidentified Speaker",
+      "keynote": false,
+      "speakerimage": "/img/speakers/unidentifiedspeaker.jpg",
+      "id": "unidentifiedspeaker",
+      "description": "In keeping with the spirit of their talk, the speaker wishes to remain out of the spotlight."
+    },
+    {
+      "draft": false,
+      "title": "Vicky Potts",
+      "keynote": false,
+      "speakerimage": "/img/speakers/noavatar.jpg",
+      "twitter": "https://twitter.com/whitepotvicky",
+      "linkedin": "https://www.linkedin.com/in/vickypotts/",
+      "github": "https://github.com/Vixxd",
+      "website": "https://whitepotstudios.com",
+      "id": "vickypotts",
+      "description": "Director and co-founder of Whitepot Studios, blending tech, business, and creativity in my day-to-day work. Loves cats, wrestling, and sitting up late tweeting."
+    },
+    {
+      "draft": false,
+      "title": "Victoria Sloan",
+      "keynote": false,
+      "speakerimage": "/img/speakers/victoriasloan.jpg",
+      "twitter": "https://twitter.com/victoriasloan95",
+      "linkedin": "https://www.linkedin.com/in/victoria-sloan-1413a8a7/",
+      "id": "victoriasloan",
+      "description": "JavaScript developer."
+    },
+    {
+      "draft": false,
+      "title": "Zeki Kucuk-Kose",
+      "keynote": false,
+      "speakerimage": "/img/speakers/zekikucukkose.jpg",
+      "linkedin": "https://www.linkedin.com/in/zeki-kucuk-kose/",
+      "id": "zekikucukkose",
+      "description": "Software Developer - Deloitte Digital. Graduated with first class honours in Computing Science (BSc) From Ulster University (2017)."
+    },
+    {
+      "draft": false,
+      "title": "Zoe Gadon-Thompson",
+      "keynote": false,
+      "speakerimage": "/img/speakers/zoegadonthompson.jpg",
+      "twitter": "https://twitter.com/gingerzoealex",
+      "github": "https://github.com/zoealexandra",
+      "website": "https://gingerzoealex.co.uk/",
+      "id": "zoegadonthompson",
+      "description": "I'm nearly finished my first year of a foundation degree in software engineering. I started to study at 21, after working minimum wage in a call centre and having a baby. I want her to have a mum who's successful and passionate, and I'm at least half of those things already. I'm trying to get my name known and my skills developed so I can make some of my ideas come to life through the support of the tech community."
+    }
+  ],
+  "rooms": [
+    {
+      "id": "0",
+      "title": "Lecture Room 1",
+      "abbreviation": "LR1"
+    },
+    {
+      "id": "1",
+      "title": "Lecture Room 3",
+      "abbreviation": "LR3"
+    },
+    {
+      "id": "2",
+      "title": "Conference Room 1",
+      "abbreviation": "CR1"
+    },
+    {
+      "id": "3",
+      "title": "Raked Lecture Theatre",
+      "abbreviation": "Raked"
+    }
+  ],
+  "timeslots": [
+    {
+      "id": "reg",
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "title": "8:30-9:00",
+      "allRooms": true,
+      "description": "REGISTRATION"
+    },
+    {
+      "id": "tea",
+      "startTime": "09:00",
+      "endTime": "09:20",
+      "title": "9:00-9:20",
+      "allRooms": true,
+      "description": "TEA/COFFEE"
+    },
+    {
+      "id": "welcome",
+      "startTime": "09:30",
+      "endTime": "09:40",
+      "title": "9:30-9:40",
+      "plenary": true,
+      "description": "Welcome"
+    },
+    {
+      "id": "1",
+      "startTime": "09:50",
+      "endTime": "10:20",
+      "title": "9:50-10:20"
+    },
+    {
+      "id": "2",
+      "startTime": "10:30",
+      "endTime": "11:00",
+      "title": "10:30-11:00"
+    },
+    {
+      "id": "3",
+      "startTime": "11:10",
+      "endTime": "11:40",
+      "title": "11:10-11:40"
+    },
+    {
+      "id": "4",
+      "startTime": "11:50",
+      "endTime": "12:20",
+      "title": "11:50-12:20"
+    },
+    {
+      "id": "5",
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "title": "12:30-13:00",
+      "description": "LUNCH"
+    },
+    {
+      "id": "6",
+      "startTime": "13:10",
+      "endTime": "13:40",
+      "title": "13:10-13:40",
+      "description": "LUNCH"
+    },
+    {
+      "id": "7",
+      "startTime": "13:50",
+      "endTime": "14:20",
+      "title": "13:50-14:20"
+    },
+    {
+      "id": "8",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "title": "14:30-15:00"
+    },
+    {
+      "id": "9",
+      "startTime": "15:10",
+      "endTime": "15:40",
+      "title": "15:10-15:40"
+    },
+    {
+      "id": "break",
+      "startTime": "15:40",
+      "endTime": "16:00",
+      "title": "15:40-16:00",
+      "allRooms": true,
+      "description": "BREAK"
+    },
+    {
+      "id": "10",
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "title": "16:00-16:30"
+    },
+    {
+      "id": "11",
+      "startTime": "16:40",
+      "endTime": "17:10",
+      "title": "16:40-17:10"
+    },
+    {
+      "id": "12",
+      "startTime": "17:20",
+      "endTime": "17:50",
+      "title": "17:20-17:50",
+    },
+    {
+      "id": "closing",
+      "startTime": "18:00",
+      "endTime": "18:20",
+      "title": "18:00-18:20",
+      "plenary": true,
+      "description": "Closing address"
+    },
+    {
+      "id": "afterparty",
+      "startTime": "18:20",
+      "endTime": "23:59",
+      "title": "AFTERWARDS",
+      "allRooms": true,
+      "description": "Complimentary food and drink at the Botanic Inn"
+    }
+  ],
+  "htmlPages": [
+    {
+      "title": "Floorplan",
+      "html": "<div style='height:100%; display:flex; flex-direction:column; justify-content:space-around'><div><img src='https://www.nidevconf.com/img/floorplan-rh.png' style='width:100%' /></div></div>",
+      "zoomable": true
+    },
+    {
+      "title": "Open Space",
+      "html": "<p>The Marketplace for the Open Space will be open all morning in the Atrium, a whiteboard for you to add sessions - we suggest you use this to follow up talk discussions.</p><p>The sessions will be opened during the staggered lunch. It will run in the Project and Lightning Rooms. Throughout the afternoon, the Law of Two Feet applies: you are welcome to enter and leave this room during discussion and talks, so please explore the space!</p><p><em>With thanks to David Anderson of Liberty IT</em></p>",
+      "zoomable": true
+    },
+    {
+      "title": "Project Space",
+      "html": "<p>In the morning, the Project Room will show off personal and professional projects, both hardware and software. Tou are welcome to demo your ideas here!</p>",
+      "zoomable": true
+    },
+    {
+      "title": "Code of Conduct",
+      "html": "<p>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.</p> <h3>Need Help?</h3> <p>You have our contact details in the emails we've sent.</p> <h3>The Quick Version</h3> <p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <em>without a refund</em> at the discretion of the conference organisers.</p> <h3>The Less Quick Version</h3> <p>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, unwelcome attempts at recruitment, inappropriate physical contact, and unwelcome sexual attention.</p> <p>Participants asked to stop any harassing behavior are expected to comply immediately.</p> <p>Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.</p> <p>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.</p> <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing and/or badges.</p> <p>Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p> <p>We expect participants to follow these rules at conference and workshop venues and conference-related social events. </p>",
+      "zoomable": true
+    }
+  ]
+}
