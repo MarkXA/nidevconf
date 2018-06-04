@@ -4,7 +4,7 @@ title = "Data (in)security in a Cloud Environment"
 speaker = "simonwhittaker"
 keynote = false
 lightning = false
-time = "8"
+time = "3"
 room = "1"
 +++
 
