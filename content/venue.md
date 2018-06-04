@@ -23,10 +23,14 @@ title = "Venue"
                 <p>
                     Ample free parking is available on site. Bicycle stands are also provided.
                 </p>
+
+                <p>Ride-sharing: we will attempt to put you in touch with others wishing to carpool or share a taxi from outside Belfast. Please fill in <a href='https://docs.google.com/forms/d/e/1FAIpQLSd8Al8tdNvCl_sXW7gFllotDpVTc9eWOcqeYacP4q38KSEGmg/viewform'>this form</a>.</p>
+
                 <h3>Accessibility</h3>
                 <p>
                     Please see the <a href='/accessibility'>accessibility and access page</a> for more information.
                 </p>
+
                 <h3>Anything else</h3>
                 <p>
                     If there is information that you feel should be here, but is not, please let us know at <a href="mailto:inbox@nidevconf.com">inbox@nidevconf.com</a>.

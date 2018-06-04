@@ -23,13 +23,6 @@ title = "Access and Accessibility"
 
                 <p>If there is information that you feel should be here, but is not, please let us know at <a href='inbox@nidevconf.com'>inbox@nidevconf.com</a>.</p>
 
-                <h2>Transport</h2>
-
-                <p>The 8d bus goes approximately every 15min from Donegall Square East via Shaftesbury Square, and you can alight at Stranmillis Mews (approximately 10min from City Hall), which is under 5min walk from the main building.</p>
-
-                <p>Carpooling: we will attempt to put you in touch with others wishing to carpool or share a taxi from outside Belfast. Please fill in <a href='https://docs.google.com/forms/d/e/1FAIpQLSd8Al8tdNvCl_sXW7gFllotDpVTc9eWOcqeYacP4q38KSEGmg/viewform'>this form</a>.</p>
-
-                <p>Free parking is available on the day at the venue but, notwithstanding accessible parking, is subject to availability.</p>
             </div>
         </main>
     </div>
