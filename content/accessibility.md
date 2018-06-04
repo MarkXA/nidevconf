@@ -13,12 +13,23 @@ title = "Access and Accessibility"
 
                 <p>Carers are welcome free-of-charge - our system will allow self-selected ticket booking at zero cost, but if preferred, you are welcome to contact us to book a ticket for a carer directly.</p>
 
-                <p>While we will not be able to provide live captioning, if you would be benefited by suitable seat reservation, or there are other ways we can facilitate your experience of the event, please get in touch via <a href='mailto:inbox@nidevconf.com'>inbox@nidevconf.com</a> or one of our organizing team directly. We do have some preparation space that may be used as a quieter area, however, if find you need access to a suitable space during the day, please let one of our organizing team know.</p>
+                <p>All presentation areas are on the ground floor, and accessible bathrooms are available where marked on the floorplan below. Free Blue Badge and Parent-Toddler parking is available at the front of Riddel Hall. An access ramp to the right of the main entrance, when facing the building, provides step-free access. Within the building, some corridors have step/lift connections, although you may find alternate routes which may be preferable (for example, in front of the Raked Lecture Theatre). An induction loop is available within the building.</p>
+
+                <p>A Quiet Room is available on the ground floor, marked QR in the floorplan. We would ask those using the space to refrain from carrying on conversations or taking phone-calls in this room.</p>
 
                 <img src='/img/floorplan-rh.png' style='max-width: 700px' />
-                <p><em>Full venue accessibility will be available shortly.</em></p>
+
+                <p>While we will not be able to provide live captioning or signing this year, if you would be benefited by suitable seat reservation, or there are other ways we can facilitate your experience of the event, please get in touch via <a href='mailto:inbox@nidevconf.com'>inbox@nidevconf.com</a> or one of our organizing team directly. We do have some preparation space that may be used as a quieter area, however, if find you need access to a suitable space during the day, please let one of our organizing team know.</p>
 
                 <p>If there is information that you feel should be here, but is not, please let us know at <a href='inbox@nidevconf.com'>inbox@nidevconf.com</a>.</p>
+
+                <h2>Transport</h2>
+
+                <p>The 8d bus goes approximately every 15min from Donegall Square East via Shaftesbury Square, and you can alight at Stranmillis Mews (approximately 10min from City Hall), which is under 5min walk from the main building.</p>
+
+                <p>Carpooling: we will attempt to put you in touch with others wishing to carpool or share a taxi from outside Belfast. Please fill in <a href='https://docs.google.com/forms/d/e/1FAIpQLSd8Al8tdNvCl_sXW7gFllotDpVTc9eWOcqeYacP4q38KSEGmg/viewform'>this form</a>.</p>
+
+                <p>Free parking is available on the day at the venue but, notwithstanding accessible parking, is subject to availability.</p>
             </div>
         </main>
     </div>
