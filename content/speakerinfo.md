@@ -14,10 +14,11 @@ title = "Information for speakers"
                   <ul>
                     <li>Get to speaker events on May 30 and Jun 6, if you can!</li>
                     <li>Recommend doing a test run with someone for feedback</li>
-                    <li>If you want joind.in feedback, let us know at inbox@nidevconf.com (subject line "Feedback on joind.in")</li>
+                    <li>If you want <a href="https://joind.in/event/northern-ireland-developer-conference-2018">joind.in feedback</a>, let us know at inbox@nidevconf.com (subject line "Feedback on joind.in")</li>
                     <li>Let us know if you will use your laptop or need one available (and whether Linux, Mac or Windows)</li>
                     <li>Bring any X-to-HDMI connectors you need</li>
-                    <li>Include any links to Twitter
+                    <li>Include any links to Twitter</li>
+                    <li>Put some thought into making your <a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">presentation accessible</a></li>
                   </ul>
                   </li>
                     <li><h3>On the day</h3>
@@ -32,7 +33,9 @@ title = "Information for speakers"
                   </ul>
                   </li>
                 </ul>            
+
                 <h2>Presenting</h2>
+
                 <p>Each room will have an MC and a room monitor - please introduce yourself to the MC in your room earlier than
                 your slot, so they can recognise you, and please arrive early in the 10 minute break before your slot to get
                 set up.</p>          
