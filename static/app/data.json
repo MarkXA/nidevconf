@@ -335,17 +335,6 @@
     },
     {
       "draft": false,
-      "title": "Interpersonal Skills for Bots",
-      "speaker": "maryjanemcbride",
-      "keynote": false,
-      "lightning": false,
-      "time": "9",
-      "room": "2",
-      "id": "maryjanemcbride",
-      "description": "As technology progresses, we’re seeing a greater emphasis of interpersonal skills on people in their jobs (I’m not going to discuss whether AI will replace your job) - but I don’t think the robots will be successful until we maximise their interpersonal skills too. We want software that was made by and for humans. And when it comes to human computer interaction, the most natural way for humans to interact is with language. In my talk, I’ll discuss why chatbots have so much potential, and the “personality traits” needed to make a successful chatbot."
-    },
-    {
-      "draft": false,
       "title": "I'm Not Trying To Be Mean, But It's Okay To Be Average",
       "speaker": "unidentifiedspeaker",
       "keynote": false,
@@ -1055,17 +1044,6 @@
       "github": "https://github.com/mjmcconnell",
       "id": "markmcconnell",
       "description": "Senior developer at whitespace ventures\n\nBackground in building highly performant web applications for some of the world’s largest brands, including Ford, Red Bull and Google. Recently moved towards the fintech sector working with creating large scale data monitoring systems for trades. While my day to day job is working with python, I'm often found working on everything from project management to devops."
-    },
-    {
-      "draft": false,
-      "title": "Mary-Jane McBride",
-      "keynote": false,
-      "speakerimage": "/img/speakers/maryjanemcbride.jpg",
-      "twitter": "https://twitter.com/a_crafty_coder",
-      "linkedin": "https://www.linkedin.com/in/mary-jane-mcbride/",
-      "github": "https://github.com/maryjanem",
-      "id": "maryjanemcbride",
-      "description": "A recent graduate from Queen’s University Belfast, Mary-Jane recently began working as a software engineer at Kainos where she joined the Applied Innovation team and has been experimenting with machine learning and chatbots ever since."
     },
     {
       "draft": false,
