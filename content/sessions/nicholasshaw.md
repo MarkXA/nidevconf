@@ -4,6 +4,7 @@ title = "The Software Test Clinic Belfast!"
 speaker = "nicholasshaw"
 keynote = false
 lightning = true
+order = 18
 +++
 
 In this lightning talk I'll introduce the Software Testing Clinic (SWTC) that is launching in Belfast this June, I'll explain what it is, who it's for and give you a sampling of what participants can expect to learn from it.

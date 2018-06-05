@@ -4,6 +4,7 @@ title = "Serverless says: 'This is your time'"
 speaker = "davidanderson"
 keynote = false
 lightning = true
+order = 2
 +++
 
 Every year the level of abstraction lifts and there are two type of engineer. Those who reject and those who embrace. If you are a developer who embraces change, it's never been better!

@@ -4,6 +4,7 @@ title = "I Don't Know What I'm Doing"
 speaker = "zoegadonthompson"
 keynote = false
 lightning = true
+order = 16
 +++
 
 I knew literally nothing about coding until I started to study. On my first day of Java at foundation degree level I had no clue what was going on. Everyone had some experience with computers, IT or gaming and I was light years behind. I was asking my peers for help and getting stuck on everything. I was really feeling like I'd made the wrong choice of career path.

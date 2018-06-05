@@ -19,7 +19,7 @@
       "speaker": "alisoncoote",
       "keynote": false,
       "lightning": true,
-      "order": 1,
+      "order": 8,
       "id": "alisoncoote",
       "description": "As a product manager its not all about me. I take information from a lot of different disciplines such as engineers and designers which enable the teams I work with to built the right thing and build it right."
     },
@@ -62,7 +62,7 @@
       "speaker": "arnaudroger",
       "keynote": false,
       "lightning": true,
-      "order": 2,
+      "order": 9,
       "id": "arnaudroger",
       "description": "In the world of scrum certification and scrum master, few seen it as it really is a marketing ploy to sell certification. Let's dig into scrum and have a bit of laugh to try to get back to what really matters for success."
     },
@@ -115,7 +115,7 @@
       "speaker": "ciaranconliffe",
       "keynote": false,
       "lightning": true,
-      "order": 4,
+      "order": 1,
       "id": "ciaranconliffe",
       "description": "\"Devsecops\" is one of the big buzzwords in the modern information security world, but what exactly does it mean? In this lightning talk I cover how \"traditional\" security practices break down in the face of modern Agile development practices, and how developers can manage to create secure code while maintaining speed to market.\n\nAmong the topics discussed are security education for developers, using red-teaming to drive security awareness, automated security testing (in its various different forms) and proactive security monitoring of applications."
     },
@@ -147,7 +147,7 @@
       "speaker": "conorwoods",
       "keynote": false,
       "lightning": true,
-      "order": 5,
+      "order": 10,
       "id": "conorwoods",
       "description": "Visual programming tools such as Scratch, Ardublock & Blockly have been around for a while but are generally scoffed at by 'real' developers for doing 'real' work. However, with the maturity of some of the tools available, is it now time for coders to seriously consider switching from 'writing' code to 'drawing' code for a living?"
     },
@@ -157,7 +157,7 @@
       "speaker": "davidanderson",
       "keynote": false,
       "lightning": true,
-      "order": 6,
+      "order": 2,
       "id": "davidanderson",
       "description": "Every year the level of abstraction lifts and there are two type of engineer. Those who reject and those who embrace. If you are a developer who embraces change, it's never been better!\n\nThis talk will start to build on the simple concept of \"writing code for a user\" to \"delivering outcomes at speed\". All the latest cloud services put incredible power at the finger-tips of the developer, but with great abstraction comes great responsibility! \nLet's describe the Serverless concept, how AWS uses it to plug powerful services together. Then dive into the challenges with working in this way - performance, monitoring, cost, reliability, security..etc... Then jump into the Customer interaction, you can release really quickly, so there's a different way of working. Finally, focus on the different way of thinking and design systems - event driven, triggers and bounded context - not easy."
     },
@@ -167,7 +167,7 @@
       "speaker": "davidcutting",
       "keynote": false,
       "lightning": true,
-      "order": 7,
+      "order": 13,
       "id": "davidcutting",
       "description": "In 2008 I replaced a bunch of disconnected ageing scripts that monitored my servers with a single simple network monitor... and released it open source in case anyone (or two) might use it. Over the next ten years it grew thanks to free community involvement both in terms of testing, suggestions, code submissions, community support, and everything else. Along the way it's spawned two independent FOSS projects which are spun-off components of the monitor which have their own lives now.\n\nThis talk will be a brief journey through this story and the lessons I've learnt that encourage me to release everything I can as FOSS - mainly to help me build the product if for no other reason!"
     },
@@ -254,7 +254,7 @@
       "speaker": "jasonlawson",
       "keynote": false,
       "lightning": true,
-      "order": 8,
+      "order": 4,
       "id": "jasonlawson",
       "description": "Agile development has led to increased communication and collaboration within more diverse teams.  With that positive shift comes plenty of opportunity for misinterpretation, misunderstanding and stressed relationships.\n\nAnalogies are a great tool for communicating complex ideas & concepts in a way that everyone can understand their value.  They can even be fun and entertaining.\n\nI will discuss how analogies can help with communication, dissonance and engagement by illustrating some I have used, including one for the often-fraught subject of Refactoring.   Find out how refactoring isn’t just for code development, it also ensures you get a great meal at your favourite restaurant."
     },
@@ -275,7 +275,7 @@
       "speaker": "jorourke",
       "keynote": false,
       "lightning": true,
-      "order": 9,
+      "order": 12,
       "id": "jorourke",
       "description": "You've spent months developing something; you've researched, coded, pulled all-nighters and generally lived and breathed your project. \n\nNext step: getting people to actually use it. \n\nWhether you're trying to get people to download it, click on it, read about it or buy it, it's easy to fall into the features trap.\n\nYou'll know you're in the features trap if people's eyes glaze over when you start talking about your project.\n\nNon-techie people don't really care about the cool features (mostly because they don't know what they mean.)\n\nThey just want to know what it does for them. \n\nDoes it make their life easier?\n\nSave them time?\n\nMake them money?\n\nStop them feeling bad?\n\nThis is the value of your product. That's what you need to communicate."
     },
@@ -285,7 +285,7 @@
       "speaker": "keshiamorrison",
       "keynote": false,
       "lightning": true,
-      "order": 10,
+      "order": 23,
       "id": "keshiamorrison",
       "description": "If you're a developer you know you have plenty of resources available to you: books, online courses, stack overflow! But do we have as many good teachers available to us?\n\nWhen self-learning is king and self-taught success stories plentiful, are there too many excuses available for making time to be a teacher let alone a good one?\n\nAs a junior dev I'm concerned about the ratio of junior to senior. About the availability of teachers around me. And I hear them shout from the crowd \"there's plenty of teachers! You just need to reach out!\" And maybe I could go back to my laptop, and some more hours of frustration and insecurity that I'm just not cut out to be a developer, but I know I'm not alone in feeling like this. If all that happens is that I find out I've just been looking in the wrong places, I'll be delighted! If not, at the very least I hope to inspire others to be try to be better teachers for those around them and themselves. (I'm no perfect pupil, but that's a talk for someone else to give, and I'd love to hear it!)\n\nI want to share some of the skills and qualities I think make for not just good but great teachers. Things I have seen in the many great teachers I have had over the years and qualities I try to demonstrate when I teach; from children to my own peers. Qualities like patience and generosity of time. The ability to know when someone needs help. \n\nAnd to finish on an almighty cliche and sum up why I feel the need to share this talk, here is a quote I randomly found on Google: \"The most valuable resource that teachers have is eachother. Without collaboration our growth is limited to our own perspectives\" - Robert John Meehan"
     },
@@ -318,7 +318,7 @@
       "speaker": "maciejwyrodek",
       "keynote": false,
       "lightning": true,
-      "order": 11,
+      "order": 17,
       "id": "maciejwyrodek",
       "description": "Testers are annoying, those pesky little beasts that find issues in your perfect code. What a nightmare.\n\nThey waste time testing stuff that is covered by unit tests. They waste time testing stuff that is not important! And yet somehow they do find bugs by a lucky guess.\n\nAnd yes paragraph above is extreme hyperbole. But the truth there is often divided between developers and testers. Let's look at one of the ways of fixing this divide. Letting them write some code, even production code! \n\nI know it sounds crazy, but this works. It makes them understand developers much more. Their pride and frustration. \nSo join me and take a look what Dev can do to break the wall."
     },
@@ -350,7 +350,7 @@
       "speaker": "unidentifiedspeaker",
       "keynote": false,
       "lightning": true,
-      "order": 12,
+      "order": 15,
       "id": "unidentifiedspeaker",
       "description": "The tech industry is hellbent on making everyone into being the very best they can be: rockstars, 10x engineers, entrepreneurs and thought leaders are what we're told to aspire to be.\n\nThe problem is that we can't all be the best, and this industry's determination to push us all of us to be the best means that there are an awful lot of people out there who feel like they're not living up to expectations.\n\nThis talk is about telling people that it's okay to be average because, statistically speaking, someone has to be. It's about telling people that you don't have to climb the entirety of the career ladder in 5 years, that you don't have to go to Top Gun if you don't want to, and that if you want to just go to meet ups and listen rather than present, then that's okay too.\n\nThis talk will not be amazing. It might not even be good. Average is okay."
     },
@@ -360,7 +360,7 @@
       "speaker": "maycheung",
       "keynote": false,
       "lightning": true,
-      "order": 13,
+      "order": 14,
       "id": "maycheung",
       "description": "Developers probably regard software licences as the dull part of the install, but they form a key part of the infrastructure that underpins Free and Open Source Software (FOSS).  Licences allow and protect the use of FOSS worldwide and in this talk May will provide a quick guide to the basics of FOSS licences.\n\nThis will include pointers on what common licences allow so that one does not just do the ethical thing, but also remains on the right side of the law, whether integrating FOSS as a developer or running it as an end user."
     },
@@ -414,7 +414,7 @@
       "speaker": "nicholasshaw",
       "keynote": false,
       "lightning": true,
-      "order": 14,
+      "order": 18,
       "id": "nicholasshaw",
       "description": "In this lightning talk I'll introduce the Software Testing Clinic (SWTC) that is launching in Belfast this June, I'll explain what it is, who it's for and give you a sampling of what participants can expect to learn from it.\n\nSWTC offers completely free monthly evening sessions for anybody interested in the testing craft. They are run in an interactive way using whiteboard sessions, hands-on exercises and discussions as a group as well as in smaller teams to deepen our understanding of software testing.\n\nWe're seeking to spread the word about the SWTC to create awareness, find local experts to help mentor those less experienced and hopefully many in the community will benefit. This an incredible learning opportunity from those experienced in software testing to those who will be completely new to the field to flourish in their careers.\n\nHelp us create learning opportunities for those wishing to develop their testing knowledge, and show how practitioners of any parts of the craft can mentor and advance their own skills through the SWTC Belfast!"
     },
@@ -436,7 +436,7 @@
       "speaker": "paddycarey",
       "keynote": false,
       "lightning": true,
-      "order": 15,
+      "order": 19,
       "id": "paddycarey",
       "description": "2 years ago(ish) my life changed forever, my son was born and there hasn't been a whole lot of sleep in our house since. You might not think a baby has much to teach an experienced engineer about software, but you'd be wrong.\n\nThis talk comprises a number of lessons, some old principles hammered home, and some entirely new i'd never even considered before."
     },
@@ -446,7 +446,7 @@
       "speaker": "paulbarrett",
       "keynote": false,
       "lightning": true,
-      "order": 16,
+      "order": 21,
       "id": "paulbarrett",
       "description": "Blender is one of the most substantial open source projects going. Not just free but feature packed. This talk will be an overview of the core features (modelling, rigging, animation, simulation, rendering, compositing, motion tracking, video editing), plugins and the future of Blender.\n\nIt has come a long way since it was first open sourced, giving the costly competitors an honest run for their money.\n\nBlender is in the process of getting its biggest overhaul in nearly 10 years, which the talk will also cover. It recently completed a successful funding campaign raising over $100K to fly all the core developers from around the world to meet up for several months in order to work on a massive code refactor, implement long gestating new features and spring clean the UI."
     },
@@ -533,7 +533,7 @@
       "speaker": "ritubhatt",
       "keynote": false,
       "lightning": true,
-      "order": 17,
+      "order": 5,
       "id": "ritubhatt",
       "description": "There is a gap when it comes to matching music metadata specially in the face of Youtube and FaceBook where anyone can upload their videos. The use of music needs to be identified and the artists and publishers need to be paid the royalty for their creative works. We are working on a Project to map and match the various music identifiers and come up with a futuristic guidelines /identifier for tracking music metadat across web, AR/VR. This research is undertaken in collaboration with IPO(Intellectual Property Office) and PRS/PPL who are major stakeholders."
     },
@@ -610,7 +610,7 @@
       "speaker": "siobhangallagher",
       "keynote": false,
       "lightning": true,
-      "order": 18,
+      "order": 7,
       "id": "siobhangallagher",
       "description": "First there was DevOps, now there's DevSecOps. But, we can all agree that we probably won't see DevSecOpsSales anytime soon. As an experienced IT Sales professional, I am constantly left wondering how sales and techies can communicate better.\n\nThis is a humorous attempt to deconstruct some of the stereotypes and start that conversation. With an overview of how sales has evolved from the 70's when sales guys were rewarded for behaving badly, to a world where we have multiple sales methodologies, the concept of social selling and increased transparency of processes. In between, the techie has become king!\n\nThis talk is aimed at those working in SMEs and Enterprises where the developer, ops and sales teams are not only silo'ed, but may all be on separate continents. This is an honest overview of how two tribes with one goal can work better together - towards getting people to use the tech we are involved in."
     },
@@ -642,7 +642,7 @@
       "speaker": "stevenringland",
       "keynote": false,
       "lightning": true,
-      "order": 19,
+      "order": 6,
       "id": "stevenringland",
       "description": "Why bother creating libraries? What can you learn? Well my aim is the answer both in this short dive into creating JS libraries and publishing them.\n\nI’ll cover everything you need to create them, covering common build tools, useful libraries, writing solid tests and docs along with how to version them properly and publish them to NPM."
     },
@@ -694,7 +694,7 @@
       "speaker": "victoriasloan",
       "keynote": false,
       "lightning": true,
-      "order": 23,
+      "order": 11,
       "id": "victoriasloan",
       "description": "Gatsby is a blazing fast static site generator based on ReactJS. The aim of the talk is to give the audience an insight into how simple it can be to create a fast static site using Gatsby and GraphQL content queries."
     },
@@ -715,7 +715,7 @@
       "speaker": "zoegadonthompson",
       "keynote": false,
       "lightning": true,
-      "order": 24,
+      "order": 16,
       "id": "zoegadonthompson",
       "description": "I knew literally nothing about coding until I started to study. On my first day of Java at foundation degree level I had no clue what was going on. Everyone had some experience with computers, IT or gaming and I was light years behind. I was asking my peers for help and getting stuck on everything. I was really feeling like I'd made the wrong choice of career path.\n\nTo save myself from embarrassment I dove head first into the land of curly brackets and pizza meetups in an attempt to learn everything I could.\n\nI'm going to share how I have managed an attempt at kick starting my career despite not knowing wtf I'm doing."
     }

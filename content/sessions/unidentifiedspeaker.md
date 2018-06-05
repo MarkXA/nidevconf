@@ -4,6 +4,7 @@ title = "I'm Not Trying To Be Mean, But It's Okay To Be Average"
 speaker = "unidentifiedspeaker"
 keynote = false
 lightning = true
+order = 15
 +++
 
 The tech industry is hellbent on making everyone into being the very best they can be: rockstars, 10x engineers, entrepreneurs and thought leaders are what we're told to aspire to be.

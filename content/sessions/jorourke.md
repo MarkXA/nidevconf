@@ -4,6 +4,7 @@ title = "How to translate tech-talk"
 speaker = "jorourke"
 keynote = false
 lightning = true
+order = 12
 +++
 
 You've spent months developing something; you've researched, coded, pulled all-nighters and generally lived and breathed your project. 

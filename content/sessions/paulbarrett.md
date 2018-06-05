@@ -4,6 +4,7 @@ title = "Blender 3D - Create 3D Content on No Budget"
 speaker = "paulbarrett"
 keynote = false
 lightning = true
+order = 21
 +++
 
 Blender is one of the most substantial open source projects going. Not just free but feature packed. This talk will be an overview of the core features (modelling, rigging, animation, simulation, rendering, compositing, motion tracking, video editing), plugins and the future of Blender.

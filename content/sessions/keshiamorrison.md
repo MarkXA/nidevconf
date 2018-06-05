@@ -4,6 +4,7 @@ title = "Be a great teacher for the greater good"
 speaker = "keshiamorrison"
 keynote = false
 lightning = true
+order = 23
 +++
 
 If you're a developer you know you have plenty of resources available to you: books, online courses, stack overflow! But do we have as many good teachers available to us?

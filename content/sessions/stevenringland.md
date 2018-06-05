@@ -4,6 +4,7 @@ title = "Creating a JavaScript library and why you should"
 speaker = "stevenringland"
 keynote = false
 lightning = true
+order = 6
 +++
 
 Why bother creating libraries? What can you learn? Well my aim is the answer both in this short dive into creating JS libraries and publishing them.

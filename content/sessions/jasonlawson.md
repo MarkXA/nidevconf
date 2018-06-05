@@ -4,6 +4,7 @@ title = "Using Analogies: A common language for diverse teams"
 speaker = "jasonlawson"
 keynote = false
 lightning = true
+order = 4
 +++
 
 Agile development has led to increased communication and collaboration within more diverse teams.  With that positive shift comes plenty of opportunity for misinterpretation, misunderstanding and stressed relationships.

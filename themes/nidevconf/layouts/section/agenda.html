@@ -198,6 +198,25 @@
           </div>
         </div>
       </div>
+      <div class="row" style="margin-top:2em">
+        <div class="col-sm-12">
+          <h1>Lightning talks</h1>
+          <p>
+            Lightning talks will run in this order between approximately 9:50 and 13:30.
+          </p>
+          <div>
+            <ul>
+            {{ range sort $lightnings "Params.order" }}
+              <li>
+                  <a href="{{ .RelPermalink }}" class="sessionlink">
+                      {{ .Params.title }}
+                  </a>
+              </li>
+            {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 </div>

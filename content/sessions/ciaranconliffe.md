@@ -4,6 +4,7 @@ title = "What Is DevSecOps? Where Security Meets Agile"
 speaker = "ciaranconliffe"
 keynote = false
 lightning = true
+order = 1
 +++
 
 "Devsecops" is one of the big buzzwords in the modern information security world, but what exactly does it mean? In this lightning talk I cover how "traditional" security practices break down in the face of modern Agile development practices, and how developers can manage to create secure code while maintaining speed to market.

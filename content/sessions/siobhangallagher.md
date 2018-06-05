@@ -4,6 +4,7 @@ title = "Sales - The Last Silo (Or Why Sales & Techies need to Talk!)"
 speaker = "siobhangallagher"
 keynote = false
 lightning = true
+order = 7
 +++
 
 First there was DevOps, now there's DevSecOps. But, we can all agree that we probably won't see DevSecOpsSales anytime soon. As an experienced IT Sales professional, I am constantly left wondering how sales and techies can communicate better.

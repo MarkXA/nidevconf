@@ -4,6 +4,7 @@ title = "Let Tester write some code."
 speaker = "maciejwyrodek"
 keynote = false
 lightning = true
+order = 17
 +++
 
 Testers are annoying, those pesky little beasts that find issues in your perfect code. What a nightmare.
