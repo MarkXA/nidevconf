@@ -24,17 +24,25 @@ title = "Information for speakers"
                     <li>If you want <a href="https://joind.in/event/northern-ireland-developer-conference-2018">joind.in feedback</a>, let us know at inbox@nidevconf.com (subject line "Feedback on joind.in"). We can mark this with an "L", if you ask, so commenters recognise you are starting out.</li>
                     <li>Let us know if you will use your laptop or need one available (and whether Linux, Mac or Windows)</li>
                     <li>Bring any X-to-HDMI connectors you need. Please bear in mind that some rooms (Lightning, Conference and Raked) will not have HD-compatible projectors - while we can provide HDMI-VGA connectors, please bear in mind that the available resolution may be lower.</li>
-                    <li>Include any links to Twitter</li>
+                    <li>Include any links to your Twitter / professional networks</li>
                     <li>Put some thought into making your <a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">presentation accessible</a></li>
                   </ul>
                 <h3>On the day</h3>
+                <h4>Lightning (5-10min)</h4>
+                  <ul>
+                    <li>Get to the room early and keep an eye on the progress, as lightning talk start timing is not 100% guaranteed!</li>
+                    <li>If the MC needs to stand up signal you have run out of time, please finish as succinctly as possible</li>
+                    <li>Please note that we do not include time for questions - we recommend you take any questions outside, or add a session to the Open Space</li>
+                  </ul>
+                <h4>Full Talks (up to 30min)</h4>
                   <ul>
                     <li>Check in with your MC earlier in day</li>
-                    <li>Get to room at least 5min before your talk (10min if you haven't already seen MC!)</li>
                     <li>Check your presentation is working</li>
+                    <li>Get to room at least 5min before your talk (10min if you haven't already seen MC!)</li>
                     <li>Watch for MC signalling that you are getting close to time</li>
                     <li>If the MC needs to stand up signal you have run out of time, please finish as succinctly as possible</li>
                     <li>Do not feel under pressure to take questions, and ask to take them outside, if preferred -- for further discussion, we recommend using the Open Space (details in the Atrium)</li>
+                    <li>If desired, you should include time for questions <em>during</em> your 30min slot</li>
                     <li>Allow a quick interstitial-slides swapover, by unplugging your laptop quickly</li>
                   </ul>
                 <br/>
