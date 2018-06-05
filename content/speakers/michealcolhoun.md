@@ -2,7 +2,7 @@
 draft = false
 title = "Micheal Colhoun"
 keynote = false
-speakerimage = "/img/speakers/noavatar.jpg"
+speakerimage = "/img/speakers/michealcolhoun.jpg"
 twitter = "https://twitter.com/michealcolhoun"
 linkedin = "https://uk.linkedin.com/in/michealcolhoun"
 website = "https://www.transformingPeople.com"
