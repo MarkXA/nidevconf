@@ -314,21 +314,11 @@
     },
     {
       "draft": false,
-      "title": "Be Like GitHub, Don't Use GitHub",
-      "speaker": "leeskillen",
-      "keynote": false,
-      "lightning": true,
-      "order": 11,
-      "id": "leeskillen",
-      "description": "A quick dive into the pros and cons of using GitHub Releases versus traditional Package Management for releasing code. The underlying earworm for takeaway is that GitHub doesn't use GitHub Releases for distribution of things like its Large File System support, for Linux at least, preferring instead to use Package Management repositories to leverage things like intelligent version updates (e.g. via apt update) and channels (separation into stable, unstable, etc.) So yes, even GitHub don't use GitHub, sometimes. Let's discuss why."
-    },
-    {
-      "draft": false,
       "title": "Let Tester write some code.",
       "speaker": "maciejwyrodek",
       "keynote": false,
       "lightning": true,
-      "order": 12,
+      "order": 11,
       "id": "maciejwyrodek",
       "description": "Testers are annoying, those pesky little beasts that find issues in your perfect code. What a nightmare.\n\nThey waste time testing stuff that is covered by unit tests. They waste time testing stuff that is not important! And yet somehow they do find bugs by a lucky guess.\n\nAnd yes paragraph above is extreme hyperbole. But the truth there is often divided between developers and testers. Let's look at one of the ways of fixing this divide. Letting them write some code, even production code! \n\nI know it sounds crazy, but this works. It makes them understand developers much more. Their pride and frustration. \nSo join me and take a look what Dev can do to break the wall."
     },
@@ -353,6 +343,16 @@
       "room": "2",
       "id": "maryjanemcbride",
       "description": "As technology progresses, we’re seeing a greater emphasis of interpersonal skills on people in their jobs (I’m not going to discuss whether AI will replace your job) - but I don’t think the robots will be successful until we maximise their interpersonal skills too. We want software that was made by and for humans. And when it comes to human computer interaction, the most natural way for humans to interact is with language. In my talk, I’ll discuss why chatbots have so much potential, and the “personality traits” needed to make a successful chatbot."
+    },
+    {
+      "draft": false,
+      "title": "I'm Not Trying To Be Mean, But It's Okay To Be Average",
+      "speaker": "unidentifiedspeaker",
+      "keynote": false,
+      "lightning": true,
+      "order": 12,
+      "id": "unidentifiedspeaker",
+      "description": "The tech industry is hellbent on making everyone into being the very best they can be: rockstars, 10x engineers, entrepreneurs and thought leaders are what we're told to aspire to be.\n\nThe problem is that we can't all be the best, and this industry's determination to push us all of us to be the best means that there are an awful lot of people out there who feel like they're not living up to expectations.\n\nThis talk is about telling people that it's okay to be average because, statistically speaking, someone has to be. It's about telling people that you don't have to climb the entirety of the career ladder in 5 years, that you don't have to go to Top Gun if you don't want to, and that if you want to just go to meet ups and listen rather than present, then that's okay too.\n\nThis talk will not be amazing. It might not even be good. Average is okay."
     },
     {
       "draft": false,
@@ -677,16 +677,6 @@
       "room": "0",
       "id": "udhayakumarrajendran",
       "description": "In this talk we will explore how to build simple microservices using Spring Boot\non the Spring Cloud Project supported by Netflix OSS tools including:\n\n- Configuration\n- Discovery\n- Circuit Breakers\n- Routing\n- Tracing/Logging"
-    },
-    {
-      "draft": false,
-      "title": "I'm Not Trying To Be Mean, But It's Okay To Be Average",
-      "speaker": "unidentifiedspeaker",
-      "keynote": false,
-      "lightning": true,
-      "order": 21,
-      "id": "unidentifiedspeaker",
-      "description": "The tech industry is hellbent on making everyone into being the very best they can be: rockstars, 10x engineers, entrepreneurs and thought leaders are what we're told to aspire to be.\n\nThe problem is that we can't all be the best, and this industry's determination to push us all of us to be the best means that there are an awful lot of people out there who feel like they're not living up to expectations.\n\nThis talk is about telling people that it's okay to be average because, statistically speaking, someone has to be. It's about telling people that you don't have to climb the entirety of the career ladder in 5 years, that you don't have to go to Top Gun if you don't want to, and that if you want to just go to meet ups and listen rather than present, then that's okay too.\n\nThis talk will not be amazing. It might not even be good. Average is okay."
     },
     {
       "draft": false,
@@ -1035,18 +1025,6 @@
       "github": "https://github.com/KrisjonesSB",
       "id": "krisjones",
       "description": "CTO at Secure Broadcast. Passionate about Tech and Product."
-    },
-    {
-      "draft": false,
-      "title": "Lee Skillen",
-      "keynote": false,
-      "speakerimage": "/img/speakers/noavatar.jpg",
-      "twitter": "https://twitter.com/lskillen",
-      "linkedin": "https://linkedin.com/in/lskillen",
-      "github": "https://github.com/lskillen",
-      "website": "https://blog.cloudsmith.io",
-      "id": "leeskillen",
-      "description": "Chief Code Mercenary (CTO) at Cloudsmith, Father of Two, All-Round Technology Geek."
     },
     {
       "draft": false,
