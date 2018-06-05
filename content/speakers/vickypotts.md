@@ -2,7 +2,7 @@
 draft = false
 title = "Vicky Potts"
 keynote = false
-speakerimage = "/img/speakers/noavatar.jpg"
+speakerimage = "/img/speakers/vickypotts.jpg"
 twitter = "https://twitter.com/whitepotvicky"
 linkedin = "https://www.linkedin.com/in/vickypotts/"
 github = "https://github.com/Vixxd"
