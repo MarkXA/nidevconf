@@ -27,6 +27,11 @@ Please see the <a href='/accessibility'>accessibility and access page</a> for mo
 
 The After-Party will be held at the <a href="http://thebotanicinn.com/">Botanic Inn</a> from 18:30 onwards (food from 18:45). Complimentary food and drink tokens will be handed out after the closing plenary session in Riddel Hall. These cover a burger or chips (except where we have been made of additional dietary requirements) <em>and</em> a soft drink, Corona or red wine.
 
+### Floor Plan
+<img src='/img/floorplan-rh.png' style='max-width: 700px' />
+
+[**Map Legend**] *GR: Green Room; PR: Project Room; QR: Quiet Room*
+
 ### Anything else
 
 If there is information that you feel should be here, but is not, please let us know at <a href="mailto:inbox@nidevconf.com">inbox@nidevconf.com</a>.
