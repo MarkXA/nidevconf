@@ -377,17 +377,6 @@
     },
     {
       "draft": false,
-      "title": "Grokking Your Mental Health",
-      "speaker": "neillboyd",
-      "keynote": false,
-      "lightning": false,
-      "time": "7",
-      "room": "2",
-      "id": "neillboyd",
-      "description": "This talk will involve me opening up about my own experiences with s Bi-polar II Disorder and how it has both helped and hindered me in a long career in the tech space. I will discuss my own experiences in order to help others make sense of anything they may be going through or anyone they know*. The discussion will really be in two parts, my personal experiences followed by how what I have learnt can help companies and individuals. The topics covered will be:\n\n- My experiences of opening up about my own personal situation in the work place (Both negative and positive)\n- Analysis of how our industry tends to normalise mental health issues\n- What led me to this journey of accepting my mental health\n- How I manage my mental health in a demanding industry\n- What I, as someone who struggles with mental health, expect of a company I'm going to work for.\n- What a company I work for can expect of me.\n\n* Note - this talk will absolutely in no way offer anything that is in anyway a substitute to actual professional help. Too many people talk about mental health and attempt to \"treat\" others. This is purely informational and based on my experiences."
-    },
-    {
-      "draft": false,
       "title": "Raising The Roof with Browser Audio Visualisation",
       "speaker": "neilmccallion",
       "keynote": false,
@@ -616,7 +605,7 @@
     },
     {
       "draft": false,
-      "title": "Modern Agile; lets make it safe!",
+      "title": "Modern Agile, make it psychologically safe",
       "speaker": "stevenlimmer",
       "keynote": false,
       "lightning": false,
@@ -1083,18 +1072,6 @@
       "linkedin": "https://www.linkedin.com/in/nadine-o-hagan-92b44395",
       "id": "nadineohagan",
       "description": "Nadine is a Senior Software Engineer with 7 years’ experience in the Tech industry. After 5 years as a developer at LIT, she is currently working at PwC in the Blockchain and Digital Technology team, researching the latest Blockchain technologies and building out a range of technical solutions for clients in diverse areas."
-    },
-    {
-      "draft": false,
-      "title": "Neill Boyd",
-      "keynote": false,
-      "speakerimage": "/img/speakers/neillboyd.jpg",
-      "twitter": "https://twitter.com/BelfastTester",
-      "linkedin": "https://www.linkedin.com/in/neill-boyd-a0614839",
-      "github": "https://github.com/neillboyd",
-      "website": "https://www.BelfastTester.com/",
-      "id": "neillboyd",
-      "description": "Neill is a quality focused engineer trying to redefine how Flexera 'do quality'. Neill has tried to bring good test practices to teams across many sectors, from FinTech to Software Analysis and everything in between. With close to 15 years in this game, if Neill isn't talking about testing and quality at some level, then he more than likely isn't feeling very well. When not disproving assumptions about software, Neill is at home with his daughter Alex or attempting to learn something new (magic, instruments, technology)."
     },
     {
       "draft": false,
