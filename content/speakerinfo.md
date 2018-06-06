@@ -17,13 +17,19 @@ title = "Information for speakers"
             <div class="col-md-12 main">
                 <h1>Speaker Information</h1>
                 <h2>Checklist</h2>
+                  <h3><b>What you must do before the day. Backup Plans</b></h3>
+                  <ul>
+                    <li>Check that your presentation works on your laptop if you are bringing one.</li>
+                    <li>Your prensentation backed up on a FAT32/NTFS usb drive. Incase your laptop does not work with the presentation equipment.</li>
+                    <li>Your prensentation exported as a PDF. This is incase your presentation does not work, your laptop does not work with the presentation equipment or we do not have the software on the windows machine to run your presentation. Microsoft power point is on the windows machines.</li>
+                    <li>Bring any X-to-HDMI connectors you need e.g USB-C to HDMI connector, HDMI to VGA connector. Please bear in mind that some rooms (Lightning, Conference and Raked) will not have HD-compatible projectors - while we can provide HDMI-VGA connectors, please bear in mind that the available resolution may be lower.</li>
+                  </ul>
                 <h3>Before the day</h3>
                   <ul>
                     <li>Get to speaker events on May 30 and Jun 6, if you can!</li>
                     <li>We recommend doing a test run with someone for feedback and to make sure you'll reach your final slides during the available time! Room MCs will be asked to keep presenters strictly to time</li>
                     <li>If you want <a href="https://joind.in/event/northern-ireland-developer-conference-2018">joind.in feedback</a>, let us know at inbox@nidevconf.com (subject line "Feedback on joind.in"). We can mark this with an "L", if you ask, so commenters recognise you are starting out.</li>
-                    <li>Let us know if you will use your laptop or need one available (and whether Linux, Mac or Windows)</li>
-                    <li>Bring any X-to-HDMI connectors you need. Please bear in mind that some rooms (Lightning, Conference and Raked) will not have HD-compatible projectors - while we can provide HDMI-VGA connectors, please bear in mind that the available resolution may be lower.</li>
+                    <li>Let us know if you will use your laptop or need one available. Windows machines are already connected to the presentation equipment.</li>
                     <li>Include any links to your Twitter / professional networks</li>
                     <li>Put some thought into making your <a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">presentation accessible</a></li>
                   </ul>
