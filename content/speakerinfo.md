@@ -39,6 +39,8 @@ If you are doing a live demo that needs an internet connection bring a 4G dongle
 
 ### On the day
 
+Please bear in mind we have room, for the induction loop, and AV recording equipment. **Unfortunately, if you wish to be recorded, this means we will have two mics and you will need to present from the lectern**, rather than roaming. If presenting as a pair, please make sure you swap places by the microphones when speaking.
+
 Before leaving home, make sure you have charged batteries on all your equipment. A socket should be available at each lectern, but if you may need multiple, please let us know in advance.
 
 You are welcome to use the Green Room (see [map](/accessibility)) to prepare during the day. We recommend that you arrive well in advance of your talk if you need to use sockets there, in case of contention.
