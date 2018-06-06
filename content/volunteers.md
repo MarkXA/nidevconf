@@ -52,16 +52,16 @@ Make sure all projectors are off at lunch
 
 ### Registration Desk
 
-* The desk duties will start at 08:45 for early arrivals, sponsors and exhibition stands.
-* Recording attendees names
-* Handing the attendees their name badges. If they do not have a name badge then write their name on a blank name badge.
+* The desk duties will start at 08:20
+* Checking attendees in on the ti.to app
+* they do not have a name badge then write their name on a blank name badge
 * Handing the attendee their mug
 * Moving the registration desk to outside LR1 during the opening plenary.
 
 ### Information Desk
 
-* Helping people with any queries.
-* Calling security of any issues or for first aid.
+* Helping people with any queries, or redirecting to a touchpoint
+* Calling security of any issues or for first aid
 
 ### Roving
 
