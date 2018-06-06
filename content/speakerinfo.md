@@ -23,6 +23,7 @@ title = "Information for speakers"
                     <li>Your prensentation backed up on a FAT32/NTFS usb drive. Incase your laptop does not work with the presentation equipment.</li>
                     <li>Your prensentation exported as a PDF. This is incase your presentation does not work, your laptop does not work with the presentation equipment or we do not have the software on the windows machine to run your presentation. Microsoft power point is on the windows machines.</li>
                     <li>Bring any X-to-HDMI connectors you need e.g USB-C to HDMI connector, HDMI to VGA connector. Please bear in mind that some rooms (Lightning, Conference and Raked) will not have HD-compatible projectors - while we can provide HDMI-VGA connectors, please bear in mind that the available resolution may be lower.</li>
+                    <li>If you are doing a live demo that need internet connection bring a 4G dongle or setup your phone in hot spot mode. We have wifi on the day but we can not guarantee there will be no issues with it</li>
                   </ul>
                 <h3>Before the day</h3>
                   <ul>
