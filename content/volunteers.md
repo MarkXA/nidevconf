@@ -3,6 +3,16 @@ title = "Volunteers"
 layout = "generic"
 +++
 
+<style>
+h2 {
+  font-weight: bold;
+  border-bottom: thin black solid;
+}
+h3 {
+  font-weight: bold;
+}
+</style>
+
 # Volunteering
 
 This is general information for volunteers at the NI Developer Conference.
@@ -32,7 +42,7 @@ Some tasks may be "all hands on deck" and involve volunteers with any or all pri
 
 #### Welcome Wagon
 
-Someone to stay out the front from 8.30am until 9.40am to make sure people know where to park, manage the queue, direct to the Creche (via side-door, unless lift required), provide basic accessibility info.
+Someone to stay out the front from 8.30am until 9.40am (or a 15-20min subset, if it quietens down fast) to make sure people know where to park, manage the queue, direct to the Creche (via side-door, unless lift required), provide basic accessibility info.
 
 Chalk the parent-child spaces (8 or 9), with one car-free side on/close to a level with the entrance.
 
@@ -126,6 +136,8 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 ## Tasks
 
 ### General
+
+These will be assigned flexibly on the day.
 
 * Sorting lanyards [?]
 * Doing a sweep with bin-bags
