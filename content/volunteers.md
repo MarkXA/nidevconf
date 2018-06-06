@@ -22,9 +22,23 @@ If you have any issues that arise that involve health, safety, harassment or off
 
 We will be communicating through a private channel on the [NI Tech & Design slack](https://nitech.slack.com) on the day. The slack channel is called #nidevconf.
 
+In particular, please help attendees to make use of (and be aware of) the Project Room (by Farset) and Open Space (by Tech Space). If you are not clear on the function of either of these, please do be sure to ask.
+
 ## Roles
 
 Some tasks may be "all hands on deck" and involve volunteers with any or all primary roles.
+
+### Short Roles
+
+#### Welcome Wagon
+
+Someone to stay out the front from 8.30am until 9.40am to make sure people know where to park, manage the queue, direct to the Creche (via side-door, unless lift required), provide basic accessibility info.
+
+Chalk the parent-child spaces (8 or 9), with one car-free side on/close to a level with the entrance.
+
+#### Projector Checker
+
+Make sure all projectors are off at lunch
 
 ### Registration Desk
 
@@ -39,9 +53,39 @@ Some tasks may be "all hands on deck" and involve volunteers with any or all pri
 * Helping people with any queries.
 * Calling security of any issues or for first aid.
 
+### Roving
+
+Check in on Info Desk, Quiet Room, Project Room, Green Room and Creche every 15min. Circulate around the talk rooms.
+
+### Touchpoint
+
+The following roles are points-of-contact for specific types of issue, to help correlate issues and coordinate consistent responses where required. If you do have an urgent issue, please report it to _any_ committee member, or to the Info Desk, unless there are clear reasons to do otherwise. However, please do ensure, if an issue has arisen and been dealt with, that the relevant touch-point (or Info Desk) is made aware.
+
+As the committee functions by consensus, where there is a disagreement, none of these touchpoint roles supersede committee consensus.
+
+#### Accessibility (Art)
+
+Ensuring fair access to facilities and enjoyment of the conference by all attendees, speakers and volunteers. Physical accessibility of the building, obstacles.
+
+#### Welfare (Joan)
+
+Ensuring a physically, emotionally and mentally safe environment is maintained. Harassment, bullying &amp; abuse. Creche, P-T parking and childcare provisions.
+
+#### Exhibitors &amp; Catering (Martin)
+
+Addressing needs of exhibitors, and use of the Atrium space. Ensuring adequate supply of food, hot drinks, water and 
+
+#### Equipment &amp; After-Party (Phil)
+
+Handling complications with projectors, or other electronic equipment. Resolving persistent WiFi or other connectivity issues. Ensuring the after-party food, drink, tokens and venue work correctly.
+
+#### Speakers (Mark)
+
+Ensuring any specific speaker needs or challenges are addressed. Contingency for missing or unavailable speakers. Reference point for linking-up speakers and rooms/MCs.
+
 ### Talk Room
 
-Room-based roles have mostly shared responsibility; in each full-talk room, while talks are running, there should be one MC and one room monitor.Between them, we ask that they:
+Room-based roles have mostly shared responsibility; in each full-talk room, while talks are running, there should be one MC and one room monitor.
 
 The talk rooms are:
 
@@ -58,36 +102,51 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 1. Making sure interstitials are shown for at least 5mins between every talk: [link here](http://nidc.flaxandteal.co.uk)
     * These communicate several key bits of info, such as other talks (no leaflets, and not everybody has the app!)
     * They can be paused or played at the bottom left of the screen (they auto-cycle)
-1. Ensure the room does not go over capacity. Add a Room Full sign outside the door when the capacity is reached.
-1. Inform security if First Aid is needed
-1. Use Twitter to tweet pictures of the talks on hashtag  #nidevconf18
-1. Ensure there is water available for the speaker.
-1. LIGHTNING: advancing the counter (so the other rooms can see where in the lightning talks we are)
+2. Ensure the room does not go over capacity. Add a Room Full sign outside the door when the capacity is reached.
+3. Inform security if First Aid is needed
+4. Use Twitter to tweet pictures of the talks on hashtag #nidevconf18
+5. Ensure there is water available for the speaker
+6. **LIGHTNING**: advancing the talk counter (so the other rooms can see where in the lightning talks we are)
+7. Getting the time cards and any signage from Info Desk, if not in the room
+8. Keeping sufficient water in the rooms for speakers
 
 #### MC
 
 1. Meet the speakers that are in your session so you know their face and a bit of details about them
-1. Inform the speaker how you will indicate how much time is left with the signs
-1. Present the speaker
-1. Keeping time of the presentation
-1. Informing the speaker of the time left in 10, 5 and 1 minutes signs
-1. Engage with the audience to ask questions (if suitable for the speaker/track)
-1. Always have a question for the speaker incase there is no questions from the audience
-1. Inform the audience that discussion items can be added to the Open Space
-1. Announce fire escape procedure at the start of event in the room
+2. Inform the speaker how you will indicate how much time is left with the signs
+3. Present the speaker
+4. Keeping time of the presentation
+5. Informing the speaker of the time left in 10, 5 and 1 minutes signs
+6. Engage with the audience to ask questions (if suitable for the speaker/track)
+7. Always have a question for the speaker, in case there are no questions from the audience
+8. Inform the audience that discussion items can be added to the Open Space
+9. Announce fire escape procedure at the start of session in the room
+10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social queues and public boundaries of proprietary, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
 
 ## Tasks
 
 ### General
 
-* Bin bags
-* Posters
+* Sorting lanyards [?]
+* Doing a sweep with bin-bags
+* Putting up posters and roller banners
+* Bringing equipment/media in from van
+* Putting up room signs
 * Checking on creche supplies
 * Helping redirect people from overfull to underfull rooms
+* Marking parking spaces
+* Assisting anyone who needs accessibility assistance
+* Tidying up (that's not QUB's responsibility) / removing posters
+* Announcing any changes to all the rooms
 
 ### The Great Room Switch
 
+* Rearrange chairs to/from (depending) plenary formation to split-room formation
+
 ### Vouchers
+
+* Handing out 1 food and 1 drink token to each attendee
+* One person to hand out tokens marked "D" for dietary requirements, if people have declared in advance
 
 ### Non-talk Rooms
 
