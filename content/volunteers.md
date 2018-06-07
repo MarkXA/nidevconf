@@ -109,8 +109,10 @@ The talk rooms are:
     * Morning: PA (MC) &amp; GaR (mon)
     * Afternoon: AMcK (MC) &amp; MC (mon)
 * **Raked** [aka Room 3]
-    * kk
+    * Morning: HMcN (MC) &amp; HE (mon)
+    * Afternoon: MK (MC) &amp; ZGT (mon)
 * **Lightning**
+    * Morning: JMcC (MC) &amp; EM (mon)
 
 The Plenary room will be split into the Lightning and Conference rooms at 9:40am, over 5-10min, and rejoined at 17:50.
 
@@ -163,6 +165,7 @@ These will be assigned flexibly on the day.
 * Assisting anyone who needs accessibility assistance
 * Tidying up (that's not QUB's responsibility) / removing posters
 * Announcing any changes to all the rooms
+* Helping out with tasks in the Project Room or Open Space
 
 ### The Great Room Switch
 
