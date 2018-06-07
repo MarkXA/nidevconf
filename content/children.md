@@ -17,7 +17,7 @@ title = "Children"
                 <p>Childcare is available from 9am to 6:30pm </p>
                 
                 <h2> Providers </h2>
-                <p> Child care is being provided by MK Wedding Childcare Ltd, All staff are registered childminders and have the appropriate qualifications as per regulations in Northern Ireland. - Main Contact is Patricia 07955882928 (mkweddingchildcare@yahoo.com <a href='https://www.facebook.com/MK-Wedding-Childcare-Ltd-637602442937046/)</a></p> 
+                <p> Child care is being provided by <a href='https://www.facebook.com/MK-Wedding-Childcare-Ltd-637602442937046/'>MK Wedding Childcare Ltd</a>. All staff are registered childminders and have the appropriate qualifications as per regulations in Northern Ireland - Main Contact is Patricia 07955882928 (<a href='mailto:mkweddingchildcare@yahoo.com'>mkweddingchildcare@yahoo.com</a>)</p> 
                 <p>They will be doing a number of activities with the children to cover the age range, including crafts, walks and games outside if the weather is suitable.  If your child (particularly the older ones) have their own activities such as books, laptop etc they want to work on they are welcome to use it. Public wifi will be available.  However the NI Dev Conf committee and MK Wedding Childcare Ltd do not take responsibility for the care of or any damage that is caused to any personal belongings that children or carers bring with them.</p>
 
                 <h2>Parent Carparking</h2>
