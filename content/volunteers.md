@@ -178,7 +178,7 @@ We would ask that you meet the monitor assigned to your room around 9am, and ens
 8. Inform the audience that discussion items can be added to the Open Space
 9. Announce fire escape procedure at the start of session in the room
 10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social cues and public boundaries of propriety, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
-11. Ensure speakers who do not wish to be recorded or photographed are not
+11. Ensure speakers who do not wish to be recorded or photographed are not (by audience or official photographer)
 12. Ensure speakers use both the induction loop and recording microphones
 
 ## Tasks
