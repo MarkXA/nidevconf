@@ -15,7 +15,7 @@ h3 {
 
 # Volunteering
 
-This is general information for volunteers at the NI Developer Conference.
+This is general information for volunteers at the NI Developer Conference. The initials key is available in the Volunteer email.
 
 ## Key Info
 
@@ -123,12 +123,13 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 3. Inform security if First Aid is needed
 4. Use Twitter to tweet pictures of the talks on hashtag #nidevconf18
 5. Ensure there is water available for the speaker
-6. **LIGHTNING**: advancing the talk counter (so the other rooms can see where in the lightning talks we are)
+6. Solving, or finding someone, to solve technical (or other) issues in the room
 7. Getting the time cards and any signage from Info Desk, if not in the room
 8. Keeping sufficient water in the rooms for speakers
 9. Keeping exits and aisles clear
 10. Encouraging attendees to fill up empty spaces to let others sit down
 11. Keeping routes, AV and photography equipment accessible for AV and photographer (DK)
+12. **LIGHTNING**: advancing the talk counter (so the other rooms can see where in the lightning talks we are)
 
 #### MC
 
