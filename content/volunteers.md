@@ -32,9 +32,9 @@ We recommend you have basic familiarity with these documents, and are particular
 * [Speaker Info](/speakerinfo)
 * [Venue](/venue)
 
-If you have any issues that arise that involve health, safety, harassment or offensive behaviour, please let one of the organizing committee know: Art Knipe, Joan McAteer, Mark Allan, Martin Naughton and Phil Weir.
+If you have any issues that arise that involve health, safety, harassment or offensive behaviour, please let one of the organizing committee know: Art Knipe, Joan McAleer, Mark Allan, Martin Naughton and Phil Weir.
 
-We will be communicating through a private channel on the [NI Tech & Design slack](https://nitech.slack.com) on the day. The slack channel is called #nidevconf.
+We will be communicating through a private channel on the [NI Tech & Design slack](https://nitech.slack.com) on the day. The slack channel is called #nidevconf-volunteers.
 
 In particular, please help attendees to make use of (and be aware of) the Project Room (by Farset) and Open Space (by Tech Space). If you are not clear on the function of either of these, please do be sure to ask.
 
@@ -146,37 +146,36 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 
 We would ask that you make sure your room is prepped during the period from 8:30 to 9:15. Phil will meet you at the room to walk through the technical aspects with you around 9am.
 
-1. Making sure interstitials are shown for at least 5mins between every talk: [link here](http://nidc.flaxandteal.co.uk)
+1. Make sure interstitials are shown for at least 5mins between every talk: [link here](http://nidc.flaxandteal.co.uk)
     * These communicate several key bits of info, such as other talks (no leaflets, and not everybody has the app!)
     * They can be paused or played at the bottom left of the screen (they auto-cycle)
-2. Ensure the room does not go over capacity. Add a Room Full sign outside the door when the capacity is reached.
+2. Ensure the room does not go over capacity. Add a Room Full sign outside the door when the capacity is reached
 3. Inform security if First Aid is needed
 4. Use Twitter to tweet pictures of the talks on hashtag #nidevconf18
-5. Ensure there is water available for the speaker
-6. Solving, or finding someone, to solve technical (or other) issues in the room
-7. Getting the time cards and any signage from Info Desk, if not in the room
-8. Keeping sufficient water in the rooms for speakers
-9. Keeping exits and aisles clear
-10. Encouraging attendees to fill up empty spaces to let others sit down
-11. Keeping routes, AV and photography equipment accessible for AV and photographer (DK)
-12. **LIGHTNING**: advancing the talk counter (so the other rooms can see where in the lightning talks we are)
+5. Solve, or find someone to solve, technical (or other) issues in the room
+6. Get the time cards and any signage from Info Desk, if not in the room
+7. Keep sufficient water in the rooms for speakers
+8. Keep exits and aisles clear
+9. Encourage attendees to fill up empty spaces to let others sit down
+10. Keep routes, AV and photography equipment accessible for AV and photographer (DK)
+11. **LIGHTNING**: advance the talk counter (so the other rooms can see where in the lightning talks we are)
 
 #### MC
 
 We would ask that you meet the monitor assigned to your room around 9am, and ensure between then and 9:40 that the room is ready for sharp 9:50 start.
 
-1. Meet the speakers that are in your session so you know their face and a bit of details about them
+1. Meet the speakers that are in your session so you know their face and a bit about them for their introduction
 2. Inform the speaker how you will indicate how much time is left with the signs
-3. Present the speaker
-4. Keeping time of the presentation
-5. Informing the speaker of the time left in 10, 5 and 1 minutes signs
+3. Introduce the speaker
+4. Keep time of the presentation
+5. Inform the speaker of the time left in 10, 5 and 1 minutes signs
 6. Engage with the audience to ask questions (if suitable for the speaker/track)
 7. Always have a question for the speaker, in case there are no questions from the audience
 8. Inform the audience that discussion items can be added to the Open Space
 9. Announce fire escape procedure at the start of session in the room
-10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social queues and public boundaries of proprietary, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
-11. Ensuring speakers who do not wish to be recorded or photographed are not
-12. Ensuring speakers use both the induction loop and recording microphones
+10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social cues and public boundaries of propriety, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
+11. Ensure speakers who do not wish to be recorded or photographed are not
+12. Ensure speakers use both the induction loop and recording microphones
 
 ## Tasks
 
@@ -208,7 +207,7 @@ These will be assigned flexibly on the day.
 
 *ZGT, HE, NG*
 
-* Handing out 1 food and 1 drink token to each attendee
+* Hand out 1 food and 1 drink token to each attendee
 * One person to hand out tokens marked "D" for dietary requirements, if people have declared in advance
 
 ### Non-talk Rooms
