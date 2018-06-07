@@ -42,15 +42,33 @@ Some tasks may be "all hands on deck" and involve volunteers with any or all pri
 
 #### Welcome Wagon
 
+*PW*
+
 Someone to stay out the front from 8.30am until 9.40am (or a 15-20min subset, if it quietens down fast) to make sure people know where to park, manage the queue, direct to the Creche (via side-door, unless lift required), provide basic accessibility info.
 
 Chalk the parent-child spaces (8 or 9), with one car-free side on/close to a level with the entrance.
 
 #### Projector Checker
 
+*PW*
+
 Make sure all projectors are off at lunch
 
+#### Helping Open Space Kick-off
+
+*AK*
+
+Helping the Open Space kick off, and supporting the Tech Space coordinators.
+
+#### Checking the Bot
+
+*AK, MC*
+
+Making sure everything's fine for us arriving.
+
 ### Registration Desk
+
+*ZGT, EK, DA, AK*
 
 * The desk duties will start at 08:20
 * Checking attendees in on the ti.to app
@@ -60,10 +78,14 @@ Make sure all projectors are off at lunch
 
 ### Information Desk
 
+*JMcA, DA, HE*
+
 * Helping people with any queries, or redirecting to a touchpoint
 * Calling security of any issues or for first aid
 
 ### Roving
+
+*MN, MA, PW*
 
 Check in on Info Desk, Quiet Room, Project Room, Green Room and Creche every 15min. Circulate around the talk rooms.
 
@@ -100,7 +122,7 @@ Room-based roles have mostly shared responsibility; in each full-talk room, whil
 The talk rooms are:
 
 * **LR1** (capacity TBC) [aka Room 0]
-    * Morning: GlR (MC) &amp; [TBC] (mon)
+    * Morning: GlR (MC) &amp; NK (mon)
     * Afternoon: GF (MC) &amp; JMcD (mon)
 * **LR3** [aka Room 1]
     * Morning: KM (MC) &amp; PN (mon)
@@ -118,6 +140,8 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 
 #### Monitor
 
+We would ask that you make sure your room is prepped during the period from 8:30 to 9:15. Phil will meet you at the room to walk through the technical aspects with you around 9am.
+
 1. Making sure interstitials are shown for at least 5mins between every talk: [link here](http://nidc.flaxandteal.co.uk)
     * These communicate several key bits of info, such as other talks (no leaflets, and not everybody has the app!)
     * They can be paused or played at the bottom left of the screen (they auto-cycle)
@@ -134,6 +158,8 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 12. **LIGHTNING**: advancing the talk counter (so the other rooms can see where in the lightning talks we are)
 
 #### MC
+
+We would ask that you meet the monitor assigned to your room around 9am, and ensure between then and 9:40 that the room is ready for sharp 9:50 start.
 
 1. Meet the speakers that are in your session so you know their face and a bit of details about them
 2. Inform the speaker how you will indicate how much time is left with the signs
@@ -169,9 +195,14 @@ These will be assigned flexibly on the day.
 
 ### The Great Room Switch
 
+*Morning: HE, MC, GaR, PN, AK, PW, MN, MA*;
+*Afternoon: all that are available*
+
 * Rearrange chairs to/from (depending) plenary formation to split-room formation
 
 ### Vouchers
+
+*ZGT, HE, NG*
 
 * Handing out 1 food and 1 drink token to each attendee
 * One person to hand out tokens marked "D" for dietary requirements, if people have declared in advance
