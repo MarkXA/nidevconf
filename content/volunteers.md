@@ -17,7 +17,7 @@ h3 {
 
 This is general information for volunteers at the NI Developer Conference. The initials key is available in the Volunteer email.
 
-[->WHERE AM I SUPPOSED TO BE WHEN?](/downloads/volunteer-agenda.pdf): this visual guide shows by what time we are expecting people to be where. This is not necessarily comprehensive, so check for your initials below. If you notice a discrepancy between that and the below, please let us know.
+[->WHERE AM I SUPPOSED TO BE WHEN? (PDF download)](/downloads/volunteer-agenda.pdf): this visual guide shows by what time we are expecting people to be where. This is not necessarily comprehensive, so check for your initials below. If you notice a discrepancy between that and the below, please let us know.
 
 Please do make sure you are familiar with the sections relevant to you below.
 
