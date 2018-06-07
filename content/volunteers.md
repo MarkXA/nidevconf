@@ -95,8 +95,6 @@ Check in on Info Desk, Quiet Room, Project Room, Green Room and Creche every 15m
 
 ### On-call
 
-*MNe*
-
 Available to be called in for room monitor role, if an issue occurs, or an additional room monitor is needed, during a session.
 
 ### Touchpoint
