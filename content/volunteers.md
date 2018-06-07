@@ -93,6 +93,10 @@ Making sure everything's fine for us arriving.
 
 Check in on Info Desk, Quiet Room, Project Room, Green Room and Creche every 15min. Circulate around the talk rooms.
 
+### On-call
+
+Available to be called in for room monitor role, if an issue occurs, or an additional room monitor is needed, during a session.
+
 ### Touchpoint
 
 The following roles are points-of-contact for specific types of issue, to help correlate issues and coordinate consistent responses where required. If you do have an urgent issue, please report it to _any_ committee member, or to the Info Desk, unless there are clear reasons to do otherwise. However, please do ensure, if an issue has arisen and been dealt with, that the relevant touch-point (or Info Desk) is made aware.
@@ -126,7 +130,7 @@ Room-based roles have mostly shared responsibility; in each full-talk room, whil
 The talk rooms are:
 
 * **LR1** (capacity TBC) [aka Room 0]
-    * Morning: GlR (MC) &amp; NK (mon)
+    * Morning: GlR (MC) &amp; GC (mon)
     * Afternoon: GF (MC) &amp; JMcD (mon)
 * **LR3** [aka Room 1]
     * Morning: KM (MC) &amp; PN (mon)
