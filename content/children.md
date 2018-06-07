@@ -1,5 +1,5 @@
 +++
-title = "Access and Accessibility"
+title = "Children"
 +++
 
 <section class="row">
@@ -18,19 +18,19 @@ title = "Access and Accessibility"
                 
                 <h2> Providers </h2>
                 <p> Child care is being provided by MK Wedding Childcare Ltd, All staff are registered childminders and have the appropriate qualifications as per regulations in Northern Ireland. - Main Contact is Patricia 07955882928 (mkweddingchildcare@yahoo.com <a href='https://www.facebook.com/MK-Wedding-Childcare-Ltd-637602442937046/)</a></p> 
-                <p>They will be doing a number of activities with the children to cover the age range, including crafts, walks and games outside if the weather is suitable.  If your child (particularly the older ones have their own activities such as books, laptop etc they want to work on they are welcome to use it. Public wifi will be available.  However Ni dev Conf committee or the MK Wedding Childcare Ltd do not take responsibility for the care of or any damage that is cause to any personal belongings that children or carers bring with them.</p>
+                <p>They will be doing a number of activities with the children to cover the age range, including crafts, walks and games outside if the weather is suitable.  If your child (particularly the older ones) have their own activities such as books, laptop etc they want to work on they are welcome to use it. Public wifi will be available.  However the NI Dev Conf committee and MK Wedding Childcare Ltd do not take responsibility for the care of or any damage that is caused to any personal belongings that children or carers bring with them.</p>
 
                 <h2>Parent Carparking</h2>
-                 <p>We have reserved spaces for Parent and children in the car park adjacent to the right hand side of the main building, as it is closest to the lifts to bring you to the first floor where the rooms for childcare will be. There is disabled access to the buildings through the conference centre entrance.</p>
+                 <p>We have reserved spaces for parents and children in the car park adjacent to the right hand side of the main building, as it is closest to the lifts to bring you to the first floor where the rooms for childcare will be. There is disabled access to the buildings through the conference centre entrance.</p>
 
                 <h2> Registration</h2>
                  <p> Feel free to leave your child in childcare before registering for the conference. Upon arrival you will be asked by the childcare staff to fill out an information form. (This information will be destroyed after the event).</p>
 
                 <h2> Rooms </h2>
-                 <p>A crèche, a room for older children and lounge area will be available on the 1st floor for the childcare with toilets close by.  Parents are welcome to visit their children throughout the course of the day. Please note no conference talks are located on this floor only childcare. </p>
+                 <p>A crèche, a room for older children and lounge area will be available on the 1st floor for the childcare with toilets close by.  Parents are welcome to visit their children throughout the course of the day. Please note no conference talks are located on this floor, only childcare. </p>
 
                 <h2> Breastfeeding and baby bottles </h2>
-                 <p>Breastfeeding is welcome throughout the entire Riddle Hall building including in the lecture theatres, there is also another room available if someone would prefer somewhere more private. Hot water will also be located in the lounge for babies bottles. </p>
+                 <p>Breastfeeding is welcome throughout the entire Riddel Hall building including in the lecture theatres. There is also another room available if someone would prefer somewhere more private. Hot water will also be located in the lounge for babies bottles. </p>
 
                 <h2> Food </h2>
                     <p>Food will be provided in the rooms for the children and the carers, water will be available throughout the day.  Schedule is as follows:
