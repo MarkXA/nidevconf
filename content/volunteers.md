@@ -99,11 +99,18 @@ Room-based roles have mostly shared responsibility; in each full-talk room, whil
 
 The talk rooms are:
 
-* LR1 (capacity TBC) [aka Room 0]
-* LR3 [aka Room 1]
-* Conference [aka Room 2]
-* Raked [aka Room 3]
-* Lightning
+* **LR1** (capacity TBC) [aka Room 0]
+    * Morning: GlR (MC) &amp; [TBC] (mon)
+    * Afternoon: GF (MC) &amp; JMcD (mon)
+* **LR3** [aka Room 1]
+    * Morning: KM (MC) &amp; PN (mon)
+    * Afternoon: SMcC (MC) &amp; NG (mon)
+* **Conference** [aka Room 2]
+    * Morning: PA (MC) &amp; GaR (mon)
+    * Afternoon: AMcK (MC) &amp; MC (mon)
+* **Raked** [aka Room 3]
+    * kk
+* **Lightning**
 
 The Plenary room will be split into the Lightning and Conference rooms at 9:40am, over 5-10min, and rejoined at 17:50.
 
@@ -119,6 +126,9 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 6. **LIGHTNING**: advancing the talk counter (so the other rooms can see where in the lightning talks we are)
 7. Getting the time cards and any signage from Info Desk, if not in the room
 8. Keeping sufficient water in the rooms for speakers
+9. Keeping exits and aisles clear
+10. Encouraging attendees to fill up empty spaces to let others sit down
+11. Keeping routes, AV and photography equipment accessible for AV and photographer (DK)
 
 #### MC
 
@@ -132,6 +142,8 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 8. Inform the audience that discussion items can be added to the Open Space
 9. Announce fire escape procedure at the start of session in the room
 10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social queues and public boundaries of proprietary, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
+11. Ensuring speakers who do not wish to be recorded or photographed are not
+12. Ensuring speakers use both the induction loop and recording microphones
 
 ## Tasks
 
