@@ -109,7 +109,7 @@ Ensuring a physically, emotionally and mentally safe environment is maintained. 
 
 #### Exhibitors &amp; Catering (Martin)
 
-Addressing needs of exhibitors, and use of the Atrium space. Ensuring adequate supply of food, hot drinks, water and 
+Addressing needs of exhibitors, and use of the Atrium space. Ensuring adequate supply of food, hot drinks, water, crockery and utensils.
 
 #### Equipment &amp; After-Party (Phil)
 
