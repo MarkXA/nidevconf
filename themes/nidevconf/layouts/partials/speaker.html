@@ -43,7 +43,7 @@
                 {{ .Content }}
             </p>
             {{ range $session := $sessions }}
-                {{ if or (eq $session.Params.speaker $speakerId) (eq $session.Params.speaker2 $speakerId) }}
+                {{ if or (or (eq $session.Params.speaker $speakerId) (eq $session.Params.speaker2 $speakerId)) (eq $session.Params.speaker3 $speakerId) }}
                     <p>
                         <a href="{{ $session.RelPermalink }}" class="sessionlink">
                             {{ if .Params.lightning}}
