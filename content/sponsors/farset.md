@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Farset Labs"
-sponsorlevel = "Silver"
+sponsorlevel = "silver"
 logo = "/img/sponsors/farset.png"
 link = "www.farsetlabs.org.uk"
 +++
