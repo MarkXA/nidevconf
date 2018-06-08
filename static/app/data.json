@@ -152,14 +152,14 @@
     },
     {
       "draft": false,
-      "title": "The early Internet in Northern Ireland",
-      "speaker": "dermotbradley",
+      "title": "Stone Age To Serverless or: How I Learned To Stop Worrying And Love The Platform",
+      "speaker": "markallan",
       "keynote": false,
       "lightning": false,
       "time": "8",
       "room": "2",
-      "id": "dermotbradley",
-      "description": "Northern Ireland has had Internet connectivity since the early 1990s. The speaker founded Northern Ireland's first commercial Internet Provider and recalls the technology of those early days as well as sharing some strange and funny stories along the way."
+      "id": "markallan",
+      "description": "Due to a last-minute speaker dropout, Mark will be improvising on a theme of IaaS vs PaaS vs FaaS vs SaaS cloud services. Audience participation is encouraged ;)"
     },
     {
       "draft": false,
@@ -845,11 +845,15 @@
     },
     {
       "draft": false,
-      "title": "Dermot Bradley",
+      "title": "Mark Allan",
       "keynote": false,
-      "speakerimage": "/img/speakers/noavatar.jpg",
-      "id": "dermotbradley",
-      "description": "IT Consultant/Contractor in Linux and Internet Technologies. Founder of NI's first Internet Provider in the early 90s, worked on early SMS and WAP (Internet-on-your-phone) systems for mobile operators around the world."
+      "speakerimage": "/img/speakers/markallan.jpg",
+      "twitter": "https://twitter.com/MarkXA",
+      "linkedin": "https://linkedin.com/in/MarkXA",
+      "github": "https://github.com/MarkXA",
+      "other": "https://markxa.com/",
+      "id": "markallan",
+      "description": "A saggy old cloth cat, baggy and a bit loose at the seams. Organises conferences in his copious spare time."
     },
     {
       "draft": false,
