@@ -148,7 +148,9 @@ The Plenary room will be split into the Lightning and Conference rooms at 9:40am
 
 #### Monitor
 
-We would ask that you make sure your room is prepped during the period from 8:30 to 9:15. Phil will meet you at the room to walk through the technical aspects with you around 9am.
+If you are looking after a room in the morning, we would ask that you make sure your room is prepped during the period from 8:30 to 9:15. Phil will meet you at the room to walk through the technical aspects with you around 9am.
+
+If you are looking after a room in the afternoon, we would ask that you check in with the info desk 30-40min before your session starts.
 
 1. Make sure interstitials are shown for at least 5mins between every talk: [link here](http://nidc.flaxandteal.co.uk)
     * These communicate several key bits of info, such as other talks (no leaflets, and not everybody has the app!)
