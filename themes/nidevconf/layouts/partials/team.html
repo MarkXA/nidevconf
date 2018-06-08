@@ -42,22 +42,6 @@
             <p>
                 {{ .Content }}
             </p>
-            {{ range $session := $sessions }}
-                {{ if or (eq $session.Params.speaker $speakerId) (eq $session.Params.speaker2 $speakerId) }}
-                    <p>
-                        <a href="{{ $session.RelPermalink }}" class="sessionlink">
-                            {{ if .Params.lightning}}
-                                <i class="fa fa-bolt" aria-hidden="true"></i>
-                            {{ else }}
-                                <i class="fa fa-comment" aria-hidden="true"></i>
-                            {{ end }}
-                            {{ $session.LinkTitle }}
-                        </a>
-                    </p>
-                {{ end }}
-            {{ end }}
-            <p>
-            </p>
         </div>
     </div>
 </div>

@@ -1,8 +1,7 @@
 ﻿{
   "date": "2018-06-09",
-  "lightningIntro": "Lightning talks will start at 9:50 and run until approximately 13:30.",
-  "sessions": [
-    {
+  "lightningIntro": "Lightning talks will start at 9:50 and run until approximately 13:00.",
+  "sessions": [{
       "draft": false,
       "title": "Open Data, Open Source ... Open Development",
       "speaker": "alanstirling",
@@ -76,16 +75,6 @@
       "room": "2",
       "id": "cearamccurdy",
       "description": "In today’s world security breaches are a seemingly everyday occurrence. We are constantly being bombarded with news reports on data breaches, warnings about your connected devices spying on you, and anyone who has an email address receiving phishing emails which (for the most part) seem to be getting a little too realistic as time passes. Depending on your knowledge of IT and how to be secure this can be a really scary place.\n\nFor this talk I’m going to take you to the other side of this problem. How do we build software to empower users to be more secure? Working on the UX team we strive to help our users know exactly what is happening and where they’re being attacked. To do this we need to filter out a huge amount of noise and help them pinpoint the exact moment of attack, and even better what they need to do next."
-    },
-    {
-      "draft": false,
-      "title": "Worst case scenario they say no!",
-      "speaker": "chloemcateer",
-      "keynote": false,
-      "lightning": true,
-      "order": 3,
-      "id": "chloemcateer",
-      "description": "I have recently realised the importance of taking as many opportunities as possible especially as a student. In the tech industry there are so many different ways to get involved in the local community, such as going to hackathons, meet ups or even conferences. All of these are great for finding other people in similar situations to yourself or finding people to learn from. Throughout my talk I want to explain why this is so important and my experiences in getting involved."
     },
     {
       "draft": false,
@@ -163,24 +152,14 @@
     },
     {
       "draft": false,
-      "title": "Oh FOSS It - Free helpers through open source",
-      "speaker": "davidcutting",
-      "keynote": false,
-      "lightning": true,
-      "order": 13,
-      "id": "davidcutting",
-      "description": "In 2008 I replaced a bunch of disconnected ageing scripts that monitored my servers with a single simple network monitor... and released it open source in case anyone (or two) might use it. Over the next ten years it grew thanks to free community involvement both in terms of testing, suggestions, code submissions, community support, and everything else. Along the way it's spawned two independent FOSS projects which are spun-off components of the monitor which have their own lives now.\n\nThis talk will be a brief journey through this story and the lessons I've learnt that encourage me to release everything I can as FOSS - mainly to help me build the product if for no other reason!"
-    },
-    {
-      "draft": false,
-      "title": "The early Internet in Northern Ireland",
-      "speaker": "dermotbradley",
+      "title": "Stone Age To Serverless or: How I Learned To Stop Worrying And Love The Platform",
+      "speaker": "markallan",
       "keynote": false,
       "lightning": false,
       "time": "8",
       "room": "2",
-      "id": "dermotbradley",
-      "description": "Northern Ireland has had Internet connectivity since the early 1990s. The speaker founded Northern Ireland's first commercial Internet Provider and recalls the technology of those early days as well as sharing some strange and funny stories along the way."
+      "id": "markallan",
+      "description": "Due to a last-minute speaker dropout, Mark will be improvising on a theme of IaaS vs PaaS vs FaaS vs SaaS cloud services. Audience participation is encouraged ;)"
     },
     {
       "draft": false,
@@ -250,16 +229,6 @@
     },
     {
       "draft": false,
-      "title": "Using Analogies: A common language for diverse teams",
-      "speaker": "jasonlawson",
-      "keynote": false,
-      "lightning": true,
-      "order": 4,
-      "id": "jasonlawson",
-      "description": "Agile development has led to increased communication and collaboration within more diverse teams.  With that positive shift comes plenty of opportunity for misinterpretation, misunderstanding and stressed relationships.\n\nAnalogies are a great tool for communicating complex ideas & concepts in a way that everyone can understand their value.  They can even be fun and entertaining.\n\nI will discuss how analogies can help with communication, dissonance and engagement by illustrating some I have used, including one for the often-fraught subject of Refactoring.   Find out how refactoring isn’t just for code development, it also ensures you get a great meal at your favourite restaurant."
-    },
-    {
-      "draft": false,
       "title": "Leading software development teams to success",
       "speaker": "joanmcaleer",
       "keynote": false,
@@ -311,6 +280,31 @@
       "room": "2",
       "id": "krisjones",
       "description": "As a new CTO in a fast growing startup, beginning its journey from R&D to commercialisation the challenges of balancing tech, business vision and customer requirements is a continuous discussion. \n\nOver the past year we, at Secure Broadcast, have had to continuously reflect and improve our processes to maximise efficiency and ensure the right decisions were being made. This includes product and technology decisions that will shape the future of the tech stack and product roadmap. This talk will outline how we go about making these decisions and how we ensure we get the right people in the room at the right time."
+    },
+    {
+      "draft": false,
+      "title": "Lightning Strikes Twice",
+      "speaker": "vickypotts",
+      "speaker2": "jasonlawson",
+      "keynote": false,
+      "lightning": false,
+      "time": "9",
+      "room": "2",
+      "id": "lightningtwice",
+      "description": "Due to our original speaker being unfortunately unable to attend, two of our Lightning speakers, Vicky Potts and Jason Lawson, have very kindly agreed to deliver their talks in this slot instead.\n\n---\n\nJason's talk is \"Using Analogies: A common language for diverse teams\":\n\nAgile development has led to increased communication and collaboration within more diverse teams.  With that positive shift comes plenty of opportunity for misinterpretation, misunderstanding and stressed relationships.\n\nAnalogies are a great tool for communicating complex ideas & concepts in a way that everyone can understand their value.  They can even be fun and entertaining.\n\nI will discuss how analogies can help with communication, dissonance and engagement by illustrating some I have used, including one for the often-fraught subject of Refactoring.   Find out how refactoring isn’t just for code development, it also ensures you get a great meal at your favourite restaurant.\n\n---\n\nVicky's talk is \"NI Game Dev Scene\":\n\nHi there! I did a talk on 'Student to Startup' last year. I'd like to do my 'I've levelled up a wee bit' talk - which is about the NI Game Dev scene in Northern Ireland and the tools that we use, for those who may not even know such a scene exists. \n\nThe talk will roughly cover the following:\n\nThe Job of a Games Developer, Training & Skills Needed, What Do Games Companies Look For, What Development Software is Useful, Journey to Whitepot, The NI Games Development Industry."
+    },
+    {
+      "draft": false,
+      "title": "Lightning Strikes Thrice",
+      "speaker": "stevenringland",
+      "speaker2": "chloemcateer",
+      "speaker3": "davidcutting",
+      "keynote": false,
+      "lightning": false,
+      "time": "7",
+      "room": "2",
+      "id": "lightningthrice",
+      "description": "Due to our original speaker being unfortunately unable to attend, three of our Lightning speakers, Steven Ringland, Chloe McAteer and David Cutting, have very kindly agreed to deliver their talks in this slot instead.\n\n---\n\nSteven's talk is \"Creating a JavaScript library and why you should\":\n\nWhy bother creating libraries? What can you learn? Well my aim is the answer both in this short dive into creating JS libraries and publishing them.\n\nI’ll cover everything you need to create them, covering common build tools, useful libraries, writing solid tests and docs along with how to version them properly and publish them to NPM.\n\n---\n\nChloe's talk is \"Worst case scenario they say no!\":\n\nI have recently realised the importance of taking as many opportunities as possible especially as a student. In the tech industry there are so many different ways to get involved in the local community, such as going to hackathons, meet ups or even conferences. All of these are great for finding other people in similar situations to yourself or finding people to learn from. Throughout my talk I want to explain why this is so important and my experiences in getting involved.\n\n---\n\nDavid's talk is \"Oh FOSS It - Free helpers through open source\":\n\nIn 2008 I replaced a bunch of disconnected ageing scripts that monitored my servers with a single simple network monitor... and released it open source in case anyone (or two) might use it. Over the next ten years it grew thanks to free community involvement both in terms of testing, suggestions, code submissions, community support, and everything else. Along the way it's spawned two independent FOSS projects which are spun-off components of the monitor which have their own lives now.\n\nThis talk will be a brief journey through this story and the lessons I've learnt that encourage me to release everything I can as FOSS - mainly to help me build the product if for no other reason!"
     },
     {
       "draft": false,
@@ -616,16 +610,6 @@
     },
     {
       "draft": false,
-      "title": "Creating a JavaScript library and why you should",
-      "speaker": "stevenringland",
-      "keynote": false,
-      "lightning": true,
-      "order": 6,
-      "id": "stevenringland",
-      "description": "Why bother creating libraries? What can you learn? Well my aim is the answer both in this short dive into creating JS libraries and publishing them.\n\nI’ll cover everything you need to create them, covering common build tools, useful libraries, writing solid tests and docs along with how to version them properly and publish them to NPM."
-    },
-    {
-      "draft": false,
       "title": "It’s free to play ...",
       "speaker": "suzannemclaughlin",
       "keynote": false,
@@ -658,16 +642,6 @@
     },
     {
       "draft": false,
-      "title": "NI Game Dev Scene",
-      "speaker": "vickypotts",
-      "keynote": false,
-      "lightning": true,
-      "order": 22,
-      "id": "vickypotts",
-      "description": "Hi there! I did a talk on 'Student to Startup' last year. I'd like to do my 'I've levelled up a wee bit' talk - which is about the NI Game Dev scene in Northern Ireland and the tools that we use, for those who may not even know such a scene exists. \n\nThe talk will roughly cover the following:\n\nThe Job of a Games Developer\nTraining & Skills Needed\nWhat Do Games Companies Look For\nWhat Development Software is Useful\nJourney to Whitepot\nThe NI Games Development Industry"
-    },
-    {
-      "draft": false,
       "title": "Intro to building a lightning fast site with GatsbyJS",
       "speaker": "victoriasloan",
       "keynote": false,
@@ -693,13 +667,12 @@
       "speaker": "zoegadonthompson",
       "keynote": false,
       "lightning": true,
-      "order": 16,
+      "order": 4,
       "id": "zoegadonthompson",
       "description": "I knew literally nothing about coding until I started to study. On my first day of Java at foundation degree level I had no clue what was going on. Everyone had some experience with computers, IT or gaming and I was light years behind. I was asking my peers for help and getting stuck on everything. I was really feeling like I'd made the wrong choice of career path.\n\nTo save myself from embarrassment I dove head first into the land of curly brackets and pizza meetups in an attempt to learn everything I could.\n\nI'm going to share how I have managed an attempt at kick starting my career despite not knowing wtf I'm doing."
     }
   ],
-  "speakers": [
-    {
+  "speakers": [{
       "draft": false,
       "title": "Alan Stirling",
       "keynote": false,
@@ -872,11 +845,15 @@
     },
     {
       "draft": false,
-      "title": "Dermot Bradley",
+      "title": "Mark Allan",
       "keynote": false,
-      "speakerimage": "/img/speakers/noavatar.jpg",
-      "id": "dermotbradley",
-      "description": "IT Consultant/Contractor in Linux and Internet Technologies. Founder of NI's first Internet Provider in the early 90s, worked on early SMS and WAP (Internet-on-your-phone) systems for mobile operators around the world."
+      "speakerimage": "/img/speakers/markallan.jpg",
+      "twitter": "https://twitter.com/MarkXA",
+      "linkedin": "https://linkedin.com/in/MarkXA",
+      "github": "https://github.com/MarkXA",
+      "other": "https://markxa.com/",
+      "id": "markallan",
+      "description": "A saggy old cloth cat, baggy and a bit loose at the seams. Organises conferences in his copious spare time."
     },
     {
       "draft": false,
@@ -1399,8 +1376,7 @@
       "description": "I'm nearly finished my first year of a foundation degree in software engineering. I started to study at 21, after working minimum wage in a call centre and having a baby. I want her to have a mum who's successful and passionate, and I'm at least half of those things already. I'm trying to get my name known and my skills developed so I can make some of my ideas come to life through the support of the tech community."
     }
   ],
-  "rooms": [
-    {
+  "rooms": [{
       "id": "0",
       "title": "Lecture Room 1",
       "abbreviation": "LR1"
@@ -1421,8 +1397,7 @@
       "abbreviation": "Raked"
     }
   ],
-  "timeslots": [
-    {
+  "timeslots": [{
       "id": "reg",
       "startTime": "08:30",
       "endTime": "09:00",
@@ -1526,7 +1501,7 @@
       "id": "12",
       "startTime": "17:20",
       "endTime": "17:50",
-      "title": "17:20-17:50",
+      "title": "17:20-17:50"
     },
     {
       "id": "closing",
@@ -1545,15 +1520,14 @@
       "description": "Complimentary food and drink at the Botanic Inn"
     }
   ],
-  "htmlPages": [
-    {
+  "htmlPages": [{
       "title": "Floorplan",
       "html": "<div style='height:100%; display:flex; flex-direction:column; justify-content:space-around'><div><img src='https://www.nidevconf.com/img/floorplan-rh.png' style='width:100%' /></div></div>",
       "zoomable": true
     },
     {
       "title": "Open Space",
-      "html": "<p>The Marketplace for the Open Space will be open all morning in the Atrium, a whiteboard for you to add sessions - we suggest you use this to follow up talk discussions.</p><p>The sessions will be opened during the staggered lunch. It will run in the Project and Lightning Rooms. Throughout the afternoon, the Law of Two Feet applies: you are welcome to enter and leave this room during discussion and talks, so please explore the space!</p><p><em>With thanks to David Anderson of Liberty IT</em></p>",
+      "html": "<p><em>With thanks David Anderson and Aislinn McBride of the Tech Space meetup</em></p><p>The discussion agenda for the Open Space will be generated by attendees adding suggested sessions: this will be a board in the Atrium called the Marketplace. You are welcome to put down a topic you want to talk about, or just start a discussion on. Come along, find out more and help set the afternoon agenda, as well as popping in when you see something that captures your eye!</p><p>The Marketplace for the Open Space will be open all morning in the Atrium, a whiteboard for you to add sessions - in particular, we suggest you use this to follow up discussions or themes raised in talks. The sessions will be opened during the staggered lunch. It will run in the Lightning and Project Rooms. Throughout the afternoon, the Law of Two Feet applies: you are welcome to enter and leave these rooms during discussion and talks, so please explore the space!</p>",
       "zoomable": true
     },
     {
