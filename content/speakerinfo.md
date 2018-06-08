@@ -56,7 +56,7 @@ You are welcome to use the Green Room (see [map](/accessibility)) to prepare dur
 #### Full Talks (up to 30min)</h4>
 
 <ul class="checklists">
-<li><b>Contact</b>: Check in with your MC earlier in day</li>
+<li><b>Contact</b>: Check in with your MC earlier in day (listed below)</li>
 <li><b>Confirm</b>: Check your presentation is working</li>
 <li><b>Anticipate</b>: Get to room at least 5min before your talk (10min if you haven't already seen MC!)</li>
 <li><b>Timing</b>: Watch for MC signalling that you are getting close to time</li>
@@ -65,6 +65,23 @@ You are welcome to use the Green Room (see [map](/accessibility)) to prepare dur
 <li><b>Questions</b>: If desired, you should include time for questions <em>during</em> your 30min slot</li>
 <li><b>Switchover</b>: Allow a quick interstitial-slides swapover, by unplugging your laptop quickly</li>
 </ul>
+
+To find your MCs, if you do not know them to recognize, please check with us at the Info Desk, or they should be around the session room for 30-40min before the stat of their morning/afternoon tracks. Each room will also have a room monitor who will also be able to help you.
+
+* **LR1** [aka Room 0]
+    * Morning: Glenn Russell
+    * Afternoon: Gareth Fleming
+* **LR3** [aka Room 1]
+    * Morning: Keith Maxwell
+    * Afternoon: Steven McCullough
+* **Conference** [aka Room 2]
+    * Morning: Pawel Niemiec
+    * Afternoon: Angie McKeown
+* **Raked** [aka Room 3]
+    * Morning: Heather McNamee
+    * Afternoon: Maurice Kelly
+* **Lightning**
+    * Morning: Jonny McCullagh
 
 <br/>
 
