@@ -168,7 +168,9 @@ If you are looking after a room in the afternoon, we would ask that you check in
 
 #### MC
 
-We would ask that you meet the monitor assigned to your room around 9am, and ensure between then and 9:40 that the room is ready for sharp 9:50 start.
+If you are looking after a room in the morning, we would ask that you meet the monitor assigned to your room around 9am, and ensure between then and 9:40 that the room is ready for sharp 9:50 start.
+
+If you are looking after a room in the afternoon, we would ask that you check in with the info desk 30-40min before your session starts.
 
 1. Meet the speakers that are in your session so you know their face and a bit about them for their introduction
 2. Inform the speaker how you will indicate how much time is left with the signs
