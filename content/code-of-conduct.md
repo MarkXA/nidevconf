@@ -12,6 +12,14 @@ title = "Code of Conduct"
                     code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all
                     participants to help ensure a safe environment for everybody.</p>
 
+                <p><b>Official photography</b>: please note that we have an official photographer, David Kane. If you do wish to
+                participate in the event but do not wish for your photograph to be taken in individual or small group photos,
+                please make yourself known to him on arrival (the team at the Info Desk will help you do so). Please bear
+                in mind that you may appear in crowd photographs.<br/><b>Attendee photography</b>: with the exception of speakers
+                while on stage (where a no-recording announcement has not been made), if you wish to take a photograph
+                where someone is the specific focus of the photograph, please ask their permission first.
+                </p>
+
                 <h3>Need Help?</h3>
 
                 <p>You have our contact details in the emails we&#39;ve sent.</p>

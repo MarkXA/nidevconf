@@ -11,7 +11,7 @@ Carers are welcome free-of-charge - our system will allow self-selected ticket b
 
 All presentation areas are on the ground floor, and accessible bathrooms are available where marked on the floorplan below. Free Blue Badge and Parent-Toddler parking is available at the front of Riddel Hall. An access ramp to the right of the main entrance, when facing the building, provides step-free access. Within the building, some corridors have step/lift connections, although you may find alternate routes which may be preferable (for example, in front of the Raked Lecture Theatre). Induction loops are available within the rooms.</p>
 
-A Quiet Room is available on the ground floor, marked QR in the floorplan. We would ask those using the space to refrain from carrying on conversations or taking phone-calls in this room.
+A Quiet Room is available on the ground floor, marked QR in the floorplan. We would ask those using the space to refrain from carrying on conversations or taking phone-calls in this room. We also provide lanyard stickers to indicate that you would prefer people to leave you to initiate conversation where you feel comfortable. Please respect this indicator when worn by others, and if you find that someone is not doing so, please let us know.
 
 <img src='/img/floorplan-rh.png' style='max-width: 700px' />
 
