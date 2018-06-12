@@ -6,6 +6,7 @@ keynote = false
 lightning = false
 time = "10"
 room = "3"
+slides = "https://www.slideshare.net/StevenLimmer1/modern-agile-make-it-safe"
 +++
 
 Everyone is doing Agile, right? I mean, it's just the standard way of doing things now? But is it really? For many, it's just stand-ups and sprints, and nothing else has changed. In fact, it's probably worse, because Agile promises to be so much, and when it's not done properly, leaves real disappointment and resentment; it feels like the Emperor's new clothes. It just doesn't feel very SAFe.
