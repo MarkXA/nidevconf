@@ -57,6 +57,12 @@
           <span class="sub"> and <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
           {{ end }}
           <p>{{ .Content }}</p>
+          {{ if .Params.video }}
+            <p><a href="{{ .Params.video }}">Video &raquo;</a></p>
+          {{ end }}
+          {{ if .Params.slides }}
+            <p><a href="{{ .Params.slides }}">Slides &raquo;</a></p>
+          {{ end }}
         </div>
       </div>
   </section>

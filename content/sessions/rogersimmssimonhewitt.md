@@ -7,6 +7,7 @@ keynote = false
 lightning = false
 time = "2"
 room = "0"
+slides = "https://docs.google.com/presentation/d/1xitdOWFkBRgCO4RI7DMMzBGLHlb7qsPXZDtzkJYmp70/view?usp=sharing"
 +++
 
 Using the power of ANTLR and Go we will build a simple language allowing our users to dynamically script while simultaneously allowing our engineers to statically compile. 

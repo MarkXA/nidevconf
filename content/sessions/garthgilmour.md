@@ -6,6 +6,7 @@ keynote = false
 lightning = false
 time = "4"
 room = "0"
+slides = "https://www.slideshare.net/ggilmour/coding-in-kotlin-with-arrow-nidc-2018"
 +++
 
 Kotlin is one of the new generation of languages which are taking over from Java. It initially gained popularity on Android but has since spread to all kinds of application development. Although originally a JVM based language compilers have now been released that target JavaScript and native code.
