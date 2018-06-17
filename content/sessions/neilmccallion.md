@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Raising The Roof with Browser Audio Visualisation"
-speaker = "neilmccallion"
+speakers = ["neilmccallion"]
 keynote = false
 lightning = false
 time = "11"

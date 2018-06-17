@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Coding in Kotlin with Arrow"
-speaker = "garthgilmour"
+speakers = ["garthgilmour"]
 keynote = false
 lightning = false
 time = "4"

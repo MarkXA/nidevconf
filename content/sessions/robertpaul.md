@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "The Mythical Rewrite"
-speaker = "robertpaul"
+speakers = ["robertpaul"]
 keynote = false
 lightning = false
 time = "11"

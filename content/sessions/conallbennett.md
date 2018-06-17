@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Consumer driven development for your micro services"
-speaker = "conallbennett"
+speakers = ["conallbennett"]
 keynote = false
 lightning = false
 time = "9"

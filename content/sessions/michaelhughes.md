@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Tools and tribulations: The Road To Automating Quality Microservices"
-speaker = "michaelhughes"
+speakers = ["michaelhughes"]
 keynote = false
 lightning = false
 time = "4"

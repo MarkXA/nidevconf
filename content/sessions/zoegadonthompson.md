@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "I Don't Know What I'm Doing"
-speaker = "zoegadonthompson"
+speakers = ["zoegadonthompson"]
 keynote = false
 lightning = true
 order = 4

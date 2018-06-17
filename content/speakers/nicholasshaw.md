@@ -3,10 +3,10 @@ draft = false
 title = "Nicholas Shaw"
 keynote = false
 speakerimage = "/img/speakers/nicholasshaw.jpg"
-twitter = "https://twitter.com/Shicky4"
-linkedin = "https://www.linkedin.com/in/nicholasshaw4/"
-github = "https://github.com/shicky4"
-website = "https://nicholaspshaw.com/"
+twitter = ["https://twitter.com/Shicky4"]
+linkedin = ["https://www.linkedin.com/in/nicholasshaw4/"]
+github = ["https://github.com/shicky4"]
+website = ["https://nicholaspshaw.com/"]
 +++
 
 Nick is currently a software engineer with Puppet.

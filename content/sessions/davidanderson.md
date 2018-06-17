@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Serverless says: 'This is your time'"
-speaker = "davidanderson"
+speakers = ["davidanderson"]
 keynote = false
 lightning = true
 order = 2

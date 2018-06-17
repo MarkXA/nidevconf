@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Product Management - why everyone needs to get involved"
-speaker = "alisoncoote"
+speakers = ["alisoncoote"]
 keynote = false
 lightning = true
 order = 8

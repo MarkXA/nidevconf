@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Idiots Guide to (Open) Data Science"
-speaker = "andrewbolster"
+speakers = ["andrewbolster"]
 keynote = false
 lightning = false
 time = "2"

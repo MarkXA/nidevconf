@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Introduction to Azure Cognitive Services"
-speaker = "paulbreen"
+speakers = ["paulbreen"]
 keynote = false
 lightning = false
 time = "1"

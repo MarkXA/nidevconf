@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "I'm Not Trying To Be Mean, But It's Okay To Be Average"
-speaker = "unidentifiedspeaker"
+speakers = ["unidentifiedspeaker"]
 keynote = false
 lightning = true
 order = 15

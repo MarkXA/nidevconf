@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Sales - The Last Silo (Or Why Sales & Techies need to Talk!)"
-speaker = "siobhangallagher"
+speakers = ["siobhangallagher"]
 keynote = false
 lightning = true
 order = 7

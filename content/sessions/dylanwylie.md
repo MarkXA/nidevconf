@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Petabyte-scale fast analytics with Druid. How the AdTech world combined a search engine and a columnar datastore."
-speaker = "dylanwylie"
+speakers = ["dylanwylie"]
 keynote = false
 lightning = false
 time = "12"

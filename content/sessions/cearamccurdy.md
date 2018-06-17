@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Confidence through Design: Helping users defeat hackers"
-speaker = "cearamccurdy"
+speakers = ["cearamccurdy"]
 keynote = false
 lightning = false
 time = "11"

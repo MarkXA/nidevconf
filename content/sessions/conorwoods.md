@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Visual Programming - Should Coders Stop Writing Code And Start Drawing Code?"
-speaker = "conorwoods"
+speakers = ["conorwoods"]
 keynote = false
 lightning = true
 order = 10

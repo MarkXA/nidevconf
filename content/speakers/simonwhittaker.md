@@ -3,9 +3,9 @@ draft = false
 title = "Simon Whittaker"
 keynote = false
 speakerimage = "/img/speakers/simonwhittaker.jpg"
-twitter = "https://twitter.com/szlwzl"
-linkedin = "https://www.linkedin.com/in/simonwhittaker/"
-github = "https://github.com/szlwzl"
+twitter = ["https://twitter.com/szlwzl"]
+linkedin = ["https://www.linkedin.com/in/simonwhittaker/"]
+github = ["https://github.com/szlwzl"]
 +++
 
 Simon Whittaker is Cyber Security Director of Vertical Structure Ltd and has been providing security services & security training for over 10 years.

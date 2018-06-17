@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "What Is DevSecOps? Where Security Meets Agile"
-speaker = "ciaranconliffe"
+speakers = ["ciaranconliffe"]
 keynote = false
 lightning = true
 order = 1

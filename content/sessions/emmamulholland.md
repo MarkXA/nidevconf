@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Introduction to Product Management (ie. WTF is 'product'?)"
-speaker = "emmamulholland"
+speakers = ["emmamulholland"]
 keynote = false
 lightning = false
 time = "8"

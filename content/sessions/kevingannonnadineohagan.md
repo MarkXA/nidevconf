@@ -1,8 +1,7 @@
 +++
 draft = false
 title = "Thinking outside the Blocks"
-speaker = "kevingannon"
-speaker2 = "nadineohagan"
+speakers = ["kevingannon", "nadineohagan"]
 keynote = false
 lightning = false
 time = "3"

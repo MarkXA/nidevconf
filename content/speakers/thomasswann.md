@@ -3,10 +3,10 @@ draft = false
 title = "Thomas Swann"
 keynote = false
 speakerimage = "/img/speakers/thomasswann.jpg"
-twitter = "https://twitter.com/Tam_III"
-linkedin = "https://uk.linkedin.com/in/tamthethird"
-github = "https://github.com/tswann"
-website = "https://medium.com/@tam_III"
+twitter = ["https://twitter.com/Tam_III"]
+linkedin = ["https://uk.linkedin.com/in/tamthethird"]
+github = ["https://github.com/tswann"]
+website = ["https://medium.com/@tam_III"]
 +++
 
 Tom Swann is a developer and architect who lives in Newtownards with his wife, son and two grumpy guinea pigs.

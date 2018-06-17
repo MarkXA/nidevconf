@@ -1,8 +1,7 @@
 +++
 draft = false
 title = "Discovery & Framing – What’s that about?"
-speaker = "oliviamccartan"
-speaker2 = "louisecraven"
+speakers = ["oliviamccartan", "louisecraven"]
 keynote = false
 lightning = false
 time = "12"

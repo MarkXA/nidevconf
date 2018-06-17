@@ -3,9 +3,9 @@ draft = false
 title = "Conor Woods"
 keynote = false
 speakerimage = "/img/speakers/conorwoods.jpg"
-twitter = "https://twitter.com/ProductiveProg"
-linkedin = "https://www.linkedin.com/in/woodsconor"
-website = "https://productiveprogrammer.io"
+twitter = ["https://twitter.com/ProductiveProg"]
+linkedin = ["https://www.linkedin.com/in/woodsconor"]
+website = ["https://productiveprogrammer.io"]
 +++
 
 Conor has over 18 years’ experience working as a "full stack" software developer.

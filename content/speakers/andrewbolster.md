@@ -3,10 +3,10 @@ draft = false
 title = "Andrew Bolster"
 keynote = false
 speakerimage = "/img/speakers/andrewbolster.jpg"
-twitter = "https://www.twitter.com/bolster"
-linkedin = "https://www.linkedin.com/in/andrewbolster"
-github = "http://www.github.com/andrewbolster"
-website = "https://andrewbolster.info/about"
+twitter = ["https://www.twitter.com/bolster"]
+linkedin = ["https://www.linkedin.com/in/andrewbolster"]
+github = ["http://www.github.com/andrewbolster"]
+website = ["https://andrewbolster.info/about"]
 +++
 
 Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.

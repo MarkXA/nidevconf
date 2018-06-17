@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Building and Leading high quality talent"
-speaker = "paulhill"
+speakers = ["paulhill"]
 keynote = false
 lightning = false
 time = "11"

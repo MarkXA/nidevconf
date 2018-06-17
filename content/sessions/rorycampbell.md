@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "GDPR has landed. So?"
-speaker = "rorycampbell"
+speakers = ["rorycampbell"]
 keynote = false
 lightning = false
 time = "1"

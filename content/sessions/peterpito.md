@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Just tell me when it’s done"
-speaker = "peterpito"
+speakers = ["peterpito"]
 keynote = false
 lightning = false
 time = "2"

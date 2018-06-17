@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "The Balancing Act of Tech, Business and Customers"
-speaker = "krisjones"
+speakers = ["krisjones"]
 keynote = false
 lightning = false
 time = "12"

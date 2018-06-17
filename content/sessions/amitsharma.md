@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "What is a Blockchain? Learn by building one"
-speaker = "amitsharma"
+speakers = ["amitsharma"]
 keynote = false
 lightning = false
 time = "1"

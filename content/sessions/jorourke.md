@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "How to translate tech-talk"
-speaker = "jorourke"
+speakers = ["jorourke"]
 keynote = false
 lightning = true
 order = 12

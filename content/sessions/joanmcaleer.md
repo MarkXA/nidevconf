@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Leading software development teams to success"
-speaker = "joanmcaleer"
+speakers = ["joanmcaleer"]
 keynote = false
 lightning = false
 time = "3"

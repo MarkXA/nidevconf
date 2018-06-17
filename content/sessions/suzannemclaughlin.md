@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "It’s free to play ..."
-speaker = "suzannemclaughlin"
+speakers = ["suzannemclaughlin"]
 keynote = false
 lightning = true
 order = 20

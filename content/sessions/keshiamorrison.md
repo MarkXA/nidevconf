@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Be a great teacher for the greater good"
-speaker = "keshiamorrison"
+speakers = ["keshiamorrison"]
 keynote = false
 lightning = true
 order = 23

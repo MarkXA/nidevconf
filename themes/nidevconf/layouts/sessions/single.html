@@ -1,9 +1,5 @@
-{{ $speakerId := .Params.speaker }}
-{{ $speaker2Id := .Params.speaker2 }}
-{{ $speaker3Id := .Params.speaker3 }}
-{{ $speakers := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" $speakerId }}
-{{ $speakers2 := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" $speaker2Id }}
-{{ $speakers3 := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" $speaker3Id }}
+{{ $speakerIds := .Params.speakers }}
+{{ $speakers := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" "in" $speakerIds }}
 
 {{ $times := slice (dict "title" "8:30-9:00" "allRooms" "REGISTRATION") (dict "title" "9:00-9:20" "allRooms" "TEA/COFFEE") (dict "title" "9:30-9:40" "plenary" "Welcome") (dict "time" "1" "title" "9:50-10:20") (dict "time" "2" "title" "10:30-11:00") (dict "time" "3" "title" "11:10-11:40") (dict "time" "4" "title" "11:50-12:20") (dict "time" "5" "title" "12:30-13:00") (dict "time" "6" "title" "13:10-13:40") (dict "time" "7" "title" "13:50-14:20") (dict "time" "8" "title" "14:30-15:00") (dict "time" "9" "title" "15:10-15:40") (dict "title" "15:40-16:00" "allRooms" "BREAK") (dict "time" "10" "title" "16:00-16:30") (dict "time" "11" "title" "16:40-17:10") (dict "time" "12" "title" "17:20-17:50") (dict "title" "18:00-18:20" "plenary" "Closing address") (dict "title" "AFTERWARDS" "allRooms" "Complimentary food and drink at the Botanic Inn") }}
 
@@ -23,21 +19,7 @@
               <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
             {{ end }}
           </a>
-          {{ end}}
-          {{ range $speakers2 }}
-          <a href="{{ .RelPermalink }}" style="display:inline-block; margin-left:1em">
-            {{ if .Params.speakerimage }}
-              <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
-            {{ end }}
-          </a>
-          {{ end}}
-          {{ range $speakers3 }}
-          <a href="{{ .RelPermalink }}" style="display:inline-block; margin-left:1em">
-            {{ if .Params.speakerimage }}
-              <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
-            {{ end }}
-          </a>
-          {{ end}}
+          {{ end }}
         </div>
         <div class="session-description col-md-9">
           <h2>{{ .Title }}</h2>
@@ -47,15 +29,11 @@
             {{ if .Params.room }}{{ index $rooms (int .Params.room) }}{{ end }}
           </h3>
           {{ end }}
-          {{ range $speakers }}
-          <span class="sub"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
-          {{ end }}
-          {{ range $speakers2 }}
-          <span class="sub"> and <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
-          {{ end }}
-          {{ range $speakers3 }}
-          <span class="sub"> and <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
-          {{ end }}
+          <div class="speakerNames">
+            {{ range $speakers }}
+              <span class="sub"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+            {{ end }}
+          </div>
           <p>{{ .Content }}</p>
           {{ if .Params.video }}
             <p><a href="{{ .Params.video }}">Video &raquo;</a></p>

@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Playing with the IndieWeb"
-speaker = "stephenrushe"
+speakers = ["stephenrushe"]
 keynote = false
 lightning = false
 time = "5"

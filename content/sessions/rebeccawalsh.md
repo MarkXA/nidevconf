@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Service Design in Gov - Connecting the online to the offline"
-speaker = "rebeccawalsh"
+speakers = ["rebeccawalsh"]
 keynote = false
 lightning = false
 time = "4"

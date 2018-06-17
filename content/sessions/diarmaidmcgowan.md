@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Application Security and the OWASP Top 10"
-speaker = "diarmaidmcgowan"
+speakers = ["diarmaidmcgowan"]
 keynote = false
 lightning = false
 time = "4"

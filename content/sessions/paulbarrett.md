@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Blender 3D - Create 3D Content on No Budget"
-speaker = "paulbarrett"
+speakers = ["paulbarrett"]
 keynote = false
 lightning = true
 order = 21

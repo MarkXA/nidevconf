@@ -1,7 +1,7 @@
 +++
 draft = false
-title = "Modern agile, make it psychologically safe" 
-speaker = "stevenlimmer"
+title = "Modern Agile, make it psychologically safe"
+speakers = ["stevenlimmer"]
 keynote = false
 lightning = false
 time = "10"

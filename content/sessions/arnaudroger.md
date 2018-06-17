@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "You don't need scrum to be agile"
-speaker = "arnaudroger"
+speakers = ["arnaudroger"]
 keynote = false
 lightning = true
 order = 9

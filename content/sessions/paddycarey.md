@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "DadOps: 5 lessons having a baby has taught me about building software"
-speaker = "paddycarey"
+speakers = ["paddycarey"]
 keynote = false
 lightning = true
 order = 19

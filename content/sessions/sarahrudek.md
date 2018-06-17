@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Progress, Politics, and Programming"
-speaker = "sarahrudek"
+speakers = ["sarahrudek"]
 keynote = false
 lightning = false
 time = "9"

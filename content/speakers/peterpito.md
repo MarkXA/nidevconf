@@ -3,9 +3,9 @@ draft = false
 title = "Peter Pito"
 keynote = false
 speakerimage = "/img/speakers/peterpito.jpg"
-twitter = "https://twitter.com/theppito"
-linkedin = "https://uk.linkedin.com/in/peterpito"
-website = "https://medium.com/@peterpito"
+twitter = ["https://twitter.com/theppito"]
+linkedin = ["https://uk.linkedin.com/in/peterpito"]
+website = ["https://medium.com/@peterpito"]
 +++
 
 Peter Pito is a technical lead at Deloitte Digital with over 20 years of experience designing and delivering software products. 

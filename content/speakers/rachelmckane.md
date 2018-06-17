@@ -3,8 +3,8 @@ draft = false
 title = "Rachel McKane"
 keynote = false
 speakerimage = "/img/speakers/rachelmckane.jpg"
-twitter = "https://twitter.com/remckane"
-linkedin = "https://www.linkedin.com/in/rmckane"
+twitter = ["https://twitter.com/remckane"]
+linkedin = ["https://www.linkedin.com/in/rmckane"]
 +++
 
 Rachel McKane is a Customer Success Manager for Esri Ireland. In her role she gets to partner with a diverse set of customers to deliver business solutions, helping them utilise existing data to answer critical business questions based on the science of where.

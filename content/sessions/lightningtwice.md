@@ -1,8 +1,7 @@
 +++
 draft = false
 title = "Lightning Strikes Twice"
-speaker = "vickypotts"
-speaker2 = "jasonlawson"
+speakers = ["vickypotts", "jasonlawson"]
 keynote = false
 lightning = false
 time = "9"

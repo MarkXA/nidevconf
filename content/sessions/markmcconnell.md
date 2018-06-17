@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Release the Monkey!!"
-speaker = "markmcconnell"
+speakers = ["markmcconnell"]
 keynote = false
 lightning = false
 time = "7"

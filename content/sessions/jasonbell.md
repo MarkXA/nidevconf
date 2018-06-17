@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Breaking Down Algorithm Design Problems Using Poker"
-speaker = "jasonbell"
+speakers = ["jasonbell"]
 keynote = false
 lightning = false
 time = "10"

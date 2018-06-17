@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Observing your applications with Prometheus"
-speaker = "petermcconnell"
+speakers = ["petermcconnell"]
 keynote = false
 lightning = false
 time = "10"

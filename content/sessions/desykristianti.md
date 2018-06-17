@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Middleware Integrations: An Innovative Approach to Connecting Enterprise Applications"
-speaker = "desykristianti"
+speakers = ["desykristianti"]
 keynote = false
 lightning = false
 time = "9"

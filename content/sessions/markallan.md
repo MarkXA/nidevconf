@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Stone Age To Serverless or: How I Learned To Stop Worrying And Love The Platform"
-speaker = "markallan"
+speakers = ["markallan"]
 keynote = false
 lightning = false
 time = "8"

@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Open Data, Open Source ... Open Development"
-speaker = "alanstirling"
+speakers = ["alanstirling"]
 keynote = false
 lightning = false
 time = "1"

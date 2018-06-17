@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "An App for Culture Night: App Development for Events"
-speaker = "rebeccamartin"
+speakers = ["rebeccamartin"]
 keynote = false
 lightning = false
 time = "6"

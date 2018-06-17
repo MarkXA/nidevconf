@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "The Unexpected Voyage from Developer to Startup Co-Founder"
-speaker = "michealcolhoun"
+speakers = ["michealcolhoun"]
 keynote = false
 lightning = false
 time = "6"

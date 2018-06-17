@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "The Science of Where"
-speaker = "rachelmckane"
+speakers = ["rachelmckane"]
 keynote = false
 lightning = false
 time = "2"

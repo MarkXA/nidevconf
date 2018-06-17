@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Licences: What is all the FOSS about?"
-speaker = "maycheung"
+speakers = ["maycheung"]
 keynote = false
 lightning = true
 order = 14

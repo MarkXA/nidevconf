@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "The Software Test Clinic Belfast!"
-speaker = "nicholasshaw"
+speakers = ["nicholasshaw"]
 keynote = false
 lightning = true
 order = 18

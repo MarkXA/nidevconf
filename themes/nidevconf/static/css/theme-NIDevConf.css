@@ -1587,6 +1587,13 @@ nav .container {
   margin-right: 0.5em;
 }
 
+.speakerNames a::after {
+  content: ", ";
+}
+.speakerNames > *:last-child a::after {
+  content: "";
+}
+
 .socialicon {
   border: 1px solid #333;
   border-radius: 50%;

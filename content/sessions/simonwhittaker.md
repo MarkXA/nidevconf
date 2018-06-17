@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Data (in)security in a Cloud Environment"
-speaker = "simonwhittaker"
+speakers = ["simonwhittaker"]
 keynote = false
 lightning = false
 time = "3"

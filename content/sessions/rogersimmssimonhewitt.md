@@ -1,8 +1,7 @@
 +++
 draft = false
 title = "Gophers with Antlers"
-speaker = "rogersimms"
-speaker2 = "simonhewitt"
+speakers = ["rogersimms", "simonhewitt"]
 keynote = false
 lightning = false
 time = "2"

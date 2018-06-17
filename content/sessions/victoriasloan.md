@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Intro to building a lightning fast site with GatsbyJS"
-speaker = "victoriasloan"
+speakers = ["victoriasloan"]
 keynote = false
 lightning = true
 order = 11

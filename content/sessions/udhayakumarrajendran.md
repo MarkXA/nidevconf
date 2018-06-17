@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Building Microservices with Spring Cloud/Netflix OSS"
-speaker = "udhayakumarrajendran"
+speakers = ["udhayakumarrajendran"]
 keynote = false
 lightning = false
 time = "5"

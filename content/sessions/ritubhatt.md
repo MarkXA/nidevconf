@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Music metadata identifiers gamechangers for copyrighting"
-speaker = "ritubhatt"
+speakers = ["ritubhatt"]
 keynote = false
 lightning = true
 order = 5

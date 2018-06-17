@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "The Rookie's Survival Guide"
-speaker = "ryanwilson"
+speakers = ["ryanwilson"]
 keynote = false
 lightning = false
 time = "3"

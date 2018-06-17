@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "The Benefits and Dangers of Design/Component Libraries"
-speaker = "clairewilgar"
+speakers = ["clairewilgar"]
 keynote = false
 lightning = false
 time = "8"

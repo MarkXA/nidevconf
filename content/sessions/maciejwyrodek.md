@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Let Tester write some code."
-speaker = "maciejwyrodek"
+speakers = ["maciejwyrodek"]
 keynote = false
 lightning = true
 order = 17

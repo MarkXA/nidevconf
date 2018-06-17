@@ -3,9 +3,9 @@ draft = false
 title = "Claire Wilgar"
 keynote = false
 speakerimage = "/img/speakers/clairewilgar.jpg"
-twitter = "https://twitter.com/clairedotw"
-linkedin = "https://www.linkedin.com/in/clairewilgar"
-github = "https://github.com/clairebones"
+twitter = ["https://twitter.com/clairedotw"]
+linkedin = ["https://www.linkedin.com/in/clairewilgar"]
+github = ["https://github.com/clairebones"]
 +++
 
 ​Claire Wilgar is a frontend developer with a passion for accessibility, currently working for Bazaarvoice Belfast.
