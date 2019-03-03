@@ -9,10 +9,8 @@ title = "Children"
             <div class="col-md-12 main">
                 <h1>Children</h1>
 
-                <p> Please note that we have now confirmed final numbers with the childcare providers and will be unable to provide facilities for any children not already booked.</p>
+                <p>Please note that child tickets are free but do need to be booked well in advance to allow us to provide final numbers to  the childcare providers with sufficient notice.</p>
 
-                <p>Children are of course be welcome to attend free of charge.</p>
-                
                 <h2> Opening Hours </h2>
                 <p>Childcare is available from 9am to 6:30pm </p>
                 

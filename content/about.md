@@ -7,7 +7,7 @@ title = "About"
         <a id="top"></a>
         <main class="container generic">
             <div class="col-md-12 main">
-                <h1>The Northern Ireland Developer Conference 2018</h1>
+                <h1>The Northern Ireland Developer Conference 2019</h1>
                 <h3>Why?</h3>
                 <p>
                     The software development scene in Northern Ireland has exploded over the past few years.
@@ -18,7 +18,7 @@ title = "About"
                     With that in mind, we decided it was time to put together a conference where all developers could come together and learn from each other, while at the same time celebrating the range of amazing work going on in Northern Ireland.
                 </p>
                 <p>
-                    The 2017 conference was a great success. We hope 2018 will be even better!
+                    The 2018 conference was a great success. We hope 2019 will be even better!
                 </p>
                 <h3>Who?</h3>
                 <p>
@@ -33,7 +33,7 @@ title = "About"
                 </p>
                 <h3>When?</h3>
                 <p>
-                    Saturday June 9th, 2018, 9:00 to 18:30. <a class="subtle" href="/Northern_Ireland_Developer_Conference.ics">Add to calendar &raquo;</a>
+                    Saturday June 8th, 2019, 9:00 to 18:30. <a class="subtle" href="/Northern_Ireland_Developer_Conference.ics">Add to calendar &raquo;</a>
                 </p>
                 <h3>Where?</h3>
                 <p>

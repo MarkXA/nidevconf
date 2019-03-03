@@ -31,7 +31,7 @@ If you are doing a live demo that needs an internet connection bring a 4G dongle
 <li><b>Pre-events</b>: Get to speaker events on May 30 and Jun 6, if you can!</li>
 <li><b>Audio/Internet</b>: If you have any requirements around <b>audio</b> or <b>internet</b>, please check in with us before Saturday if you can, so we make sure that's anticipated and checked where necessary</li>
 <li><b>Timing</b>: We recommend doing a test run with someone for feedback and to make sure you'll reach your final slides during the available time! Room MCs will be asked to keep presenters strictly to time</li>
-<li><b>Feedback</b>: If you want <a href="https://joind.in/event/northern-ireland-developer-conference-2018">joind.in feedback</a>, let us know at inbox@nidevconf.com (subject line "Feedback on joind.in"). We can mark this with an "L", if you ask, so commenters recognise you are starting out</li>
+<li><b>Feedback</b>: If you want <a href="https://joind.in/event/northern-ireland-developer-conference-2019">joind.in feedback</a>, let us know at inbox@nidevconf.com (subject line "Feedback on joind.in"). We can mark this with an "L", if you ask, so commenters recognise you are starting out</li>
 <li><b>Equipment</b>: Let us know if you will use your laptop or need one (and which OS). Unless we confirm in advance, we cannot guarantee availability, although basic QUB Windows machines are already connected to the presentation equipment</li>
 <li><b>Social Media</b>: Include any links to your Twitter / professional networks</li>
 <li><b>Accessibility</b>: Put some thought into making your <a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">presentation accessible</a></li>
