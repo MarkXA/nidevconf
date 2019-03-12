@@ -17,7 +17,7 @@ A Quiet Room is available on the ground floor, marked QR in the floorplan. We wo
 
 [**Map Legend**] *GR: Green Room; PR: Project Room; QR: Quiet Room*
 
-While we will not be able to provide live captioning or signing this year, if you would be benefited by suitable seat reservation, or there are other ways we can facilitate your experience of the event, please get in touch via <a href='mailto:inbox@nidevconf.com'>inbox@nidevconf.com</a> or one of our organizing team directly.
+While we are unlikely to be able to provide live captioning or signing this year, if you would be benefited by suitable seat reservation, or there are other ways we can facilitate your experience of the event, please get in touch via <a href='mailto:inbox@nidevconf.com'>inbox@nidevconf.com</a> or one of our organizing team directly.
 
 We would encourage anyone presenting to have a look through the <a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">W3C presentation accessibility material</a>. If you have issues with the accessibility of presentations or slide-decks, we would encourage you to feed this back to the conference team, and some speakers have opted to receive feedback via <a href="https://joind.in/event/northern-ireland-developer-conference-2019">joind.in</a>.
 

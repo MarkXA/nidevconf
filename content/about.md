@@ -33,7 +33,7 @@ title = "About"
                 </p>
                 <h3>When?</h3>
                 <p>
-                    Saturday June 8th, 2019, 9:00 to 18:30. <a class="subtle" href="/Northern_Ireland_Developer_Conference.ics">Add to calendar &raquo;</a>
+                    Saturday June 8th, 2019, 9:00 to 18:30. <a class="subtle" href="/NIDC2019.ics">Add to calendar &raquo;</a>
                 </p>
                 <h3>Where?</h3>
                 <p>
