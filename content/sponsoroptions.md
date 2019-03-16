@@ -9,7 +9,7 @@ title = "Sponsorship Options"
             <div class="col-md-12 main">
                 <h1>Sponsorship Options</h1>
                 <p>
-                    A full range of sponsorship options from headline sponsorship to roll-up banners will be available soon, but feel free to <a href="mailto:inbox@nidevconf.com">contact us</a> to express interest at any time!
+                    We have a range of sponsorship levels available to suit everyone. Please <a href="/downloads/sponsorship.pdf">download our flyer</a> for details.
                 </p>
             </div>
         </main>
