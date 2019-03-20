@@ -9,7 +9,7 @@ title = "Children"
             <div class="col-md-12 main">
                 <h1>Children</h1>
 
-                <p>Please note that child tickets are free but do need to be booked by <strong>Friday 17th May</strong> to allow us to provide final numbers to  the childcare providers with sufficient notice.</p>
+                <p>Please note that child tickets are free but do need to be booked by <strong>Friday 10th May</strong> to allow us to provide final numbers to  the childcare providers with sufficient notice.</p>
 
                 <h2> Opening Hours </h2>
                 <p>Childcare is available from 9am to 6:30pm </p>

@@ -16,7 +16,7 @@ title = "Tickets"
                     <ul>
                         <li><strong>Early Bird</strong> (available until speakers are announced) - <strong>£25</strong> / £10 concession</li>
                         <li><strong>Standard price</strong> - <strong>£45</strong> / £15 concession</li>
-                        <li><strong>Children and carers</strong> - <strong>Free</strong>
+                        <li><strong>Children and carers</strong> - <strong>Free</strong> but child tickets must be booked by <strong>Friday 10th May</strong>
                     </ul>
                     Concessionary prices are for students, unwaged etc.
                 </p>
