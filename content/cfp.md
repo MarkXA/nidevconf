@@ -32,7 +32,7 @@ title = "Tickets"
                 </p>
                 <h3>When do submissions close?</h3>
                 <p>
-                  Proposals must be submitted by Monday 1st April (at 23:59:59).
+                  Proposals must be submitted by Monday 15th April (at 23:59:59).
                 </p>
                 <h3>Where do I submit my talks?</h3>
                 <p>
