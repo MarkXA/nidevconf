@@ -1,0 +1,4 @@
+https://nidevconf.netlify.com/* https://www.nidevconf.com/:splat 301!
+https://nidevconf.com/* https://www.nidevconf.com/:splat 301!
+http://nidevconf.netlify.com/* https://www.nidevconf.com/:splat 301!
+http://nidevconf.com/* https://www.nidevconf.com/:splat 301!
