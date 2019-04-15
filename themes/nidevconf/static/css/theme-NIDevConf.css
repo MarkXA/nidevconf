@@ -2430,6 +2430,7 @@ p.question {
   display: block;
   width: 80%;
   margin: auto;
+  padding: 20px 0;
 }
 
 .sponsor span {
