@@ -8,4 +8,4 @@ linkedin = ["https://www.linkedin.com/in/maycheungni"]
 delta = 250
 +++
 
-May has a foot in both the tech community and legal sector, having worked in the latter for the past 13 years.  Likes FOSS, Farset, and fast cars.
+With a professional background in the legal sector for 14 years May has recently joined a tech startup in an operations role, giving her a unique perspective and background. She has been an active member of the tech community having previously given talks at NI Developer Conference and BelFOSS.
