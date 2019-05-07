@@ -1,33 +1,9 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
-<div class="main-container">
-  <a id="top"></a>
-  <section class="speakers">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <h1>Sessions</h1>
-        </div>
-      </div>
-      {{ range .Data.Pages }}
-      <div class="row">
-        <div class="speaker-with-bio">
-          <div class="speaker col-md-3">
-            {{ if .Params.speakerimage }}
-              <div class="image-holder" style="background-image:url({{ .Params.speakerimage}})"></div>
-            {{ end }}
-          </div>
-
-          <div class="speaker-description col-md-9">
-            <h2><a href={{ .RelPermalink }}>{{ .Params.talk }}</a></h2>
-            <span class="sub"><a href="/speakers/{{ .Params.speaker }}">{{ .Title }}</a></span> {{.Content}}
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </section>
-</div>
-
+<section class="row">
+  <div class="main-container">
+    {{ partial "sessions.html" . }}
+  </div>
+</section>
 {{ partial "footer.html" . }}

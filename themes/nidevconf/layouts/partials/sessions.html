@@ -1,0 +1,18 @@
+{{ $sessions := where .Site.Pages "Section" "sessions" }}
+
+<section class="speakers">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>Sessions</h1>
+      </div>
+    </div>
+    <div class="flexcolumn">
+      {{ range $session := $sessions }}
+        {{ if $session.File.BaseFileName }}
+          {{ partial "session.html" $session }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>

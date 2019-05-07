@@ -2440,12 +2440,12 @@ p.question {
 }
 
 .platinum .sponsor {
-  flex-basis: 50%;
+  flex-basis: 33%;
   min-width: 300px;
 }
 
 .gold .sponsor {
-  flex-basis: 33%;
+  flex-basis: 25%;
   min-width: 250px;
 }
 

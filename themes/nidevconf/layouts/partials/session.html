@@ -1,0 +1,41 @@
+{{ $sessionId := .File.BaseFileName }}
+{{ $sessionSpeakers := .Params.speakers }}
+{{ $speakers := where .Site.Pages "Section" "speakers" }}
+
+<div class="row randomorder" data-delta="{{ .Params.delta }}">
+    <div class="speaker-with-bio">
+        <div class="speaker col-md-3">
+            {{ range $speaker := $speakers }}
+                {{ if in $sessionSpeakers $speaker.BaseFileName }}
+                    <div class="image-holder" style="background-image:url({{ $speaker.Params.speakerimage }})"></div>
+                {{ end }}
+            {{ end }}
+        </div>
+        <div class="speaker-description col-md-9">
+            <h2 style="display:flex; align-items:center">
+                <span style="font-size:75%; margin-right: 0.5em">
+                    {{ if .Params.lightning}}
+                        <i class="fa fa-bolt" aria-hidden="true"></i>
+                    {{ else }}
+                        <i class="fa fa-comment" aria-hidden="true"></i>
+                    {{ end }}
+                </span>
+                <span>{{ .Title }}</span>
+            </h2>
+            {{ range $speaker := $speakers }}
+                {{ if in $sessionSpeakers $speaker.BaseFileName }}
+                    <p>
+                        <a href="{{ $speaker.RelPermalink }}" class="sessionlink">
+                            {{ $speaker.LinkTitle }}
+                        </a>
+                    </p>
+                {{ end }}
+            {{ end }}
+            <p>
+                {{ .Content }}
+            </p>
+            <p>
+            </p>
+        </div>
+    </div>
+</div>

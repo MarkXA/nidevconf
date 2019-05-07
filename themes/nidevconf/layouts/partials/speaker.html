@@ -26,6 +26,9 @@
                 {{ range .Params.codepen }}
                     <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-codepen" aria-hidden="true"></i></a>
                 {{ end }}
+                {{ range .Params.keybase }}
+                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-key" aria-hidden="true"></i></a>
+                {{ end }}
                 {{ range .Params.website }}
                     <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-globe" aria-hidden="true"></i></a>
                 {{ end }}
