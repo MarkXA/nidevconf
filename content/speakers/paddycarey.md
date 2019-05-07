@@ -8,4 +8,4 @@ github = ["https://github.com/paddycarey"]
 website = ["https://cloudsmith.io/"]
 +++
 
-Probably crying, because computers.
+Paddy is currently a Staff Engineer at Cloudsmith, working to help make package management better for everyone. Paddy is a co-organiser of PyBelfast and frequent meetup contributor. When not hunched over his laptop, he can probably be found chasing after his energetic 2 year old.
