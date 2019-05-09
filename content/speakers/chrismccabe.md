@@ -6,4 +6,4 @@ keynote = false
 linkedin = ["https://www.linkedin.com/in/chris-mccabe-17685b16/"]
 +++
 
-Having been involved in startups for 10 years Chris has overseen Pearlai’s technical development from an idea in the founders head to a product being rolled out across shopping centres both here in Ireland and across Europe. Chris is also passionate about public speaking as a skill and is the current area director for Toastmasters in Belfast, an organisation that teaches public speaking and leadership skills. Chris is part of Newry digital which is aimed at growing a software community in Newry and the surrounding areas
+Having been involved in startups for 10 years. Chris is former CTO at Pearlai, a shopping centre loyalty and analytic product being rolled out across shopping centres both here in Ireland and across Europe. Chris is also passionate about public speaking as a skill and is the current area director for Toastmasters in Belfast, an organisation that teaches public speaking and leadership skills. Chris is part of Newry digital which is aimed at growing a software community in Newry and the surrounding areas
