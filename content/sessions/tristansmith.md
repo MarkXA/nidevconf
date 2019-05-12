@@ -1,6 +1,6 @@
 ﻿+++
 id = "tristansmith"
-title = "Do I have to chose between my team and my work?"
+title = "Do I have to choose between my team and my work?"
 speakers = ["tristansmith"]
 keynote = false
 lightning = true

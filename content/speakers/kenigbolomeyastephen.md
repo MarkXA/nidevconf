@@ -6,7 +6,7 @@ keynote = false
 twitter = ["https://twitter.com/expensivestevie"]
 linkedin = ["https://fi.linkedin.com/in/kenigbolo"]
 github = ["https://github.com/kenigbolo"]
-website = ["https://medium.com/@kenigbolo", "https://bcaster.com"]
+website = ["https://medium.com/@kenigbolo", "https://kenigbolo.dev"]
 +++
 
 I'm Kenigbolo Meya Stephen, Full Stack Software Engineer working as the Frontend Engineering Team Lead at BCaster OY. Formerly Arch Conveyer/Community Manage of CodeAfrique (now Reload), a not-for-profit weekend intensive software engineering bootcamp for underrepresented groups in IT based out of Estonia.
