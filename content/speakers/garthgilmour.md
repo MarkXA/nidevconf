@@ -1,7 +1,7 @@
 ﻿+++
 id = "garthgilmour"
 title = "Garth Gilmour"
-speakerimage = "https://sessionize.com/image?f=f52e190b88d3be7695db6bd2c5109d6d,400,400,True,False,18-0545-40a7-b670-1f8593fa6f50.537538ef-8ae5-4fbc-a57d-b05a2c142cd1.png"
+speakerimage = "https://sessionize.com/image?f=8be74787662556abe3e1530aa0b4d473,400,400,True,False,38-3381-4530-aece-fef817f814a4.42636ffe-2873-489b-8a55-e7273aca9547.jpg"
 keynote = false
 twitter = ["https://twitter.com/GarthGilmour"]
 linkedin = ["https://www.linkedin.com/in/garthgilmour/"]
