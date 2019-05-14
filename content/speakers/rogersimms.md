@@ -1,7 +1,7 @@
 ﻿+++
 id = "rogersimms"
 title = "Roger Simms"
-speakerimage = "https://sessionize.com/image?f=ef757a3f38cd40fd0b9c3695be9033c2,400,400,True,False,1cdeec81-35d3-45e0-88a3-3c4519370009.jpg"
+speakerimage = "https://sessionize.com/image?f=7f2c688eddb3dbf8502b534e46300d2c,400,400,True,False,38-3381-4530-aece-fef817f814a4.69e81879-b959-40c1-84bf-3695a932a8ce.jpg"
 keynote = false
 github = ["http://github.com/allofthesepeople"]
 website = ["http://www.flexera.com"]
