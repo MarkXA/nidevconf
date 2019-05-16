@@ -72,8 +72,8 @@ title = "Exhibition Space"
                 <p>
                   These are some pictures from the conference last year. These were taken after lunch. 
                 <p>
-                <img style="height:600px; width:700px;"  src="https://live.staticflickr.com/4913/33116776448_85a5df3727_k.jpg"/>
-                <img style="height:600px; width:700px;"  src="https://live.staticflickr.com/7911/33116775878_e37f0d0f49_k.jpg"/>
+                <img style="height:600px; width:900px;"  src="https://live.staticflickr.com/4913/33116776448_85a5df3727_k.jpg"/>
+                <img style="height:600px; width:900px;"  src="https://live.staticflickr.com/7911/33116775878_e37f0d0f49_k.jpg"/>
                 <p>
                   We visited the main area when there were exhibitors present for another conference. Here is when there are less people in the area.
                 <p>
