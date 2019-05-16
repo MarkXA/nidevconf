@@ -36,27 +36,28 @@ title = "Exhibition Space"
                  The conference is commited to being environmentally sustainable. Swag can be a source of landfill waste. As you will see, no waste will be produced on the day and this is a very attractive to our attendees. The conference itself will give out minimum items for the day and does not provide bags. This helps eliminate the landfill waste. Conferences have a reputation of producing a lot of landfill waste through Swag items. Swag is not necessary for your exhibition stand but if you are providing any we have some ideas. 
                 </p>
                 <p>
-                    * Cups
-                    * Travel Mugs 
-                    * Reuable water containers
-                    * Branded Cups cakes
-                    * USB Multi charge cables 
-                    * Google Cardboard
-                    * Raspberry PI Zero.
-                    * Sweets
-                    * Create card holders for your phone
-                    * Your ideas with an environmental spin.
-                    * No Swag means no waste :) 
+                   <ul>
+                     <li>- Cups</li>
+                     <li>- Travel Mugs </li>
+                     <li>- Reusable water containers</li>
+                     <li>- Branded Cups cakes</li>
+                     <li>- USB Multi charge cables </li>
+                     <li>- Google Cardboard</li>
+                     <li>- Raspberry PI Zero.</li>
+                     <li>- Sweets</li>
+                     <li>- Create card holders for your phone</li>
+                     <li>- Your ideas with an environmental spin.</li>
+                     <li>- No Swag means no waste :) </li>
                 </p>
                 <h3>Swag that does not do well</h3>
                 <p>
-                    * Badges
-                    * Keyrings
-                    * Swag or tote bags. Every attendee has a number of bags at home.
-                    * Paper Weights
-                    * Phone Screen/Glasses Wipes
-                    * Magnets
-                    * Stuff people will not use. 
+                     <li>Badges</li>
+                     <li>Keyrings</li>
+                     <li>Swag or tote bags. Every attendee has a number of bags at home.</li>
+                     <li>Paper Weights</li>
+                     <li>Phone Screen/Glasses Wipes</li>
+                     <li>Magnets</li>
+                     <li>Stuff people will not use. </li>
                 </p>
                 <h3>Ideas for attracting developers</h3>
                 <p>
