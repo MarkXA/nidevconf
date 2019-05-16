@@ -45,7 +45,7 @@ title = "Exhibition Space"
                      <li>- Google Cardboard</li>
                      <li>- Raspberry PI Zero.</li>
                      <li>- Sweets</li>
-                     <li>- Create card holders for your phone</li>
+                     <li>- Credit card holders for your phone</li>
                      <li>- Your ideas with an environmental spin.</li>
                      <li>- No Swag means no waste :) </li>
                 </p>
