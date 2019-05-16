@@ -31,15 +31,40 @@ title = "Exhibition Space"
                   Here is the layout on the day. There are 3 entrances to the main area.
                 </p>
                 <img src="/img/exhibtions/exhibitorarea.png"/>
+                <h3>Ideas for Swag</h3>
+                <p>
+                 The conference is commited to being environmentally sustainable. Swag can be a source of landfill waste. As you will see, no waste will be produced on the day and this is a very attractive to our attendees. The conference itself will give out minimum items for the day and does not provide bags. This helps eliminate the landfill waste. Conferences have a reputation of producing a lot of landfill waste through Swag items. Swag is not necessary for your exhibition stand but if you are providing any we have some ideas. 
+                </p>
+                <p>
+                    * Cups
+                    * Travel Mugs 
+                    * Reuable water containers
+                    * Branded Cups cakes
+                    * USB Multi charge cables 
+                    * Google Cardboard
+                    * Raspberry PI Zero.
+                    * Sweets
+                    * Create card holders for your phone
+                    * Your ideas with an environmental spin.
+                    * No Swag means no waste :) 
+                </p>
+                <h3>Swag that does not do well</h3>
+                <p>
+                    * Badges
+                    * Keyrings
+                    * Swag or tote bags. Every attendee has a number of bags at home.
+                    * Paper Weights
+                    * Phone Screen/Glasses Wipes
+                    * Magnets
+                    * Stuff people will not use. 
+                </p>
                 <h3>Ideas for attracting developers</h3>
                 <p>
-                   <ul>
-                     <li>Have them sign up for a competition. We can announce it at the opening and closing parts of the day. You can tweet about it and we retweet from our account.</li>
-                     <li>Code Challenge: Give them code on a page. See if they can find all the things wrong with it</li>
-                     <li>VR/AR experience with a product you are developing</li>
-                     <li>Screen with an interactive program like chatbots / games / blockchain / AI etc. </li>
-                     <li>Your own great ideas :)</li>
-                   </ul>
+                    * Have them sign up for a competition. We can announce it at the opening and closing parts of the day. You can tweet about it and we will retweet from our account.
+                    * Code Challenge: Give them code on a page. See if they can find all the things wrong with it
+                    * VR/AR experience with a product you are developing
+                    * Screen with an interactive program like chatbots / games / blockchain / AI etc.
+                    * Your own great ideas :)
                 </p>
                 <h2>Frequently Asked Questions</h3>
                 <p>None at the moment!</p>
