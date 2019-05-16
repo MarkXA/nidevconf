@@ -22,8 +22,8 @@ title = "Exhibition Space"
                   We advise to bring your own pull up banners to decorate your exhibition area.
                   Each stand has the following:
                   <ul>
-                    <li>Trestle table</li>
-                    <li>Power Extension lead connection</li>
+                    <li>- Trestle table</li>
+                    <li>- Power Extension lead connection</li>
                   </ul>
                 </p>
                 <h2>Exhibitors layout</h3>
@@ -51,21 +51,21 @@ title = "Exhibition Space"
                 </p>
                 <h3>Swag that does not do well</h3>
                 <p>
-                     <li>Badges</li>
-                     <li>Keyrings</li>
-                     <li>Swag or tote bags. Every attendee has a number of bags at home.</li>
-                     <li>Paper Weights</li>
-                     <li>Phone Screen/Glasses Wipes</li>
-                     <li>Magnets</li>
-                     <li>Stuff people will not use. </li>
+                     <li>- Badges</li>
+                     <li>- Keyrings</li>
+                     <li>- Swag or tote bags. Every attendee has a number of bags at home.</li>
+                     <li>- Paper Weights</li>
+                     <li>- Phone Screen/Glasses Wipes</li>
+                     <li>- Magnets</li>
+                     <li>- Stuff people will not use. </li>
                 </p>
                 <h3>Ideas for attracting developers</h3>
                 <p>
-                    * Have them sign up for a competition. We can announce it at the opening and closing parts of the day. You can tweet about it and we will retweet from our account.
-                    * Code Challenge: Give them code on a page. See if they can find all the things wrong with it
-                    * VR/AR experience with a product you are developing
-                    * Screen with an interactive program like chatbots / games / blockchain / AI etc.
-                    * Your own great ideas :)
+                    <li>- Have them sign up for a competition. We can announce it at the opening and closing parts of the day. You can tweet about it and we will retweet from our account.</li>
+                    <li>- Code Challenge: Give them code on a page. See if they can find all the things wrong with it</li>
+                    <li>- VR/AR experience with a product you are developing</li>
+                    <li>- Screen with an interactive program like chatbots / games / blockchain / AI etc.</li>
+                    <li>- Your own great ideas :)</li>
                 </p>
                 <h2>Frequently Asked Questions</h3>
                 <p>None at the moment!</p>
