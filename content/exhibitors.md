@@ -8,13 +8,16 @@ title = "Exhibition Space"
         <main class="container generic">
             <div class="col-md-12 main">
                 <h1>The Northern Ireland Developer Conference Exhibition Area</h1>
-                <h3>On the day</h3>
+                <h2>On the day</h3>
                 <p>Arrival Times: From 8am onwards</p>
                 <p>Departure Times: From 5pm onwards</p>
                 <p>
                  You are located in the main area of the conference. This is where all catering is served for the day and the main meeting point. This area will have a lot of foot fall especially around lunch time and the afternoon snack.
                 </p>
-                <h3>Equipment available</h3>
+                <p>
+                 Places in the exhibition area are based on first come first served basis as all places have equal foot fall.  
+                </p>
+                <h2>Equipment available</h3>
                 <p>
                   We advise to bring your own pull up banners to decorate your exhibition area.
                   Each stand has the following:
@@ -23,7 +26,7 @@ title = "Exhibition Space"
                     <li>Power Extension lead connection</li>
                   </ul>
                 </p>
-                <h3>Exhibitors layout</h3>
+                <h2>Exhibitors layout</h3>
                 <p>
                   Here is the layout on the day. There are 3 entrances to the main area.
                 </p>
@@ -38,11 +41,16 @@ title = "Exhibition Space"
                      <li>Your own great ideas :)</li>
                    </ul>
                 </p>
-                <h3>Frequently Asked Questions</h3>
+                <h2>Frequently Asked Questions</h3>
                 <p>None at the moment!</p>
                 <h3>Pictures of the Exhbitors area</h3>
                 <p>
-                  We visited the main area when there were exhibitors present for another conference. Here are some pictures.
+                  These are some pictures from the conference last year. These were taken after lunch. 
+                <p>
+                <img style="height:600px; width:700px;"  src="https://live.staticflickr.com/4913/33116776448_85a5df3727_k.jpg"/>
+                <img style="height:600px; width:700px;"  src="https://live.staticflickr.com/7911/33116775878_e37f0d0f49_k.jpg"/>
+                <p>
+                  We visited the main area when there were exhibitors present for another conference. Here is when there are less people in the area.
                 <p>
                 <img style="height:600px; width:700px;"  src="/img/exhibtions/main1.jpg"/>
                 <img style="height:600px; width:700px;"  src="/img/exhibtions/main2.jpg"/>
