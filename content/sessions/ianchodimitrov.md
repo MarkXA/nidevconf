@@ -4,6 +4,9 @@ title = "Against all odds - a team contributing full-time to Open Source project
 speakers = ["ianchodimitrov"]
 keynote = false
 lightning = false
+order = ""
+room = "0"
+time = "8"
 +++
 
 Yes, you know this happens in quite a few cases. Like in companies that open source and contribute a significant part of what they create for their own needs - think Google, Facebook, PayPal. Or like in companies with a primary focus on an open source product as Mozilla for example. Or like in companies that make heavy use of a specific open source platform or tool - and decide to give back through contributing to its development. Or like in working on academic projects funded by public money where the outcome is open sourced. But…

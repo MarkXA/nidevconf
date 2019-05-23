@@ -4,6 +4,9 @@ title = "Proofing your career for a year off"
 speakers = ["joanmcaleer"]
 keynote = false
 lightning = false
+order = ""
+room = "2"
+time = "4"
 delta = 50
 +++
 

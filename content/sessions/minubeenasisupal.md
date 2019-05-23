@@ -4,6 +4,9 @@ title = "Data Science in 30 Minutes"
 speakers = ["minubeenasisupal"]
 keynote = false
 lightning = false
+order = ""
+room = "0"
+time = "2"
 delta = 50
 +++
 

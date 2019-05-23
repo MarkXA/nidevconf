@@ -4,6 +4,9 @@ title = "Things To Pack For A trip To Microservices"
 speakers = ["lalitkale"]
 keynote = false
 lightning = false
+order = ""
+room = "3"
+time = "6"
 +++
 
 You have heard loads of praise from other fellow travellers about microservices. No matter, if you are just starting your journey or on the way, hear from a practitioner about things to pack and couple of tips for making your journey much safer and smoother on the road to microservices.

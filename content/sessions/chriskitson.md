@@ -4,6 +4,9 @@ title = "Micro-frontends - reversing the anti-pattern!"
 speakers = ["chriskitson"]
 keynote = false
 lightning = false
+order = ""
+room = "2"
+time = "1"
 +++
 
 Take the microservices paradigm and try to plug It into modern UI SPA frameworks (React, Angular, Vue) and you’ve got yourself a bit of an anti-pattern, right?

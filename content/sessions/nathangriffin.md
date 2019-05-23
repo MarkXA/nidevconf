@@ -4,6 +4,9 @@ title = "How To Learn To Stop Worrying And Love Kotlin"
 speakers = ["nathangriffin"]
 keynote = false
 lightning = true
+order = "4"
+room = ""
+time = ""
 +++
 
 Learning a new language is a scary prospect, its tough finding reasons to break out of the comfort zone.

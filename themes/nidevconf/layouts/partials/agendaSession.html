@@ -21,11 +21,13 @@
     {{ end }}
 {{ else }}
     <div>
-        {{ if $room }}
-            <span class="agendaRoom">{{ $room }} - </span>
-        {{ end }}
         {{ if or (eq $time "5") (eq $time "6") }}
             LUNCH
+        {{ else if (eq $room "Conference Room 2") }}
+            <a href="#lightning" class="sessionlink">
+                <span class="agendaRoom">{{ $room }} - </span>
+                LIGHTNING TALKS
+            </a>
         {{ else }}
             TBC
         {{ end }}

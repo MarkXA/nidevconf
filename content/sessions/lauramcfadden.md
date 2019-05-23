@@ -4,6 +4,9 @@ title = "Testing Microservices in a Global Engineering Team"
 speakers = ["lauramcfadden"]
 keynote = false
 lightning = false
+order = ""
+room = "1"
+time = "10"
 delta = 50
 +++
 

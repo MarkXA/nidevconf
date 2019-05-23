@@ -4,6 +4,9 @@ title = "#NoEstimates - doing Scrum without Estimates"
 speakers = ["stevenmccomb"]
 keynote = false
 lightning = true
+order = "16"
+room = ""
+time = ""
 +++
 
 Estimates have always been an integral part of the software development process. By estimating the amount of time, money, and effort, managers can better predict budgets and meet project goals. At least that's the theory behind the widespread and often unquestioned use of estimates in the IT industry today.

@@ -4,6 +4,9 @@ title = "Introduction to Azure Machine Learning"
 speakers = ["angelalavery"]
 keynote = false
 lightning = false
+order = ""
+room = "2"
+time = "9"
 delta = 50
 +++
 

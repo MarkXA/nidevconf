@@ -4,9 +4,9 @@
 {{ $sessions := where .Site.Pages "Section" "sessions" }}
 {{ $lightnings := where $sessions "Params.lightning" true }}
 
-{{ $times := slice (dict "title" "8:30-9:00" "allRooms" "REGISTRATION") (dict "title" "9:00-9:20" "allRooms" "TEA/COFFEE") (dict "title" "9:30-9:40" "plenary" "Welcome") (dict "time" "1" "title" "9:50-10:20") (dict "time" "2" "title" "10:30-11:00") (dict "time" "3" "title" "11:10-11:40") (dict "time" "4" "title" "11:50-12:20") (dict "time" "5" "title" "12:30-13:00") (dict "time" "6" "title" "13:10-13:40") (dict "time" "7" "title" "13:50-14:20") (dict "time" "8" "title" "14:30-15:00") (dict "time" "9" "title" "15:10-15:40") (dict "title" "15:40-16:00" "allRooms" "BREAK") (dict "time" "10" "title" "16:00-16:30") (dict "time" "11" "title" "16:40-17:10") (dict "time" "12" "title" "17:20-17:50") (dict "title" "18:00-18:20" "plenary" "Closing address") (dict "title" "AFTERWARDS" "allRooms" "Complimentary food and drink at the Botanic Inn") }}
+{{ $times := slice (dict "title" "8:30-9:00" "allRooms" "REGISTRATION") (dict "title" "9:00-9:20" "allRooms" "TEA/COFFEE") (dict "title" "9:30-9:40" "plenary" "Welcome address (in Conference Room)") (dict "time" "1" "title" "9:50-10:20") (dict "time" "2" "title" "10:30-11:00") (dict "time" "3" "title" "11:10-11:40") (dict "time" "4" "title" "11:50-12:20") (dict "time" "5" "title" "12:30-13:00") (dict "time" "6" "title" "13:10-13:40") (dict "time" "7" "title" "13:50-14:20") (dict "time" "8" "title" "14:30-15:00") (dict "time" "9" "title" "15:10-15:40") (dict "title" "15:40-16:00" "allRooms" "BREAK") (dict "time" "10" "title" "16:00-16:30") (dict "time" "11" "title" "16:40-17:10") (dict "time" "12" "title" "17:20-17:50") (dict "title" "18:00-18:20" "plenary" "Closing address (in Conference Room)") (dict "title" "AFTERWARDS" "allRooms" "Complimentary food and drink at the Botanic Inn") }}
 
-{{ $rooms := slice "Lecture Room 1" "Lecture Room 3" "Conference Room 1" "Raked Lecture Theatre" }}
+{{ $rooms := slice "Lecture Room 1" "Lecture Room 3" "Conference Room 1" "Raked Lecture Theatre" "Conference Room 2" }}
 
 <style>
   .agendaHeader {
@@ -34,7 +34,7 @@
     border: solid 2px white;
   }
   .agenda td:nth-child(n+2) {
-    width: 25%;
+    width: 20%;
   }
   .agenda td.agendaBlocked {
     background-color: #FFFFFF !important;
@@ -108,7 +108,7 @@
           <h3><a href="#lightning">Lightning</a></h3>
         </div>
         <div class="col-sm-4 agendaHeader">
-          <h3><a href="#open-space">Open Space</a></h3>
+          <h3><a href="#demo-room">Demo Room</a></h3>
         </div>
       </div>
       <div class="row">
@@ -145,6 +145,10 @@
                       <div>
                         {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
                       </div>
+                    {{ else if and (eq $room "Conference Room 2") (gt $time "6") }}
+                      <div>
+                        {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
+                      </div>
                     {{ end }}
                   {{ end }}
                 {{ else }}
@@ -153,7 +157,7 @@
                         <strong>{{ $allRooms }}</strong>
                       {{ end }}
                       {{ if $plenary }}
-                        Rooms 0 and 1 - <strong>{{ $plenary }}</strong>
+                        <strong>{{ $plenary }}</strong>
                       {{ end }}
                     </div>
                   {{ end }}
@@ -180,7 +184,7 @@
                       <td class="agendaTimeHead">
                         {{ $title }}
                       </td>
-                      <td colspan="4" class="agendaSeparator">
+                      <td colspan="{{ len $rooms }}" class="agendaSeparator">
                         {{ $allRooms }}
                       </td>
                     </tr>
@@ -189,7 +193,7 @@
                       <td class="agendaTimeHead">
                         {{ $title }}
                       </td>
-                      <td class="agendaSeparator" colspan="2">
+                      <td class="agendaSeparator" colspan="5">
                         {{ $plenary }}
                       </td>
                     </tr>
@@ -200,6 +204,8 @@
                     {{ range $index, $room := $rooms }}
                       {{ $session := where (where $sessions "Params.time" $time) ".Params.room" (string $index) }}
                       {{ if $session }}
+                      <td class="agendaSession">
+                      {{ else if and (eq $room "Conference Room 2") (gt $time "6") }}
                       <td class="agendaSession">
                       {{ else }}
                       <td class="agendaSeparator">
@@ -224,12 +230,23 @@
       </div>
       <div class="row" style="margin-top:2em">
         <div class="col-sm-12">
+          <h1 id="demo-room">Demo Room</h1>
+          <p>
+              During the day, be sure to pop in and out of the demo room to see a range of interesting and exciting projects from local makers both under and over the age of 18!
+          </p>
+          <p>
+              Later on, there will be a <a href="/sessions/ewagrabowiecka/">Guided Conversation for junior developers</a>.
+          </p>
+        </div>
+      </div>
+      <div class="row" style="margin-top:2em">
+        <div class="col-sm-12">
           <h1 id="lightning">Lightning talks</h1>
           <p>
-            Lightning talks will run in this order between approximately 9:50 and 13:00.
+            Lightning talks will run in this order between approximately 13:50 and 18:00.
           </p>
           <div>
-            <ul>
+            <ol>
             {{ range sort $lightnings "Params.order" }}
               <li>
                   <a href="{{ .RelPermalink }}" class="sessionlink">
@@ -237,23 +254,8 @@
                   </a>
               </li>
             {{ end }}
-            </ul>
+            </ol>
           </div>
-        </div>
-      </div>
-      <div class="row" style="margin-top:2em">
-        <div class="col-sm-12">
-          <h1 id="open-space">Open Space</h1>
-          <h3>With thanks to <a href="https://www.meetup.com/meetup-group-dynITgBr/">Tech Space: David Anderson and Aislinn McBride</a></h3>
-          <p>
-              The discussion agenda for the Open Space will be generated by attendees adding suggested sessions: this will be a board in the Atrium called the Marketplace. You are welcome to put down a topic you want to talk about, or just start a discussion on. Come along, find out more and help set the afternoon agenda, as well as popping in when you see something that captures your eye!
-          </p>
-          <p>
-              The Marketplace for the Open Space will be open all morning in the Atrium, a whiteboard for you to add sessions - in particular, we suggest you use this to follow up discussions or themes raised in talks. The sessions will be opened during the staggered lunch. It will run in the Lightning and Project Rooms. Throughout the afternoon, the Law of Two Feet applies: you are welcome to enter and leave these rooms during discussion and talks, so please explore the space!
-          </p>
-          <p>
-            <a href="https://agilecrete.org/what-is-an-open-space-unconference/">General Info: What's an Open Space Unconference? [AgileCrete]</a>
-          </p>
         </div>
       </div>
     </div>

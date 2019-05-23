@@ -4,6 +4,9 @@ title = "What should a normal dev know about web security?"
 speakers = ["paulbreen"]
 keynote = false
 lightning = false
+order = ""
+room = "1"
+time = "9"
 +++
 
 Discussing what a normal developer know about web security, from a normal developer that freely admits he doesn't know it all. and probably just enough to know he knows very little.

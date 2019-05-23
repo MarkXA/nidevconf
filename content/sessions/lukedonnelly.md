@@ -4,6 +4,9 @@ title = "What does a scanner see?: Visualising anatomy in 3D"
 speakers = ["lukedonnelly"]
 keynote = false
 lightning = false
+order = ""
+room = "3"
+time = "10"
 +++
 
 Visualising biological information is challenging at the best of times. At axial3D, we accelerate that understanding by providing Machine Learning (ML) backed annotations of those images. We develop these algorithms and the tools to visualise their output in-house at our Belfast office. In this talk, we will outline our ML training pipeline and show how we are harnessing the power of the cloud to provide an intuitive web-based platform for the annotation of medical images in a secure and scalable way. 

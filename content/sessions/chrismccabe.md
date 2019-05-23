@@ -4,6 +4,9 @@ title = "Make your startup a technical success"
 speakers = ["chrismccabe"]
 keynote = false
 lightning = false
+order = ""
+room = "0"
+time = "3"
 +++
 
 Many things can affect the outcome of your startup being a success, don't let the product be one of them it.

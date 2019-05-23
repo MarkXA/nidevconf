@@ -4,6 +4,9 @@ title = "Web components - Without your Favourite Framework"
 speakers = ["clairewilgar"]
 keynote = false
 lightning = false
+order = ""
+room = "4"
+time = "3"
 delta = 50
 +++
 

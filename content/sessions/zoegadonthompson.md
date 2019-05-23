@@ -4,6 +4,9 @@ title = "Data Processing in PHP, and Other Natural Disasters"
 speakers = ["zoegadonthompson"]
 keynote = false
 lightning = false
+order = ""
+room = "1"
+time = "11"
 delta = 50
 +++
 

@@ -4,6 +4,9 @@ title = "Being Intelligence-Led: The Necessity for Threat Intelligence in Cyber 
 speakers = ["kailynjohnson"]
 keynote = false
 lightning = false
+order = ""
+room = "0"
+time = "4"
 delta = 50
 +++
 

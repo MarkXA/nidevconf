@@ -4,6 +4,9 @@ title = "Packages all the way down"
 speakers = ["paddycarey"]
 keynote = false
 lightning = false
+order = ""
+room = "3"
+time = "2"
 +++
 
 Packages are the building blocks from which our software systems are built. Whether it's `.deb`/`.rpm` packages installed on a server in your data-centre, Python wheels installed in your Docker container, or Go modules compiled into your binary, packages are everywhere.

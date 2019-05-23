@@ -4,6 +4,9 @@ title = "AI: It's easier than you think"
 speakers = ["chloethompson"]
 keynote = false
 lightning = false
+order = ""
+room = "1"
+time = "8"
 delta = 50
 +++
 

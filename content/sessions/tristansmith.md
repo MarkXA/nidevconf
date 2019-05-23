@@ -4,6 +4,9 @@ title = "Do I have to choose between my team and my work?"
 speakers = ["tristansmith"]
 keynote = false
 lightning = true
+order = "9"
+room = ""
+time = ""
 +++
 
 We want engineers who ask questions, help each other out, and pitch in.  We want close collaboration with a product owner, and communication across teams so that an entire company strives together to accomplish great things. 

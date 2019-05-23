@@ -4,6 +4,9 @@ title = "\"The Weakest Link In The Blockchain (and how to not be it.)\""
 speakers = ["claireburn"]
 keynote = false
 lightning = true
+order = "8"
+room = ""
+time = ""
 delta = 50
 +++
 

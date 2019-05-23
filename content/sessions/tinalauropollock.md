@@ -4,6 +4,9 @@ title = "Things I wish I understood when I became a game dev"
 speakers = ["tinalauropollock"]
 keynote = false
 lightning = false
+order = ""
+room = "3"
+time = "9"
 delta = 50
 +++
 

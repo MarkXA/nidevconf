@@ -4,6 +4,9 @@ title = "Transforming Engineering Culture"
 speakers = ["kevincowan"]
 keynote = false
 lightning = false
+order = ""
+room = "1"
+time = "7"
 +++
 
 Transforming an engineering culture can be really tough.  Change is not always welcome, it can be hard work and might push people out of their comfort zones.  It also might be brilliant!

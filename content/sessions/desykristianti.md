@@ -4,6 +4,9 @@ title = "How to Give a Compelling Technical Talk"
 speakers = ["desykristianti"]
 keynote = false
 lightning = true
+order = "0"
+room = ""
+time = ""
 delta = 50
 +++
 

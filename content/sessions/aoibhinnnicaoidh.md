@@ -4,6 +4,9 @@ title = "Improve your productivity and go minimal!"
 speakers = ["aoibhinnnicaoidh"]
 keynote = false
 lightning = false
+order = ""
+room = "2"
+time = "5"
 delta = 50
 +++
 

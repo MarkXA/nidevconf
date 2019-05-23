@@ -4,6 +4,9 @@ title = "Collaboration in Practice: How an open source ethos delivers data scien
 speakers = ["kathyayers"]
 keynote = false
 lightning = false
+order = ""
+room = "0"
+time = "10"
 delta = 50
 +++
 

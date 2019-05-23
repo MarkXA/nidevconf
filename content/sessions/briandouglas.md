@@ -4,6 +4,9 @@ title = "Hands-on with Quantum Computing"
 speakers = ["briandouglas"]
 keynote = false
 lightning = false
+order = ""
+room = "1"
+time = "3"
 +++
 
 In this presentation we’ll review the current state of quantum computing, lease a quantum computer in the cloud, and write our first quantum computing program.

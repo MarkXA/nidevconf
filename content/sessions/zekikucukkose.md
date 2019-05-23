@@ -4,6 +4,9 @@ title = "Using Progressive Web Apps to Code for Good"
 speakers = ["zekikucukkose"]
 keynote = false
 lightning = false
+order = ""
+room = "1"
+time = "1"
 +++
 
 The key take aways for an attendee of this talk are:

@@ -4,6 +4,9 @@ title = "State Management with Akita JS"
 speakers = ["saoirsemccann"]
 keynote = false
 lightning = true
+order = "14"
+room = ""
+time = ""
 delta = 50
 +++
 

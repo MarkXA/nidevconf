@@ -4,6 +4,9 @@ title = "How to survive an AI hackathon while knowing very little about AI"
 speakers = ["jordanjones"]
 keynote = false
 lightning = true
+order = "10"
+room = ""
+time = ""
 +++
 
 I recently participated in the AI NI 'The Good [A]Idea' Hackathon with next to no knowledge of ML. I did know a bit of JS though, which is obviously going to come in handy... right?

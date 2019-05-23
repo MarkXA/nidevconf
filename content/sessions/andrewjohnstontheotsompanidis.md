@@ -4,6 +4,9 @@ title = "Dev & Test, a Shared Journey!"
 speakers = ["andrewjohnston", "theotsompanidis"]
 keynote = false
 lightning = false
+order = ""
+room = "0"
+time = "11"
 +++
 
 An overview of how software and testing engineering co-exist in a CI/CD environment.
