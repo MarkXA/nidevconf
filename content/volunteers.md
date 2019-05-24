@@ -138,7 +138,7 @@ The talk rooms are:
 * **Conference** [aka Room 2]
     * Morning: PA (MC) &amp; GaR (mon)
     * Afternoon: AMcK (MC) &amp; MC (mon)
-* **Raked** [aka Room 3]
+* **Lecture Theatre** [aka Room 3]
     * Morning: HMcN (MC) &amp; HE (mon)
     * Afternoon: MK (MC) &amp; ZGT (mon)
 * **Lightning**

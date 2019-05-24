@@ -22,7 +22,7 @@ If you are doing a live demo that needs an internet connection bring a 4G dongle
   <li><b>Laptop</b>: Check that your presentation works on your laptop, if you are bringing one</li>
   <li><b>USB</b>: Bring your presentation on a FAT32/NTFS USB drive, in case your laptop does not work with the presentation equipment</li>
   <li><b>PDF</b>: A copy of your presentation exported as a PDF. This is in case your presentation does not work, your laptop does not work with the presentation equipment or we do not have the software on the QUB's Windows-based presenter workstations to run your presentation (these have Microsoft PowerPoint)</li>
-  <li><b>Ports</b>: Bring any X-to-HDMI connectors you need e.g USB-C to HDMI connector, HDMI to VGA connector. Please bear in mind that some rooms (Lightning, Conference and Raked) will not have HD-compatible projectors - while we can provide some HDMI-VGA connectors, please bear in mind that the available resolution may be relatively low</li>
+  <li><b>Ports</b>: Bring any X-to-HDMI connectors you need e.g USB-C to HDMI connector, HDMI to VGA connector. Please bear in mind that some rooms (Conference Rooms and Lecture Theatre) will not have HD-compatible projectors - while we can provide some HDMI-VGA connectors, please bear in mind that the available resolution may be relatively low</li>
 </ul>
 
 #### General Prep
@@ -77,7 +77,7 @@ To find your MCs, if you do not know them to recognize, please check with us at 
 * **Conference** [aka Room 2]
     * Morning: Pawel Niemiec
     * Afternoon: Angie McKeown
-* **Raked** [aka Room 3]
+* **Lecture Theatre** [aka Room 3]
     * Morning: Heather McNamee
     * Afternoon: Maurice Kelly
 * **Lightning**
