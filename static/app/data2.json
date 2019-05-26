@@ -1,0 +1,1630 @@
+﻿{
+  "date": "2018-06-09",
+  "lightningIntro": "Lightning talks will start at 13:50 and run until approximately 17:50.",
+  "sessions": [
+    {
+      "id": "andrewbolster",
+      "title": "Data Art: Creative collisions and getting out of your comfort zone",
+      "speakers": [
+        "andrewbolster"
+      ],
+      "lightning": false,
+      "time": "4",
+      "room": "LR1",
+      "description": "The technology community is known for being strongly inward looking; we focus on techniques, products, languages, frameworks, and best practices. \n\nHowever, some of the best outcomes and experiences come from pushing and stretching our boundaries outside of the safety of our wee community. \n\nIn this talk, I'll be discussing some of the creative collisions I've come across; from using VR technologies to enable creative expression for disabled musicians, empowering artists to use electronics to connect their art to the wider world, and using science data to drive policy and political engagement."
+    },
+    {
+      "id": "andrewgribben",
+      "title": "Who cares about accessibility?",
+      "speakers": [
+        "andrewgribben"
+      ],
+      "lightning": false,
+      "time": "6",
+      "room": "LR1",
+      "description": "I work HMH, one of America's biggest publishers with an Ed-tech business serving 150 million students and teachers. You may not have heard of us but you will know some of our brands: Curious George, Carmen Santiago, The Hobbit. It's not too much of a stretch to say we're a big company but until recently saying that we cared about accessibility was as far as it went.\n\nHow does a big company (or a small one) change track, retrofit existing apps and start making accessibility a core part of future plans? How do you get developers and designers, who are already under time constraints to start thinking differently? Is it even realistic to think we this can be done without blowing the budget, delaying the product or getting so tied up in the red tape of legal specifications that nothing ever gets done?\n\nThe answer to all of the above is yes and if you give me 30 minutes I'll tell attendees how they can do it too because the answer should be that everyone cares about accessibility but sometimes developers need practical advice to make that a reality."
+    },
+    {
+      "id": "andrewhiles",
+      "title": "Resurrecting the past for a modernised future",
+      "speakers": [
+        "andrewhiles"
+      ],
+      "lightning": true,
+      "order": 120,
+      "description": "Modernising legacy applications isn't always a bad thing, and with the right approach to CI/CD, refactoring and security, etc, you can really enhance something that a lot of people would consider no longer fit for purpose. Also, it's not as bad for your skillset as some developers might think."
+    },
+    {
+      "id": "andrewjohnstontheotsompanidis",
+      "title": "Dev & Test, a Shared Journey!",
+      "speakers": [
+        "andrewjohnston",
+        "theotsompanidis"
+      ],
+      "lightning": false,
+      "time": "11",
+      "room": "CR2",
+      "description": "An overview of how software and testing engineering co-exist in a CI/CD environment.\n\nA new feature is pushed through the pipe from initial inception to production. But what happens in between? Who does what and when should they do it?\n\nTheo and Andrew share their experiences working in a fast moving, multi-project environment. Having come from different perspectives and approaches to evolve a combined view of testing and development ensuring the consistent delivery of high quality software."
+    },
+    {
+      "id": "angelalavery",
+      "title": "Introduction to Azure Machine Learning",
+      "speakers": [
+        "angelalavery"
+      ],
+      "lightning": false,
+      "time": "9",
+      "room": "LR3",
+      "description": "Being fascinated with how computers can improve everyday life, I will be demoing a web based application I have created using Azure Machine Learning. \nThe application will help predict clothes I like using a trained model to help me save time from my busy lifestyle."
+    },
+    {
+      "id": "aoibhinnnicaoidh",
+      "title": "Improve your productivity and go minimal!",
+      "speakers": [
+        "aoibhinnnicaoidh"
+      ],
+      "lightning": false,
+      "time": "5",
+      "room": "LR3",
+      "description": "A brief overview of using a tiling window manager like awesome or i3. The philosophy of suckless.org utilities and decentralisation in general. Showcasing various open source terminal applications with helpful configuration tips and tricks, including the infamous text-editor Vim, file manager ranger, IRC client WeeChat, and more.\n\nDo you really need that new laptop with the hexa-core processor and 32GBs of RAM to do your job efficiently? Would a ten-year-old secondhand one suffice instead? Modern operating systems are fundamentally bloated; sometimes using up to as much as 1.5GBs of memory just on idle! Save yourself, money, resources, time, and ultimately the planet, by opt for something more minimal instead. \n\nSay no to bloatware!\nAfter you go minimal you'll never go back!"
+    },
+    {
+      "id": "arnaudroger",
+      "title": "Everything you don't want to know about Safepoints",
+      "speakers": [
+        "arnaudroger"
+      ],
+      "lightning": true,
+      "order": 60,
+      "description": "Safepoint are an hidden mechanism that is used by the jvm. We will dig a wee bit deeper in the safepoints and check when do you care. and what happens when it goes wrong."
+    },
+    {
+      "id": "briandouglas",
+      "title": "Hands-on with Quantum Computing",
+      "speakers": [
+        "briandouglas"
+      ],
+      "lightning": false,
+      "time": "3",
+      "room": "LR1",
+      "description": "In this presentation we’ll review the current state of quantum computing, lease a quantum computer in the cloud, and write our first quantum computing program.\n\nAlong the way we’ll delve into the physics behind quantum computing and discuss the different approaches to quantum computing the big players are taking. \n\nWe'll also consider what \"quantum supremacy\" means, and the kinds of problems quantum computing will be able to help us solve.\n\nFinally, I'll share my recommendations of how you can get started with quantum computing."
+    },
+    {
+      "id": "chloethompson",
+      "title": "AI: It's easier than you think",
+      "speakers": [
+        "chloethompson"
+      ],
+      "lightning": false,
+      "time": "8",
+      "room": "LR1",
+      "description": "AI is one one of the hottest topics in media and a technology that will be key in our futures. But with all the media hype, it breeds the perception that AI is complicated and requires a plethora of qualifications. As someone who started with no knowledge of the topic and managed to pave a way into this area, I want to inspire others and show that you don’t have to have years of experience to use, learn or understand AI. \n\nThis talk will cover personal experiences and tips on getting started with AI and Machine Learning, as well as a few more technical aspects of the subject that will be a brief introduction into using data and creating models . The knowledge shared will be suitable for those with minimal knowledge of the subject all the way up to experienced developers, basically if you are looking to learn something new this is a talk for you!\n\nIn giving this talk I hope to guide and inspire the audience to discover and learn a new skill that will be key in years to come. The take aways from this will range from encouragement to try an emerging technology and knowing where to go to learn, to creating a better understanding of where the AI sector is now and where we are going."
+    },
+    {
+      "id": "chriskitson",
+      "title": "Micro-frontends - reversing the anti-pattern!",
+      "speakers": [
+        "chriskitson"
+      ],
+      "lightning": false,
+      "time": "1",
+      "room": "LR3",
+      "description": "Take the microservices paradigm and try to plug It into modern UI SPA frameworks (React, Angular, Vue) and you’ve got yourself a bit of an anti-pattern, right?\n\nThis talk will be a deep dive into breaking down a monolithic UI build to reverse the anti-pattern and allow the UI to be compose-able as smaller microservices (micro-frontends).\n\nOnce we identify the problem, we will look at the deployment architecture followed by a quick look at what technologies could help us to solve the problem."
+    },
+    {
+      "id": "chrislaughlin",
+      "title": "All your packages are belong to us - Protecting your npm dependencies",
+      "speakers": [
+        "chrislaughlin"
+      ],
+      "lightning": false,
+      "time": "1",
+      "room": "CR2",
+      "description": "As technology advances and the applications we build become more complex, the tools that we use to secure the data shared within these products need to follow suit. We need to ensure that we deliver a high standard of protection to users, allowing them them to seamlessly use the product without thinking about security or any potential threat. Even just a thought of any risk could lose us our customers’ trust and therefore millions in investment and in turn threaten our entire business as a whole (including our jobs). \n\nA security breach is a very real problem, both personally as an individual and professionally in a business sense. But we as developers can help fix this problem. In very recent years there has been a number of incidents involving npm dependencies pushing vulnerabilities to consumers or exposing data. This led to the npm team purchasing a security tool to prevent future incidents. These incidents can easily be stopped and further prevented from happening again.  NPM is the first main carrier of personal information and it therefore should be where we start to repair these issues. \n\nIn this talk we will look back on the previous incidents and do a postmortem investigation on what happened, and how it could have been prevented. We will then take a further look into tools and products that can help protect our applications going forward and some basic best security practices that we all should follow, no matter our application."
+    },
+    {
+      "id": "chrismccabe",
+      "title": "Make your startup a technical success",
+      "speakers": [
+        "chrismccabe"
+      ],
+      "lightning": false,
+      "time": "3",
+      "room": "CR2",
+      "description": "Many things can affect the outcome of your startup being a success, don't let the product be one of them it.\n\nIn this talk, you will learn user modelling techniques which will help you choose what to build, a process on choosing the right technology to engineer for rapid development and tips on leading a team through an unknown path.\n\nAll delivered by a battle wounded startup CTO"
+    },
+    {
+      "id": "chrisnixon",
+      "title": "Introduction to Fuzz testing with AFL",
+      "speakers": [
+        "chrisnixon"
+      ],
+      "lightning": false,
+      "time": "8",
+      "room": "LT",
+      "description": "Fuzz testing is the practice of throwing random data at a program and seeing what breaks.\n\nAs you can guess if the data is truly random then this can take a very long time to explore a very small part of a program's functionality.\n\nPrevious generations of fuzzers have required extensive intervention by users in order to guide the fuzzer into interesting areas of the programs execution.\n\n\nAFL instruments the target program and uses this to remember what inputs caused a change in the program execution. This allows AFL to guide itself further into the program with minimal user input.\n\nThis talk will be an intro to fuzzing and a practical demonstration of running AFL against a target application to expose otherwise tricky bugs."
+    },
+    {
+      "id": "ciaranconliffe",
+      "title": "Planes, Trains and Automobiles: The Internet of Very Big Things",
+      "speakers": [
+        "ciaranconliffe"
+      ],
+      "lightning": false,
+      "time": "4",
+      "room": "CR1",
+      "description": "When we talk about the Internet of Things, most people think of things like smart lightbulbs, smart TVs and smart doorbells. But the IoT has some much larger things than that in it. There are huge interconnected systems dedicated to making sure that airplanes know where they are, and container ships don't accidentally catch fire. \n\nAre cars just \"smartphones with a ton of metal attached\"? \nHow do the signs on the London Underground know when the next train is arriving? \nAnd how do modern-day pirates use spearphishing to help them snare their targets on the high seas?\n\nIn this talk we'll go through the convoluted histories and complicated architectures of the systems that run the vehicles that our modern world depends on. We'll talk about how they actually helped to lay the foundations of the connected infrastructure we call the \"internet of Things\". We'll look at the consequences of technical debt and cybersecurity vulnerabilities when you're dealing with   And we'll find out how these systems impact our daily lives without us ever being aware of it."
+    },
+    {
+      "id": "claireburn",
+      "title": "\"The Weakest Link In The Blockchain (and how to not be it.)\"",
+      "speakers": [
+        "claireburn"
+      ],
+      "lightning": true,
+      "order": 90,
+      "description": "This will be a whirlwind tale of security, cryptocurrency and intrigue. I will be telling the story of the world's first Bitcoin exchange, and giving attendees tips and hints on staying secure in the crypto world."
+    },
+    {
+      "id": "clairewilgar",
+      "title": "Web components - Without your Favourite Framework",
+      "speakers": [
+        "clairewilgar"
+      ],
+      "lightning": false,
+      "time": "3",
+      "room": "CR1",
+      "description": "Starting in with a speedy catch-up on what “web components” even means, this talk will focus on the various options available for building a site or app using web components.\n\nThe session will cover the available framework options for component based builds, and then showing how web components can be written in native browser technology (without the need for any frameworks!) and why this might be a good option to consider.\n\nThis talk is best suited for folks who have some familiarity with web development, and hopefully people will go away with an idea of whether or not web components are useful to them, and if so how they could implement them."
+    },
+    {
+      "id": "dancallahan",
+      "title": "Unphisable Authentication with WebAuthn",
+      "speakers": [
+        "dancallahan"
+      ],
+      "lightning": false,
+      "time": "3",
+      "room": "LT",
+      "description": "Secure Enclaves. Yubikeys. TouchID. U2F. 2FA. FIDO... modern devices have amazing authentication capabilities, but how do you make sense of it all? And does any of it work on the Web? Let me help.\n\nIn this session I'll explain how the new WebAuthn standard exposes advanced authentication capabilities to the Web, and how you can use it to augment or completely replace passwords in online interactions.\n\nPublic key cryptography has never been so usable!"
+    },
+    {
+      "id": "darrenbroderick",
+      "title": "Cloud First - Building Connections",
+      "speakers": [
+        "darrenbroderick"
+      ],
+      "lightning": true,
+      "order": 70,
+      "description": "A success story of the transformation in my development team to become cloud first through the creation of a cloud-based web app that's completely serverless. Made by Liberty Mutual for an external vendor. Benefits gained in business relations, speed to market, ease of scaling and at a minimum cost."
+    },
+    {
+      "id": "darrenforsythe",
+      "title": "Making Secure Applications the path of least resistance",
+      "speakers": [
+        "darrenforsythe"
+      ],
+      "lightning": false,
+      "time": "1",
+      "room": "CR1",
+      "description": "Developers always want to do the right thing. As shift-left, full stack, microservices architectures, MVPs, agile etc. are now the norm, In a short amount of time the skills required to effectively secure applications has grown exponentially.  For years security was someone else’s responsibility, now it is on teams to handle implementations.\n \nSecuring one application correctly is a challenge for any team to do. What happens within any small to multinational company when you need to secure 10 to 100s of Microservices within single teams? Everyone wants high speed business value, but also secure applications. These are not mutually exclusive.\n\nLearn how to successfully allow developers to do the right thing by providing good developer experience to secure their applications, and not avoid security until the last minute."
+    },
+    {
+      "id": "darylhugheskevinkeenan",
+      "title": "Rapid development of complex analytics solutions using event sourcing and microservices architecture",
+      "speakers": [
+        "darylhughes",
+        "kevinkeenan"
+      ],
+      "lightning": false,
+      "time": "1",
+      "room": "LT",
+      "description": "In this talk we will chronicle our journey into micro-services architecture and event sourcing, and how we took these design principles to push our development throughput to the limit at the “Good (A)idea hackathon” held in NI in April, 2019. We will also show-case our idea; “Bringing content curation into the hands of social media platform users”, the implementation of which incorporates real-time streaming analytics using Apache Kafka, along with multiple continuously retrained machine learning models to stimulate discussions around the designs used, as well as some of the difficulties we encountered."
+    },
+    {
+      "id": "desykristianti",
+      "title": "How to Give a Compelling Technical Talk",
+      "speakers": [
+        "desykristianti"
+      ],
+      "lightning": true,
+      "order": 10,
+      "description": "Knowing how to code is one thing, but showing someone else how to do it is another. Ever feel like you want to share your knowledge, but don’t know how to communicate it efficiently? Or want to challenge yourself to speak in front of an audience, but don’t feel confident enough?\n\nCome along to learn how to give a compelling technical talk, or see me try explaining it all in 10 minutes. This technique is suitable for everyone regardless of who you are and what level of experience you have, and focuses on conference talks but can also be applied at meetings or presentations."
+    },
+    {
+      "id": "diarmaidmcgowan",
+      "title": "Twelve Factor App",
+      "speakers": [
+        "diarmaidmcgowan"
+      ],
+      "lightning": false,
+      "time": "7",
+      "room": "LT",
+      "description": "Brief history of Twelve Factor app and origins.\nCover some cloud acronyms - IaaS, PaaS, FaaS, SaaS, BaaS, CaaS, *aaS, Serverless and Cloud Native\nGo through each of the 12 Factors and provide some context.\nBriefly cover how using Containers and Serverless automatically takes care of several of these factors for developers.\n\nKey takeaways:\nRefresh/Revisit what 12 factors app is.\nShow how the 12 factors are still important for cloud development.\nClarify some cloud native terminology and acronyms."
+    },
+    {
+      "id": "eamonscullion",
+      "title": "Easy integration testing with TestContainers",
+      "speakers": [
+        "eamonscullion"
+      ],
+      "lightning": false,
+      "time": "2",
+      "room": "LR3",
+      "description": "TestContainers is an open source library that allows you to containerise your external resource dependencies, like databases, web browsers, or anything that can run in a docker container!\n\nBy making use of TestContainers, we can to develop and run our tests easier, in a more production-like environment, with only Docker as a pre-requisite."
+    },
+    {
+      "id": "ewagrabowiecka",
+      "title": "Guided Conversation - Junior developers",
+      "speakers": [
+        "ewagrabowiecka"
+      ],
+      "lightning": false,
+      "time": "",
+      "room": "",
+      "description": "A Guided Conversation is a meeting where a facilitator comes up with a starting set of questions around a single topic. The group then discuss those questions with 8 minutes given for each question.\n\nDuring Guided Conversations you introduce the current question and listen for off-topic items. If you think that an off-topic item sounds like something worth discussing, you add it to the list of scheduled questions. Usually it is one of the questions you already have in your deck of cards.\n\nThis session is about graduate/junior developers. Sample questions include:\n\nHow do you define a junior dev?\nWhat can you learn from juniors?\nHow and when do we ask for help?\nWhat can we do to build up experience outside of work and how important is it that we do?\nWhen are we not junior developers?\nWhat are the hardest things about developing an early-stage career?\nBig cooperate company vs small, start-up company - how do we decide which would be best for us to join?\n\nThe session will be for 20 people and last an hour."
+    },
+    {
+      "id": "garthgilmourrichardgibson",
+      "title": "The Bestiary of Pure FP",
+      "speakers": [
+        "garthgilmour",
+        "richardgibson"
+      ],
+      "lightning": false,
+      "time": "3",
+      "room": "LR3",
+      "description": "Last year Garth presented on the basic concepts of Functional Programming, using Kotlin and the Arrow framework. This year he will be partnering with Richard Gibson to kick the discussion up a notch and explain the benefits of fully embracing FP. This talk will cover how and why you might wish to code in the Pure FP style, and walk you through the whole bestiary of scary sounding terminology. So if you've ever wondered what is meant by Typeclasses, Algebraic Types, Higher Kinded Types, Free Monads, Tagless Final and Effects then this is the talk for you."
+    },
+    {
+      "id": "geoffmacartney",
+      "title": "Why don't we encrypt it? A practical guide.",
+      "speakers": [
+        "geoffmacartney"
+      ],
+      "lightning": false,
+      "time": "11",
+      "room": "LR3",
+      "description": "Today we have the strongest encryption tools ever, and the threats have never been greater, yet even we software developers routinely send emails and share files without encrypting them. This session is a practical, step by step guide to encrypting your emails, files and passwords with GnuPG, the free and open source OpenPGP cryptographic software suite."
+    },
+    {
+      "id": "glennrussell",
+      "title": "Secrets and the tools that keep them",
+      "speakers": [
+        "glennrussell"
+      ],
+      "lightning": false,
+      "time": "5",
+      "room": "CR2",
+      "description": "Secrets management is a discipline becoming increasingly popular in enterprise applications and infrastructure. Done correctly, it can increase the security and agility of engineering teams. Done incorrectly, and it can result in increased complexity, poor security and inefficient development and operations. Using Hashicorp Vault as an example, this talk will describe the design and implementation of a secrets management platform for a large digital transformation project. The audience will come away with an appreciation of what secrets management is, how tools like Hashicorp Vault can be used to build such a platform, and an understanding of the best practices around it."
+    },
+    {
+      "id": "ianchodimitrov",
+      "title": "Against all odds - a team contributing full-time to Open Source projects in your company",
+      "speakers": [
+        "ianchodimitrov"
+      ],
+      "lightning": false,
+      "time": "8",
+      "room": "CR2",
+      "description": "Yes, you know this happens in quite a few cases. Like in companies that open source and contribute a significant part of what they create for their own needs - think Google, Facebook, PayPal. Or like in companies with a primary focus on an open source product as Mozilla for example. Or like in companies that make heavy use of a specific open source platform or tool - and decide to give back through contributing to its development. Or like in working on academic projects funded by public money where the outcome is open sourced. But…\n\nBut what if the company you work for doesn’t fit in any of these open source friendly profiles?\n\nJoin me for a talk where I’ll share our first-hand experience on how we managed to achieve this - against all odds - and we hope to convince you to try our approach for making a viable case your company would be willing to invest in.\n\nI will tell you the story of how we established and maintain a full-time software development team contributing to openHAB and Eclipse SmartHome projects - and how we made it in a win-win-win scenario (for the company, the team members and the community). And this is without our company having any “need” to do it, nor hardly any direct or indirect interest in making use of the results of the team work or the platforms themselves."
+    },
+    {
+      "id": "joakimkennedy",
+      "title": "Go Under the Hood: Learning Go the Hard Way",
+      "speakers": [
+        "joakimkennedy"
+      ],
+      "lightning": false,
+      "time": "2",
+      "room": "LR1",
+      "description": "Go is a programming language that was developed inside Google in 2007. The language is now 12 years old and is seeing increased adoption each year. Go is a strongly typed language, all variables are known or inferred at compile time, and was developed for the 21st century with a focus on simplicity and readability. It has a well-designed concurrency model and a modern network stack, which makes it a good language for network-based services. This presentation will take a deep dive into the machine code produced by the Go compiler and see how it stacks up against traditional C/C++ compilers. Additionally, this talk will cover how the Go-types are tracked by the runtime, including interfaces."
+    },
+    {
+      "id": "joanmcaleer",
+      "title": "Proofing your career for a year off",
+      "speakers": [
+        "joanmcaleer"
+      ],
+      "lightning": false,
+      "time": "4",
+      "room": "LR3",
+      "description": "Once you start your career in IT taking a year off from it for whatever reason can have a massive impact on it, by taking a number of measures before during and after you can really minimise this impact. This talk will be largely focusing on maternity leaves since they are the most common, but a lot of the advice is applicable for someone who wants to go traveling for a year."
+    },
+    {
+      "id": "joemccrea",
+      "title": "Bridging the gap in Air-Gapped systems",
+      "speakers": [
+        "joemccrea"
+      ],
+      "lightning": true,
+      "order": 30,
+      "description": "As part of a security research project, I built a data transfer tool in Python which uses high frequency audio signals to send data and commands between systems in order to point out issues with the idea of 'air-gapping' a machine to make it secure."
+    },
+    {
+      "id": "johnmahon",
+      "title": "Lost In A Sea of Opportunity",
+      "speakers": [
+        "johnmahon"
+      ],
+      "lightning": true,
+      "order": 180,
+      "description": "Often in school I was told that we should grab every opportunity given, and I have tried to live up to that. However, I have realised that this is different for programming, as often we aren't grasping for opportunities, we are besieged by them. And perhaps we should be cautious of the workloads we give ourselves."
+    },
+    {
+      "id": "jonathanmcdowell",
+      "title": "Building a personal home automation setup",
+      "speakers": [
+        "jonathanmcdowell"
+      ],
+      "lightning": false,
+      "time": "7",
+      "room": "CR2",
+      "description": "This session will describe how the speaker went about building a personal home automation setup that tried to avoid the privacy and security concerns usually seen in these setups. A whirlwind tour will be provided covering building your own IoT hardware, setting up internal systems to remove reliance on a working internet connection and designing to cope with less technical home occupants. Unexpected bonuses will also be discussed, as well as various compromises that have been made in the speaker's setup that could be improved. This talk will touch upon a number of low level details, but due to time constraints not attempt to go into depth about each of them. Pointers will be provided for those who wish to read up on the details."
+    },
+    {
+      "id": "jordanjones",
+      "title": "How to survive an AI hackathon while knowing very little about AI",
+      "speakers": [
+        "jordanjones"
+      ],
+      "lightning": true,
+      "order": 110,
+      "description": "I recently participated in the AI NI 'The Good [A]Idea' Hackathon with next to no knowledge of ML. I did know a bit of JS though, which is obviously going to come in handy... right?\n\nEnter TensorFlow.js - the perfect entry point for an AI newbie and JS fanboy.\n\nIn this lightning talk I'll give an overview of:\n- our project\n- what we used to build it\n- the problems we had\n- what we learned and what we'd do differently\n- how I nearly developed carpal tunnel while training our model (see above point)\n\nThis talk is aimed at beginners mostly, because I am one too."
+    },
+    {
+      "id": "kailynjohnson",
+      "title": "Being Intelligence-Led: The Necessity for Threat Intelligence in Cyber Security",
+      "speakers": [
+        "kailynjohnson"
+      ],
+      "lightning": false,
+      "time": "4",
+      "room": "CR2",
+      "description": "Cyber threat intelligence has become a necessity for a multitude of organisations, both private and public, to protect themselves against the omnipresent and dynamic threats that occur in cyberspace. This presentation will take a more in-depth look at what open-source intelligence is, key aspects of intelligence, and how it can be utilised to research and analyse potential cyber threats and vulnerabilities that are posed to organisations in order to help prevent exploitation."
+    },
+    {
+      "id": "kathyayers",
+      "title": "Collaboration in Practice: How an open source ethos delivers data science",
+      "speakers": [
+        "kathyayers"
+      ],
+      "lightning": false,
+      "time": "10",
+      "room": "CR2",
+      "description": "Using an open-source approach, Allstate is developing a suite of products that delivers insights from machine learning and data modeling to help guide business decisions.  Agile software development techniques and domain knowledge have been leveraged to create robust enterprise solutions and a small innovative analytics team.  This working has lead to the establishment of the Open Hands Software Foundation--a collaborative software community that seeks to solve user problems and improve team workflows."
+    },
+    {
+      "id": "kenigbolomeyastephen",
+      "title": "Continuous Documentation - This best time is now",
+      "speakers": [
+        "kenigbolomeyastephen"
+      ],
+      "lightning": false,
+      "time": "2",
+      "room": "CR1",
+      "description": "Bad or non existent documentations are almost always the ripple effect of not writing documentation when it matters. In this talk I’ll take a quick deep dive into the importance of “Continuous Documentation” and how this is important for creating an amazing developer experience.\n\nThe importance of documentation cannot be over emphasised. In todays world where we have several buzz words with the suffix “continuous” e.g. “Continuous Integration”, “Continuous Deployment” etc. I believe it is imperative to introduce the audience to the concept of “Continuous Documentation”. Having encountered a documentation bottleneck at my current role as an Engineering Team Lead I coined the phrase “Continuous Documentation” which in plain language means the “Continuous writing and improvement of documentation along with development” hence the phrase “the best time to write the docs is now”."
+    },
+    {
+      "id": "kevincowan",
+      "title": "Transforming Engineering Culture",
+      "speakers": [
+        "kevincowan"
+      ],
+      "lightning": false,
+      "time": "7",
+      "room": "LR1",
+      "description": "Transforming an engineering culture can be really tough.  Change is not always welcome, it can be hard work and might push people out of their comfort zones.  It also might be brilliant!\n\nKevin will talk about joining ShopKeep and how he worked closely with their his peers to make necessary changes to team structures and product delivery processes.  He will also talk about change adoption, the challenges along the way and how to know if you have been successful.\n\nBy the end of the talk hopefully the audience will be inspired to change things in their own environments and will have some strategies to approach these transformations."
+    },
+    {
+      "id": "konstantinosanastasiou",
+      "title": "From ENG to DS: An engineer's path to Data Science",
+      "speakers": [
+        "konstantinosanastasiou"
+      ],
+      "lightning": true,
+      "order": 130,
+      "description": "A quick talk on how I got lured into the world of Machine Learning and the steps I took and take to be able to call myself a Data Scientist."
+    },
+    {
+      "id": "kulbushanshah",
+      "title": "What is Machine Learning and why it is important?",
+      "speakers": [
+        "kulbushanshah"
+      ],
+      "lightning": true,
+      "order": 40,
+      "description": "Importance of Machine Learning in today's world?"
+    },
+    {
+      "id": "lalitkale",
+      "title": "Things To Pack For A trip To Microservices",
+      "speakers": [
+        "lalitkale"
+      ],
+      "lightning": false,
+      "time": "6",
+      "room": "LT",
+      "description": "You have heard loads of praise from other fellow travellers about microservices. No matter, if you are just starting your journey or on the way, hear from a practitioner about things to pack and couple of tips for making your journey much safer and smoother on the road to microservices.\n\nIn this session, We’ll take a look at some lessons learned, patterns and anti-patterns that can turn your microservices into success or disasters. We will also explore\n\nMicroservices almost seem to be the de-facto way to build systems today, but are they always the answer?\n\nIf Microservices are the answer for you, what are the challenges you’ll face at scale (both from a technical and organisational level)?\n\nWhat are the strategies you should use now that you are effectively building a distributed system?"
+    },
+    {
+      "id": "lauramcfadden",
+      "title": "Testing Microservices in a Global Engineering Team",
+      "speakers": [
+        "lauramcfadden"
+      ],
+      "lightning": false,
+      "time": "10",
+      "room": "LR1",
+      "description": "As the way we code and architect our services changes, so too should the way we test them. In this talk we’re going to discuss methods we can utilise in testing microservices - from a basic service level to full service end to end testing."
+    },
+    {
+      "id": "lukedonnelly",
+      "title": "What does a scanner see?: Visualising anatomy in 3D",
+      "speakers": [
+        "lukedonnelly"
+      ],
+      "lightning": false,
+      "time": "10",
+      "room": "LT",
+      "description": "Visualising biological information is challenging at the best of times. At axial3D, we accelerate that understanding by providing Machine Learning (ML) backed annotations of those images. We develop these algorithms and the tools to visualise their output in-house at our Belfast office. In this talk, we will outline our ML training pipeline and show how we are harnessing the power of the cloud to provide an intuitive web-based platform for the annotation of medical images in a secure and scalable way. \n\nCurrently, there is no standardised pipeline for the creation, processing and validation of image segmentation for medical 3D printing. The features and functions exist in a disparate array of web and desktop-based software. We will show how we are bringing the required functionality together in a web-based tool. This tool can handle any step of the process from medical image transfer to printing the 3D object. We will show how we capture and curate training data, as well as train the actual ML pipeline. \n\nAttendees can expect to learn practically how to ingest data into a machine learning platform. How to visualise that data and securely allow others to do so. How to represent potential mistakes in image segmentation tools and produce a web-based platform for the curation of ML data."
+    },
+    {
+      "id": "martinmckeaveney",
+      "title": "Truly Grasping Async and Concurrency Patterns in JavaScript",
+      "speakers": [
+        "martinmckeaveney"
+      ],
+      "lightning": false,
+      "time": "12",
+      "room": "LR3",
+      "description": "A dive into different asynchronous programming patterns in JavaScript and their progressions - from callbacks, to promises, to async generators and reactive programming with Observables. This talk aims to teach these concepts in an easy to grasp and easy to remember way so beginners and advanced JavaScript programmers alike can benefit from a deeper understanding of one of the most crucial parts of the language."
+    },
+    {
+      "id": "matthewwilson",
+      "title": "Can a developer live in the “post PC” era",
+      "speakers": [
+        "matthewwilson"
+      ],
+      "lightning": false,
+      "time": "12",
+      "room": "LR1",
+      "description": "With the rise of “serverless” computing could there be a point in the future where developers can also be “computerless”? If a developer had nothing but a mobile device, for example an iPad, what sort of application could they build? In this talk I will attempt test this theory to build a full stack application without the use of a laptop/computer, using swift playgrounds, AWS lambdas and dynamodb."
+    },
+    {
+      "id": "michaelhughes",
+      "title": "Microservices, monorepos, versioning, CI/CD and me",
+      "speakers": [
+        "michaelhughes"
+      ],
+      "lightning": false,
+      "time": "12",
+      "room": "CR2",
+      "description": "A show and tell of how we went from concept to having a delivery pipeline that releases into our QA environment automatically and safely. I’ll talk through the decisions and tools used getting to where we are right now, how we gate our releases and use unopinionated versioning to our advantage. I’ll also talk about how we progress and get to production."
+    },
+    {
+      "id": "michaelsage",
+      "title": "From Acting to Angular: How Transferable Skills have made me a Better Software Developer",
+      "speakers": [
+        "michaelsage"
+      ],
+      "lightning": false,
+      "time": "12",
+      "room": "LT",
+      "description": "Outside of work, I am passionate about acting, music and languages. My talk discusses how these interests have enabled me to become a better software developer."
+    },
+    {
+      "id": "minubeenasisupal",
+      "title": "Data Science in 30 Minutes",
+      "speakers": [
+        "minubeenasisupal"
+      ],
+      "lightning": false,
+      "time": "2",
+      "room": "CR2",
+      "description": "The latest buzzword in technology is 'Data Science'.  The objective of the session is to make you understand the basics of Data Science. Find out the whys and hows of Data Science. Also, to understand the basics of machine learning algorithms.  This session is for beginners."
+    },
+    {
+      "id": "nathangriffin",
+      "title": "How To Learn To Stop Worrying And Love Kotlin",
+      "speakers": [
+        "nathangriffin"
+      ],
+      "lightning": true,
+      "order": 50,
+      "description": "Learning a new language is a scary prospect, its tough finding reasons to break out of the comfort zone.\n\nKotlin provides the perfect opportunity to get the benefits of a great new language with minimal pain, especially for Java developers.\n\nThis talk covers\n- Benefits and features of Kotlin\n- Transitioning from Java\n- Potential pitfalls of Kotlin\n- Tools / Frameworks available"
+    },
+    {
+      "id": "paddycarey",
+      "title": "Packages all the way down",
+      "speakers": [
+        "paddycarey"
+      ],
+      "lightning": false,
+      "time": "2",
+      "room": "LT",
+      "description": "Packages are the building blocks from which our software systems are built. Whether it's `.deb`/`.rpm` packages installed on a server in your data-centre, Python wheels installed in your Docker container, or Go modules compiled into your binary, packages are everywhere.\n\nPackage managers are one of the tools we've traditionally used to manage the ever growing complexity of our software systems, but these days it's just as likely for a developer to shove all their source code directly into a Docker container and call it a day. By doing so we're losing out on years of experience, decades of knowhow and tooling, and making our build and delivery pipelines less efficient and manageable.\n\nJoin me for a dive into the history of software packaging and distribution. We'll explore some of the earliest attempts at making software distribution easier, all the way up to the current state of the art with containers and continuous delivery.\n\nYou *can* have the best of both worlds. Rock solid software packaging and distribution, and modern continuous delivery, *without* sacrificing the benefits of either."
+    },
+    {
+      "id": "patrickblakejasonmcbride",
+      "title": "Enterprise API Strategy",
+      "speakers": [
+        "patrickblake",
+        "jasonmcbride"
+      ],
+      "lightning": false,
+      "time": "4",
+      "room": "LT",
+      "description": "Many Enterprises face the challenges of managing the growth of API’s, controlling data and avoiding duplication, this talk will cover the considerations when forming your strategy and will involve a demonstration of Apache Camel which we have adapted within Allstate."
+    },
+    {
+      "id": "paulbarrett",
+      "title": "Godot Game Engine",
+      "speakers": [
+        "paulbarrett"
+      ],
+      "lightning": true,
+      "order": 140,
+      "description": "This talk will be an overview of the Godot game engine - an impressive open source alternative to Unity that is starting to gain a lot of momentum. It has dedicated 2D and 3D engines that can build to major platforms (desktop, mobile, web and VR). With its rich UI, Godot has in-built editors for coding, visual scripting, shaders, 3D animation blend nodes, tile-maps, 2D skeletons and more. Coding is done primarily in Python-like GDScript but Godot also supports C# and C++. Unlike Unity, Godot does not require registration to use and anything you make with it is 100% yours to own."
+    },
+    {
+      "id": "paulbreen",
+      "title": "What should a normal dev know about web security?",
+      "speakers": [
+        "paulbreen"
+      ],
+      "lightning": false,
+      "time": "9",
+      "room": "LR1",
+      "description": "Discussing what a normal developer know about web security, from a normal developer that freely admits he doesn't know it all. and probably just enough to know he knows very little.\n\nWe'll be looking at the OWASP 10, \ngoing over the most common mistakes and pitfalls, and how they could lead to disaster results,\nand ultimately how to avoid them"
+    },
+    {
+      "id": "petermcconnell",
+      "title": "Terraform 101 - a practical example",
+      "speakers": [
+        "petermcconnell"
+      ],
+      "lightning": false,
+      "time": "10",
+      "room": "LR3",
+      "description": "Infrastructure can be difficult to manage and with so many cloud vendors out there where should you invest your time in learning how to manage all these things? Terraform is a magnificent tool which can be used to manage your AWS, GCP, Azure, on-prem vSphere and many other things. In this talk we'll do a quick summary of the tool and functions then dive right into a real-world example."
+    },
+    {
+      "id": "peterpito",
+      "title": "US Marines, Agile and heuristics",
+      "speakers": [
+        "peterpito"
+      ],
+      "lightning": false,
+      "time": "9",
+      "room": "CR2",
+      "description": "Software development is inherently complex in nature. For such complex problems there are no recipes for success that can be followed.\n\nUS Marines rely on heuristics when the original battle plan breaks down, such as “capture the high ground, stay in touch and keep moving”. Can we use a similar set of heuristics in our Agile deliveries?\n\nA heuristic is anything that provides a plausible aid or direction in the solution of a problem. They can produce accurate decisions by exploiting the structures of information in the environments they are applied.\n\nJoin me to explore how underpinned by Agile principles and practices we can create a set of heuristics that can be used to create a delivery foundation."
+    },
+    {
+      "id": "robertmcgibbon",
+      "title": "Making Python doubly fast",
+      "speakers": [
+        "robertmcgibbon"
+      ],
+      "lightning": true,
+      "order": 80,
+      "description": "Everyone loves python because it’s so fast to read and write. However the price we pay is a slow runtime. This talk discusses methods to speed up python by making use of the numpy library in place of for loops"
+    },
+    {
+      "id": "rogersimms",
+      "title": "API first development with DDD, Go & Goa",
+      "speakers": [
+        "rogersimms"
+      ],
+      "lightning": false,
+      "time": "7",
+      "room": "LR3",
+      "description": "APIs are the interface between our users, the business & engineering. We all know these are important and even more so in the microservice world. Goa offers the opportunity to apply the lessons learned from Design Driven Development and apply an API first approach, allowing engineers to write transport agnostic business logic. \n\ngoa takes a different approach to building micro-services. Instead of focusing solely on helping with implementation, goa makes it possible to describe the design of your API using a simple Go DSL. goa then uses that description to generate specialized service helper code, documentation, API clients, tests and even custom artifacts via plugins."
+    },
+    {
+      "id": "saoirsemccann",
+      "title": "State Management with Akita JS",
+      "speakers": [
+        "saoirsemccann"
+      ],
+      "lightning": true,
+      "order": 150,
+      "description": "Overview of how Akita JS can be used for entity or session state management within angular."
+    },
+    {
+      "id": "simonwhittaker",
+      "title": "Compromising AWS for fun and profit",
+      "speakers": [
+        "simonwhittaker"
+      ],
+      "lightning": false,
+      "time": "8",
+      "room": "LR3",
+      "description": "We will demonstrate the ease with which a malicious user can escalate privileges and own an AWS account through a very simple IAM mis-configuration.  \nThis will include a live demonstration on our own vulnerable AWS account and show a number of tools and methods for testing, compromising and protecting your accounts."
+    },
+    {
+      "id": "stefanmcshane",
+      "title": "Produce Early, Produce Often",
+      "speakers": [
+        "stefanmcshane"
+      ],
+      "lightning": true,
+      "order": 160,
+      "description": "There are a tonne of great developers out there with fantastic ideas that never see the light of day. \nThere are an equal amount of 3-month projects that span 3 years.\nIts easy to get caught in the realm of wanting to use the newest exciting technologies and making your code perfect, but code doesn't (always) pay your salary.\nThis lightning talk delves into the idea that the all-knowing software engineers aren't always correct, and that maybe your business manager does have a point."
+    },
+    {
+      "id": "stephenrushe",
+      "title": "Engineering - The Movie",
+      "speakers": [
+        "stephenrushe"
+      ],
+      "lightning": true,
+      "order": 20,
+      "description": "There are few films in the history of cinema that truly capture the majesty of working in Engineering. For some reason Hollywood has generally avoided this exciting genre, but every once in a while something sneaks through the net..."
+    },
+    {
+      "id": "stevenmccomb",
+      "title": "#NoEstimates - doing Scrum without Estimates",
+      "speakers": [
+        "stevenmccomb"
+      ],
+      "lightning": true,
+      "order": 170,
+      "description": "Estimates have always been an integral part of the software development process. By estimating the amount of time, money, and effort, managers can better predict budgets and meet project goals. At least that's the theory behind the widespread and often unquestioned use of estimates in the IT industry today.\n\nHowever, recently we have finally begun to question the efficacy, and even the purpose, of using estimates. Estimates can not only be inaccurate and a waste of time, but they can be downright destructive, by creating an environment of fear where the developer is pressured to estimate outcomes based on what's desired, not on what's realistic.\n\nI want to highlight an alternative approach to estimates and story points and showcase the potential benefits that can be gained for the future of software development.\n\nKey Takeaways: accurate estimations are an unrealistic unicorn, Story Points are not the only option for estimating."
+    },
+    {
+      "id": "tinalauropollock",
+      "title": "Things I wish I understood when I became a game dev",
+      "speakers": [
+        "tinalauropollock"
+      ],
+      "lightning": false,
+      "time": "9",
+      "room": "LT",
+      "description": "Have you ever thought about taking the leap into game development? If so, let me share my cautionary tales and bucketlist of things I wish I'd known when I started out 7 years ago as a non-technical dreamer."
+    },
+    {
+      "id": "tristansmith",
+      "title": "Do I have to choose between my team and my work?",
+      "speakers": [
+        "tristansmith"
+      ],
+      "lightning": true,
+      "order": 100,
+      "description": "We want engineers who ask questions, help each other out, and pitch in.  We want close collaboration with a product owner, and communication across teams so that an entire company strives together to accomplish great things. \n\nWe also know that engineers need focused time free from distractions to be productive. In a world of constant distraction, what is the right balance and how do we find it?"
+    },
+    {
+      "id": "victoriasloan",
+      "title": "Designers and Developers: No longer a house divided",
+      "speakers": [
+        "victoriasloan"
+      ],
+      "lightning": false,
+      "time": "11",
+      "room": "LT",
+      "description": "A belief that design and development have competing interests is an obstacle to successful collaboration. \nWe should all be striving to learn, but the question remains, what exactly should we learn? Maybe it isn’t as simple as “learn to develop” or “learn to design,” but is about learning to communicate and collaborate whilst respecting the nuances of each other’s craft.\n\nHowever, sometimes the developer’s involvement in the design process seems to be addressed very little. This is a shame, because developers have a huge amount to add to discussions about design.\nJust like development, designing has rules. I want to share some design rules so that you can become self-sufficient in your own personal projects from design to implementation which in turn should also make you a better collaborator to design team members resulting in the creation of complex and beautiful front-end experiences!"
+    },
+    {
+      "id": "zekikucukkose",
+      "title": "Using Progressive Web Apps to Code for Good",
+      "speakers": [
+        "zekikucukkose"
+      ],
+      "lightning": false,
+      "time": "1",
+      "room": "LR1",
+      "description": "The key take aways for an attendee of this talk are:\n\n1. What are Progressive Web Apps (PWA)\n2. What benefits a PWA can bring over opting for a traditional native iOS/Android app\n3. How to build a PWA using service workers and caching.\n4. A demo of an app I have been building in my spare time that leverages the power of PWAs to help prevent suicide.\n\nHere are some example paragraphs of what I will present to attendees:\n\nPWAs are a new breed of web app that combine the benefit of a native app with the low friction of the web. Getting a user to install and use your native app is quite an ordeal. First of all they have to find out about your app, then they have to visit the app store and then they must click install. Then once the app has eventually finished downloading, they have to agree to various permissions and then maybe, just maybe, will they actually use it. Did you know that the average person spends 84% of their time on mobile devices using just the 5 top mobile apps.... and more often than not, that isn't one of your apps!!\n\nHow do you get your app in the hands of users then? A progressive web app takes a very different approach and they aim to break down all of these barriers. Instead of a user having to download and install an app via an app store, they instead would click a link. This could be a link they've found on the web, or sent from a friend. Once clicked, the app will load and the browser even suggests adding a shortcut to the homescreen. For all intents and purposes, the app (despite running in the browser) looks and feels like a native app. It even has many of the powers that a native app has:\n\n1. Unlike a traditional web app, they are available regardless of internet connection.\n2. Fast load times - Using service workers, sites can load in milliseconds (often even faster than a native app)\n3. Push notifications - yep, they have them.\n4. Homescreen shortcut\n5. Native look - a PWA can have a loading splash screen, launch in full-screen mode and lock themselves to a specific screen orientation."
+    },
+    {
+      "id": "zoegadonthompson",
+      "title": "Data Processing in PHP, and Other Natural Disasters",
+      "speakers": [
+        "zoegadonthompson"
+      ],
+      "lightning": false,
+      "time": "11",
+      "room": "LR1",
+      "description": "What is it like working on first generation code, developed during an R&D phase, that was inspired by a horrific weather occurrence on the other side of the world? With a challenging and majestic mix of open geographical data, mathematics, JavaScript libraries and PHP.\n\nUsing open data and open source to create a natural disaster, to create a web platform to simulate an actual natural disaster that is relative to the places we know and love in Northern Ireland. \n\nThis will cover the intersection between web platforms, mathematical simulation and kid-friendly user experience.\n* open source as a core web platform business model\n* managing a PHP (Laravel) web framework on Kubernetes, with Gitlab CI\n* automatic analysis and reporting pulling in from NI open data (backed by an internal CKAN instance)\n* slicing geospatial time-series data for display, with VueJS and Laravel\n* managing long-running numerical simulations with Python3, FEniCS and serverless functions\n* the types of mathematics behind earthquake, flood and volcano modelling\n\nBy the end of this talk, you will be familiar with:\n* how a container-based web platform can be deployed and supported\n* the linkage from data sources, to web application and numerical modelling\n* the potential of Laravel, VueJS and Python in a combined stack"
+    }
+  ],
+  "speakers": [
+    {
+      "id": "andrewbolster",
+      "title": "Andrew Bolster",
+      "speakerImage": "https://sessionize.com/image?f=56ed888b8c531aa52a3a0e167167205f,400,400,True,False,8b-ac87-4311-bc8a-cfb30bd5842e.01b051e6-fe5d-4643-a1e3-fb10422e33b6.png",
+      "links": [
+        "https://www.twitter.com/bolster",
+        "https://www.linkedin.com/in/andrewbolster",
+        "https://github.com/andrewbolster/",
+        "https://andrewbolster.info/",
+        "https://www.alertlogic.com/"
+      ],
+      "description": "Bolster is a Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.\n\nCurrently Data Scientist at AlertLogic, using advanced data mining and machine learning to analyse potential hacking and malware attacks on cloud infrastructure.\n\nFounding Director of Farset Labs, Northern Ireland’s First Hackerspace, located in Weavers Court Business Park, Belfast. Farset Labs now provides the technical and entrepreneurial community with a place to share resources, knowledge and experience in a relaxed atmosphere, laying the foundation for the next wave of Northern Irish industry-leading technologists and business leaders."
+    },
+    {
+      "id": "andrewgribben",
+      "title": "Andrew Gribben",
+      "speakerImage": "https://sessionize.com/image?f=a6ad2bee96f6160e3b1fc463df39976d,400,400,True,False,90-4119-47d5-80e1-30877790036f.a0e119fa-210b-4013-9981-e8b5bfedeba5.jpg",
+      "links": [
+        "http://twitter.com/grib",
+        "http://grib.co",
+        "http://hmhco.com"
+      ],
+      "description": "As a former teacher Andrew’s experience has seen him working as a consultant for several startups and publishers. Outside of work he gives seminars on the importance of inclusion, web standards, accessibility and ebook development and is even known to blog about it (occasionally).\n\nAndrew lives in Portadown where he is co-creator and producer of the Ordinary People Podcast. He loves strategy wargames, retro video games, good coffee and building Lego with his wife and kids."
+    },
+    {
+      "id": "andrewhiles",
+      "title": "Andrew Hiles",
+      "speakerImage": "https://sessionize.com/image?f=bf60a12b3faf7be118154c0f72b873df,400,400,True,False,82-04ff-4818-b79a-6aa0f16487ed.6f548200-3d8e-42c7-9423-d11290187c3b.png",
+      "links": [
+        "https://twitter.com/hiler88",
+        "https://www.linkedin.com/in/andrew-hiles-057b82150",
+        "https://github.com/andrewhiles",
+        "https://andrewhil.es",
+        "https://www.liberty-it.co.uk"
+      ],
+      "description": "Keen techie who enjoys working on the web"
+    },
+    {
+      "id": "andrewjohnston",
+      "title": "Andrew Johnston",
+      "speakerImage": "https://sessionize.com/image?f=09004744fe33968ce548473fb4c5eba1,400,400,True,False,44-de56-4a50-a793-f77fa341b16e.4345b04c-9249-48b9-bf60-94871f1949c3.png",
+      "links": [
+        "https://uk.linkedin.com/in/andrew-johnston-412815a1",
+        "https://www.pwc.co.uk/services/consulting/technology.html"
+      ],
+      "description": "Andrew is a Software Tester based in Belfast. With a focus on micro-services based platforms that use Kubernetes and Docker he enjoys tinkering understanding how things work. \n\nIn his time at PwC he's been involved with projects that have ranged from insurance through to swapping collectibles and supply chain traceability\n\nNever stop learning. Everyday's a school day."
+    },
+    {
+      "id": "angelalavery",
+      "title": "Angela Lavery",
+      "speakerImage": "https://sessionize.com/image?f=4970cb7993e69211579e41a5481751d5,400,400,True,False,d1-5dd9-4f02-99dc-075b6789ddc8.a70e9494-6a27-4856-92a6-9d84f4d147fa.PNG",
+      "links": [
+        "https://github.com/angelav8"
+      ],
+      "description": "Passionate about tech"
+    },
+    {
+      "id": "aoibhinnnicaoidh",
+      "title": "Aoibhinn Nic Aoidh",
+      "speakerImage": "https://sessionize.com/image?f=b80fefda1ce0e2cac07abb30fbac7219,400,400,True,False,6a7372a8-2a7a-457b-9c81-0190c71fa2a0.jpg",
+      "links": [
+        "https://twitter.com/oibind",
+        "https://www.linkedin.com/in/oibind",
+        "https://github.com/oibind",
+        "https://oibind.me/blog"
+      ],
+      "description": "It's pronounced a-veen.\n\nI'm currently studying for a CyberSecurity A-Level equivalent at Belfast Met. I have being advocating the use Linux and other open source software for ~15 years, and I used to be a regular contributor to the source-based distro Gentoo."
+    },
+    {
+      "id": "arnaudroger",
+      "title": "Arnaud Roger",
+      "speakerImage": "https://sessionize.com/image?f=a794ab1ae47e6347e0638a6b36f1ac59,400,400,True,False,e0-6f64-4ebf-a163-82d3beed48a9.31f07f1b-0302-4684-9a71-770f7d527560.jpeg",
+      "links": [
+        "https://twitter.com/arnaudroger/",
+        "https://www.linkedin.com/in/aroger/",
+        "https://arnaudroger.github.io/blog/",
+        "https://www.rapid7.com/"
+      ],
+      "description": "A relatively old software developer who worked in many industries - finance, media, security -, with a particular interest in Java, the JVM and performance. He likes to play with byte-code generation and indulges in looking at the ASM generated by hotspot."
+    },
+    {
+      "id": "briandouglas",
+      "title": "Brian Douglas",
+      "speakerImage": "https://sessionize.com/image?f=b8600db9bd8df1121d5b2d14ca61131c,400,400,True,False,93-7c7a-4f1b-b6aa-405d81a7b55a.ac0a8133-fefd-48e1-be5d-b95f88f37662.jpg",
+      "links": [
+        "http://www.twitter.com/bndouglas",
+        "http://www.linkedin.com/in/bndouglas",
+        "https://www.codingfury.com"
+      ],
+      "description": "Brian Douglas is CEO of Coding Fury. His company specialises in training for Data Science. \nHe is also known as one of the organisers of IoT Belfast, and has a PGCE in Physics, from a former life."
+    },
+    {
+      "id": "chloethompson",
+      "title": "Chloe Thompson",
+      "speakerImage": "https://sessionize.com/image?f=68f6555f2b03b783d7ac64fb7c8741a7,400,400,True,False,d9-8012-457b-b7ef-2671fc7cb5ab.8b2b6700-7dc9-45a4-a538-f498c19a3ce3.jpg",
+      "links": [
+        "https://twitter.com/Chloe__Thomp",
+        "https://www.linkedin.com/in/chloe-thompson/",
+        "https://github.com/chloethompson",
+        "https://www.kainos.com"
+      ],
+      "description": "I am a aspiring Software Engineer with a wide range of skills from my experience in the IT industry. As a young professional I am passionate about planning and leading events to help educate the local technology community and I love how this enables me to connect with new people. I have a passion for emerging technology, especially AI and AR and if you put me in front of a coffee machine I can make a pretty good flat white."
+    },
+    {
+      "id": "chriskitson",
+      "title": "Chris Kitson",
+      "speakerImage": "https://sessionize.com/image?f=35beae2eed33c8ad321c941601c80455,400,400,True,False,5d-c5ee-49f9-ac75-ace4cf6bd665.fbc127d2-d2d7-470b-8bbf-8763dc8ca2d1.jpg",
+      "links": [
+        "https://twitter.com/chriskitson",
+        "https://www.linkedin.com/in/chriskitson/",
+        "https://github.com/chriskitson/",
+        "https://medium.com/@kitson.mac"
+      ],
+      "description": "Software engineer with over 15 years experience. I've spent the last 7 years working in FinTech specialising in UI technologies."
+    },
+    {
+      "id": "chrislaughlin",
+      "title": "Chris Laughlin",
+      "speakerImage": "https://sessionize.com/image?f=87c15a571250fca1eb4353b2ce1c94be,400,400,True,False,ca-3e4f-4520-8e04-70d50a1d209f.3bddca3f-4b96-4326-9ca5-ef8b8faf40c9.jpeg",
+      "links": [
+        "https://twitter.com/chrislaughlin",
+        "https://www.linkedin.com/in/chris-laughlin-57a15425/",
+        "https://github.com/chrislaughlin",
+        "https://thedyslexicdeveloper.com"
+      ],
+      "description": "Javascript developer based in Belfast N.Ireland. Has been making and breaking the web for years. When I'm not writing setTimeouts I can be found behind the lens of a camera taking nature pictures."
+    },
+    {
+      "id": "chrismccabe",
+      "title": "chris mccabe",
+      "speakerImage": "https://sessionize.com/image?f=acea7e2455a8729256d0b49a09ce194c,400,400,True,False,b0-6185-4853-a9f0-2be6130e7236.49afa0c7-f31b-48c0-81d8-c0bf3fb443b4.png",
+      "links": [
+        "https://www.linkedin.com/in/chris-mccabe-17685b16/"
+      ],
+      "description": "Having been involved in startups for 10 years. Chris is former CTO at Pearlai, a shopping centre loyalty and analytic product being rolled out across shopping centres both here in Ireland and across Europe. Chris is also passionate about public speaking as a skill and is the current area director for Toastmasters in Belfast, an organisation that teaches public speaking and leadership skills. Chris is part of Newry digital which is aimed at growing a software community in Newry and the surrounding areas"
+    },
+    {
+      "id": "chrisnixon",
+      "title": "Chris Nixon",
+      "speakerImage": "https://sessionize.com/image?f=97d7134fad393bc449ae443c453d43ce,400,400,True,False,88-151e-4c61-98ee-ca537360c902.23ff0e01-b294-463a-8e43-2ee1314cb793.jpg",
+      "links": [],
+      "description": "Programming Language Nerd for a long time"
+    },
+    {
+      "id": "ciaranconliffe",
+      "title": "Ciaran Conliffe",
+      "speakerImage": "https://sessionize.com/image?f=e696000327620d4ac76ed6d7f7da25b9,400,400,True,False,37-9380-4367-8b49-5997098638b3.829bd1b5-1025-4225-ba3b-9921fbeffc8c.jpg",
+      "links": [
+        "https://twitter.com/shinyemptyhead",
+        "https://www.linkedin.com/in/ciaran-conliffe-7133843a/",
+        "https://www.liberty-it.co.uk/"
+      ],
+      "description": "Ciaran is a technologist at Liberty IT, where he's worked on everything from automated application security to online customer service portals. Currently he is the technical lead for their Risk & Security unit, and is doing his best to bring user-centric thinking to the world of information security.\n\nCiaran is also a writer with a regular history column at Headstuff.org, and has found that studying history helps to drive the cynicism about human nature that you need for working in IT security. It was through this column that he was persuaded to give a talk about the history of Phoenix Park, which improbably led to him speaking at technical conferences from Boston to London over the last two years. In his very occasional spare time he enjoys sleep and looking at pictures of cats."
+    },
+    {
+      "id": "claireburn",
+      "title": "Claire Burn",
+      "speakerImage": "https://sessionize.com/image?f=8af88ed8557222fef3add3919b9d6499,400,400,True,False,9e-23b4-4999-92d8-e4e55a5bd1fc.25c18612-b3b5-45bd-883f-32df90d59e4b.jpg",
+      "links": [
+        "https://twitter.com/RhythmOfRiora",
+        "https://www.linkedin.com/in/claire-burn-2809004a/",
+        "https://github.com/RhythmOfRiora"
+      ],
+      "description": "\"Claire is currently a Software Engineer II at the cyber-security company Rapid7, and a cryptocurrency & cybersecurity enthusiast. She recently completed an MSc in Cyber Security at QUB, passing with Distinction after completing her BEng Computer Science a year prior. She has spent 5 years in leadership roles in the Belfast branch of the global not-for-profit organization Women Who Code, which she recently stepped down from, and \n\nshe received a UK-wide TechWomen50 award for her diversity & inclusion work during this time. She is the founder of the Google-sponsored Women Techmakers Belfast conference, which aims to highlight the work and achievements of local women in STEM, which has been running for 4 successful years now.  She has spoken at many conferences and events, most notably AppSec EU and the international “Women In Leadership In a Changing World”. In her (rare) moments of free time, she enjoys cooking, singing, drinking tea and playing “Dungeons & Dragons” with friends.\""
+    },
+    {
+      "id": "clairewilgar",
+      "title": "Claire Wilgar",
+      "speakerImage": "https://sessionize.com/image?f=2629f0f60e3edbed90aa76ea31031100,400,400,True,False,2c-e652-4d95-8660-e110948176e6.7afec511-9092-4136-8fea-48930571f1e9.jpg",
+      "links": [
+        "https://twitter.com/clairedotw",
+        "https://www.linkedin.com/in/clairewilgar",
+        "https://github.com/clairebones"
+      ],
+      "description": "Claire Wilgar is a frontend developer with a passion for accessibility, currently working for Bazaarvoice Belfast.\n\nShe is an avid speaker at conferences & meetups, and organises local events and groups such as Women Techmakers Belfast, Women in Tech Lean In Belfast, Global Game Jam and BelfastJS.\n\nClaire is also the Community Manager for Farset Labs and has worked with the CoderDojo and other local and education events."
+    },
+    {
+      "id": "dancallahan",
+      "title": "Dan Callahan",
+      "speakerImage": "https://sessionize.com/image?f=70fed197f65a54fa24f47ddb841a2950,400,400,True,False,a5-b69f-48a1-8520-9ff2833c2394.c58018c6-9a0f-4121-9fc7-74b68e8df702.jpg",
+      "links": [
+        "https://twitter.com/callahad",
+        "https://github.com/callahad",
+        "https://dancallahan.info",
+        "https://mozilla.org"
+      ],
+      "description": "Dan Callahan is a Developer Advocate at Mozilla, where he works to ensure that the future of the Web is driven by the needs of real-world developers. He also educates developers about emerging technologies that are transforming the Web into a more capable, resilient, and interactive medium. He previously led the Mozilla Persona project."
+    },
+    {
+      "id": "darrenbroderick",
+      "title": "Darren Broderick",
+      "speakerImage": "https://sessionize.com/image?f=e2c6d0169fe803dbebd51c1868befe0c,400,400,True,False,bd-ea3c-458f-9584-2a3e67727624.173822c3-f568-409f-a04d-339a78740bbf.png",
+      "links": [
+        "https://twitter.com/__dbro",
+        "https://www.linkedin.com/in/darren-broderick-16636939/",
+        "https://github.com/DarrenBro",
+        "https://www.liberty-it.co.uk/"
+      ],
+      "description": "I'm a 28 year old senior software engineer living in Lisburn. I've been a professional engineer for 6 years, working at Liberty Information Technology (LIT) which is a IT software company for Liberty Mutual Insurance.\n\nI started a few years before a massive agile transformation came my way and switched my technical focus from .Net to Java and react/redux/typescript and onto AWS services before getting my certification."
+    },
+    {
+      "id": "darrenforsythe",
+      "title": "Darren Forsythe",
+      "speakerImage": "https://sessionize.com/image?f=2025839375e1809f8225f87ac02017cb,400,400,True,False,88-0dcc-42de-9bb4-6527518c5e44.2731f96b-6b0c-4cf0-8009-da9d4e9c8be1.jpg",
+      "links": [
+        "https://twitter.com/Flawed101",
+        "https://www.linkedin.com/in/darren-forsythe-3a8025154/",
+        "https://github.com/DarrenForsythe",
+        "https://www.liberty-it.co.uk/"
+      ],
+      "description": "7 years of working on JVM applications and beyond. From monolithic IBM Websphere application to Spring Boot centric microservices."
+    },
+    {
+      "id": "darylhughes",
+      "title": "Daryl Hughes",
+      "speakerImage": "https://sessionize.com/image?f=41f55f3745d1d09fed3af9900eca95e3,400,400,True,False,25-8a74-4666-bf5e-f3ce79b02d2f.c0737ff6-7f30-48ef-90ed-bf0bea37c556.jpeg",
+      "links": [
+        "http://www.linkedin.com/in/daryl-hughes-ni/",
+        "https://github.com/dhughesni"
+      ],
+      "description": "Software Engineer with a passion for getting things done!"
+    },
+    {
+      "id": "desykristianti",
+      "title": "Desy Kristianti",
+      "speakerImage": "https://sessionize.com/image?f=f60a8018a210c45a820839f6f6e90627,400,400,True,False,41-3239-4a50-acce-dca5edecebcf.6a65681e-279f-4c95-b465-0a2c56a672c2.png",
+      "links": [
+        "https://twitter.com/dessskris",
+        "https://uk.linkedin.com/in/desyk",
+        "https://about.me/desy.kristianti"
+      ],
+      "description": "Desy Kristianti is a Technology Consultant at Deloitte. She specialises in Enterprise Integrations using middleware tools such as MuleSoft and Dell Boomi to create a network of applications. She has delivered large digital transformation programmes building integrations to reduce architecture complexity and deliver more customer centric business strategies. Desy is also a City Leader at Women Who Code (WWCode) Belfast, a non-profit organisation dedicated to inspiring women to excel in the technology sector."
+    },
+    {
+      "id": "diarmaidmcgowan",
+      "title": "Diarmaid McGowan",
+      "speakerImage": "https://sessionize.com/image?f=316bab4a53eba2f82bd45c8caa55bac6,400,400,True,False,bd-7b30-4234-9f09-d402ad22f822.d0cde114-0c66-4d31-9f46-e1f0feed1d34.jpg",
+      "links": [
+        "https://twitter.com/diarmaidmcgowan",
+        "https://www.linkedin.com/in/diarmaidmcgowan/"
+      ],
+      "description": "Diarmaid McGowan is an enthusiastic Senior Software Developer working with Overstock Ireland in #SiliconSligo and enjoying the Wild Atlantic Way."
+    },
+    {
+      "id": "eamonscullion",
+      "title": "Eamon Scullion",
+      "speakerImage": "https://sessionize.com/image?f=9eb1d7754fdcc5fe5dc9ef393683ffda,400,400,True,False,85-3b6e-455c-82dc-1a368cc15016.6da77e2b-1870-4432-987c-693add7ddf4a.jpg",
+      "links": [
+        "https://www.linkedin.com/in/eamon-scullion-bb0789108/",
+        "https://github.com/escullion"
+      ],
+      "description": "Kotlin fan specialising in JVM and Android."
+    },
+    {
+      "id": "ewagrabowiecka",
+      "title": "Ewa Grabowiecka",
+      "speakerImage": "https://sessionize.com/image?f=d8f819a2cb998d78633df3a2a03f990f,400,400,True,False,c0-0232-4fe2-a23f-0567d64d2887.6551f0a5-2491-4256-8abd-b5589f6b06ef.jpg",
+      "links": [],
+      "description": "Career changer from physical to digital bugs. II am now a front end developer with a passion for building communities"
+    },
+    {
+      "id": "garthgilmour",
+      "title": "Garth Gilmour",
+      "speakerImage": "https://sessionize.com/image?f=8be74787662556abe3e1530aa0b4d473,400,400,True,False,38-3381-4530-aece-fef817f814a4.42636ffe-2873-489b-8a55-e7273aca9547.jpg",
+      "links": [
+        "https://twitter.com/GarthGilmour",
+        "https://www.linkedin.com/in/garthgilmour/",
+        "https://instil.co/blog/",
+        "https://instil.co"
+      ],
+      "description": "Garth Gilmour is the Head of Learning at Instil, a software company in Belfast that specialises in Kotlin. Starting back in 1999 he first taught C++ to C coders, then Java to C++ coders, then C# to Java coders and now teaches everything to everybody, but prefers to work in Kotlin. He speaks frequently at meetups, presents at conferences and co-organises the Belfast BASH series of developer events. When not at the whiteboard he coaches Krav Maga, lifts heavy weights and fights nerf wars with his kids."
+    },
+    {
+      "id": "geoffmacartney",
+      "title": "Geoff Macartney",
+      "speakerImage": "https://sessionize.com/image?f=35ce285242d5d5e4293dbbf524fdfc50,400,400,True,False,a768712e-88b5-413b-bd56-9b8e02514006.jpg",
+      "links": [
+        "https://twitter.com/grymacy",
+        "https://www.linkedin.com/in/geoffmacartney",
+        "https://github.com/geomacy",
+        "http://www.anaeko.com"
+      ],
+      "description": "Developer with long experience in the telecoms and internet sectors, working in Belfast and internationally, writing mainly in C++ and Java, and, these days, Go. Committer at the Apache Software Foundation and current Chair of the Apache Brooklyn Project Management Committee."
+    },
+    {
+      "id": "glennrussell",
+      "title": "Glenn Russell",
+      "speakerImage": "https://sessionize.com/image?f=73790478028204c9f3733f3f5305093a,400,400,True,False,9d-9db0-48a2-89dd-491679005c9c.8e942471-80f7-4546-89a2-e3e8f2684da3.jpg",
+      "links": [
+        "https://www.linkedin.com/in/glenn-russell-7b63b61/",
+        "https://github.com/glennadjrussell"
+      ],
+      "description": "I've spent several years working with people and technology, sometimes both at the same time, building platforms and applications with security and maintenance in mind. I love working with new things, and my dog, not necessarily in that order."
+    },
+    {
+      "id": "ianchodimitrov",
+      "title": "Iancho Dimitrov",
+      "speakerImage": "https://sessionize.com/image?f=6c8b8745bca411b5ad6eacce399bb6a7,400,400,True,False,31-d890-4553-bdae-07283fe9687f.0d19beec-ece5-4173-8f2d-d4b5bc889368.png",
+      "links": [
+        "https://twitter.com/iandim",
+        "https://www.linkedin.com/in/iancho/",
+        "http://www.musala.com"
+      ],
+      "description": "Iancho has been in the software industry for 20 years and considers himself to be an IT professional with business affinity, or the other way around. He has gone through many operational roles – software engineer, business analyst, software architect, project and program manager, CTO & COO, Business-IT Consultant. For more than 15 years he has also been dealing with sales, marketing and key account management. His current interests are focused on how innovation can be effectively managed and applied in big organizations and on the enterprise application of Blockchain, IoT, Artificial Intelligence and Big Data technologies.  \n\n\nIn his VP role at Musala Soft Iancho covers both business and operational responsibilities. He leads the Business Development team that drives new clients and projects acquisition and sales. He has also been responsible for assuring the business and operational success of the company’s strategic clients, including by personally managing the Projects & Service delivery for some of the company's key clients like Deutsche Telekom, Commerzbank, Telenor, T-Systems, Bulgarian Ministry of Interior and others. Iancho is also responsible for the company's growth in the area of innovation and emerging technologies.\n\n\nIancho enjoys sharing knowledge and experience - and his talks are focused on people, their professional and career development and also on the intersection of technology, business, management and innovation.  Conferences where he has spoken recently include Confoo (Montreal), EclipseCon Europe (Ludwigsburg), Innotech Summit (Stockholm), Smart Home Day (Darmstadt), Wearables Barcamp (Darmstadt), ISTA Con (Sofia), DEB.BG All-in-one (Sofia), SIBMI (Berlin), Balkan BA Conference (Sofia), Hack Conf (Sofia), Muffin Conference (Sofia, Skopje), Meet the Masters (Skopje)."
+    },
+    {
+      "id": "jasonmcbride",
+      "title": "Jason McBride",
+      "speakerImage": "https://sessionize.com/image?f=56a88bbd77788a50a594cde80f6712f6,400,400,True,False,fd-6288-4209-8785-94e6ead9d886.bf5e3a4b-1ea0-4ad5-b9f5-bfec5a3f6620.jpg",
+      "links": [],
+      "description": "15+ years in technology working in Java building enterprise solutions with multinational corporations."
+    },
+    {
+      "id": "joakimkennedy",
+      "title": "Joakim Kennedy",
+      "speakerImage": "https://sessionize.com/image?f=9c4d023a79041a5ab5bac130a856a8f6,400,400,True,False,7e257d19-5639-4804-b4d7-8ed187020921.jpg",
+      "links": [
+        "https://github.com/TcM1911"
+      ],
+      "description": "Joakim Kennedy is the Threat Intel Manager for Anomali Research. His job involves playing with malware, tracking threat actors and everything else around threat intelligence."
+    },
+    {
+      "id": "joanmcaleer",
+      "title": "Joan McAleer",
+      "speakerImage": "https://sessionize.com/image?f=103767088a45bb7db80a8a26f0e55f0d,400,400,True,False,b3-a32a-4081-8eef-5f4b6b44ce42.cd5e9fa8-cfec-4743-88c7-cb83f883f05d.png",
+      "links": [
+        "https://twitter.com/JoanMcAleer",
+        "https://www.linkedin.com/in/joan-mcaleer/"
+      ],
+      "description": "Joan a has a diverse career spanning 14 years with experience in delivery of large scale financial enterprise systems, product development and integration software. Currently a software development manger for Bazaarvoice and mother to 3 children.\nShe is very passionate about developing people’s careers especially women in tech."
+    },
+    {
+      "id": "joemccrea",
+      "title": "Joe McCrea",
+      "speakerImage": "https://sessionize.com/image?f=86dd817371fca6817a15f698b9f094c0,400,400,True,False,69-9b6c-4a42-b4a2-cf338453906a.fee5eb07-b9f7-4ca0-b659-af3f226eded9.jpg",
+      "links": [
+        "https://www.linkedin.com/in/joe-mccrea-b851b9111/",
+        "https://www.etain-software.com/"
+      ],
+      "description": "I'm a recent graduate and Junior Developer who loves building new and interesting tools in Python."
+    },
+    {
+      "id": "johnmahon",
+      "title": "John Mahon",
+      "speakerImage": "https://sessionize.com/image?f=39320e3448730b04616b4f3e3d64371c,400,400,True,False,76-c120-424c-8062-daa47fd4d0c0.02881e2c-17be-4495-b5ba-06021f231dab.jpg",
+      "links": [
+        "https://github.com/Jaygeepd"
+      ],
+      "description": "Student studying Software Engineering at Belfast Metropolitan College. Currently doing his best to learn as much as he can."
+    },
+    {
+      "id": "jonathanmcdowell",
+      "title": "Jonathan McDowell",
+      "speakerImage": "https://sessionize.com/image?f=e9805b72225a0680c08cf9a580373691,400,400,True,False,46-1949-4298-abc1-5d0bcf3e3319.96767075-1319-4f69-9249-9f0793280053.jpg",
+      "links": [
+        "https://twitter.com/revdenoodles",
+        "https://www.linkedin.com/in/noodles",
+        "https://github.com/u1f35c",
+        "https://www.earth.li/~noodles/blog/"
+      ],
+      "description": "Jonathan is a software architect who knows just enough about electronics to annoy hardware engineers. He has an interest in building systems that respect the freedom of their users, and has been an active member of the Debian project for many years. He believes privacy and security should be considered from the outset of any project, and that not doing so does a disservice to users. Jonathan currently lives in Belfast working for a local technology company, but has spent time living in England and California working for various multinationals."
+    },
+    {
+      "id": "jordanjones",
+      "title": "Jordan Jones",
+      "speakerImage": "https://sessionize.com/image?f=e9c81f71a50f75482873fa8bf485d7fb,400,400,True,False,b0-d27f-4871-a2c8-9c274c61ca30.d1f703a0-a351-4bac-a478-26a4f8e84d1a.jpg",
+      "links": [
+        "https://twitter.com/jojon3s",
+        "https://github.com/jjones09/"
+      ],
+      "description": "Jordan is a Software Engineer at Liberty IT\nIn his spare time he plays around with code, video games, and guitars - all to varying degrees of proficiency."
+    },
+    {
+      "id": "kailynjohnson",
+      "title": "Kailyn Johnson",
+      "speakerImage": "https://sessionize.com/image?f=85dd6c3454202952ac46f1afec982126,400,400,True,False,e0-65b5-4c87-90b3-4b80f1c72f06.0e9d34df-7cc2-432d-a3a1-23ede0479e8b.jpeg",
+      "links": [],
+      "description": "Kailyn is a Cyber Threat Intelligence Analyst at Anomali. Her work focuses on strategic intelligence conducting research and analysis of cyber security threats and threat actors from a geopolitical and social sciences perspective. Her efforts help customers gain greater context of the cyber threat landscape and implications of past/present/future cyber threats. She has previously worked for a security and risk assessment intelligence platform, as well as a think tank that focused on strategic forecasting for Iraq."
+    },
+    {
+      "id": "kathyayers",
+      "title": "Kathy Ayers",
+      "speakerImage": "https://sessionize.com/image?f=30889364475ceeac5664e796394edc4d,400,400,True,False,98eabe57-c833-4dd4-8b2c-9bf5deba52f4.jpg",
+      "links": [
+        "https://www.allstate.com/northern-ireland.aspx"
+      ],
+      "description": "Born in Wales, raised in the US, resident of Northern Ireland for the past 20 years. I first learned to programme working as an intern for NASA (FORTRAN!). I enjoyed the experience so much, I promptly went to university and studied political science. I’ve worked as a public policy lecturer, bookstore clerk, accounting assistant at a major film studio, policy officer for a political party and gave out lottery grants for almost 15 years. Then I ran away and joined the circus or rather, did a conversion course at QUB in software development and got hired as an analytics engineer in the data science division of a really big US insurance company. I really do love data, want to mathematically model human behavior, and just wish I was better at everything except maybe making cocktails. I am content with my margaritas. And the things I do with vodka, a martini glass, and my cocktail shaker."
+    },
+    {
+      "id": "kenigbolomeyastephen",
+      "title": "KENIGBOLO MEYA STEPHEN",
+      "speakerImage": "https://sessionize.com/image?f=d82631bfa8c1cee633c95e97df75ca47,400,400,True,False,cc-01e5-4b40-aefe-42cc719a14ae.ed6aa982-7064-4deb-9ebe-9c65fc322a5a.jpg",
+      "links": [
+        "https://twitter.com/expensivestevie",
+        "https://fi.linkedin.com/in/kenigbolo",
+        "https://github.com/kenigbolo",
+        "https://medium.com/@kenigbolo",
+        "https://kenigbolo.dev"
+      ],
+      "description": "I'm Kenigbolo Meya Stephen, Full Stack Software Engineer working as the Frontend Engineering Team Lead at BCaster OY. Formerly Arch Conveyer/Community Manage of CodeAfrique (now Reload), a not-for-profit weekend intensive software engineering bootcamp for underrepresented groups in IT based out of Estonia.\n\nDuring my free time I sometimes volunteer as an open source developer for https://adsbexchange.com, play golf and coach football (soccer as Americans call it). I also have a nick for writing tiny javascript modules on npm to help a few developers out there so they need not rewrite same utilities that we all might need (usually it's the case that we're only a handful needing those so there's really nothing too worry much about)."
+    },
+    {
+      "id": "kevincowan",
+      "title": "Kevin Cowan",
+      "speakerImage": "https://sessionize.com/image?f=9cc65ef52ec1c4c4ef3e10929c2c741b,400,400,True,False,6b-0547-4fab-af8f-246ab5452081.e585ab93-cab7-4227-bcf9-b1990266b175.jpg",
+      "links": [
+        "https://twitter.com/kevincowan",
+        "https://www.linkedin.com/in/kevincowan77/",
+        "https://github.com/kevincowan",
+        "https://www.kevincowan.com/"
+      ],
+      "description": "Kevin is the Director of Engineering at ShopKeep Belfast.  He has also worked at Amphion, Andor, Pace and Cirdan.  He has been coding since a ZX Spectrum+ was a thing."
+    },
+    {
+      "id": "kevinkeenan",
+      "title": "Kevin Keenan",
+      "speakerImage": "https://sessionize.com/image?f=abe75e1d850bab815672a2dc298eb078,400,400,True,False,ea-519b-4392-b3ac-5767206cdfb6.399adcba-eac0-4160-852e-160485c1c544.jpg",
+      "links": [
+        "https://www.linkedin.com/in/kevin-keenan-ds/",
+        "https://github.com/kkeenan02"
+      ],
+      "description": "An ex-academic researcher, with a Ph.D in computational evolutionary genetics, Kevin Keenan has been working in industry for the last 5 years. After spending some time in the cyber-security world, applying exploratory data analysis and classification models to network and log data for the purpose of detecting vulnerabilities/breaches, Kevin is currently working in the financial service industry where he is primarily focused on helping to deliver an industry-leading analytics platform."
+    },
+    {
+      "id": "konstantinosanastasiou",
+      "title": "Konstantinos Anastasiou",
+      "speakerImage": "https://sessionize.com/image?f=c891e9e71d6b8062e5303e11d488d379,400,400,True,False,13-45be-47e5-9c75-ed6b0121270c.e6db08fb-1d2c-44b7-96df-020a84af671b.jpg",
+      "links": [],
+      "description": "Electrical and Computer Engineer turned Data Scientist.\n\n5 years in Engineering School\n10 months Full-Stack developer\n4 years aspiring Data Scientist"
+    },
+    {
+      "id": "kulbushanshah",
+      "title": "Kulbushan Shah",
+      "speakerImage": "https://sessionize.com/image?f=864c80cd410bc3bea81082239fa6c35f,400,400,True,False,08de8bea-9f16-4e4f-b40b-979f8cc4f881.jpg",
+      "links": [
+        "https://www.linkedin.com/in/kulbhushan-shah-348b04157/"
+      ],
+      "description": "Being an international student from Queen's University is an added value to my learning skill. Since I am interested in exploring the field of Data Science to know about how AI, Machine Learning facets assist us in everyday life, I lean forward to study these subjects. As a Master of Science in Data Analytics student, I am currently working on analyzing the data of Car Manufacture, Credit Card Fraud and Trading Market. Being a Machine Learning enthusiast, I intend to build my own product."
+    },
+    {
+      "id": "lalitkale",
+      "title": "Lalit Kale",
+      "speakerImage": "https://sessionize.com/image?f=5a4b2e9c0fd1ad7cee4a59aa6034e28f,400,400,True,False,45b78ac6-6af2-4a33-a9e4-3936bcf5ba92.jpg",
+      "links": [
+        "https://twitter.com/atechiethought",
+        "https://www.linkedin.com/in/lalitkale/",
+        "https://github.com/lalitkale"
+      ],
+      "description": "Lalit Kale is a technical architect with more than a decade of industry experience. He is currently working as a Principal Engineer and squad lead in Verizon Connect, Dublin. He has worked with large enterprises and mid-size organisations across the globe. Lalit has experience of leading and managing diverse geo-distributed teams.  He established and lead Limerick .NET Azure user group. He has served as speaker in local user groups.\n\nHe works with C# and .NET technologies and on the journey to adopt go-lang and python. His interests includes scalable distributed systems and high performance teams. Lalit is co-author of \"Building Microservices with .Net Core\" by Packt Publications."
+    },
+    {
+      "id": "lauramcfadden",
+      "title": "Laura McFadden",
+      "speakerImage": "https://sessionize.com/image?f=0f7c757efa2cfe8cf7122f84cd06bf52,400,400,True,False,80-54a1-4c5c-85ac-095d96516cce.cb17ef22-596a-4f90-8055-bb16735bb135.jpg",
+      "links": [],
+      "description": "Laura is an Arts Graduate who completed an MSc in Professional Software Development at University of Ulster in 2015 and is now a Senior Engineer at Flexera in Belfast. She educates engineers on common sense approaches to testing which enables teams to own their own quality."
+    },
+    {
+      "id": "lukedonnelly",
+      "title": "Luke Donnelly",
+      "speakerImage": "https://sessionize.com/image?f=80146396bedb8192b80698ffb9308ee7,400,400,True,False,e8-06a8-4c53-88ce-12f7d1fa0744.2b3ba324-941e-4ae3-af2f-7798b7f3c29c.jpg",
+      "links": [
+        "https://www.linkedin.com/in/luke-donnelly-a41964158/",
+        "https://www.axial3d.com/"
+      ],
+      "description": "Luke is a graduate of the games program at Ulster University. There he developed a tool for reconstruction of 3D audio signals. At axial3D he applies those skills to reconstruct 3D medical imaging data and display it in the platform. He is funded by InnovateUK in a Knowledge Transfer Partnership with Ulster University.\nJames is a physics graduate from Trinity College Dublin and has been working on axial3D's machine learning algorithms. He is working in collaboration with University College Dublin's School of Medicine on MRI analysis of hearts funded by InterTradeIreland. \nTogether we have developed a number of key parts of the axial3D platform working on data integration and visualisation. We will talk about the tools we have used as well as the results of our work to date which have been presented at a number of international conferences, most recently VizBi."
+    },
+    {
+      "id": "martinmckeaveney",
+      "title": "Martin McKeaveney",
+      "speakerImage": "https://sessionize.com/image?f=c75322663e3f8228469064b8101c058e,400,400,True,False,92-6dab-4e09-a17c-1f11862f0acc.31d2e67d-e971-4e00-8a21-2b900283509d.jpeg",
+      "links": [
+        "https://twitter.com/mmckeaveney94",
+        "https://www.linkedin.com/in/martin-mckeaveney-59bb669a/",
+        "https://github.com/mmckeaveney"
+      ],
+      "description": "Full stack web developer, open source contributor and general JS nerd passionate about SaaS and the web platform."
+    },
+    {
+      "id": "matthewwilson",
+      "title": "Matthew Wilson",
+      "speakerImage": "https://sessionize.com/image?f=92cdbb613e89ad0f3ddf60965b2e5467,400,400,True,False,8dc9dca2-6c3a-48e0-8d01-fdb5baee57b6.jpg",
+      "links": [
+        "https://twitter.com/matt_codes",
+        "https://www.linkedin.com/in/matthewcodes/",
+        "https://github.com/matthewwilson",
+        "https://matthewwilson.github.io",
+        "https://instil.co"
+      ],
+      "description": "Full stack developer and husband to Rebekah, who thinks I just copy and paste all day. She knows me too well!"
+    },
+    {
+      "id": "michaelhughes",
+      "title": "Michael Hughes",
+      "speakerImage": "https://sessionize.com/image?f=80cce207269ac53ee8e1e4325c1d5b7e,400,400,True,False,4d-3946-48d0-8e43-5604fadb0f9d.404ca6e1-af20-4f3b-af86-1b54f2698735.png",
+      "links": [
+        "https://twitter.com/aetherwraith",
+        "https://www.linkedin.com/in/michael-hughes-a13b6921/",
+        "https://github.com/mhughesbv",
+        "http://www.bazaarvoice.com"
+      ],
+      "description": "Cut his teeth as a BOFH in the early 2000s and found a passion for trying to break things. After teaching himself how to code (badly) he moved to Northern Ireland in 2010 to pursue a career as an automation engineer.\n \nCurrently enjoying his time at Bazaarvoice being encouraged to try new things outside his usual comfort zone like speaking here."
+    },
+    {
+      "id": "michaelsage",
+      "title": "Michael Sage",
+      "speakerImage": "https://sessionize.com/image?f=7fb404ffdb0c5cdc84bb475b1fe9fc79,400,400,True,False,88-7935-490e-bdc7-b44d3ae179ee.f0b9e5fc-cbcd-4057-a0b5-46a00ea48353.jpg",
+      "links": [
+        "https://www.linkedin.com/in/michael-sage-2274bb140/",
+        "https://allsop.software/"
+      ],
+      "description": "I'm a 21-year-old software developer, living in Belfast, working for Allsop."
+    },
+    {
+      "id": "minubeenasisupal",
+      "title": "Minu Beena Sisupal",
+      "speakerImage": "https://sessionize.com/image?f=feca9e88b33ca869cdddf97da7ba92fa,400,400,True,False,eb62a795-021a-4c49-814e-5d57df9a69e9.jpg",
+      "links": [
+        "https://www.linkedin.com/in/minu-beena-sisupal-19bb7621/"
+      ],
+      "description": "Minu is an enthusiastic, energetic and experienced IT professional, who worked in one of prominent global IT solution providers in India. She is currently doing Data Analytics Masters at Queens University. She likes to participate in Hackathon and like to do presentations on topics in Data Science, MS Excel and Software Testing. She is an excellent motivator and always motivated her team to learn new things. She believes in the tag line : Never Too Late To Study."
+    },
+    {
+      "id": "nathangriffin",
+      "title": "Nathan Griffin",
+      "speakerImage": "https://sessionize.com/image?f=504759ad64d12199759807fa96d0150d,400,400,True,False,ee-dee4-48ec-9ecb-62454ac4d26f.a1f44b76-5ef9-465d-8d03-17674cd05f34.JPG",
+      "links": [],
+      "description": "¯\\_(ツ)_/¯"
+    },
+    {
+      "id": "paddycarey",
+      "title": "Paddy Carey",
+      "speakerImage": "https://sessionize.com/image?f=5bcdd6fcb70eec7a1aaaa6a94749e660,400,400,True,False,8b0868bc-c021-425a-bdd0-51a6a0586110.jpg",
+      "links": [
+        "https://twitter.com/paddycarey",
+        "https://github.com/paddycarey",
+        "https://cloudsmith.io/"
+      ],
+      "description": "Paddy is currently a Staff Engineer at Cloudsmith, working to help make package management better for everyone. Paddy is a co-organiser of PyBelfast and frequent meetup contributor. When not hunched over his laptop, he can probably be found chasing after his energetic 2 year old."
+    },
+    {
+      "id": "patrickblake",
+      "title": "Patrick Blake",
+      "speakerImage": "https://www.nidevconf.com/img/speakers/patrickblake.jpg",
+      "links": [],
+      "description": "9+ years hands on technologist working Java, IBM Products and open source frameworks to deliver solutions."
+    },
+    {
+      "id": "paulbarrett",
+      "title": "Paul Barrett",
+      "speakerImage": "https://sessionize.com/image?f=a2987afc999fb8fd1d1b3714bf83811e,400,400,True,False,74-e4eb-4c82-9774-ca281c96d560.42401ba0-6c48-459f-b455-dd73f4d4c9b6.png",
+      "links": [
+        "https://twitter.com/barrett_paul"
+      ],
+      "description": "Mainly frontend development & web design but also 3D modelling, animation and game development."
+    },
+    {
+      "id": "paulbreen",
+      "title": "Paul Breen",
+      "speakerImage": "https://sessionize.com/image?f=6e84688c892effbae984a5b0cfee6c1d,400,400,True,False,e8-6ce1-4bfa-8687-4549d5b53a6c.b4503ec3-2aa6-4c45-b1c9-03e965f5a125.jpg",
+      "links": [
+        "https://twitter.com/paulbreen",
+        "https://www.linkedin.com/in/paul-breen-841ab534/",
+        "https://github.com/paulbreen",
+        "https://www.breen.dev",
+        "https://www.smashfly.com"
+      ],
+      "description": "The world's okayest programmer"
+    },
+    {
+      "id": "petermcconnell",
+      "title": "Peter McConnell",
+      "speakerImage": "https://sessionize.com/image?f=d556016bfef901b543dd2b79009be257,400,400,True,False,91-4e86-415b-898a-fec5ab6c59aa.606dd8be-c72a-4b98-9b9b-63cea49b4ca3.jpg",
+      "links": [
+        "https://twitter.com/PeteMcConnell_",
+        "https://www.linkedin.com/in/pemcconnell/",
+        "https://github.com/pemcconnell",
+        "https://www.petermcconnell.com/"
+      ],
+      "description": "Laziness has fundamentally driven Peter to automation which he has used over the course of the past 15 years to try and avoid doing any real work himself. Unfortunately there's always something else that needs automated so 15 years on he's still building his robot army."
+    },
+    {
+      "id": "peterpito",
+      "title": "PETER PITO",
+      "speakerImage": "https://sessionize.com/image?f=f02fd58daf4b43d35ca3b0de2ec3d858,400,400,True,False,c8-89a0-45ac-8652-60aa4f450325.be5d6438-edc0-4c64-a8ae-8a13e81e5c00.jpg",
+      "links": [
+        "https://twitter.com/theppito",
+        "https://www.linkedin.com/in/peterpito",
+        "https://medium.com/@peterpito"
+      ],
+      "description": "Peter Pito is a technical lead at Deloitte Digital with over 20 years of experience designing and delivering software products. \n\nAn agilist practitioner, a bit of developer, a bit of manager, curious by nature; he likes to understand why things work, constantly reminded how little he knows. \n\nPeter has worked as a software developer, consultant and managing director across a wide variety of domains and technologies. His focus is on helping software teams deliver high quality software predictably."
+    },
+    {
+      "id": "richardgibson",
+      "title": "Richard Gibson",
+      "speakerImage": "https://sessionize.com/image?f=1cb820eb3f88cc13c7b94de8559ab863,400,400,True,False,38-3381-4530-aece-fef817f814a4.cb939689-1869-41b9-84d8-523b42ff9911.jpg",
+      "links": [],
+      "description": "Richard has over 14 years experience as a developer and consultant. Most of this time has been spent building back-end, distributed systems in Erlang, Scala and Kotlin. His passion is for Pure Functional Programming, which he is eager to share with anyone who will listen. He regularly presents on FP at conferences and meetups and is an active contributor to Open Source projects. Richard started his teaching career with Instil three years ago, delivering advanced workshops in Kotlin and Scala. In his spare time he likes running, especially over the odd mountain when he gets a chance."
+    },
+    {
+      "id": "robertmcgibbon",
+      "title": "Robert McGibbon",
+      "speakerImage": "https://sessionize.com/image?f=7e383ae168f63254ed2906431a396405,400,400,True,False,9cfcda56-63c6-41c6-8360-3c820a40447d.jpg",
+      "links": [],
+      "description": "I graduated last summer from Queen’s with a degree in physics. Since then I’ve been working as a software engineer at Bazaarvoice."
+    },
+    {
+      "id": "rogersimms",
+      "title": "Roger Simms",
+      "speakerImage": "https://sessionize.com/image?f=7f2c688eddb3dbf8502b534e46300d2c,400,400,True,False,38-3381-4530-aece-fef817f814a4.69e81879-b959-40c1-84bf-3695a932a8ce.jpg",
+      "links": [
+        "http://github.com/allofthesepeople",
+        "http://www.flexera.com"
+      ],
+      "description": "How many codepaths must a dev walk down, before you he can call it complete. And how much C must that dev write, before he can stop grinding his teeth. After deciding that working with at risk youth was too easy, Roger has devoted his career to answering these and other questions"
+    },
+    {
+      "id": "saoirsemccann",
+      "title": "Saoirse McCann",
+      "speakerImage": "https://sessionize.com/image?f=4cb239b43c5dbbaea2bb5eadeb96659f,400,400,True,False,4b74439c-e0d7-4ae4-9d0f-715f5e345d48.jpg",
+      "links": [],
+      "description": "I graduated from Queen's University Belfast in June 2017 with a BEng in Computer Science. My passion for programming significantly increased when I moved to Smashfly, where I started working as a front-end engineer."
+    },
+    {
+      "id": "simonwhittaker",
+      "title": "Simon Whittaker",
+      "speakerImage": "https://sessionize.com/image?f=9570f6cdb8605ae9b6a816aef4a634ef,400,400,True,False,dc-84d8-4344-9973-ad358049fafe.a1de5670-f40d-46ab-9059-443ac2d85b64.jpg",
+      "links": [
+        "https://twitter.com/szlwzl",
+        "https://www.linkedin.com/in/simonwhittaker/",
+        "https://github.com/szlwzl",
+        "https://www.verticalstructure.com"
+      ],
+      "description": "Simon is Cyber Security Director at Vertical Structure, an established company providing cyber security related services and training. The majority of his work involves consulting with companies to perform security and penetration testing and helping improve processes and procedures.\n\nHe also runs training events to help developers improve their secure coding practices, especially in Cloud applications.\n\nAll of Simon’s work is based around the principles of Prepare, Protect, Persist® - whereby clients are prepared to encounter security threats through training, protected through identifying / resolving issues and persisting the resilience through certification and ongoing consulting."
+    },
+    {
+      "id": "stefanmcshane",
+      "title": "Stefan McShane",
+      "speakerImage": "https://sessionize.com/image?f=e9b8f77b1603e37b3fdd2d420a81c2f9,400,400,True,False,8b-5a90-407b-a2ae-a1b20c90cdf6.1b340b55-c592-4375-b0ea-0d42ad99279c.png",
+      "links": [
+        "https://options-it.com"
+      ],
+      "description": "Stefan has worked on projects which include everything from enterprise mobile applications, to automated ultra-low latency software-defined networking in datacenters across the globe.\n As the Director of Software Development at Options IT, a Belfast-based company who received a $100m investment, he is working on transforming the MSP sector to bring it up to 21st Century standards."
+    },
+    {
+      "id": "stephenrushe",
+      "title": "Stephen Rushe",
+      "speakerImage": "https://sessionize.com/image?f=de24f4dd2839f6f8534693f2bcdd127b,400,400,True,False,2a-08c5-440d-a417-b9f98c868f58.ead8e4d5-d720-4aaa-a605-172f45040bd2.jpg",
+      "links": [
+        "https://twitter.com/srushe",
+        "https://github.com/srushe",
+        "http://deeden.co.uk/"
+      ],
+      "description": "Stephen has failed to move to a cat island since last year, so has returned. He is partial to cats (unsurprisingly), tea, and sumo, and will happily look at any pictures of your cats that you care to share. He has never met a pun he didn't like. He wonders whether this blurb will be read out before his talk, and how the presenter will deal with the word \"onomatopoeia\" in that case. He clearly hasn't learned how to write biographies since last year, and still doubts the wisdom of writing about himself in the third person."
+    },
+    {
+      "id": "stevenmccomb",
+      "title": "Steven McComb",
+      "speakerImage": "https://sessionize.com/image?f=48bfb435c2a85a518fa61475b7dd43a1,400,400,True,False,73-abb4-49e2-aadf-bbedd8e060d3.c00f2cec-b20c-4f38-ae40-eef5e373979d.jpg",
+      "links": [
+        "https://twitter.com/mccombsteven",
+        "https://www.linkedin.com/in/stevenmccomb/",
+        "https://www.paconsulting.com/"
+      ],
+      "description": "Steven is a product-focused Agile Team Lead with a varied career, which is rooted in a background as a software developer. Steven has worked in the Education sector and Local Government before moving into SportsTech, FinTech, Banking and now finally Consulting for PA."
+    },
+    {
+      "id": "theotsompanidis",
+      "title": "Theo Tsompanidis",
+      "speakerImage": "https://sessionize.com/image?f=473c1e639973201e179a8291979dbc08,400,400,True,False,63-bf57-4ae2-8a9c-5cada3fdcedb.d3cf711a-7ebc-4628-bac0-42a48422679e.JPG",
+      "links": [
+        "https://uk.linkedin.com/in/theodoretsompanidis",
+        "https://www.pwc.co.uk/services/consulting/technology.html"
+      ],
+      "description": "Theo is a Senior Software Engineer, working for PwC - New Ventures & Blockchain team, in Belfast. \n\nHe works with cloud technologies, in an agile environment, with focus on micro-services and areas of expertise, software development and infrastructure. \n\nHis prior experience is in FinTech and Healthcare Research."
+    },
+    {
+      "id": "tinalauropollock",
+      "title": "Tina Lauro Pollock",
+      "speakerImage": "https://sessionize.com/image?f=5a3c320228975deb17310a84e837c8e1,400,400,True,False,e4cfcfaa-983b-4127-a813-11b3026b4b2f.jpg",
+      "links": [
+        "http://twitter.com/purpletinabeans",
+        "https://www.linkedin.com/in/tinalauro/",
+        "http://www.brainandnerd.com"
+      ],
+      "description": "Tina is the co-director at Brain and Nerd, an independent game studio based in the Pixel Mill in Ormeau Baths. When she's not bossing around the other half of the Brain and Nerd duo, Brendan Drain, Tina is found writing about tech or games at Sync NI and Massively Overpowered. Tina recently won the Community Award at the NI Game Dev Awards 2018 and her studio's first game, Predestination, took home Game of the Year too."
+    },
+    {
+      "id": "tristansmith",
+      "title": "Tristan Smith",
+      "speakerImage": "https://sessionize.com/image?f=415498a3fbf6e012a46d49eb64a1875d,400,400,True,False,56-4bc0-4dcc-a4e7-3195925da2c0.79388a77-10f5-45c8-9540-a9d9c7f765f6.jpg",
+      "links": [
+        "https://www.linkedin.com/in/tristan-smith-001857a7/",
+        "https://www.signifyd.com/"
+      ],
+      "description": "Tristan moved from NASA Ames Research Center to Signifyd in 2015. where he has worked remotely as an engineer, team lead, and manager.  He is excited to be in Belfast as part of the company's next chapter."
+    },
+    {
+      "id": "victoriasloan",
+      "title": "Victoria Sloan",
+      "speakerImage": "https://sessionize.com/image?f=9c617d861c92e1c9b76f739749bd1268,400,400,True,False,bc-4ffd-4091-ae57-738f492d9ee2.7941bfcb-19c2-4958-a9c9-e085257d8a02.png",
+      "links": [
+        "https://twitter.com/victoriasloan95",
+        "https://www.linkedin.com/in/victoria-sloan-1413a8a7/",
+        "https://www.smashfly.com/"
+      ],
+      "description": "I joined the SmashFly team in February this year and have worked as a Front End Developer since graduating from Ulster University in 2017."
+    },
+    {
+      "id": "zekikucukkose",
+      "title": "Zeki Kucuk-Kose",
+      "speakerImage": "https://sessionize.com/image?f=9a39721e26abfdae0a402605e86cf4ca,400,400,True,False,34-84f2-4729-821a-099a562d3c67.a922af34-accc-4d5c-a38a-3f45dcf900b2.jpg",
+      "links": [
+        "https://www.linkedin.com/in/zeki-kucuk-kose/",
+        "https://github.com/zekik64"
+      ],
+      "description": "Zeki has over 3 years of experience developing cutting edge technology solutions. Most recently, this has involved working with various Blockchain technologies at the Rakuten Blockchain Lab in Belfast and previously in FinTech at Deloitte Digital. In his spare time he is an advocate for improving mental health support in Northern Ireland and beyond."
+    },
+    {
+      "id": "zoegadonthompson",
+      "title": "Zoe Gadon-Thompson",
+      "speakerImage": "https://sessionize.com/image?f=7557cf20f3a9a29423b1b3cbd809bd23,400,400,True,False,1e-ded7-4a36-bc5d-10f7c90b831a.8553cc3b-8cd1-4b1e-bf22-57069f7e5e19.JPG",
+      "links": [
+        "http://twitter.com/gingerzoealex",
+        "https://www.linkedin.com/in/zoe-gadon-thompson-b33776169/",
+        "http://github.com/gingerzoealex",
+        "https://gingerzoealex.dev/",
+        "https://flaxandteal.co.uk/"
+      ],
+      "description": "Zoe loves creative problem solving and getting massive headaches, especially when it focuses on things that put her out of her comfort zone and force her to learn new things like maths and physics in programming. \n\nHer best accomplishment to date has been the personal and professional progress she has made in the last year, which include studying a foundation degree in software engineering, organising numerous events, ~10 public speaking events, and (almost) successfully raising a toddler. Also, getting a job as a professional nerd at Flax & Teal.\n\nShe tries to be actively involved in the Belfast tech community, organising events and encouraging other organisers to make events family friendly."
+    }
+  ],
+  "rooms": [
+    {
+      "id": "CR1",
+      "title": "Conference Room 1",
+      "abbreviation": "CR1"
+    },
+    {
+      "id": "CR2",
+      "title": "Conference Room 2",
+      "abbreviation": "CR2"
+    },
+    {
+      "id": "LR1",
+      "title": "Lecture Room 1",
+      "abbreviation": "LR1"
+    },
+    {
+      "id": "LR3",
+      "title": "Lecture Room 3",
+      "abbreviation": "LR3"
+    },
+    {
+      "id": "LT",
+      "title": "Lecture Theatre",
+      "abbreviation": "LT"
+    }
+  ],
+  "timeslots": [
+    {
+      "id": "reg",
+      "startTime": "08:30",
+      "endTime": "09:00",
+      "title": "8:30-9:00",
+      "allRooms": true,
+      "description": "REGISTRATION"
+    },
+    {
+      "id": "tea",
+      "startTime": "09:00",
+      "endTime": "09:20",
+      "title": "9:00-9:20",
+      "allRooms": true,
+      "description": "TEA/COFFEE"
+    },
+    {
+      "id": "welcome",
+      "startTime": "09:30",
+      "endTime": "09:40",
+      "title": "9:30-9:40",
+      "plenary": true,
+      "description": "WELCOME ADDRESS IN CONFERENCE ROOMS"
+    },
+    {
+      "id": "1",
+      "startTime": "09:50",
+      "endTime": "10:20",
+      "title": "9:50-10:20"
+    },
+    {
+      "id": "2",
+      "startTime": "10:30",
+      "endTime": "11:00",
+      "title": "10:30-11:00"
+    },
+    {
+      "id": "3",
+      "startTime": "11:10",
+      "endTime": "11:40",
+      "title": "11:10-11:40"
+    },
+    {
+      "id": "4",
+      "startTime": "11:50",
+      "endTime": "12:20",
+      "title": "11:50-12:20"
+    },
+    {
+      "id": "5",
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "title": "12:30-13:00",
+      "description": "LUNCH"
+    },
+    {
+      "id": "6",
+      "startTime": "13:10",
+      "endTime": "13:40",
+      "title": "13:10-13:40",
+      "description": "LUNCH"
+    },
+    {
+      "id": "7",
+      "startTime": "13:50",
+      "endTime": "14:20",
+      "title": "13:50-14:20"
+    },
+    {
+      "id": "8",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "title": "14:30-15:00"
+    },
+    {
+      "id": "9",
+      "startTime": "15:10",
+      "endTime": "15:40",
+      "title": "15:10-15:40"
+    },
+    {
+      "id": "break",
+      "startTime": "15:40",
+      "endTime": "16:00",
+      "title": "15:40-16:00",
+      "allRooms": true,
+      "description": "BREAK"
+    },
+    {
+      "id": "10",
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "title": "16:00-16:30"
+    },
+    {
+      "id": "11",
+      "startTime": "16:40",
+      "endTime": "17:10",
+      "title": "16:40-17:10"
+    },
+    {
+      "id": "12",
+      "startTime": "17:20",
+      "endTime": "17:50",
+      "title": "17:20-17:50"
+    },
+    {
+      "id": "closing",
+      "startTime": "18:00",
+      "endTime": "18:20",
+      "title": "18:00-18:20",
+      "plenary": true,
+      "description": "CLOSING ADDRESS IN CONFERENCE ROOMS"
+    },
+    {
+      "id": "afterparty",
+      "startTime": "18:20",
+      "endTime": "23:59",
+      "title": "AFTERWARDS",
+      "allRooms": true,
+      "description": "Complimentary food and drink at the Botanic Inn"
+    }
+  ],
+  "htmlpages": [
+    {
+      "title": "Floorplan",
+      "html": "<div style='height:100%; display:flex; flex-direction:column; justify-content:space-around'><div><img src='https://www.nidevconf.com/img/floorplan-rh.png' style='width:100%' /></div></div>",
+      "zoomable": true
+    },
+    {
+      "title": "Project Space",
+      "html": "<p>In the afternoon, the Project Room will show off personal and professional projects, both hardware and software. You are welcome to demo your ideas here!</p>",
+      "zoomable": true
+    },
+    {
+      "title": "Code of Conduct",
+      "html": "<p>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.</p> <h3>Need Help?</h3> <p>You have our contact details in the emails we've sent.</p> <h3>The Quick Version</h3> <p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <em>without a refund</em> at the discretion of the conference organisers.</p> <h3>The Less Quick Version</h3> <p>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, unwelcome attempts at recruitment, inappropriate physical contact, and unwelcome sexual attention.</p> <p>Participants asked to stop any harassing behavior are expected to comply immediately.</p> <p>Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.</p> <p>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.</p> <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing and/or badges.</p> <p>Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p> <p>We expect participants to follow these rules at conference and workshop venues and conference-related social events. </p>",
+      "zoomable": true
+    }
+  ]
+}
