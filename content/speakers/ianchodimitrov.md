@@ -1,11 +1,8 @@
-﻿+++
++++
 id = "ianchodimitrov"
 title = "Iancho Dimitrov"
 speakerimage = "https://sessionize.com/image?f=6c8b8745bca411b5ad6eacce399bb6a7,400,400,True,False,31-d890-4553-bdae-07283fe9687f.0d19beec-ece5-4173-8f2d-d4b5bc889368.png"
-keynote = false
-twitter = ["https://twitter.com/iandim"]
-linkedin = ["https://www.linkedin.com/in/iancho/"]
-website = ["http://www.musala.com"]
+links = ["https://twitter.com/iandim", "https://www.linkedin.com/in/iancho/", "http://www.musala.com"]
 +++
 
 Iancho has been in the software industry for 20 years and considers himself to be an IT professional with business affinity, or the other way around. He has gone through many operational roles – software engineer, business analyst, software architect, project and program manager, CTO & COO, Business-IT Consultant. For more than 15 years he has also been dealing with sales, marketing and key account management. His current interests are focused on how innovation can be effectively managed and applied in big organizations and on the enterprise application of Blockchain, IoT, Artificial Intelligence and Big Data technologies.  

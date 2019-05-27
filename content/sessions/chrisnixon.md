@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "chrisnixon"
 title = "Introduction to Fuzz testing with AFL"
 speakers = ["chrisnixon"]
-keynote = false
 lightning = false
-order = ""
-room = "3"
 time = "8"
+room = "LT"
 +++
 
 Fuzz testing is the practice of throwing random data at a program and seeing what breaks.

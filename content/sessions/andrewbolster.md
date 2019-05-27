@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "andrewbolster"
 title = "Data Art: Creative collisions and getting out of your comfort zone"
 speakers = ["andrewbolster"]
-keynote = false
 lightning = false
-order = ""
-room = "1"
 time = "4"
+room = "LR1"
 +++
 
 The technology community is known for being strongly inward looking; we focus on techniques, products, languages, frameworks, and best practices. 

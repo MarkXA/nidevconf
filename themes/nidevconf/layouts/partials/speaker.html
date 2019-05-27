@@ -11,26 +11,22 @@
         <div class="speaker-description col-md-9">
             <h2 style="display:flex; align-items:center">
                 <span>{{ .Title }}</span>
-                {{ range .Params.twitter }}
-                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                {{ end }}
-                {{ range .Params.linkedin }}
-                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                {{ end }}
-                {{ range .Params.google }}
-                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                {{ end }}
-                {{ range .Params.github }}
-                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-github" aria-hidden="true"></i></a>
-                {{ end }}
-                {{ range .Params.codepen }}
-                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-codepen" aria-hidden="true"></i></a>
-                {{ end }}
-                {{ range .Params.keybase }}
-                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-key" aria-hidden="true"></i></a>
-                {{ end }}
-                {{ range .Params.website }}
-                    <a href="{{ . }}" target="_blank" class="socialicon"><i class="fa fa-globe" aria-hidden="true"></i></a>
+                {{ range .Params.links }}
+                    <a href="{{ . }}" target="_blank" class="socialicon">
+                        {{ if in . "twitter.com/" }}
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                        {{ else if in . "linkedin.com/" }}
+                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        {{ else if in . "github.com/" }}
+                            <i class="fa fa-github" aria-hidden="true"></i>
+                        {{ else if in . "codepen.io/" }}
+                            <i class="fa fa-codepen" aria-hidden="true"></i>
+                        {{ else if in . "keybase.io/" }}
+                            <i class="fa fa-key" aria-hidden="true"></i>
+                        {{ else }}
+                            <i class="fa fa-globe" aria-hidden="true"></i>
+                        {{ end}}
+                    </a>
                 {{ end }}
             </h2>
             <p>

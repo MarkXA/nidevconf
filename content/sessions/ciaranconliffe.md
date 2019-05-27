@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "ciaranconliffe"
 title = "Planes, Trains and Automobiles: The Internet of Very Big Things"
 speakers = ["ciaranconliffe"]
-keynote = false
 lightning = false
-order = ""
-room = "4"
 time = "4"
+room = "CR1"
 +++
 
 When we talk about the Internet of Things, most people think of things like smart lightbulbs, smart TVs and smart doorbells. But the IoT has some much larger things than that in it. There are huge interconnected systems dedicated to making sure that airplanes know where they are, and container ships don't accidentally catch fire. 

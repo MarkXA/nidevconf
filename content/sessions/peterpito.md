@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "peterpito"
 title = "US Marines, Agile and heuristics"
 speakers = ["peterpito"]
-keynote = false
 lightning = false
-order = ""
-room = "0"
 time = "9"
+room = "CR2"
 +++
 
 Software development is inherently complex in nature. For such complex problems there are no recipes for success that can be followed.

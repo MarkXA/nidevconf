@@ -1,12 +1,8 @@
-﻿+++
++++
 id = "andrewbolster"
 title = "Andrew Bolster"
 speakerimage = "https://sessionize.com/image?f=56ed888b8c531aa52a3a0e167167205f,400,400,True,False,8b-ac87-4311-bc8a-cfb30bd5842e.01b051e6-fe5d-4643-a1e3-fb10422e33b6.png"
-keynote = false
-twitter = ["https://www.twitter.com/bolster"]
-linkedin = ["https://www.linkedin.com/in/andrewbolster"]
-github = ["https://github.com/andrewbolster/"]
-website = ["https://andrewbolster.info/", "https://www.alertlogic.com/"]
+links = ["https://www.twitter.com/bolster", "https://www.linkedin.com/in/andrewbolster", "https://github.com/andrewbolster/", "https://andrewbolster.info/", "https://www.alertlogic.com/"]
 +++
 
 Bolster is a Technologist, founder of multiple technology-based groups and organisations, an award winning researcher, community leader, and an occasional public speaker.

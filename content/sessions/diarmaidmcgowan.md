@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "diarmaidmcgowan"
 title = "Twelve Factor App"
 speakers = ["diarmaidmcgowan"]
-keynote = false
 lightning = false
-order = ""
-room = "3"
 time = "7"
+room = "LT"
 +++
 
 Brief history of Twelve Factor app and origins.

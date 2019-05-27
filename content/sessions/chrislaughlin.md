@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "chrislaughlin"
 title = "All your packages are belong to us - Protecting your npm dependencies"
 speakers = ["chrislaughlin"]
-keynote = false
 lightning = false
-order = ""
-room = "0"
 time = "1"
+room = "CR2"
 +++
 
 As technology advances and the applications we build become more complex, the tools that we use to secure the data shared within these products need to follow suit. We need to ensure that we deliver a high standard of protection to users, allowing them them to seamlessly use the product without thinking about security or any potential threat. Even just a thought of any risk could lose us our customers’ trust and therefore millions in investment and in turn threaten our entire business as a whole (including our jobs). 

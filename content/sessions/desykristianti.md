@@ -1,13 +1,9 @@
-﻿+++
++++
 id = "desykristianti"
 title = "How to Give a Compelling Technical Talk"
 speakers = ["desykristianti"]
-keynote = false
 lightning = true
-order = "0"
-room = ""
-time = ""
-delta = 50
+order = 10
 +++
 
 Knowing how to code is one thing, but showing someone else how to do it is another. Ever feel like you want to share your knowledge, but don’t know how to communicate it efficiently? Or want to challenge yourself to speak in front of an audience, but don’t feel confident enough?

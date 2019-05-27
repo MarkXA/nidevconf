@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "darrenforsythe"
 title = "Making Secure Applications the path of least resistance"
 speakers = ["darrenforsythe"]
-keynote = false
 lightning = false
-order = ""
-room = "4"
 time = "1"
+room = "CR1"
 +++
 
 Developers always want to do the right thing. As shift-left, full stack, microservices architectures, MVPs, agile etc. are now the norm, In a short amount of time the skills required to effectively secure applications has grown exponentially.  For years security was someone else’s responsibility, now it is on teams to handle implementations.

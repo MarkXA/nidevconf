@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "andrewgribben"
 title = "Who cares about accessibility?"
 speakers = ["andrewgribben"]
-keynote = false
 lightning = false
-order = ""
-room = "1"
 time = "6"
+room = "LR1"
 +++
 
 I work HMH, one of America's biggest publishers with an Ed-tech business serving 150 million students and teachers. You may not have heard of us but you will know some of our brands: Curious George, Carmen Santiago, The Hobbit. It's not too much of a stretch to say we're a big company but until recently saying that we cared about accessibility was as far as it went.

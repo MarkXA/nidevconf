@@ -1,12 +1,9 @@
-﻿+++
++++
 id = "stefanmcshane"
 title = "Produce Early, Produce Often"
 speakers = ["stefanmcshane"]
-keynote = false
 lightning = true
-order = "15"
-room = ""
-time = ""
+order = 160
 +++
 
 There are a tonne of great developers out there with fantastic ideas that never see the light of day. 

@@ -1,13 +1,10 @@
-﻿+++
++++
 id = "ewagrabowiecka"
 title = "Guided Conversation - Junior developers"
 speakers = ["ewagrabowiecka"]
-keynote = false
 lightning = false
-order = ""
-room = ""
 time = ""
-delta = 50
+room = ""
 +++
 
 A Guided Conversation is a meeting where a facilitator comes up with a starting set of questions around a single topic. The group then discuss those questions with 8 minutes given for each question.

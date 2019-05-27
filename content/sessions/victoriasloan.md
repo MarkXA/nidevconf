@@ -1,13 +1,10 @@
-﻿+++
++++
 id = "victoriasloan"
 title = "Designers and Developers: No longer a house divided"
 speakers = ["victoriasloan"]
-keynote = false
 lightning = false
-order = ""
-room = "3"
 time = "11"
-delta = 50
+room = "LT"
 +++
 
 A belief that design and development have competing interests is an obstacle to successful collaboration. 

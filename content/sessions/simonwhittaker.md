@@ -1,12 +1,10 @@
-﻿+++
++++
 id = "simonwhittaker"
 title = "Compromising AWS for fun and profit"
 speakers = ["simonwhittaker"]
-keynote = false
 lightning = false
-order = ""
-room = "2"
 time = "8"
+room = "LR3"
 +++
 
 We will demonstrate the ease with which a malicious user can escalate privileges and own an AWS account through a very simple IAM mis-configuration.  

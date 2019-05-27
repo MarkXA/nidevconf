@@ -1,13 +1,10 @@
-﻿+++
++++
 id = "clairewilgar"
 title = "Web components - Without your Favourite Framework"
 speakers = ["clairewilgar"]
-keynote = false
 lightning = false
-order = ""
-room = "4"
 time = "3"
-delta = 50
+room = "CR1"
 +++
 
 Starting in with a speedy catch-up on what “web components” even means, this talk will focus on the various options available for building a site or app using web components.

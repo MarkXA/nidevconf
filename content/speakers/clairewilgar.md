@@ -1,12 +1,8 @@
-﻿+++
++++
 id = "clairewilgar"
 title = "Claire Wilgar"
 speakerimage = "https://sessionize.com/image?f=2629f0f60e3edbed90aa76ea31031100,400,400,True,False,2c-e652-4d95-8660-e110948176e6.7afec511-9092-4136-8fea-48930571f1e9.jpg"
-keynote = false
-twitter = ["https://twitter.com/clairedotw"]
-linkedin = ["https://www.linkedin.com/in/clairewilgar"]
-github = ["https://github.com/clairebones"]
-delta = 50
+links = ["https://twitter.com/clairedotw", "https://www.linkedin.com/in/clairewilgar", "https://github.com/clairebones"]
 +++
 
 Claire Wilgar is a frontend developer with a passion for accessibility, currently working for Bazaarvoice Belfast.

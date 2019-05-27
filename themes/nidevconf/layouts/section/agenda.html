@@ -6,7 +6,7 @@
 
 {{ $times := slice (dict "title" "8:30-9:00" "allRooms" "REGISTRATION") (dict "title" "9:00-9:20" "allRooms" "TEA/COFFEE") (dict "title" "9:30-9:40" "plenary" "Welcome address (in Conference Room)") (dict "time" "1" "title" "9:50-10:20") (dict "time" "2" "title" "10:30-11:00") (dict "time" "3" "title" "11:10-11:40") (dict "time" "4" "title" "11:50-12:20") (dict "time" "5" "title" "12:30-13:00") (dict "time" "6" "title" "13:10-13:40") (dict "time" "7" "title" "13:50-14:20") (dict "time" "8" "title" "14:30-15:00") (dict "time" "9" "title" "15:10-15:40") (dict "title" "15:40-16:00" "allRooms" "BREAK") (dict "time" "10" "title" "16:00-16:30") (dict "time" "11" "title" "16:40-17:10") (dict "time" "12" "title" "17:20-17:50") (dict "title" "18:00-18:20" "plenary" "Closing address (in Conference Room)") (dict "title" "AFTERWARDS" "allRooms" "Complimentary food and drink at the Botanic Inn") }}
 
-{{ $rooms := slice "Lecture Room 1" "Lecture Room 3" "Conference Room 1" "Lecture Theatre" "Conference Room 2" }}
+{{ $rooms := slice (dict "id" "CR1" "name" "Conference Room 1") (dict "id" "CR2" "name" "Conference Room 2") (dict "id" "LR1" "name" "Lecture Room 1") (dict "id" "LR3" "name" "Lecture Room 3") (dict "id" "LT" "name" "Lecture Theatre") }}
 
 <style>
   .agendaHeader {
@@ -140,12 +140,12 @@
                       <div><strong>LUNCH</strong></div>
                   {{ end }}
                   {{ range $index, $room := $rooms }}
-                    {{ $session := where (where $sessions "Params.time" $time) ".Params.room" (string $index) }}
+                    {{ $session := where (where $sessions "Params.time" $time) ".Params.room" $room.id }}
                     {{ if $session }}
                       <div>
                         {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
                       </div>
-                    {{ else if and (eq $room "Conference Room 2") (gt $time "6") }}
+                    {{ else if and (eq $room.id "CR1") (gt $time "6") }}
                       <div>
                         {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
                       </div>
@@ -169,7 +169,7 @@
               <tr>
                 <td></td>
                 {{ range $rooms }}
-                  <td>{{ . }}</td>
+                  <td>{{ .name }}</td>
                 {{ end }}
               </tr>
               {{ range $times }}
@@ -202,10 +202,10 @@
                       {{ $title }}
                     </td>
                     {{ range $index, $room := $rooms }}
-                      {{ $session := where (where $sessions "Params.time" $time) ".Params.room" (string $index) }}
+                      {{ $session := where (where $sessions "Params.time" $time) ".Params.room" $room.id }}
                       {{ if $session }}
                       <td class="agendaSession">
-                      {{ else if and (eq $room "Conference Room 2") (gt $time "6") }}
+                      {{ else if and (eq $room.id "CR1") (gt $time "6") }}
                       <td class="agendaSession">
                       {{ else }}
                       <td class="agendaSeparator">

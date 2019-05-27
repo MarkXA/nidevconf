@@ -7,7 +7,7 @@
         <div>
             <a href="{{ .RelPermalink }}" class="sessionlink">
                 {{ if $room }}
-                    <span class="agendaRoom">{{ $room }} - </span>
+                    <span class="agendaRoom">{{ $room.name }} - </span>
                 {{ end }}
                 {{ if .Params.keynote }}
                     <strong>KEYNOTE:
@@ -23,9 +23,9 @@
     <div>
         {{ if or (eq $time "5") (eq $time "6") }}
             LUNCH
-        {{ else if (eq $room "Conference Room 2") }}
+        {{ else if (eq $room.id "CR1") }}
             <a href="#lightning" class="sessionlink">
-                <span class="agendaRoom">{{ $room }} - </span>
+                <span class="agendaRoom">{{ $room.name }} - </span>
                 LIGHTNING TALKS
             </a>
         {{ else }}

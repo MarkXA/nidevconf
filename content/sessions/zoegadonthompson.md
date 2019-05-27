@@ -1,13 +1,10 @@
-﻿+++
++++
 id = "zoegadonthompson"
 title = "Data Processing in PHP, and Other Natural Disasters"
 speakers = ["zoegadonthompson"]
-keynote = false
 lightning = false
-order = ""
-room = "1"
-time = "11"
-delta = 50
+time = "2"
+room = "LR1"
 +++
 
 What is it like working on first generation code, developed during an R&D phase, that was inspired by a horrific weather occurrence on the other side of the world? With a challenging and majestic mix of open geographical data, mathematics, JavaScript libraries and PHP.
