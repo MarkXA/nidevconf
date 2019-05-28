@@ -1,6 +1,6 @@
 {{ $speakers := where .Site.Pages "Section" "speakers" }}
 {{ $keynotespeakers := where $speakers "Params.keynote" true }}
-{{ $normalspeakers := where $speakers "Params.keynote" false }}
+{{ $normalspeakers := where $speakers "Params.keynote" "!=" true }}
 
 <section class="speakers">
   {{ if $keynotespeakers }}
