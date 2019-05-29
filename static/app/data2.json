@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2018-06-09",
+  "date": "2019-06-08",
   "lightningIntro": "Lightning talks will start at 13:50 and run until approximately 17:50.",
   "sessions": [
     {
@@ -154,16 +154,6 @@
       "time": "4",
       "room": "CR1",
       "description": "When we talk about the Internet of Things, most people think of things like smart lightbulbs, smart TVs and smart doorbells. But the IoT has some much larger things than that in it. There are huge interconnected systems dedicated to making sure that airplanes know where they are, and container ships don't accidentally catch fire. \n\nAre cars just \"smartphones with a ton of metal attached\"? \nHow do the signs on the London Underground know when the next train is arriving? \nAnd how do modern-day pirates use spearphishing to help them snare their targets on the high seas?\n\nIn this talk we'll go through the convoluted histories and complicated architectures of the systems that run the vehicles that our modern world depends on. We'll talk about how they actually helped to lay the foundations of the connected infrastructure we call the \"internet of Things\". We'll look at the consequences of technical debt and cybersecurity vulnerabilities when you're dealing with   And we'll find out how these systems impact our daily lives without us ever being aware of it."
-    },
-    {
-      "id": "claireburn",
-      "title": "\"The Weakest Link In The Blockchain (and how to not be it.)\"",
-      "speakers": [
-        "claireburn"
-      ],
-      "lightning": true,
-      "order": 90,
-      "description": "This will be a whirlwind tale of security, cryptocurrency and intrigue. I will be telling the story of the world's first Bitcoin exchange, and giving attendees tips and hints on staying secure in the crypto world."
     },
     {
       "id": "clairewilgar",
@@ -514,14 +504,14 @@
     },
     {
       "id": "minubeenasisupal",
-      "title": "Data Science in 30 Minutes",
+      "title": "News Analytics in 30 Minutes",
       "speakers": [
         "minubeenasisupal"
       ],
       "lightning": false,
       "time": "2",
       "room": "CR2",
-      "description": "The latest buzzword in technology is 'Data Science'.  The objective of the session is to make you understand the basics of Data Science. Find out the whys and hows of Data Science. Also, to understand the basics of machine learning algorithms.  This session is for beginners."
+      "description": "The latest buzzword in technology is 'Data Science'. The objective of the session is to make you understand the basics of one of the areas of Data Science which is News Analytics. Why is news analytics important? How Natural language processing (NLP) helps in analyzing the news? In 30 minutes, I will try to explain how I dealt with my first news analytics project."
     },
     {
       "id": "nathangriffin",
