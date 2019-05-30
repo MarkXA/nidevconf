@@ -1,10 +1,10 @@
 +++
 id = "dancallahan"
-title = "Unphisable Authentication with WebAuthn"
+title = "Unphishable Authentication with WebAuthn"
 speakers = ["dancallahan"]
 lightning = false
 time = "3"
-room = "LT"
+room = "CR1"
 +++
 
 Secure Enclaves. Yubikeys. TouchID. U2F. 2FA. FIDO... modern devices have amazing authentication capabilities, but how do you make sense of it all? And does any of it work on the Web? Let me help.

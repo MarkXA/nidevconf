@@ -163,18 +163,18 @@
       ],
       "lightning": false,
       "time": "3",
-      "room": "CR1",
+      "room": "LT",
       "description": "Starting in with a speedy catch-up on what “web components” even means, this talk will focus on the various options available for building a site or app using web components.\n\nThe session will cover the available framework options for component based builds, and then showing how web components can be written in native browser technology (without the need for any frameworks!) and why this might be a good option to consider.\n\nThis talk is best suited for folks who have some familiarity with web development, and hopefully people will go away with an idea of whether or not web components are useful to them, and if so how they could implement them."
     },
     {
       "id": "dancallahan",
-      "title": "Unphisable Authentication with WebAuthn",
+      "title": "Unphishable Authentication with WebAuthn",
       "speakers": [
         "dancallahan"
       ],
       "lightning": false,
       "time": "3",
-      "room": "LT",
+      "room": "CR1",
       "description": "Secure Enclaves. Yubikeys. TouchID. U2F. 2FA. FIDO... modern devices have amazing authentication capabilities, but how do you make sense of it all? And does any of it work on the Web? Let me help.\n\nIn this session I'll explain how the new WebAuthn standard exposes advanced authentication capabilities to the Web, and how you can use it to augment or completely replace passwords in online interactions.\n\nPublic key cryptography has never been so usable!"
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lightning": false,
       "time": "2",
-      "room": "LR3",
+      "room": "LT",
       "description": "TestContainers is an open source library that allows you to containerise your external resource dependencies, like databases, web browsers, or anything that can run in a docker container!\n\nBy making use of TestContainers, we can to develop and run our tests easier, in a more production-like environment, with only Docker as a pre-requisite."
     },
     {
@@ -524,15 +524,25 @@
       "description": "Learning a new language is a scary prospect, its tough finding reasons to break out of the comfort zone.\n\nKotlin provides the perfect opportunity to get the benefits of a great new language with minimal pain, especially for Java developers.\n\nThis talk covers\n- Benefits and features of Kotlin\n- Transitioning from Java\n- Potential pitfalls of Kotlin\n- Tools / Frameworks available"
     },
     {
-      "id": "paddycarey",
-      "title": "Packages all the way down",
+      "id": "emanuiltolev",
+      "title": "Hiring a Private Investigator for your app: Application Performance Monitoring",
       "speakers": [
-        "paddycarey"
+        "emanuiltolev"
       ],
       "lightning": false,
       "time": "2",
-      "room": "LT",
-      "description": "Packages are the building blocks from which our software systems are built. Whether it's `.deb`/`.rpm` packages installed on a server in your data-centre, Python wheels installed in your Docker container, or Go modules compiled into your binary, packages are everywhere.\n\nPackage managers are one of the tools we've traditionally used to manage the ever growing complexity of our software systems, but these days it's just as likely for a developer to shove all their source code directly into a Docker container and call it a day. By doing so we're losing out on years of experience, decades of knowhow and tooling, and making our build and delivery pipelines less efficient and manageable.\n\nJoin me for a dive into the history of software packaging and distribution. We'll explore some of the earliest attempts at making software distribution easier, all the way up to the current state of the art with containers and continuous delivery.\n\nYou *can* have the best of both worlds. Rock solid software packaging and distribution, and modern continuous delivery, *without* sacrificing the benefits of either."
+      "room": "LR3",
+      "description": "It has been a busy several years in monitoring and observability. Logging solutions are widely deployed, from scp+grep to proper federated logging. Collecting centralised server environment and resources metrics has also matured significantly. In this talk we'll introduce the next layer in this onion - in-depth Application Performance Monitoring (APM). While other parts of the monitoring stack could be described as watchmen, APM plays much more of a detective role, bringing ever more metrics into increasingly complex UIs to suss out performance bottlenecks.\n\nWe'll talk a bit about the history of APM and show an example app being monitored with a free APM system. We'll reflect on a case study of 2 of the speaker's old clients, 2 small web technology-driven organisations which struggled with adopting APM. We will look at why that might be and how you could do better. We will then walk through a simple vendor-agnostic approach to choosing an APM vendor."
+    },
+    {
+      "id": "emanuiltolev-l",
+      "title": "Anxiety at work - a vision for an empathetic and resilient workplace",
+      "speakers": [
+        "emanuiltolev"
+      ],
+      "lightning": true,
+      "order": 90,
+      "description": "Anxiety and fear are corrosive. They damage interpersonal relationships, they isolate the person who suffers from them and they make it difficult to navigate a workplace. In this lighting talk we'll explore what behaviours and understanding at the workplace might actually be helpful to sufferers, while applying the same core standards of accountability and responsibility to them equally with other employees."
     },
     {
       "id": "patrickblakejasonmcbride",
@@ -870,17 +880,6 @@
         "https://www.liberty-it.co.uk/"
       ],
       "description": "Ciaran is a technologist at Liberty IT, where he's worked on everything from automated application security to online customer service portals. Currently he is the technical lead for their Risk & Security unit, and is doing his best to bring user-centric thinking to the world of information security.\n\nCiaran is also a writer with a regular history column at Headstuff.org, and has found that studying history helps to drive the cynicism about human nature that you need for working in IT security. It was through this column that he was persuaded to give a talk about the history of Phoenix Park, which improbably led to him speaking at technical conferences from Boston to London over the last two years. In his very occasional spare time he enjoys sleep and looking at pictures of cats."
-    },
-    {
-      "id": "claireburn",
-      "title": "Claire Burn",
-      "speakerImage": "https://sessionize.com/image?f=8af88ed8557222fef3add3919b9d6499,400,400,True,False,9e-23b4-4999-92d8-e4e55a5bd1fc.25c18612-b3b5-45bd-883f-32df90d59e4b.jpg",
-      "links": [
-        "https://twitter.com/RhythmOfRiora",
-        "https://www.linkedin.com/in/claire-burn-2809004a/",
-        "https://github.com/RhythmOfRiora"
-      ],
-      "description": "\"Claire is currently a Software Engineer II at the cyber-security company Rapid7, and a cryptocurrency & cybersecurity enthusiast. She recently completed an MSc in Cyber Security at QUB, passing with Distinction after completing her BEng Computer Science a year prior. She has spent 5 years in leadership roles in the Belfast branch of the global not-for-profit organization Women Who Code, which she recently stepped down from, and \n\nshe received a UK-wide TechWomen50 award for her diversity & inclusion work during this time. She is the founder of the Google-sponsored Women Techmakers Belfast conference, which aims to highlight the work and achievements of local women in STEM, which has been running for 4 successful years now.  She has spoken at many conferences and events, most notably AppSec EU and the international “Women In Leadership In a Changing World”. In her (rare) moments of free time, she enjoys cooking, singing, drinking tea and playing “Dungeons & Dragons” with friends.\""
     },
     {
       "id": "clairewilgar",
@@ -1247,17 +1246,6 @@
       "description": "¯\\_(ツ)_/¯"
     },
     {
-      "id": "paddycarey",
-      "title": "Paddy Carey",
-      "speakerImage": "https://sessionize.com/image?f=5bcdd6fcb70eec7a1aaaa6a94749e660,400,400,True,False,8b0868bc-c021-425a-bdd0-51a6a0586110.jpg",
-      "links": [
-        "https://twitter.com/paddycarey",
-        "https://github.com/paddycarey",
-        "https://cloudsmith.io/"
-      ],
-      "description": "Paddy is currently a Staff Engineer at Cloudsmith, working to help make package management better for everyone. Paddy is a co-organiser of PyBelfast and frequent meetup contributor. When not hunched over his laptop, he can probably be found chasing after his energetic 2 year old."
-    },
-    {
       "id": "patrickblake",
       "title": "Patrick Blake",
       "speakerImage": "https://www.nidevconf.com/img/speakers/patrickblake.jpg",
@@ -1447,6 +1435,15 @@
         "https://flaxandteal.co.uk/"
       ],
       "description": "Zoe loves creative problem solving and getting massive headaches, especially when it focuses on things that put her out of her comfort zone and force her to learn new things like maths and physics in programming. \n\nHer best accomplishment to date has been the personal and professional progress she has made in the last year, which include studying a foundation degree in software engineering, organising numerous events, ~10 public speaking events, and (almost) successfully raising a toddler. Also, getting a job as a professional nerd at Flax & Teal.\n\nShe tries to be actively involved in the Belfast tech community, organising events and encouraging other organisers to make events family friendly."
+    },
+    {
+      "id": "emanuiltolev",
+      "title": "Emanuil Tolev",
+      "speakerImage": "https://i.imgur.com/Cl4yxTg.png",
+      "links": [
+        "https://twitter.com/emanuil_tolev"
+      ],
+      "description": "Emanuil is a Community Engineer with Elastic, the company behind the open source Elastic Stack (Elasticsearch, APM, Kibana, Beats, and Logstash). He used to be a freelance web developer + ops lead and ran a small open science web dev consultancy with partners for several years. Interested in mentorship, inclusion, small businesses, archery and always curious about how the world works in detail."
     }
   ],
   "rooms": [
