@@ -7,7 +7,7 @@ time = ""
 room = ""
 +++
 
-### 10:30-11:30 in the Demo Room
+### 10:30-11:30 in the Project Room
 
 In this session, we will be discussing the topic of graduate and junior developers, in a different format called a Guided conversation.
 

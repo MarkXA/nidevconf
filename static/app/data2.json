@@ -251,7 +251,7 @@
       "lightning": false,
       "time": "",
       "room": "",
-      "description": "### 10:30-11:30 in the Demo Room\n\nIn this session, we will be discussing the topic of graduate and junior developers, in a different format called a Guided conversation.\n\nA Guided Conversation is a meeting / workshop where a facilitator drives a conversation through a set of pre-prepared topics. The group then discusses those questions in order to share insight, personal experiences and expertise.  The benefit of this format is that the conversation is driven by the attendees, meaning that the variety of voices heard is usually larger (when compared to a single speaker on stage) and gives a platform for anyone to join the conversation.\n\nSome of the questions which we will tackle are:\n\n* How do you define a junior developer?\n* When are we not junior developers?\n* What can you learn from junior devs?\n* Why are junior devs important?\n* How and when do we ask for help?\n* Mentors, do juniors need one?\n\nThe session will be for 20 people and last an hour."
+      "description": "### 10:30-11:30 in the Project Room\n\nIn this session, we will be discussing the topic of graduate and junior developers, in a different format called a Guided conversation.\n\nA Guided Conversation is a meeting / workshop where a facilitator drives a conversation through a set of pre-prepared topics. The group then discusses those questions in order to share insight, personal experiences and expertise.  The benefit of this format is that the conversation is driven by the attendees, meaning that the variety of voices heard is usually larger (when compared to a single speaker on stage) and gives a platform for anyone to join the conversation.\n\nSome of the questions which we will tackle are:\n\n* How do you define a junior developer?\n* When are we not junior developers?\n* What can you learn from junior devs?\n* Why are junior devs important?\n* How and when do we ask for help?\n* Mentors, do juniors need one?\n\nThe session will be for 20 people and last an hour."
     },
     {
       "id": "garthgilmourrichardgibson",
@@ -337,7 +337,7 @@
         "johnmahon"
       ],
       "lightning": true,
-      "order": 180,
+      "order": 20,
       "description": "Often in school I was told that we should grab every opportunity given, and I have tried to live up to that. However, I have realised that this is different for programming, as often we aren't grasping for opportunities, we are besieged by them. And perhaps we should be cautious of the workloads we give ourselves."
     },
     {
@@ -658,7 +658,7 @@
         "stephenrushe"
       ],
       "lightning": true,
-      "order": 20,
+      "order": 180,
       "description": "There are few films in the history of cinema that truly capture the majesty of working in Engineering. For some reason Hollywood has generally avoided this exciting genre, but every once in a while something sneaks through the net..."
     },
     {

@@ -8,6 +8,8 @@
 
 {{ $rooms := slice (dict "id" "CR1" "name" "Conference Room 1") (dict "id" "CR2" "name" "Conference Room 2") (dict "id" "LR1" "name" "Lecture Room 1") (dict "id" "LR3" "name" "Lecture Room 3") (dict "id" "LT" "name" "Lecture Theatre") }}
 
+{{ $lightningTimes := slice "13:50" "14:00" "14:10" "14:30" "14:40" "14:50" "15:10" "15:20" "15:30" "16:00" "16:10" "16:20" "16:40" "16:50" "17:00" "17:20" "17:30" "17:40" }}
+
 <style>
   .agendaHeader {
     background-color: #e0e0e0;
@@ -108,7 +110,7 @@
           <h3><a href="#lightning">Lightning</a></h3>
         </div>
         <div class="col-sm-4 agendaHeader">
-          <h3><a href="#demo-room">Demo Room</a></h3>
+          <h3><a href="#project-room">Project Room</a></h3>
         </div>
       </div>
       <div class="row">
@@ -230,31 +232,40 @@
       </div>
       <div class="row" style="margin-top:2em">
         <div class="col-sm-12">
-          <h1 id="demo-room">Demo Room</h1>
+          <h1 id="project-room">Project Room</h1>
           <p>
               From <strong>10:30-11:30</strong>, there will be a <a href="/sessions/ewagrabowiecka/">Guided Conversation for Junior Developers</a>.
           </p>
           <p>
-              From <strong>12pm onwards</strong>, be sure to pop in and out of the demo room regularly to see a range of interesting and exciting projects from local makers. Some are future stars from NI CoderDojos and Code Clubs, so please show your support!
+              From <strong>13:00-17:00</strong>, be sure to pop in and out of the project room regularly to see a range of interesting and exciting projects being demonstrated by local makers. Some are future stars from NI CoderDojos and Code Clubs, so please show your support! Amongst the things you might come across are:
           </p>
+          <ul>
+            <li>VR games</li>
+            <li>3D visualisations</li>
+            <li>Scratch games</li>
+            <li>VRIMM inclusive music makers</li>
+            <li>Pi-controlled cars and animals</li>
+            <li>Even more VR!</li>
+          </ul>
         </div>
       </div>
       <div class="row" style="margin-top:2em">
         <div class="col-sm-12">
           <h1 id="lightning">Lightning talks</h1>
           <p>
-            Lightning talks will run in this order between approximately 13:50 and 18:00.
+            Lightning talks will run at approximately these times.
           </p>
           <div>
-            <ol>
-            {{ range sort $lightnings "Params.order" }}
+            <ul>
+            {{ range $talkIndex, $talk := sort $lightnings "Params.order" }}
               <li>
+                  {{ index $lightningTimes $talkIndex }} -
                   <a href="{{ .RelPermalink }}" class="sessionlink">
                       {{ .Params.title }}
                   </a>
               </li>
             {{ end }}
-            </ol>
+            </ul>
           </div>
         </div>
       </div>
