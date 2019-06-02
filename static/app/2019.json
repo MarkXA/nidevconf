@@ -1619,14 +1619,14 @@
 	],
 	"contentpages": [
     {
+      "title": "Project Space",
+			"markdown":
+				"* **10:30-11:30** - Guided Conversation for Junior Developers\n* **13:00-17:00** - Project Demos\n\n## Project demos\n\nBe sure to pop in and out of the project room regularly during the afternoon to see a range of interesting and exciting projects being demonstrated by local makers. Some are future stars from NI CoderDojos and Code Clubs, so please show your support! Amongst the things you might come across are:\n\n* VR games\n* 3D visualisations\n* Scratch games\n* VRIMM inclusive music makers\n* Pi-controlled cars and animals\n* Even more VR!\n\n## Guided Conversation for Junior Developers\n\nIn this session, we will be discussing the topic of graduate and junior developers, in a different format called a Guided conversation.\n\nA Guided Conversation is a meeting / workshop where a facilitator drives a conversation through a set of pre-prepared topics. The group then discusses those questions in order to share insight, personal experiences and expertise.  The benefit of this format is that the conversation is driven by the attendees, meaning that the variety of voices heard is usually larger (when compared to a single speaker on stage) and gives a platform for anyone to join the conversation.\n\nSome of the questions which we will tackle are:\n\n* How do you define a junior developer?\n* When are we not junior developers?\n* What can you learn from junior devs?\n* Why are junior devs important?\n* How and when do we ask for help?\n* Mentors, do juniors need one?\n\nThe session will be for 20 people and last an hour."
+    },
+	{
       "title": "Floorplan",
 			"html":
 				"<div style='height:100%; display:flex; flex-direction:column; justify-content:space-around'><div><img src='https://www.nidevconf.com/img/floorplan-rh.png' style='width:100%' /></div></div>"
-    },
-    {
-      "title": "Project Space",
-			"markdown":
-				"From **10:30-11:30**, there will be a **Guided Conversation for Junior Developers**.\n\nFrom **13:00-17:00**, be sure to pop in and out of the project room regularly to see a range of interesting and exciting projects being demonstrated by local makers. Some are future stars from NI CoderDojos and Code Clubs, so please show your support! Amongst the things you might come across are:\n\n* VR games\n* 3D visualisations\n* Scratch games\n* VRIMM inclusive music makers\n* Pi-controlled cars and animals\n* Even more VR!"
     },
     {
       "title": "Code of Conduct",
