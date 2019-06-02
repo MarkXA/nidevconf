@@ -1597,21 +1597,41 @@
       "description": "Complimentary food and drink at the Botanic Inn"
     }
   ],
-  "htmlpages": [
+	"lightningslots": [
+		{ "title": "13:50-14:00" },
+		{ "title": "14:00-14:10" },
+		{ "title": "14:10-14:20" },
+		{ "title": "14:30-14:40" },
+		{ "title": "14:40-14:50" },
+		{ "title": "14:50-15:00" },
+		{ "title": "15:10-15:20" },
+		{ "title": "15:20-15:30" },
+		{ "title": "15:30-15:40" },
+		{ "title": "16:00-16:10" },
+		{ "title": "16:10-16:20" },
+		{ "title": "16:20-16:30" },
+		{ "title": "16:40-16:50" },
+		{ "title": "16:50-17:00" },
+		{ "title": "17:00-17:10" },
+		{ "title": "17:20-17:30" },
+		{ "title": "17:30-17:40" },
+		{ "title": "17:40-17:50" }
+	],
+	"contentpages": [
     {
       "title": "Floorplan",
-      "html": "<div style='height:100%; display:flex; flex-direction:column; justify-content:space-around'><div><img src='https://www.nidevconf.com/img/floorplan-rh.png' style='width:100%' /></div></div>",
-      "zoomable": true
+			"html":
+				"<div style='height:100%; display:flex; flex-direction:column; justify-content:space-around'><div><img src='https://www.nidevconf.com/img/floorplan-rh.png' style='width:100%' /></div></div>"
     },
     {
       "title": "Project Space",
-      "html": "<p>In the afternoon, the Project Room will show off personal and professional projects, both hardware and software. You are welcome to demo your ideas here!</p>",
-      "zoomable": true
+			"markdown":
+				"From **10:30-11:30**, there will be a **Guided Conversation for Junior Developers**.\n\nFrom **13:00-17:00**, be sure to pop in and out of the project room regularly to see a range of interesting and exciting projects being demonstrated by local makers. Some are future stars from NI CoderDojos and Code Clubs, so please show your support! Amongst the things you might come across are:\n\n* VR games\n* 3D visualisations\n* Scratch games\n* VRIMM inclusive music makers\n* Pi-controlled cars and animals\n* Even more VR!"
     },
     {
       "title": "Code of Conduct",
-      "html": "<p>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.</p> <h3>Need Help?</h3> <p>You have our contact details in the emails we've sent.</p> <h3>The Quick Version</h3> <p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <em>without a refund</em> at the discretion of the conference organisers.</p> <h3>The Less Quick Version</h3> <p>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, unwelcome attempts at recruitment, inappropriate physical contact, and unwelcome sexual attention.</p> <p>Participants asked to stop any harassing behavior are expected to comply immediately.</p> <p>Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.</p> <p>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.</p> <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing and/or badges.</p> <p>Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p> <p>We expect participants to follow these rules at conference and workshop venues and conference-related social events. </p>",
-      "zoomable": true
+			"markdown":
+				"All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.\n\n## Need Help?\n\nFind a member of conference staff wearing an NIDC shirt, DM us on Twitter @NIDevConf or email inbox@nidevconf.com.\n\n## The Quick Version\n\nOur conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference **without a refund** at the discretion of the conference organisers.\n\n## The Less Quick Version\n\nHarassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, unwelcome attempts at recruitment, inappropriate physical contact, and unwelcome sexual attention.\n\nParticipants asked to stop any harassing behavior are expected to comply immediately.\n\nSponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.\n\nIf a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.\n\nIf you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded clothing and/or badges.\n\nConference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.\n\nWe expect participants to follow these rules at conference and workshop venues and conference-related social events."
     }
   ]
 }
