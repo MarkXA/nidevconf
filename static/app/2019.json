@@ -662,16 +662,6 @@
       "description": "There are few films in the history of cinema that truly capture the majesty of working in Engineering. For some reason Hollywood has generally avoided this exciting genre, but every once in a while something sneaks through the net..."
     },
     {
-      "id": "stevenmccomb",
-      "title": "#NoEstimates - doing Scrum without Estimates",
-      "speakers": [
-        "stevenmccomb"
-      ],
-      "lightning": true,
-      "order": 170,
-      "description": "Estimates have always been an integral part of the software development process. By estimating the amount of time, money, and effort, managers can better predict budgets and meet project goals. At least that's the theory behind the widespread and often unquestioned use of estimates in the IT industry today.\n\nHowever, recently we have finally begun to question the efficacy, and even the purpose, of using estimates. Estimates can not only be inaccurate and a waste of time, but they can be downright destructive, by creating an environment of fear where the developer is pressured to estimate outcomes based on what's desired, not on what's realistic.\n\nI want to highlight an alternative approach to estimates and story points and showcase the potential benefits that can be gained for the future of software development.\n\nKey Takeaways: accurate estimations are an unrealistic unicorn, Story Points are not the only option for estimating."
-    },
-    {
       "id": "tinalauropollock",
       "title": "Things I wish I understood when I became a game dev",
       "speakers": [
@@ -1359,17 +1349,6 @@
         "http://deeden.co.uk/"
       ],
       "description": "Stephen has failed to move to a cat island since last year, so has returned. He is partial to cats (unsurprisingly), tea, and sumo, and will happily look at any pictures of your cats that you care to share. He has never met a pun he didn't like. He wonders whether this blurb will be read out before his talk, and how the presenter will deal with the word \"onomatopoeia\" in that case. He clearly hasn't learned how to write biographies since last year, and still doubts the wisdom of writing about himself in the third person."
-    },
-    {
-      "id": "stevenmccomb",
-      "title": "Steven McComb",
-      "speakerImage": "https://sessionize.com/image?f=48bfb435c2a85a518fa61475b7dd43a1,400,400,True,False,73-abb4-49e2-aadf-bbedd8e060d3.c00f2cec-b20c-4f38-ae40-eef5e373979d.jpg",
-      "links": [
-        "https://twitter.com/mccombsteven",
-        "https://www.linkedin.com/in/stevenmccomb/",
-        "https://www.paconsulting.com/"
-      ],
-      "description": "Steven is a product-focused Agile Team Lead with a varied career, which is rooted in a background as a software developer. Steven has worked in the Education sector and Local Government before moving into SportsTech, FinTech, Banking and now finally Consulting for PA."
     },
     {
       "id": "theotsompanidis",
