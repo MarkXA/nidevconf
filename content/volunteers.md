@@ -36,7 +36,7 @@ If you have any issues that arise that involve health, safety, harassment or off
 
 We will be communicating through a private channel on the [NI Tech & Design slack](https://nitech.slack.com) on the day. The slack channel is called #nidevconf-volunteers.
 
-In particular, please help attendees to make use of (and be aware of) the Project Room (by Farset) and Open Space (by Tech Space). If you are not clear on the function of either of these, please do be sure to ask.
+In particular, please help attendees to make use of (and be aware of) the Project Room (by Farset). If you are not clear on the function of either of these, please do be sure to ask.
 
 ## Roles
 
@@ -205,13 +205,12 @@ If you are looking after a room in the afternoon, we would ask that you check in
 4. Keep time of the presentation
 5. Inform the speaker of the time left in 10, 5 and 1 minutes signs
 6. Engage with the audience to ask questions (if suitable for the speaker/track)
-7. Always have a question for the speaker, in case there are no questions from the audience
-8. Inform the audience that discussion items can be added to the Open Space
-9. Announce fire escape procedure at the start of session in the room
-10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social cues and public boundaries of propriety, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
-11. Ensure speakers who do not wish to be recorded or photographed are not (by audience or official photographer)
-12. Ensure speakers use both the induction loop and recording microphones
-13. If you have not seen a particular speaker during the day, and it is 5 minutes away from their talk, ask your room monitor to find Art!
+7. Announce fire escape procedure at the start of session in the room (no fire drills scheduled; assembly point location; point out fire exits)
+8. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social cues and public boundaries of propriety, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
+9. Ensure speakers who do not wish to be recorded or photographed are not (by audience or official photographer)
+10. Ensure speakers use both the induction loop and recording microphones
+11. If you have not seen a particular speaker during the day, and it is 5 minutes away from their talk, ask your room monitor to find Art!
+12. Get a SIGNATURE on the AV waiver, and give cup (WiFi is at registration desk)
 
 ## Tasks
 
@@ -230,7 +229,7 @@ These will be assigned flexibly on the day.
 * Assisting anyone who needs accessibility assistance
 * Tidying up (that's not QUB's responsibility) / removing posters
 * Announcing any changes to all the rooms
-* Helping out with tasks in the Project Room or Open Space
+* Helping out with tasks in the Project Room
 
 ### The Great Room Switch
 
@@ -250,5 +249,3 @@ These rooms are:
 * Quiet room
 * Project room
 * Atrium
-
-In the afternoon, the Lightning and Project rooms will be used for the Open Space.
