@@ -145,7 +145,7 @@ The talk rooms are:
 
 * **LR1**
     * Morning: RaM (MC) &amp; AD (mon)
-    * Afternoon: NJM (MC) &amp; MA (mon)
+    * Afternoon: NJM (MC) &amp; PW (mon)
 
 ----
 
@@ -163,7 +163,7 @@ The talk rooms are:
 
 * **Lecture Theatre** [aka Raked]
     * Morning: BC (MC) &amp; EC (mon)
-    * Afternoon: PW (MC) &amp; AD (mon)
+    * Afternoon: MA (MC) &amp; AD (mon)
 
 ----
 
