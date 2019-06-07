@@ -46,23 +46,27 @@ Some tasks may be "all hands on deck" and involve volunteers with any or all pri
 
 #### Welcome Wagon
 
+_PW_
+
 Someone to stay out the front from 8.30am until 9.40am (or a 15-20min subset, if it quietens down fast) to make sure people know where to park, manage the queue, direct to the Creche (via side-door, unless lift required), provide basic accessibility info.
 
 Chalk the parent-child spaces (8 or 9), with one car-free side on/close to a level with the entrance.
 
 #### Projector Checker
 
+_MC_
+
 Make sure all projectors are off at lunch
 
-#### Helping Open Space Kick-off
-
-Helping the Open Space kick off, and supporting the Tech Space coordinators.
-
 #### Checking the Bot
+
+_PW_
 
 Making sure everything's fine for us arriving.
 
 ### Registration Desk
+
+_ZGT_, _MBS_
 
 * The desk duties will start at 08:20
 * Checking attendees in on the ti.to app
@@ -72,14 +76,20 @@ Making sure everything's fine for us arriving.
 
 ### Information Desk
 
+_ZGT_, _JM_
+
 * Helping people with any queries, or redirecting to a touchpoint
 * Calling security of any issues or for first aid
 
 ### Roving
 
+_PW_, _MA_
+
 Check in on Info Desk, Quiet Room, Project Room, Green Room and Creche every 15min. Circulate around the talk rooms.
 
 ### On-call
+
+_Committee_
 
 Available to be called in for room monitor role, if an issue occurs, or an additional room monitor is needed, during a session.
 
@@ -89,23 +99,52 @@ The following roles are points-of-contact for specific types of issue, to help c
 
 As the committee functions by consensus, where there is a disagreement, none of these touchpoint roles supersede committee consensus.
 
-#### Accessibility (Art)
+    - Scheduling: @markxallan@gmail.com 
+    - Speakers: @Art K 
+   
+    - Volunteers: Philbo baggins
+    - Accessibility: @philbo baggins
+    - After-party: @Phil W 
+    
+    - Ticketing: @Zoe T 
+    - Twitter, web, email: @Zoe T 
+    - Signage, merch & information: @Zoe T 
+    - Registration desk: @Zoe T 
+    - info desk @Zoe T 
+
+    - Sponsors:@martin n 
+    - Waste & rubbish: @martin n 
+    - Venue: @martin n 
+
+    - Childcare: @Joan
+    
+    - Welfare: @Mark & @joan
+    
+    - Equipment, AV + Photography: @May C
+    - GDPR: @May C 
+    - Administration Issues: @May C 
+
+#### Accessibility (Phil)
 
 Ensuring fair access to facilities and enjoyment of the conference by all attendees, speakers and volunteers. Physical accessibility of the building, obstacles.
 
-#### Welfare (Joan)
+#### Welfare (Joan McAleer & Mark Allan)
 
 Ensuring a physically, emotionally and mentally safe environment is maintained. Harassment, bullying &amp; abuse. Creche, P-T parking and childcare provisions.
 
-#### Exhibitors &amp; Catering (Martin)
+#### Exhibitors, Venue &amp; Catering (Martin)
 
 Addressing needs of exhibitors, and use of the Atrium space. Ensuring adequate supply of food, hot drinks, water, crockery and utensils.
 
-#### Equipment &amp; After-Party (Phil)
+#### Equipment, AV &amp; Photography (May)
+
+
+
+#### After-Party (Phil)
 
 Handling complications with projectors, or other electronic equipment. Resolving persistent WiFi or other connectivity issues. Ensuring the after-party food, drink, tokens and venue work correctly.
 
-#### Speakers (Mark)
+#### Speakers (Art)
 
 Ensuring any specific speaker needs or challenges are addressed. Contingency for missing or unavailable speakers. Reference point for linking-up speakers and rooms/MCs.
 
@@ -115,20 +154,21 @@ Room-based roles have mostly shared responsibility; in each full-talk room, whil
 
 The talk rooms are:
 
-* **LR1** (capacity TBC) [aka Room 0]
-    * Morning: GlR (MC) &amp; GC (mon)
-    * Afternoon: GF (MC) &amp; JMcD (mon)
-* **LR3** [aka Room 1]
-    * Morning: KM (MC) &amp; PN (mon)
-    * Afternoon: SMcC (MC) &amp; NG (mon)
-* **Conference** [aka Room 2]
-    * Morning: PA (MC) &amp; GaR (mon)
-    * Afternoon: AMcK (MC) &amp; MC (mon)
-* **Lecture Theatre** [aka Room 3]
-    * Morning: HMcN (MC) &amp; HE (mon)
-    * Afternoon: MK (MC) &amp; ZGT (mon)
-* **Lightning**
-    * Morning: JMcC (MC) &amp; EM (mon)
+* **LR1**
+    * Morning: EM (MC) &amp; Ao (mon)
+    * Afternoon: HMcN (MC) &amp; MN (mon)
+* **LR3**
+    * Morning: RaM (MC) &amp; AD (mon)
+    * Afternoon: EM (MC) &amp; Ao (mon)
+* **Conference** [aka CR2]
+    * Morning: CG (MC) &amp; SR (mon)
+    * Afternoon: RuM (MC) &amp; Art (mon)
+* **Lecture Theatre** [aka Raked]
+    * Morning: BC (MC) &amp; EC (mon)
+    * Afternoon: PTW (MC) &amp; RL (mon)
+* **Lightning** [aka CR1]
+    * Morning: MN (MC) &amp; RC (mon)
+    * Morning: JMcC (MC) &amp; SF (mon)
 
 The Plenary room will be split into the Lightning and Conference rooms at 9:40am, over 5-10min, and rejoined at 17:50.
 
@@ -177,7 +217,7 @@ If you are looking after a room in the afternoon, we would ask that you check in
 
 These will be assigned flexibly on the day.
 
-* Sorting lanyards [?]
+* Sorting lanyards
 * Doing a sweep with bin-bags
 * Putting up posters and roller banners
 * Bringing equipment/media in from van
