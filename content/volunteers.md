@@ -145,7 +145,7 @@ The talk rooms are:
     * Morning: RaM (MC) &amp; AD (mon)
     * Afternoon: EM (MC) &amp; MA (mon)
 * **LR3**
-    * Morning: EM (MC) &amp; Ao (mon)
+    * Morning: NM (MC) &amp; Ao (mon)
     * Afternoon: HMcN (MC) &amp; Ao (mon)
 * **Conference** [aka CR2]
     * Morning: CG (MC) &amp; SR (mon)
