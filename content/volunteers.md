@@ -99,31 +99,6 @@ The following roles are points-of-contact for specific types of issue, to help c
 
 As the committee functions by consensus, where there is a disagreement, none of these touchpoint roles supersede committee consensus.
 
-    - Scheduling: @markxallan@gmail.com 
-    - Speakers: @Art K 
-   
-    - Volunteers: Philbo baggins
-    - Accessibility: @philbo baggins
-    - After-party: @Phil W 
-    
-    - Ticketing: @Zoe T 
-    - Twitter, web, email: @Zoe T 
-    - Signage, merch & information: @Zoe T 
-    - Registration desk: @Zoe T 
-    - info desk @Zoe T 
-
-    - Sponsors:@martin n 
-    - Waste & rubbish: @martin n 
-    - Venue: @martin n 
-
-    - Childcare: @Joan
-    
-    - Welfare: @Mark & @joan
-    
-    - Equipment, AV + Photography: @May C
-    - GDPR: @May C 
-    - Administration Issues: @May C 
-
 #### Accessibility (Phil)
 
 Ensuring fair access to facilities and enjoyment of the conference by all attendees, speakers and volunteers. Physical accessibility of the building, obstacles.
@@ -132,21 +107,25 @@ Ensuring fair access to facilities and enjoyment of the conference by all attend
 
 Ensuring a physically, emotionally and mentally safe environment is maintained. Harassment, bullying &amp; abuse. Creche, P-T parking and childcare provisions.
 
-#### Exhibitors, Venue &amp; Catering (Martin)
+#### Exhibitors, Venue, Waste &amp; Catering (Martin)
 
 Addressing needs of exhibitors, and use of the Atrium space. Ensuring adequate supply of food, hot drinks, water, crockery and utensils.
 
 #### Equipment, AV &amp; Photography (May)
 
+Projectors, cabling and equipment. Please check with May before moving or folding any AV or photography equipment.
 
+#### Volunteer Coordination &amp; After-Party (Phil)
 
-#### After-Party (Phil)
-
-Handling complications with projectors, or other electronic equipment. Resolving persistent WiFi or other connectivity issues. Ensuring the after-party food, drink, tokens and venue work correctly.
+Ensuring the after-party food, drink, tokens and venue work correctly.
 
 #### Speakers (Art)
 
-Ensuring any specific speaker needs or challenges are addressed. Contingency for missing or unavailable speakers. Reference point for linking-up speakers and rooms/MCs.
+Ensuring any specific speaker needs or challenges are addressed. Resolving persistent speaker WiFi or other connectivity issues. Contingency for missing or unavailable speakers. Reference point for linking-up speakers and rooms/MCs.
+
+### Communications & Information (Zoe)
+
+Ticketing, social media, signage, registration and information.
 
 ### Talk Room
 
@@ -156,7 +135,7 @@ The talk rooms are:
 
 * **LR1**
     * Morning: EM (MC) &amp; Ao (mon)
-    * Afternoon: HMcN (MC) &amp; MN (mon)
+    * Afternoon: HMcN (MC) &amp; MA (mon)
 * **LR3**
     * Morning: RaM (MC) &amp; AD (mon)
     * Afternoon: EM (MC) &amp; Ao (mon)
