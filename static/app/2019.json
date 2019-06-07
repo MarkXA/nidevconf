@@ -426,15 +426,15 @@
       "description": "Importance of Machine Learning in today's world?"
     },
     {
-      "id": "lalitkale",
-      "title": "Things To Pack For A trip To Microservices",
+      "id": "markallan",
+      "title": "Serverless vs Containers",
       "speakers": [
-        "lalitkale"
+        "markallan"
       ],
       "lightning": false,
       "time": "6",
       "room": "LT",
-      "description": "You have heard loads of praise from other fellow travellers about microservices. No matter, if you are just starting your journey or on the way, hear from a practitioner about things to pack and couple of tips for making your journey much safer and smoother on the road to microservices.\n\nIn this session, We’ll take a look at some lessons learned, patterns and anti-patterns that can turn your microservices into success or disasters. We will also explore\n\nMicroservices almost seem to be the de-facto way to build systems today, but are they always the answer?\n\nIf Microservices are the answer for you, what are the challenges you’ll face at scale (both from a technical and organisational level)?\n\nWhat are the strategies you should use now that you are effectively building a distributed system?"
+      "description": "We all know that the future is serverless. But we also know that the future is containers and Kubernetes. Which will win? There's only one way to find out ..."
     },
     {
       "id": "lauramcfadden",
@@ -1146,15 +1146,16 @@
       "description": "Being an international student from Queen's University is an added value to my learning skill. Since I am interested in exploring the field of Data Science to know about how AI, Machine Learning facets assist us in everyday life, I lean forward to study these subjects. As a Master of Science in Data Analytics student, I am currently working on analyzing the data of Car Manufacture, Credit Card Fraud and Trading Market. Being a Machine Learning enthusiast, I intend to build my own product."
     },
     {
-      "id": "lalitkale",
-      "title": "Lalit Kale",
-      "speakerImage": "https://sessionize.com/image?f=5a4b2e9c0fd1ad7cee4a59aa6034e28f,400,400,True,False,45b78ac6-6af2-4a33-a9e4-3936bcf5ba92.jpg",
+      "id": "markallan",
+      "title": "Mark Allan",
+      "speakerImage": "https://www.gravatar.com/avatar/d4d50639635ed5bfbe8db7ba87d61c81?s=400",
       "links": [
-        "https://twitter.com/atechiethought",
-        "https://www.linkedin.com/in/lalitkale/",
-        "https://github.com/lalitkale"
+        "https://twitter.com/MarkXA",
+        "https://linkedin.com/in/MarkXA",
+        "https://github.com/MarkXA",
+        "https://markxa.com"
       ],
-      "description": "Lalit Kale is a technical architect with more than a decade of industry experience. He is currently working as a Principal Engineer and squad lead in Verizon Connect, Dublin. He has worked with large enterprises and mid-size organisations across the globe. Lalit has experience of leading and managing diverse geo-distributed teams.  He established and lead Limerick .NET Azure user group. He has served as speaker in local user groups.\n\nHe works with C# and .NET technologies and on the journey to adopt go-lang and python. His interests includes scalable distributed systems and high performance teams. Lalit is co-author of \"Building Microservices with .Net Core\" by Packt Publications."
+      "description": "Mark is an Azure MVP based on the beautiful North Coast. He's been a professional developer since the 1980s and freelance since 2000, working on a myriad of projects for everything from local startups and councils to multinational corporations and federal government departments. While something of a technology omnivore, particularly if it's new and shiny, he currently tends towards Xamarin and React front-ends sitting on top of scalable Azure services, using a functional and reactive approach. In his spare time he's a STEM Ambassador, CoderDojo mentor, Barefoot volunteer and organiser of the Northern Ireland Developer Conference."
     },
     {
       "id": "lauramcfadden",
@@ -1428,7 +1429,7 @@
   "rooms": [
     {
       "id": "CR1",
-      "title": "Conference Room 1",
+      "title": "Conference Room 1 (\"Lightning\")",
       "abbreviation": "CR1"
     },
     {
@@ -1448,7 +1449,7 @@
     },
     {
       "id": "LT",
-      "title": "Lecture Theatre",
+      "title": "Lecture Theatre (\"Raked\")",
       "abbreviation": "LT"
     }
   ],
