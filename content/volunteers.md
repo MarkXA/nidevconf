@@ -142,17 +142,17 @@ Room-based roles have mostly shared responsibility; in each full-talk room, whil
 The talk rooms are:
 
 * **LR1**
-    * Morning: EM (MC) &amp; Ao (mon)
-    * Afternoon: HMcN (MC) &amp; MA (mon)
-* **LR3**
     * Morning: RaM (MC) &amp; AD (mon)
-    * Afternoon: EM (MC) &amp; Ao (mon)
+    * Afternoon: EM (MC) &amp; MA (mon)
+* **LR3**
+    * Morning: EM (MC) &amp; Ao (mon)
+    * Afternoon: HMcN (MC) &amp; Ao (mon)
 * **Conference** [aka CR2]
     * Morning: CG (MC) &amp; SR (mon)
-    * Afternoon: RuM (MC) &amp; Art (mon)
+    * Afternoon: RuM (MC) &amp; AK (mon)
 * **Lecture Theatre** [aka Raked]
     * Morning: BC (MC) &amp; EC (mon)
-    * Afternoon: PTW (MC) &amp; RL (mon)
+    * Afternoon: PW (MC)
 * **Lightning** [aka CR1]
     * Morning: MN (MC) &amp; RC (mon)
     * Morning: JMcC (MC) &amp; SF (mon)
