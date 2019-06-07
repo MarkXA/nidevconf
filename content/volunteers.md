@@ -15,9 +15,9 @@ h3 {
 
 # Volunteering
 
-This is general information for volunteers at the NI Developer Conference. The initials key is available in the Volunteer email.
+This is general information for volunteers at the NI Developer Conference.
 
-[->WHERE AM I SUPPOSED TO BE WHEN? (PDF download)](/downloads/volunteer-agenda.pdf): this visual guide shows by what time we are expecting people to be where. This is not necessarily comprehensive, so check for your initials below. If you notice a discrepancy between that and the below, please let us know.
+This visual guide shows by what time we are expecting people to be where. This is not necessarily comprehensive, so check for your initials below. If you notice a discrepancy between that and the below, please let us know.
 
 Please do make sure you are familiar with the sections relevant to you below.
 
@@ -32,7 +32,7 @@ We recommend you have basic familiarity with these documents, and are particular
 * [Speaker Info](/speakerinfo)
 * [Venue](/venue)
 
-If you have any issues that arise that involve health, safety, harassment or offensive behaviour, please let one of the organizing committee know: Art Knipe, Joan McAleer, Mark Allan, Martin Naughton and Phil Weir.
+If you have any issues that arise that involve health, safety, harassment or offensive behaviour, please let one of the organizing committee know: Art Knipe, Joan McAleer, Mark Allan, Martin Naughton, May Cheung, Phil Weir and Zoe Gadon-Thompson.
 
 We will be communicating through a private channel on the [NI Tech & Design slack](https://nitech.slack.com) on the day. The slack channel is called #nidevconf-volunteers.
 
@@ -46,33 +46,23 @@ Some tasks may be "all hands on deck" and involve volunteers with any or all pri
 
 #### Welcome Wagon
 
-*PW*
-
 Someone to stay out the front from 8.30am until 9.40am (or a 15-20min subset, if it quietens down fast) to make sure people know where to park, manage the queue, direct to the Creche (via side-door, unless lift required), provide basic accessibility info.
 
 Chalk the parent-child spaces (8 or 9), with one car-free side on/close to a level with the entrance.
 
 #### Projector Checker
 
-*PW*
-
 Make sure all projectors are off at lunch
 
 #### Helping Open Space Kick-off
-
-*AK*
 
 Helping the Open Space kick off, and supporting the Tech Space coordinators.
 
 #### Checking the Bot
 
-*AK, MC*
-
 Making sure everything's fine for us arriving.
 
 ### Registration Desk
-
-*ZGT, EK, DA, AK*
 
 * The desk duties will start at 08:20
 * Checking attendees in on the ti.to app
@@ -82,14 +72,10 @@ Making sure everything's fine for us arriving.
 
 ### Information Desk
 
-*JMcA, DA, HE*
-
 * Helping people with any queries, or redirecting to a touchpoint
 * Calling security of any issues or for first aid
 
 ### Roving
-
-*MN, MA, PW*
 
 Check in on Info Desk, Quiet Room, Project Room, Green Room and Creche every 15min. Circulate around the talk rooms.
 
@@ -206,14 +192,9 @@ These will be assigned flexibly on the day.
 
 ### The Great Room Switch
 
-*Morning: HE, MC, GaR, PN, AK, PW, MN, MA*;
-*Afternoon: all that are available*
-
 * Rearrange chairs to/from (depending) plenary formation to split-room formation
 
 ### Vouchers
-
-*ZGT, HE, NG*
 
 * Hand out 1 food and 1 drink token to each attendee
 * One person to hand out tokens marked "D" for dietary requirements, if people have declared in advance
