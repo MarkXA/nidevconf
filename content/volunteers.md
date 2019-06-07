@@ -210,7 +210,7 @@ If you are looking after a room in the afternoon, we would ask that you check in
 9. Ensure speakers who do not wish to be recorded or photographed are not (by audience or official photographer)
 10. Ensure speakers use both the induction loop and recording microphones
 11. If you have not seen a particular speaker during the day, and it is 5 minutes away from their talk, ask your room monitor to find Art!
-12. Get a SIGNATURE on the AV waiver, and give cup (WiFi is at registration desk)
+12. Get a SIGNATURE on the AV waiver (speakers can get WiFi and NIDC cups at registration desk)
 
 ## Tasks
 
