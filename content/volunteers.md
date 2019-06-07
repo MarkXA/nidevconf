@@ -144,15 +144,19 @@ The talk rooms are:
 * **LR1**
     * Morning: RaM (MC) &amp; AD (mon)
     * Afternoon: NJM (MC) &amp; MA (mon)
+    
 * **LR3**
-    * Morning: EM (MC) &amp; Ao (mon)
-    * Afternoon: HMcN (MC) &amp; Ao (mon)
+    * Morning: EM (MC) &amp; ANA (mon)
+    * Afternoon: HMcN (MC) &amp; ANA (mon)
+    
 * **Conference** [aka CR2]
     * Morning: CG (MC) &amp; SR (mon)
     * Afternoon: RuM (MC) &amp; AK (mon)
+    
 * **Lecture Theatre** [aka Raked]
     * Morning: BC (MC) &amp; EC (mon)
-    * Afternoon: PW (MC)
+    * Afternoon: PW (MC) &amp; AD (mon)
+    
 * **Lightning** [aka CR1]
     * Morning: MN (MC) &amp; RC (mon)
     * Morning: JMcC (MC) &amp; SF (mon)
