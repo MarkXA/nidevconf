@@ -169,7 +169,7 @@ The talk rooms are:
 
 * **Lightning** [aka CR1]
     * Morning: MN (MC) &amp; RC (mon)
-    * Morning: JMcC (MC) &amp; SF (mon)
+    * Afternoon: JMcC (MC) &amp; SF (mon)
 
 The Plenary room will be split into the Lightning and Conference rooms at 9:40am, over 5-10min, and rejoined at 17:50.
 
