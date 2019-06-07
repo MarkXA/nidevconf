@@ -127,6 +127,14 @@ Ensuring any specific speaker needs or challenges are addressed. Resolving persi
 
 Ticketing, social media, signage, registration and information.
 
+### Project Room
+
+This will require any volunteers not otherwise occupied to help move chairs at 11.45pm. Please head to this room at this time if you can.
+
+This room will have a guided conversation from 10.30am - 11.30am - May will be looking after the room.
+
+In the afternoon, we will have a series of project showcases from kids, followed by adults demoing. This will be supported by Zoe, although any spare volunteers would be encouraged to help out here.
+
 ### Talk Room
 
 Room-based roles have mostly shared responsibility; in each full-talk room, while talks are running, there should be one MC and one room monitor. Except in an emergency, please ensure at least one of the MC and room monitor (generally the MC) is in the room at all times.
