@@ -143,7 +143,7 @@ The talk rooms are:
 
 * **LR1**
     * Morning: RaM (MC) &amp; AD (mon)
-    * Afternoon: NM (MC) &amp; MA (mon)
+    * Afternoon: NJM (MC) &amp; MA (mon)
 * **LR3**
     * Morning: EM (MC) &amp; Ao (mon)
     * Afternoon: HMcN (MC) &amp; Ao (mon)
