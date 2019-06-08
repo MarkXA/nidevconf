@@ -179,7 +179,7 @@ If you are looking after a room in the morning, we would ask that you make sure 
 
 If you are looking after a room in the afternoon, we would ask that you check in with the info desk 30-40min before your session starts.
 
-1. Make sure interstitials are shown for at least 5mins between every talk: [link here](http://nidc.flaxandteal.co.uk)
+1. Make sure interstitials are shown for at least 5mins between every talk: [link here](http://philtweir.github.io/nidc-interstitials)
     * These communicate several key bits of info, such as other talks (no leaflets, and not everybody has the app!)
     * They can be paused or played at the bottom left of the screen (they auto-cycle)
 2. Ensure the room does not go over capacity. Add a Room Full sign outside the door when the capacity is reached
