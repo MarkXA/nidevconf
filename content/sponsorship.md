@@ -11,6 +11,9 @@ title = "Sponsorship Options"
                 <p>
                     We have a range of sponsorship levels available to suit everyone. Please <a href="/downloads/sponsorship.pdf">download our flyer</a> for details.
                 </p>
+                <p>
+                    When you're ready, just fill in <a href="https://forms.gle/8c38enVTFaLteunJ8">our short sponshorship form</a> to apply.
+                </p>
             </div>
         </main>
     </div>
