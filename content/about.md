@@ -7,7 +7,7 @@ title = "About"
         <a id="top"></a>
         <main class="container generic">
             <div class="col-md-12 main">
-                <h1>The Northern Ireland Developer Conference 2019</h1>
+                <h1>The Northern Ireland Developer Conference 2020</h1>
                 <h3>Why?</h3>
                 <p>
                     The software development scene in Northern Ireland has exploded over the past few years.
