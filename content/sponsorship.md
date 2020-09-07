@@ -12,7 +12,7 @@ title = "Sponsorship Options"
                     This year NIDC will be somewhat different, being our first online event. We're planning another inspiring event with talks over 2 days across the development spectrum showcasing the great work that local developers are doing and the technologies they're using for their creations, plus other cool and exciting stuff from the great wide world of software.
                 </p>
                 <p>
-                    <em>We're also really excited about our collaboration with NI Raspberry Jam, who are bringing a dedicated children's track of exciting talks and workshops to the conference on the afternoon of Day 2.</em>
+                    <strong>We're also really excited about our collaboration with NI Raspberry Jam, who are bringing a dedicated children's track of exciting talks and workshops to the conference on the afternoon of Day 2.</strong>
                 </p>
                 <p>
                     Most importantly, we're aiming to keep alive the spirit of what makes NIDC so unique even in the virtual world!
@@ -31,7 +31,7 @@ title = "Sponsorship Options"
                     We have a range of sponsorship levels available to suit everyone. Please <a href="/downloads/sponsorship.pdf">download our flyer</a> for details.
                 </p>
                 <p>
-                    When you're ready, just fill in <a href="https://forms.gle/8c38enVTFaLteunJ8">our short sponsorship form</a> to apply.
+                    When you're ready, just fill in <a href="https://forms.gle/8c38enVTFaLteunJ8">our short sponsorship form</a> by <strong>Friday 18th September</strong> to apply.
                 </p>
             </div>
         </main>
