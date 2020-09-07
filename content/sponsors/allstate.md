@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Allstate NI"
 sponsorlevel = "gold"
 logo = "/img/sponsors/allstate.png"
