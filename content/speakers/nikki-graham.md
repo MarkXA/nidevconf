@@ -1,8 +1,8 @@
 +++
 id = "nikki-graham"
 title = "Nikki Graham"
-speakerimage = "https://sessionize.com/image?f=3284cb3dfd6b9865ace8232f39a8d2b1,400,400,1,0,f599b3a9-c2f8-4702-a411-e580a0b81c9c.jpg"
-links = ["https://gcdtech.com/"]
+speakerimage = "/img/speakers/nikki-graham.jpg"
+links = ["https://gcdtech.com/", "https://www.linkedin.com/in/nikki-graham-0846491b5/"]
 sessionizeId = "11f66d11-02e5-4709-ad2d-a0a4cb5fa023"
 +++
 
