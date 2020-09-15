@@ -52,8 +52,6 @@ A programme for the main conference that will run on Friday and Saturday, 9th an
 🛠    | **(HANDS ON!) Workshop with pen and paper to turn your ideas into games by Kevin Beimers**    | **4:10pm**    | ... | 40 minutes    | 
 👋    | **Goodbye and what's next?**                                                                  | **4:50pm**    | ... | 10 minutes    | 
 
-##
-
 ## FAQ
 
 Contact inbox@nidvconf.com with any questions that are not answered, we are happy to help.
