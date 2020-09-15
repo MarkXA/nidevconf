@@ -32,25 +32,23 @@ A programme for the main conference that will run on Friday and Saturday, 9th an
 
 ## NI Raspberry Jam Programme
 
-...   | Session                                                                                       | Time          | ... | Length        | 
-:---  | :---                                                                                          | ---:          | --- | ---           | 
-ℹ️     | **Welcome and tips for following along from online!**                                         | **1pm**       | ... | 10 minutes    | 
-❓    | **Unconfirmed**                                                                               | **1:10pm**    | ... | 15 minutes    | 
-💬    | **A talk by Lauren Taylor**                                                                   | **1:25pm**    | ... | 15 minutes    | 
-🥪    | **Breaktime**                                                                                 | **1:40pm**    | ... | 5 minutes     | 
-💬    | **A talk by Andrew Bolster**                                                                  | **1:45pm**    | ... | 15 minutes    | 
-❓    | **Unconfirmed**                                                                               | **2pm**       | ... | 15 minutes    | 
-👏    | **Showcase of Projects by Kids**                                                              | **2:15pm**    | ... | 10 minutes    | 
-🛠    | **(HANDS ON!) Workshop to Build Your Own Automatic Night Light by Lucy Bell**                 | **2:25pm**    | ... | 40 minutes    |
-🥪    | **Breaktime and Kahoot Game**                                                                 | **3:05pm**    | ... | 10 minutes    | 
-💬    | **"Everyone has a place in the games industry" by Tina Lauro Pollock**                        | **3:15pm**    | ... | 10 minutes    | 
-💬    | **A talk by Kevin Beimers**                                                                   | **3:25pm**    | ... | 10 minutes    | 
-💬    | **A talk by Jess Campbell**                                                                   | **3:35pm**    | ... | 10 minutes    | 
-❓    | **Unconfirmed**                                                                               | **3:45pm**    | ... | 10 minutes    | 
-🤔    | **Q&A Panel with Kevin Beimers, Jess Campbell**                                               | **3:55pm**    | ... | 10 minutes    | 
-🥪    | **Breaktime**                                                                                 | **4:05pm**    | ... | 5 minutes     | 
-🛠    | **(HANDS ON!) Workshop with pen and paper to turn your ideas into games by Kevin Beimers**    | **4:10pm**    | ... | 40 minutes    | 
-👋    | **Goodbye and what's next?**                                                                  | **4:50pm**    | ... | 10 minutes    | 
+* ℹ️  1:00pm **Welcome and tips for following along from online!**
+* ❓ 1:10pm 🤷‍♀️
+* 💬 1:25pm **A talk by Lauren Taylor**
+* 🥪 1:40pm **Breaktime**
+* 💬 1:45pm **A talk by Andrew Bolster**
+* ❓ 2:00pm **🤷‍♀️**
+* 👏 2:15pm **Showcase of Projects by Kids**
+* 🛠 2:25pm **(HANDS ON!) Workshop to Build Your Own Automatic Night Light by Lucy Bell**
+* 🥪 3:05pm **Breaktime and Kahoot Game**
+* 💬 3:15pm **"Everyone has a place in the games industry" by Tina Lauro Pollock**
+* 💬 3:25pm **A talk by Kevin Beimers**
+* 💬 3:35pm **A talk by Jess Campbell**
+* ❓ 3:45pm **🤷‍♀️**
+* 🤔 3:55pm **Q&A Panel with Kevin Beimers, Jess Campbell**
+* 🥪 4:05pm **Breaktime**
+* 🛠 4:10pm **(HANDS ON!) Workshop with pen and paper to turn your ideas into games by Kevin Beimers**
+* 👋 4:50pm **Goodbye and what's next?**
 
 ## FAQ
 
@@ -76,12 +74,14 @@ setting.
 
 However, a picture is worth 1000 words so have a look at these photos from previous NI Raspberry Jam events.
 
+---
+
 ![NI Raspberry Jam @ NIDC2020](/img/raspberry-jam-3.jpg)
 
-##
+---
 
 ![NI Raspberry Jam @ NIDC2020](/img/raspberry-jam-1.jpg)
 
-##
+---
 
 ![NI Raspberry Jam @ NIDC2020](/img/raspberry-jam-2.jpg)
