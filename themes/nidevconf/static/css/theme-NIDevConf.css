@@ -3245,7 +3245,7 @@ body .colors .col-xs-2:nth-child(6n+0) {
   }
 }
 
-.speakers {
+.speakers, section.homeIntro {
   background-color: #f5f5f5;
 }
 

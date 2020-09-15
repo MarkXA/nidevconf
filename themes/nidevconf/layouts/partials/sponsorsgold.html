@@ -1,14 +1,14 @@
-{{ $platinum := where .Site.Pages "Params.sponsorlevel" "platinum" }}
+{{ $gold := where .Site.Pages "Params.sponsorlevel" "gold" }}
 
-{{ if $platinum }}
+{{ if $gold }}
   <main class="container generic" style="text-align: center">
     <div class="col-md-12 main">
       <div class="row">
-        <h2>Platinum Sponsors</h2>
+        <h2>Gold Sponsors</h2>
       </div>
       <div class="row">
-        <div class="sponsors platinum">
-          {{ range $platinum }}
+        <div class="sponsors gold">
+          {{ range $gold }}
             {{ partial "sponsor.html" . }}
           {{ end }}
         </div>

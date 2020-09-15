@@ -71,7 +71,12 @@
         </div>
       </div>
     </section>
-    <section class="main-container contained-gallery">
+
+    <section class="row">
+      {{ partial "sponsorsplatinum.html" . }}
+    </section>
+
+    <section class="main-container contained-gallery homeIntro">
       <div class="container">
         <div class="row">
           <div class="col-md-5">
@@ -100,12 +105,16 @@
       </div>
     </section>
 
+    <section class="row">
+      {{ partial "sponsorsgold.html" . }}
+    </section>
+
     <div class="scrollSection">
       {{ partial "speakers.html" . }}
     </div>
 
     <section class="row">
-      {{ partial "sponsorsnonplatinum.html" . }}
+      {{ partial "sponsorssilver.html" . }}
     </section>
 </div>
 {{ partial "footer.html" . }}
