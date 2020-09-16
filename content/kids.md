@@ -7,7 +7,7 @@ layout = "generic"
 
 ![NI Raspberry Jam @ NIDC2020](/img/raspberry-jam-banner.png)
 
-## About
+## 🤔 About
 
 Is your coding club cancelled because of lockdown?
 
@@ -18,13 +18,15 @@ game developers questions, and hands-on workshops with FREE [Circuit Playground 
 
 Join the first ever online NI Raspberry Jam!
 
-## Register (2 Steps)
-
-1️⃣ [Click here to register for a 'General Admission for Young People' ticket](https://hopin.to/events/nidc2020?code=5b4c5102-74d1-4a0f-8c64-65a8b4299416). An online registration is required for our online platform Hopin, so it **must be done by a parent and/or guardian**.
+1️⃣ [Click here to register for a 'General Admission for Young People' ticket](https://hopin.to/events/ni-raspberry-jam-nidc). An online registration is required for our online platform Hopin, so it **must be done by a parent and/or guardian**.
 
 2️⃣ [Click here to register for a FREE workshop kit](https://forms.gle/MdTGTPkREhTNgNF49) for Young People taking part in the workshops. **ONLY 30 [Circuit Playground Base Kits](https://thepihut.com/products/adafruit-circuit-playground-express-base-kit) available** on a first-come first-serve basis across the UK, with priority given to NI residents. An email address and shipping address are required, so it **must be done by a parent and/or guardian**.
 
-ℹ️ Additionally, a 'General Admission for Young People' ticket will allow Young People to watch talks on the main conference tracks and they are welcome to take part. This ticket will have restricted chat capability compared to 'General Admission' tickets for adults.
+## ℹ️ Important Information
+
+Additionally, a 'General Admission for Young People' ticket will allow Young People to watch talks on the main conference tracks and they are welcome to take part. This ticket will have restricted chat capability compared to 'General Admission' tickets for adults.
+
+Guidance on staying safe online for parents/guardians and Young People will be made available prior to the event.
 
 ## Main Conference Programme
 
