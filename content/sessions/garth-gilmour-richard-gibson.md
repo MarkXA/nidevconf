@@ -1,7 +1,7 @@
 +++
-id = "garth-gilmour"
+id = "garth-gilmour-richard-gibson"
 title = "Not Your Mothers TDD - Type Driven Development in TypeScript"
-speakers = ["garth-gilmour"]
+speakers = ["garth-gilmour", "richard-gibson"]
 lightning = false
 sessionizeId = "215214"
 +++

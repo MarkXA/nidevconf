@@ -1,7 +1,7 @@
 +++
 id = "garth-gilmour"
 title = "Garth Gilmour"
-speakerimage = "https://sessionize.com/image?f=f52e190b88d3be7695db6bd2c5109d6d,400,400,1,0,18-0545-40a7-b670-1f8593fa6f50.537538ef-8ae5-4fbc-a57d-b05a2c142cd1.png"
+speakerimage = "/img/speakers/garth-gilmour.jpg"
 links = ["https://twitter.com/GarthGilmour","https://www.linkedin.com/in/garthgilmour/","https://instil.co/blog/","https://instil.co"]
 sessionizeId = "877c0f18-0545-40a7-b670-1f8593fa6f50"
 +++
