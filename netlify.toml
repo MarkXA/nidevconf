@@ -3,10 +3,3 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.30"
-
-[[redirects]]
-  from = "/kids"
-  to = "https://hopin.to/events/ni-raspberry-jam-nidc"
-  status = 301
-  force = true
-  query = {path = ":path"}
