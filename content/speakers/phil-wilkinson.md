@@ -1,7 +1,7 @@
 +++
 id = "phil-wilkinson"
 title = "Phil Wilkinson"
-speakerimage = "https://sessionize.com/image?f=d1eb1aa007b336fe1ac0a973ef177ad8,0,0,0,0,be-1d51-4612-a512-108ea6431d50.224e47d9-7ca8-402b-8010-7b8f3737bd5f.jpg"
+speakerimage = "https://sessionize.com/image?f=2417548ce1b63fb1b9798dac9f28b1af,400,400,1,0,be-1d51-4612-a512-108ea6431d50.224e47d9-7ca8-402b-8010-7b8f3737bd5f.jpg"
 links = ["https://www.twitter.com/philawilkinson","https://www.linkedin.com/in/philwilkinson","https://www.flexera.com/"]
 sessionizeId = "1d6e37be-1d51-4612-a512-108ea6431d50"
 +++
