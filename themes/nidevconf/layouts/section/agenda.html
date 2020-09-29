@@ -3,270 +3,69 @@
 
 {{ $sessions := where .Site.Pages "Section" "sessions" }}
 {{ $lightnings := where $sessions "Params.lightning" true }}
-
-{{ $times := slice (dict "title" "8:30-9:00" "allRooms" "REGISTRATION") (dict "title" "9:00-9:20" "allRooms" "TEA/COFFEE") (dict "title" "9:30-9:40" "plenary" "Welcome address (in Conference Room)") (dict "time" "1" "title" "9:50-10:20") (dict "time" "2" "title" "10:30-11:00") (dict "time" "3" "title" "11:10-11:40") (dict "time" "4" "title" "11:50-12:20") (dict "time" "5" "title" "12:30-13:00") (dict "time" "6" "title" "13:10-13:40") (dict "time" "7" "title" "13:50-14:20") (dict "time" "8" "title" "14:30-15:00") (dict "time" "9" "title" "15:10-15:40") (dict "title" "15:40-16:00" "allRooms" "BREAK") (dict "time" "10" "title" "16:00-16:30") (dict "time" "11" "title" "16:40-17:10") (dict "time" "12" "title" "17:20-17:50") (dict "title" "18:00-18:20" "plenary" "Closing address (in Conference Room)") (dict "title" "AFTERWARDS" "allRooms" "Complimentary food and drink at the Botanic Inn") }}
-
-{{ $rooms := slice (dict "id" "CR1" "name" "Conference Room 1 (\"Lightning\")") (dict "id" "CR2" "name" "Conference Room 2") (dict "id" "LR1" "name" "Lecture Room 1") (dict "id" "LR3" "name" "Lecture Room 3") (dict "id" "LT" "name" "Lecture Theatre (\"Raked\")") }}
-
-{{ $lightningTimes := slice "13:50" "14:00" "14:10" "14:30" "14:40" "14:50" "15:10" "15:20" "15:30" "16:00" "16:10" "16:20" "16:40" "16:50" "17:00" "17:20" "17:30" "17:40" }}
-
-<style>
-  .agendaHeader {
-    background-color: #e0e0e0;
-    margin-bottom: 2em;
-  }
-  .agendaHeader h3 {
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
-  }
-  .agendaHeader h3 a {
-    text-decoration: underline;
-    font-weight: bold;
-    color: inherit;
-  }
-  .agenda {
-    border: solid 1px #35566a;
-  }
-  .agenda table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  .agenda td {
-    padding: 0.25em 1em;
-    border: solid 2px white;
-  }
-  .agenda td:nth-child(n+2) {
-    width: 20%;
-  }
-  .agenda td.agendaBlocked {
-    background-color: #FFFFFF !important;
-  }
-  .agenda tr:first-child td {
-    font-weight: bold;
-    color: white;
-    background-color: #35566a;
-  }
-  .agenda tr td:first-child {
-    font-weight: bold;
-    color: white;
-    background-color: #35566a;
-    text-align: center;
-    white-space: nowrap;
-  }
-  .agenda tr:nth-child(2n) td:nth-child(2n) {
-    background-color: #E0E0E0;
-  }
-  .agenda tr:nth-child(2n) td:nth-child(2n+3) {
-    background-color: #E8E8E8;
-  }
-  .agenda tr:nth-child(2n+3) td:nth-child(2n) {
-    background-color: #F0F0F0;
-  }
-  .agenda tr:nth-child(2n+3) td:nth-child(2n+3) {
-    background-color: #F8F8F8;
-  }
-  .agenda table tr td.agendaSeparator {
-    text-align: center;
-    font-weight: bold;
-    color: inherit;
-    background-color: #CCC !important;
-    border: solid 2px white;
-  }
-  .agenda td.lightnings div {
-    font-size: 75%;
-    line-height: 1.25em;
-    margin-bottom: 0.25em;
-  }
-
-  .agendaSlot {
-    margin: 0.5em;
-  }
-  .agendaSeparator, .agendaTime {
-    background-color: #DDD;
-  }
-
-  @media (max-width:991px) {
-      .agendaRoom {
-          display: inline;
-      }
-  }
-
-  @media (min-width: 992px) {
-      .agendaRoom {
-          display: none;
-      }
-  }
-</style>
+{{ $d1t1 := sort (where $sessions "Params.track" "==" "d1t1") "Params.time" }}
+{{ $d1t2 := sort (where $sessions "Params.track" "==" "d1t2") "Params.time" }}
+{{ $d2t1 := sort (where $sessions "Params.track" "==" "d2t1") "Params.time" }}
+{{ $d2t2 := sort (where $sessions "Params.track" "==" "d2t2") "Params.time" }}
+{{ $unscheduled := where $sessions "Params.track" "==" nil }}
 
 <div class="main-container">
   <a id="top"></a>
   <section class="speakers">
     <div class="container">
-      <div class="row" style="text-align: center">
-        <div class="col-sm-4 agendaHeader">
-          <h3><a href="#agenda">Agenda</a></h3>
-        </div>
-        <div class="col-sm-4 agendaHeader">
-          <h3><a href="#lightning">Lightning</a></h3>
-        </div>
-        <div class="col-sm-4 agendaHeader">
-          <h3><a href="#project-room">Project Room</a></h3>
-        </div>
-      </div>
       <div class="row">
         <div class="col-sm-12">
           <h1 id="agenda">Agenda</h1>
           <p>
             Please note the timings below are subject to change!
           </p>
-          <div></div>
         </div>
       </div>
+      <hr/>
+      <div class="row">
+        <div class="col-sm-6">
+          <h2>Friday 9th October, Studio</h2>
+          {{ range $session := $d1t1 }}
+          {{ partial "agendaSession.html" $session }}
+          {{ end }}
+        </div>
+        <div class="col-sm-6">
+          <h2>Friday 9th October, Recorded</h2>
+          {{ range $session := $d1t2 }}
+          {{ partial "agendaSession.html" $session }}
+          {{ end }}
+        </div>
+      </div>
+      <hr/>
+      <div class="row">
+        <div class="col-sm-6">
+          <h2>Friday 10th October, Studio</h2>
+          {{ range $session := $d2t1 }}
+          {{ partial "agendaSession.html" $session }}
+          {{ end }}
+        </div>
+        <div class="col-sm-6">
+          <h2>Friday 10th October, Recorded</h2>
+          {{ range $session := $d2t2 }}
+          {{ partial "agendaSession.html" $session }}
+          {{ end }}
+        </div>
+      </div>
+      <hr/>
       <div class="row">
         <div class="col-sm-12">
-          <div class="agenda">
-
-            <div class="visible-xs visible-sm">
-              {{ range $times }}
-                {{ $time := .time }}
-                {{ $timespan := .timespan }}
-                {{ $title := .title }}
-                {{ $allRooms := .allRooms }}
-                {{ $plenary := .plenary }}
-                <div class="agendaSlot">
-                  <div class="agendaTime">
-                    {{ $title }}
-                  </div>
-                {{ if $time }}
-                  {{ if or (eq $time "5") (eq $time "6") }}
-                      <div><strong>LUNCH</strong></div>
-                  {{ end }}
-                  {{ range $index, $room := $rooms }}
-                    {{ $session := where (where $sessions "Params.time" $time) ".Params.room" $room.id }}
-                    {{ if $session }}
-                      <div>
-                        {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
-                      </div>
-                    {{ else if and (eq $room.id "CR1") (gt $time "6") }}
-                      <div>
-                        {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
-                      </div>
-                    {{ end }}
-                  {{ end }}
-                {{ else }}
-                    <div class="agendaItem">
-                      {{ if $allRooms }}
-                        <strong>{{ $allRooms }}</strong>
-                      {{ end }}
-                      {{ if $plenary }}
-                        <strong>{{ $plenary }}</strong>
-                      {{ end }}
-                    </div>
-                  {{ end }}
-                </div>
-              {{ end }}
-            </div>
-            
-            <table class="visible-md visible-lg">
-              <tr>
-                <td></td>
-                {{ range $rooms }}
-                  <td>{{ .name }}</td>
-                {{ end }}
-              </tr>
-              {{ range $times }}
-                {{ $time := .time }}
-                {{ $timespan := .timespan }}
-                {{ $title := .title }}
-                {{ $allRooms := .allRooms }}
-                {{ $plenary := .plenary }}
-                <tr>
-                  {{ if $allRooms }}
-                    <tr>
-                      <td class="agendaTimeHead">
-                        {{ $title }}
-                      </td>
-                      <td colspan="{{ len $rooms }}" class="agendaSeparator">
-                        {{ $allRooms }}
-                      </td>
-                    </tr>
-                  {{ else if $plenary }}
-                    <tr>
-                      <td class="agendaTimeHead">
-                        {{ $title }}
-                      </td>
-                      <td class="agendaSeparator" colspan="5">
-                        {{ $plenary }}
-                      </td>
-                    </tr>
-                  {{ else if $time }}
-                    <td class="agendaTimeHead">
-                      {{ $title }}
-                    </td>
-                    {{ range $index, $room := $rooms }}
-                      {{ $session := where (where $sessions "Params.time" $time) ".Params.room" $room.id }}
-                      {{ if $session }}
-                      <td class="agendaSession">
-                      {{ else if and (eq $room.id "CR1") (gt $time "6") }}
-                      <td class="agendaSession">
-                      {{ else }}
-                      <td class="agendaSeparator">
-                      {{ end }}
-                          {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
-                      </td>
-                    {{ end }}
-                  {{ else }}
-                    <td class="agendaTimeHead">
-                      {{ $timespan }}
-                    </td>
-                    <td colspan="4" class="agendaSeparator">
-                      {{ $title }}
-                    </td>
-                  {{ end }}
-                </tr>
-              {{ end }}
-            </table>
-
-          </div>
-        </div>
-      </div>
-      <div class="row" style="margin-top:2em">
-        <div class="col-sm-12">
-          <h1 id="project-room">Project Room</h1>
-          <p>
-              From <strong>10:30-11:30</strong>, there will be a <a href="/sessions/ewagrabowiecka/">Guided Conversation for Junior Developers</a>.
-          </p>
-          <p>
-              From <strong>13:00-17:00</strong>, be sure to pop in and out of the project room regularly to see a range of interesting and exciting projects being demonstrated by local makers. Some are future stars from NI CoderDojos and Code Clubs, so please show your support! Amongst the things you might come across are:
-          </p>
-          <ul>
-            <li>VR games</li>
-            <li>3D visualisations</li>
-            <li>Scratch games</li>
-            <li>VRIMM inclusive music makers</li>
-            <li>Pi-controlled cars and animals</li>
-            <li>Even more VR!</li>
-          </ul>
-        </div>
-      </div>
-      <div class="row" style="margin-top:2em">
-        <div class="col-sm-12">
-          <h1 id="lightning">Lightning talks</h1>
-          <p>
-            Lightning talks will run at approximately these times.
-          </p>
-          <div>
-            <ul>
-            {{ range $talkIndex, $talk := sort $lightnings "Params.order" }}
-              <li>
-                  {{ index $lightningTimes $talkIndex }} -
+          <h2 id="lightning">Unscheduled</h1>
+            <div>
+              <ul>
+                {{ range $talk := $unscheduled }}
+                <li>
                   <a href="{{ .RelPermalink }}" class="sessionlink">
-                      {{ .Params.title }}
+                    {{ .Params.title }}
                   </a>
-              </li>
-            {{ end }}
-            </ul>
-          </div>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
         </div>
       </div>
     </div>

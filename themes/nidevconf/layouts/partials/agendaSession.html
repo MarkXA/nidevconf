@@ -1,35 +1,5 @@
-{{ $session := .session }}
-{{ $room := .room }}
-{{ $time := .time }}
-
-{{ if $session }}
-    {{ range $session }}
-        <div>
-            <a href="{{ .RelPermalink }}" class="sessionlink">
-                {{ if $room }}
-                    <span class="agendaRoom">{{ $room.name }} - </span>
-                {{ end }}
-                {{ if .Params.keynote }}
-                    <strong>KEYNOTE:
-                {{ end }}
-                {{ .Title }}
-                {{ if .Params.keynote }}
-                    </strong>
-                {{ end }}
-            </a>
-        </div>
-    {{ end }}
-{{ else }}
-    <div>
-        {{ if or (eq $time "5") (eq $time "6") }}
-            LUNCH
-        {{ else if (eq $room.id "CR1") }}
-            <a href="#lightning" class="sessionlink">
-                <span class="agendaRoom">{{ $room.name }} - </span>
-                LIGHTNING TALKS
-            </a>
-        {{ else }}
-            TBC
-        {{ end }}
-    </div>
-{{ end }}
+<div>
+    <a href="{{ .RelPermalink }}" class="sessionlink">
+        {{ .Params.time }} - {{ .Title }}
+    </a>
+</div>

@@ -4,6 +4,8 @@ title = "Empathy as a Super Power"
 speakers = ["emma-mulholland"]
 lightning = false
 sessionizeId = "221396"
+track = "d1t1"
+time = "19:30"
 +++
 
 Empathy is a Super Power!

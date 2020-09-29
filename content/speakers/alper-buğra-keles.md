@@ -1,6 +1,6 @@
 +++
 id = "alper-buğra-keles"
-title = "Alper Buğra  Keles"
+title = "Alper Buğra Keles"
 speakerimage = "https://sessionize.com/image?f=64ae9f72e0ee50061f06a6dae9eb24b4,400,400,1,0,3d-beba-41a3-bbc9-13ec6fc94bbb.bf125b34-cdc7-400d-8f18-a3941eec4207.jpg"
 links = ["https://twitter.com/alperbugrakeles","https://www.linkedin.com/in/alperbugrakeles/","https://testinium.com/","https://github.com/vgarousi/MBTofTestinium"]
 sessionizeId = "fe1dbf3d-beba-41a3-bbc9-13ec6fc94bbb"

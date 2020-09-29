@@ -1,0 +1,56 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ $workshops := where (where .Site.Pages "Section" "workshops") ".File.BaseFileName" "!=" "" }}
+
+<section class="row">
+  <main class="container generic">
+    <h1>NIDC 2020 Workshops</h1>
+    <p>
+      On Thursday 8th October, we will be running a workshops day. While there will be a nominal fee for workshops, which will be donated to charity, it is an absurdly tiny fraction of their street value. Spaces will be very limited, so sign up as soon as you can!
+    </p>
+    <p>
+      We have {{ len $workshops }} workshops on offer, including Event Sourcing, Data Science and TypeScript, and one for anyone who wants to learn how to turn meetings into decisions:
+    <ul style="display: flex; flex-direction: column;">
+      {{ range $workshops }}
+      <li class="randomorder">
+        <a href="#{{ .File.BaseFileName }}">
+          <strong>{{ .Title }}</strong> from {{ .Params.provider }} ({{ .Params.duration }})
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+    </p>
+
+    <div class="workshops">
+      {{ range $workshops }}
+      <div class="row randomorder" data-delta="{{ .Params.delta }}" id="{{ .File.BaseFileName }}">
+        <hr />
+        <div class="speaker-with-bio">
+          <div class="speaker-description col-md-12">
+            <h2 style="display:flex; align-items:center">
+              <span>{{ .Title }}</span>
+            </h2>
+            <p>
+              <img src="{{ .Params.logo }}" style="height: 5em" />
+            </p>
+            <p>
+              Host: {{ .Params.speaker }}
+            </p>
+            <p>
+              {{ .Content }}
+            </p>
+            <p>
+              <a class="btn" href="{{ .Params.registration }}">
+                Register now!
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </main>
+</section>
+
+{{ partial "footer.html" . }}
