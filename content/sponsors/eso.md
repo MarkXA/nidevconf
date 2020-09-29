@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "ESO"
-sponsorlevel = "supporter"
+sponsorlevel = "silver"
 logo = "/img/sponsors/eso.png"
 link = "https://www.eso.com/"
 +++
