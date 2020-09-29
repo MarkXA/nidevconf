@@ -6,7 +6,7 @@ speaker = "Leela Collins"
 duration = "1 hour"
 logo = "/img/sponsors/run-design.png"
 link = "https://www.run.design/"
-registration = "https://gingerzoealex.co.uk/"
+registration = "https://www.eventbrite.co.uk/e/nidc-2020-workshop-lightning-decision-jams-from-rundesign-tickets-123194168073"
 +++
 
 A Lightning Decision Jam is a condensed design thinking workshop which can help teams generate and prioritise actionable solutions to various problems. This process uses the four principles of design sprints:
