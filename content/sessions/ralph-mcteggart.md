@@ -4,6 +4,9 @@ title = "Becoming senior"
 speakers = ["ralph-mcteggart"]
 lightning = false
 sessionizeId = "216034"
+track = "d1t1"
+time = "13:00"
+duration = 10
 +++
 
 Advice and anecdotes about becoming a senior software engineer. 

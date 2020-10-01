@@ -1,0 +1,75 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ $sessions := where .Site.Pages "Section" "sessions" }}
+{{ $lightnings := where $sessions "Params.lightning" true }}
+{{ $r1 := sort (where $sessions "Params.track" "==" "r1") "Params.time" }}
+{{ $r2 := sort (where $sessions "Params.track" "==" "r2") "Params.time" }}
+{{ $d1t1 := sort (where $sessions "Params.track" "==" "d1t1") "Params.time" }}
+{{ $d2t1 := sort (where $sessions "Params.track" "==" "d2t1") "Params.time" }}
+{{ $unscheduled := where $sessions "Params.track" "==" nil }}
+
+<div class="main-container">
+    <a id="top"></a>
+    <section class="speakers">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 id="agenda">Speaker studio schedule</h1>
+                </div>
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2>Pre-recording days</h2>
+                    <p>
+                        Emailing us your slides in advance is preferred. If you must bring your own laptop, ensure it has an HDMI connection. Please arrive <strong>15 minutes</strong> before your start time.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2>Tuesday 6th October</h2>
+                    {{ range $session := $r1 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+                <div class="col-sm-6">
+                    <h2>Wednesday 7th October</h2>
+                    {{ range $session := $r2 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2>Live days</h2>
+                    <p>
+                        <strong>IMPORTANT</strong>:
+                        The A/V team request that if at all possible you email us your <strong>slides in advance</strong> with
+                        any demos pre-recorded and embedded to avoid problems if your HDMI doesn’t work and/or the
+                        internet connection is misbehaving and/or the demo gods just aren’t in a good mood. Please
+                        arrive <strong>30 minutes</strong> before your start time.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2>Friday 9th October</h2>
+                    {{ range $session := $d1t1 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+                <div class="col-sm-6">
+                    <h2>Saturday 10th October</h2>
+                    {{ range $session := $d2t1 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+{{ partial "footer.html" . }}

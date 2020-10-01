@@ -4,6 +4,9 @@ title = "My Summer with Igor: How to become a physicist in just four traumatic w
 speakers = ["james-leech"]
 lightning = false
 sessionizeId = "216612"
+track = "r1"
+time = "13:30"
+duration = 30
 +++
 
 In 2017 I bumbled my way into publishing physics research in Serbia. With terrible undergraduate Python code, I analysed lattice QCD supercomputer simulations Japan and discovered that we may have a fundamental misunderstanding about the forces which hold protons and neutrons together. 

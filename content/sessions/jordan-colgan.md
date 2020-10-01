@@ -4,6 +4,9 @@ title = "Simple, Hard, Effective"
 speakers = ["jordan-colgan"]
 lightning = false
 sessionizeId = "215978"
+track = "d2t1"
+time = "11:35"
+duration = 25
 +++
 
 In this talk we will present the idea that simple and hard make effective results.

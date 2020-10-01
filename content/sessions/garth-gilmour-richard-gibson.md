@@ -5,7 +5,8 @@ speakers = ["garth-gilmour", "richard-gibson"]
 lightning = false
 sessionizeId = "215214"
 track = "d1t1"
-time = "09:30"
+time = "09:40"
+duration = 45
 +++
 
 In recent years the TypeScript language has blossomed. It began as a safer way to do JavaScript, but has incrementally evolved into the most powerful mainstream language for functional programming. In particular the ability to dynamically define and transform types opens the door to new styles of coding, previously unavailable in regular software projects.
