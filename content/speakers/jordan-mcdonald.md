@@ -1,7 +1,7 @@
 +++
 id = "jordan-mcdonald"
 title = "Jordan McDonald"
-speakerimage = "https://sessionize.com/image?f=4479a939ca7899ff532ff582288b6967,400,400,1,0,8fc119b7-9cfc-4fae-9cf3-607ceed14af2.jpg"
+speakerimage = "/img/speakers/jordan-mcdonald.jpg"
 links = ["https://twitter.com/jordantoaster","https://www.linkedin.com/in/jordan-mcdonald-17a95679/","https://github.com/jordantoaster"]
 sessionizeId = "45aa63bb-80ea-47dc-8025-a07c1ea0cca0"
 +++
