@@ -1,7 +1,7 @@
 +++
 id = "minu-beena-sisupal"
 title = "Gone are the days of exact matches (SQL joins)"
-speakers = ["minu-beena-sisupal"]
+speakers = ["minu-beena-sisupal", "ramya-mohankumar"]
 lightning = false
 sessionizeId = "216362"
 +++
