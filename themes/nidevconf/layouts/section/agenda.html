@@ -1,0 +1,62 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ $sessions := where .Site.Pages "Section" "sessions" }}
+{{ $d1t1 := sort (where $sessions "Params.track" "==" "d1t1") "Params.time" }}
+{{ $d2t1 := sort (where $sessions "Params.track" "==" "d2t1") "Params.time" }}
+{{ $d1t2 := sort (where $sessions "Params.track" "==" "d1t2") "Params.time" }}
+{{ $d2t2 := sort (where $sessions "Params.track" "==" "d2t2") "Params.time" }}
+
+<div class="main-container">
+    <a id="top"></a>
+    <section class="speakers">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 id="agenda">Agenda</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2>Friday 9th October</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2>Track 1</h2>
+                    {{ range $session := $d1t1 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+                <div class="col-sm-6">
+                    <h2>Track 2</h2>
+                    {{ range $session := $d1t2 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+            </div>
+            <hr/>
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2>Saturday 10th October</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2>Track 1</h2>
+                    {{ range $session := $d2t1 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+                <div class="col-sm-6">
+                    <h2>Track 2</h2>
+                    {{ range $session := $d2t2 }}
+                    {{ partial "agendaSession.html" $session }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+{{ partial "footer.html" . }}

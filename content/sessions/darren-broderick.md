@@ -4,6 +4,9 @@ title = "Keras with TensorFlow"
 speakers = ["darren-broderick"]
 lightning = false
 sessionizeId = "216462"
+prtrack = "r2"
+prtime = "14:10"
+duration = 30
 +++
 
 Using a sequential model from the Keras API.

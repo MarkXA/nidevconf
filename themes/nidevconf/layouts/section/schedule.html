@@ -2,12 +2,10 @@
 {{ partial "navbar.html" . }}
 
 {{ $sessions := where .Site.Pages "Section" "sessions" }}
-{{ $lightnings := where $sessions "Params.lightning" true }}
-{{ $r1 := sort (where $sessions "Params.track" "==" "r1") "Params.time" }}
-{{ $r2 := sort (where $sessions "Params.track" "==" "r2") "Params.time" }}
-{{ $d1t1 := sort (where $sessions "Params.track" "==" "d1t1") "Params.time" }}
-{{ $d2t1 := sort (where $sessions "Params.track" "==" "d2t1") "Params.time" }}
-{{ $unscheduled := where $sessions "Params.track" "==" nil }}
+{{ $r1 := sort (where $sessions "Params.prtrack" "==" "r1") "Params.prtime" }}
+{{ $r2 := sort (where $sessions "Params.prtrack" "==" "r2") "Params.prtime" }}
+{{ $d1t1 := sort (where $sessions "Params.livetrack" "==" "d1t1") "Params.livetime" }}
+{{ $d2t1 := sort (where $sessions "Params.livetrack" "==" "d2t1") "Params.livetime" }}
 
 <div class="main-container">
     <a id="top"></a>
@@ -17,7 +15,7 @@
                 <div class="col-sm-12">
                     <h1 id="agenda">Speaker studio schedule</h1>
                     <p>
-                        We will be recording at <a href="https://outpostbelfast.com/contact">Outpost</a> on the Newtonards Road.
+                        We will be recording at <a href="https://outpostbelfast.com/contact">Outpost</a> on the Newtownards Road.
                     </p>
                 </div>
             </div>
@@ -34,13 +32,13 @@
                 <div class="col-sm-6">
                     <h2>Tuesday 6th October</h2>
                     {{ range $session := $r1 }}
-                    {{ partial "agendaSession.html" $session }}
+                    {{ partial "prerecordSession.html" $session }}
                     {{ end }}
                 </div>
                 <div class="col-sm-6">
                     <h2>Wednesday 7th October</h2>
                     {{ range $session := $r2 }}
-                    {{ partial "agendaSession.html" $session }}
+                    {{ partial "prerecordSession.html" $session }}
                     {{ end }}
                 </div>
             </div>
@@ -61,13 +59,13 @@
                 <div class="col-sm-6">
                     <h2>Friday 9th October</h2>
                     {{ range $session := $d1t1 }}
-                    {{ partial "agendaSession.html" $session }}
+                    {{ partial "scheduleSession.html" $session }}
                     {{ end }}
                 </div>
                 <div class="col-sm-6">
                     <h2>Saturday 10th October</h2>
                     {{ range $session := $d2t1 }}
-                    {{ partial "agendaSession.html" $session }}
+                    {{ partial "scheduleSession.html" $session }}
                     {{ end }}
                 </div>
             </div>

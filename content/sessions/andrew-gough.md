@@ -4,9 +4,11 @@ title = "Slack Integrations - the Pros and Cons of Building a Product on Top of 
 speakers = ["andrew-gough"]
 lightning = false
 sessionizeId = "221894"
-track = "r2"
-time = "10:00"
+prtrack = "r2"
+prtime = "10:00"
 duration = 20
+track = "d2t1"
+time = "10:15"
 +++
 
 The explosion in publicly accessible APIs has fuelled a growth in services that we now rely on everyday and has been instrumental in making so many products even possible.

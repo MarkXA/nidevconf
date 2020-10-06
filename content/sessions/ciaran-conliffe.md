@@ -4,9 +4,11 @@ title = "Creating Your Own Domain Specific Language For Fun And Profit"
 speakers = ["ciaran-conliffe"]
 lightning = false
 sessionizeId = "214865"
-track = "r1"
-time = "15:00"
+prtrack = "r1"
+prtime = "15:00"
 duration = 30
+track = "d2t1"
+time = "13:00"
 +++
 
 Language is that which brings us together, but it can often be that which divides us as well. Human language is often inexact, which can lead to serious issues when it is used to try and define complex business requirements. Studies have shown that issues from misunderstanding requirements are often the most costly to fix and can even undermine entire projects. How can we prevent this from happening to us?

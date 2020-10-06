@@ -4,8 +4,8 @@ title = "Building and marketing an open source serverless product from scratch w
 speakers = ["matt-coulter"]
 lightning = false
 sessionizeId = "214856"
-track = "r1"
-time = "15:45"
+prtrack = "r1"
+prtime = "15:45"
 duration = 30
 +++
 

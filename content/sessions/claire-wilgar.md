@@ -4,9 +4,11 @@ title = "Developing for Developers"
 speakers = ["claire-wilgar"]
 lightning = false
 sessionizeId = "216605"
-track = "r2"
-time = "13:00"
+prtrack = "r2"
+prtime = "13:00"
 duration = 25
+track = "d2t1"
+time = "11:05"
 +++
 
 As frontend developers, typically when we build sites and apps, the user we are concerned with is the end user, looking at our product in their web browser or via an app. But what if this isn’t the case?
