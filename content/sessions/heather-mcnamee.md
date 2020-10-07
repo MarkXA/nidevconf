@@ -4,11 +4,9 @@ title = "Product of Theseus: Where are you going?"
 speakers = ["heather-mcnamee"]
 lightning = false
 sessionizeId = "216464"
-prtrack = "r2"
-prtime = "13:40"
 duration = 15
-track = "d2t1"
-time = "18:10"
+track = "d2t2"
+time = "13:00"
 +++
 
 Do you need to create a clear vision of why your product exists and where it’s going, grounded in the reality of what it does, why, and for what audience?  If you’re building products - you’ll find this talk helpful. 
