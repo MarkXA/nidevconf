@@ -7,6 +7,8 @@ sessionizeId = "216462"
 prtrack = "r2"
 prtime = "14:10"
 duration = 30
+track = "d2t2"
+time = "15:45"
 +++
 
 Using a sequential model from the Keras API.

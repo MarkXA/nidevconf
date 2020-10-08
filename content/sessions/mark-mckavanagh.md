@@ -4,7 +4,7 @@ title = "Whale, whale, whale. What do we have here?"
 speakers = ["mark-mckavanagh"]
 sessionizeId = "216551"
 track = "d2t2"
-time = "13:00"
+time = "13:45"
 duration = 20
 +++
 

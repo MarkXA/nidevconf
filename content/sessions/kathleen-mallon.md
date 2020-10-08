@@ -4,6 +4,8 @@ title = "Women in Tech: What More Can Be Done To Bridge The Gap?"
 speakers = ["kathleen-mallon"]
 lightning = false
 sessionizeId = "216529"
+track = "d2t2"
+time = "16:45"
 +++
 
 It has been a topical subject that there is a divide between the male and female genders within the technology sector. Being that the number of females in the sector is significantly lower than male, diversity policy must be an important aspect of recruitment and culture - providing the opportunity to have open discussions from a variety of different perspectives.

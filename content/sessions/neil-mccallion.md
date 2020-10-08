@@ -4,6 +4,8 @@ title = "I Play JavaScript: Making a Web Audio Synthesizer"
 speakers = ["neil-mccallion"]
 lightning = false
 sessionizeId = "216609"
+track = "d1t2"
+time = "09:40"
 +++
 
 When I was six years old, my folks bought me a Bontempi toy keyboard for my birthday. I mashed those keys every day until it broke, and beyond. My parents were scarred for life, but a love of The Synth was planted in me that remains to this day.

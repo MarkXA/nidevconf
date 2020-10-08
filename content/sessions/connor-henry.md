@@ -7,8 +7,8 @@ sessionizeId = "216530"
 prtrack = "r1"
 prtime = "13:00"
 duration = 15
-track = "d2t1"
-time = "14:10"
+track = "d2t2"
+time = "13:25"
 +++
 
 Going from manual testing to a fully SDET role already difficult enough, but with the extra pressures of a global pandemic and being fully remote makes it even more complicated. Many believe it is only about learning automation, but there is an entirely different mindset involved. 

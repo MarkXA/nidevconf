@@ -4,6 +4,8 @@ title = "Coding for a Live-streaming platform"
 speakers = ["daniel-porter-wilgar"]
 lightning = false
 sessionizeId = "216611"
+track = "d1t2"
+time = "13:50"
 +++
 
 Live-streaming platforms like Twitch, Mixer, YouTube, etc. have been gaining popularity in recent years, especially during lockdown. What are developers roles within this growing industry?

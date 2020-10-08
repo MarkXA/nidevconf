@@ -4,6 +4,8 @@ title = "A Stranger in a Strange Land: Data Science Onboarding In Practice"
 speakers = ["andrew-bolster"]
 lightning = false
 sessionizeId = "216533"
+track = "d2t2"
+time = "10:15"
 +++
 
 With Data Science being the current hotness, it's appearing in job specs and linkedin posts more than ever. However, for an organisation attempting to invest in Data Science capabilities, how do you introduce, accomodate, and indeed, welcome these new skills into your production data workflows, and what tools can be leveraged in data exploration to understand the inevitable data cruft, technical debt, and documentation atrophy that comes from any large production service over time?

@@ -4,6 +4,8 @@ title = "Continuous Application Security"
 speakers = ["gavin-fenton"]
 lightning = false
 sessionizeId = "216574"
+track = "d1t2"
+time = "16:15"
 +++
 
 I will be talking about what Continuous Application Security (CAS) is and the benefits that it has over the traditional approach to application security that are over reliant on manual processes and lengthy scans.

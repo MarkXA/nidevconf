@@ -6,7 +6,7 @@ lightning = false
 sessionizeId = "216464"
 duration = 15
 track = "d2t2"
-time = "13:00"
+time = "14:10"
 +++
 
 Do you need to create a clear vision of why your product exists and where it’s going, grounded in the reality of what it does, why, and for what audience?  If you’re building products - you’ll find this talk helpful. 

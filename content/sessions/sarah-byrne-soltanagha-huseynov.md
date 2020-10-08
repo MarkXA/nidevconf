@@ -4,6 +4,8 @@ title = "OurRagingPlanet: cultural learning through natural disaster simulation"
 speakers = ["sarah-byrne","soltanagha-huseynov"]
 lightning = false
 sessionizeId = "216386"
+track = "d2t2"
+time = "16:10"
 +++
 
 Cross-cultural learning is a burgeoning field in global education. A yet unexplored method is natural disaster simulation. We have developed an open source web-app platform which simulates natural disasters in a learner’s geographical context. We have partnered with Dr Patricia Marybelle Davies of Prince Mohammed Bin Fahd University in the Kingdom of Saudi Arabia to assess how simulating sandstorms can teach cultural understanding between learners in KSA and the UK.

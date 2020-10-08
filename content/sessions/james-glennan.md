@@ -4,6 +4,8 @@ title = "Changing Airplanes Mid-Air - The Cloud-Native Way"
 speakers = ["james-glennan"]
 lightning = false
 sessionizeId = "216560"
+track = "d1t2"
+time = "13:15"
 +++
 
 Flying is one thing. Trying to justify to 100 people why you should change planes mid-air is another. Actually ferrying people between 2 planes while in-flight is near impossible, but we made it work.

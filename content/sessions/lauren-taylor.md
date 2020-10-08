@@ -4,6 +4,8 @@ title = "Developer’s Intro to AR: Build your First App in 1 Week!"
 speakers = ["lauren-taylor"]
 lightning = false
 sessionizeId = "216480"
+track = "d1t2"
+time = "10:50"
 +++
 
 Are you a developer who’s never explored Augmented Reality? Scared of game engines? Just wanna impress your mates during lockdown? Join me on a journey to create your first AR mobile app in just 1 week!

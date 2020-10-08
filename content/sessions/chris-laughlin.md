@@ -4,6 +4,8 @@ title = "Micro Frontends, are they the future of web application development?"
 speakers = ["chris-laughlin"]
 lightning = false
 sessionizeId = "216087"
+track = "d2t2"
+time = "09:40"
 +++
 
 Gone are the days of single page websites. From e-commerce and holiday letting sites to social networking platforms, large scale and complex web applications are all around us nowadays. 

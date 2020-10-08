@@ -4,6 +4,8 @@ title = "A Blueprint for Debugging Poor Mental Health in the Tech Industry"
 speakers = ["nikki-graham"]
 lightning = false
 sessionizeId = "216532"
+track = "d2t2"
+time = "14:30"
 +++
 
 The UK tech industry has up to five times more incidences of poor mental health amongst its staff than the UK average.  This session explores why this could be, what the hotfix is, and who exactly should be on the solution development team.

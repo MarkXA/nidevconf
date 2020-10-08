@@ -4,6 +4,8 @@ title = "Quantum Computing 101 with Qiskit"
 speakers = ["mark-cunningham"]
 lightning = false
 sessionizeId = "214857"
+track = "d1t2"
+time = "10:30"
 +++
 
 Introducing Quantum Computing with the Qiskit Python Library.

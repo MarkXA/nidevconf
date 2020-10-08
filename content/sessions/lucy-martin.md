@@ -7,7 +7,7 @@ prtrack = "r2"
 prtime = "16:00"
 duration = 15
 track = "d1t1"
-time = "14:40"
+time = "14:35"
 +++
 
 Applying machine learning and exploratory data analysis when predicting future tyre faults

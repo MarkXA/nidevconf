@@ -25,12 +25,22 @@
                 <div class="col-sm-6">
                     <h2>Track 1</h2>
                     {{ range $session := $d1t1 }}
+                    {{ if eq .Params.time "13:00" }}
+                    <div>
+                        12:00 - LUNCH
+                    </div>
+                    {{ end }}
                     {{ partial "agendaSession.html" $session }}
                     {{ end }}
                 </div>
                 <div class="col-sm-6">
                     <h2>Track 2</h2>
                     {{ range $session := $d1t2 }}
+                    {{ if eq .Params.time "13:00" }}
+                    <div>
+                        12:00 - LUNCH
+                    </div>
+                    {{ end }}
                     {{ partial "agendaSession.html" $session }}
                     {{ end }}
                 </div>
@@ -47,10 +57,23 @@
                     {{ range $session := $d2t1 }}
                     {{ partial "agendaSession.html" $session }}
                     {{ end }}
+                    <div>
+                        12:00 - LUNCH
+                    </div>
+                    <div>
+                        <a href="/kids/" class="sessionlink">
+                            <strong>13:00 - Kids Track by Raspberry Jam</strong>
+                        </a>
+                    </div>
                 </div>
                 <div class="col-sm-6">
                     <h2>Track 2</h2>
                     {{ range $session := $d2t2 }}
+                    {{ if eq .Params.time "13:00" }}
+                    <div>
+                        12:00 - LUNCH
+                    </div>
+                    {{ end }}
                     {{ partial "agendaSession.html" $session }}
                     {{ end }}
                 </div>

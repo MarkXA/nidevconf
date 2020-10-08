@@ -4,6 +4,8 @@ title = "Next level of test automation with model-based testing"
 speakers = ["vahid-garousi","alper-buğra-keles"]
 lightning = false
 sessionizeId = "216091"
+track = "d1t2"
+time = "15:15"
 +++
 
 In the context of a large software testing company with offices in Turkey and the UK, we have used the model-based testing approach since 2018 to take our test automation efforts to the next level. We used model-based testing for automated design of test cases and also for automated test execution. 
