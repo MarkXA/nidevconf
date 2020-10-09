@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Open Data NI"
-sponsorlevel = "supporter"
+sponsorlevel = "silver"
 logo = "/img/sponsors/odni.png"
 link = "https://www.opendatani.gov.uk/"
 +++
