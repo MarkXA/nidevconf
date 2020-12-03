@@ -12,4 +12,4 @@ Gone are the days of single page websites. From e-commerce and holiday letting s
 
 As such, each application has a duty to scale up to handle growing user needs and therefore have a multitude of teams working on these products. Micro Frontend architectures can help these teams quickly build and deliver complex web solutions, however these can bring their own challenges.
 
- Webpack Module Federation aims to remove these challenges and bring Micro Frontend architecture into the modern world of web application development. Let's take a journey through the history of single page applications, from a script tag on a page to bundled applications and now Micro Frontends. Are they the future?
+Webpack Module Federation aims to remove these challenges and bring Micro Frontend architecture into the modern world of web application development. Let's take a journey through the history of single page applications, from a script tag on a page to bundled applications and now Micro Frontends. Are they the future?
