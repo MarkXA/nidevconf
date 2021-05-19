@@ -1,4 +1,4 @@
-title = "Northern Ireland Developer Conference 2020"
+title = "Northern Ireland Developer Conference 2021"
 baseurl = "/"
 languageCode = "en-us"
 theme = "nidevconf"
@@ -7,3 +7,11 @@ theme = "nidevconf"
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  year = "2021"
+  bookingurl = "https://ti.to/nidc/nidc2021"
+  cfpurl = "https://sessionize.com/"

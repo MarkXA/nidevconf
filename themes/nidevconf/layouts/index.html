@@ -18,13 +18,11 @@
           <div class="container">
             <div class="row">
               <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                <img alt="logo" class="logo" src="/img/NIDevConf2020.png">
+                <img alt="logo" class="logo" src="/img/nidc-logo-2021.png">
                 <span class="uppercase text-white">
-                  9th - 10th October 2020, Online
+                  9th October 2021, <a href="/venue/">Riddel Hall, Queens University Belfast</a>
                   <br>
-                  Workshop pre-day 8th October
-                  <br>
-                  <a class="highlight text-white" href="https://twitter.com/search?q=%23NIDC2020">#NIDC2020</a>
+                  <a class="highlight text-white" href="https://twitter.com/search?q=%23NIDC2021">#NIDC2021</a>
                 </span>
                 <h1 class="large-h1 text-white" style="margin-bottom: 0.5em;">Join the Northern Ireland developer family.</h1>
                 {{ partial "testimonials.html" . }}
@@ -41,7 +39,7 @@
       
       <div class="container">
         <div class="row">
-          <a href="https://hopin.to/events/nidc2020" class="block-content">
+          <a href="{{ $.Site.Params.bookingurl }}" class="block-content">
             <div class="col-md-2 col-sm-4 text-center">
               <i>
                 <img class="icon" src="/img/icons/Starred Ticket-70.png" width="65" style="margin-top: -12px">
@@ -51,12 +49,12 @@
             <div class="col-md-4 col-sm-8">
               <h1>Tickets</h1>
               <p>
-                Reserve your place now. It's <strong>FREE</strong> this year!
+                Get on the waiting list for the first batch of tickets!
               </p>
             </div>
           </a>
 
-          <a href="/agenda/" class="block-content">
+          <a href="mailto:inbox@nidevconf.com" class="block-content">
             <div class="col-md-2 col-sm-4 text-center">
               <i>
                 <img class="icon" src="/img/icons/Megaphone-70.png" width="60" style="margin-top: -12px">
@@ -64,17 +62,17 @@
             </div>
           
             <div class="col-md-4 col-sm-8">
-              <h1>Agenda</h1>
-              <p>See all the talks and times, including the Kids Track!</p>
+              <h1>Help out</h1>
+              <p>If you can help by sponsoring or volunteering, get in touch</p>
             </div>
           </a>
         </div>
       </div>
     </section>
 
-    <section class="row">
+    <!-- <section class="row">
       {{ partial "sponsorsplatinum.html" . }}
-    </section>
+    </section> -->
 
     <section class="row homeIntro">
       <div class="container">
@@ -83,13 +81,7 @@
             <h1>Why attend the Northern Ireland Developer Conference?</h1>
             
             <p class="lead">
-              Previous NIDCs have been, if we say so ourselves, a roaring success. NIDC 2020 will be somewhat different, being our first (and hopefully only!) fully online event, but we're planning another inspiring event with talks across the development spectrum, showcasing the great work that local developers are doing and the technologies they're using for their creations, plus other cool and exciting stuff from the great wide world of software.
-            </p>
-            <p class="lead">
-              We aim to leave everyone with their horizons widened and appetite whetted, whether they're still a student or cut their teeth on Algol 68.
-            </p>
-            <p class="lead">
-              Most importantly, we're aiming to keep the spirit of what makes NIDC so unique even in the virtual world!
+              Last year's virtual event went down well, but it's not quite the real thing. So this year we're planning to get together in person again! Expect another inspiring event with talks from right across the development spectrum, showcasing the great work that local developers are doing and the technologies they're using for their creations, plus other cool and exciting stuff from the great wide world of software. And as many real people as the guidelines will let us fit into the venue :)
             </p>
             <!-- <p><a class="inner-link highlight" href="/about/">Find out more &raquo;</a></p> -->
 
@@ -105,7 +97,7 @@
       </div>
     </section>
 
-    <section class="row">
+    <!-- <section class="row">
       {{ partial "sponsorsgold.html" . }}
     </section>
 
@@ -115,6 +107,6 @@
 
     <section class="row">
       {{ partial "sponsorssilver.html" . }}
-    </section>
+    </section> -->
 </div>
 {{ partial "footer.html" . }}

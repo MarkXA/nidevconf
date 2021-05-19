@@ -10,7 +10,7 @@ title = "Project Space"
                 <h1>Project Space</h1>
                 <h3>What you need</h3>
                 <p>
-                  Just a ticket: <a href="https://ti.to/nidc/nidc2019" >https://ti.to/nidc/nidc2019</a>  
+                  Just a ticket: <a href="https://ti.to/nidc/nidc2021" >https://ti.to/nidc/nidc2021</a>  
                 </p>
                 <h3>Why</h3>
                 <p>
