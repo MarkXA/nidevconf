@@ -1,0 +1,24 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.83.1"
+
+[[redirects]]
+  from = "https://nidevconf.netlify.com/*"
+  to = "https://www.nidevconf.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tickets/"
+  to = "https://ti.to/nidc/nidc2021"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/tickets"
+  to = "https://ti.to/nidc/nidc2021"
+  status = 302
+  force = true
