@@ -17,7 +17,7 @@ title = "Sponsorship Options"
                 <p>
                     Most importantly, we're aiming to keep alive the spirit of what makes NIDC so unique even in the virtual world!
                 </p>
-                <h2>Why sponsor NIDC 2020?</h2>
+                <h2>Why sponsor NIDC 2021?</h2>
                 <p>
                     <ul style="list-style:disc; padding-left:2em">
                         <li>Give back to the community</li>
