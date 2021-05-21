@@ -2,7 +2,7 @@
 draft = false
 title = "Artemiy Kondratiev"
 role = "committee"
-image = "/img/team/artemiykondratiev.jpg"
+image = "/img/team/artemiy-kondratiev.jpg"
 twitter = "https://twitter.com/awflwafl"
 linkedin = "https://www.linkedin.com/in/artemiy-kondratiev"
 github = "https://github.com/awflwafl"
