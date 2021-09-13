@@ -448,6 +448,12 @@ p a,
   border-color: #004470;
 }
 
+p.text-white a,
+.text-link a {
+  color: white !important;
+  border-color: white;
+}
+
 p a,
 .text-link a:hover {
   color: #333333;
