@@ -5,6 +5,8 @@ layout = "generic"
 
 # NIDC Social
 
+<img style="margin-bottom: 20px;" src="/img/nidc-social-2021.png">
+
 Hi, and welcome to [#NIDCSocial](https://twitter.com/search?q=%23NIDCSocial&src=typed_query) - a night out for the NI tech community.
 
 After the many ups, downs and sharp turns that scrapped the hard work our team and many of you put into preparing #NIDC2021, we’re not giving up. Despite the setbacks, we *really* want to give the NI developer community a chance to get together, safely. Starting with [#NIDCSocial](https://twitter.com/search?q=%23NIDCSocial&src=typed_query) on 22nd October at The Treehouse!
