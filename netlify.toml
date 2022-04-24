@@ -22,3 +22,11 @@
   to = "https://ti.to/nidc/nidc2021"
   status = 302
   force = true
+
+[[redirects]]
+  from = "/data/ni-tech-meetups.ics"
+  to = "https://nidc.blob.core.windows.net/public/ni-tech-meetups.ics"
+
+[[redirects]]
+  from = "/data/ni-tech-meetups.json"
+  to = "https://nidc.blob.core.windows.net/public/ni-tech-meetups.json"

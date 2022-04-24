@@ -170,3 +170,11 @@
   color: rgba(255, 40, 40, 1);
   font-weight: 400;
 }
+
+.hide-at-first {
+  display: none;
+}
+
+.spaced li {
+  margin-bottom: 1em;
+}
