@@ -5,7 +5,7 @@ layout = "generic"
 
 # NI Tech Meetup calendar
 
-You can also [subscribe to this calendar](/data/ni-tech-meetups.ics) or [use the JSON](/data/ni-tech-meetups.json). And if your meetup isn't showing here, please do [let us know](mailto:inbox@nidevconf.com).
+You can also subscribe to [https://www.nidevconf.com/data/ni-tech-meetups.ics](/data/ni-tech-meetups.ics) in your calendar of choice, or even [use the JSON](/data/ni-tech-meetups.json) like this page does. And if your meetup isn't showing here, please do [let us know](mailto:inbox@nidevconf.com).
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.1/knockout-latest.min.js" integrity="sha512-vs7+jbztHoMto5Yd/yinM4/y2DOkPLt0fATcN+j+G4ANY2z4faIzZIOMkpBmWdcxt+596FemCh9M18NUJTZwvw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
