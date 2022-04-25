@@ -5,9 +5,9 @@ layout = "generic"
 
 # Mailing list
 
-Sign up to our mailing list and we'll keep you up to date with developments* so you'll be the first to know when we have dates, tickets, etc.
+Sign up to our mailing list and we'll keep you up to date with developments<sup>*</sup> so you'll be the first to know when we have dates, tickets, etc.
 
-*Pun intended
+<sup>*</sup>Pun intended
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
