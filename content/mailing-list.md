@@ -19,8 +19,6 @@ Sign up to our mailing list and we'll keep you up to date with developments<sup>
 <div id="mc_embed_signup">
 <form action="https://nidevconf.us14.list-manage.com/subscribe/post?u=92f016d8a668913f43b8fd79d&amp;id=5a59ca3f5a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>

@@ -178,3 +178,7 @@
 .spaced li {
   margin-bottom: 1em;
 }
+
+#mc_embed_signup input[type="text"] {
+  color: inherit;
+}
