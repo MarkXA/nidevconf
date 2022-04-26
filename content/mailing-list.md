@@ -19,15 +19,14 @@ Sign up to our mailing list and we'll keep you up to date with developments<sup>
 <div id="mc_embed_signup">
 <form action="https://nidevconf.us14.list-manage.com/subscribe/post?u=92f016d8a668913f43b8fd79d&amp;id=5a59ca3f5a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
+	<div class="mc-field-group">
+		<label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label>
+		<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	</div>
+	<div class="mc-field-group">
+		<label for="mce-FNAME">First Name <span class="asterisk">*</span></label>
+		<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+	</div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
