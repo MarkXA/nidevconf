@@ -12,14 +12,14 @@
   force = true
 
 [[redirects]]
-  from = "/tickets/"
-  to = "https://ti.to/nidc/nidc2021"
-  status = 302
+  from = "/mailing-list*"
+  to = "/newsletter/"
+  status = 301
   force = true
 
 [[redirects]]
-  from = "/tickets"
-  to = "https://ti.to/nidc/nidc2021"
+  from = "/tickets/"
+  to = "https://ti.to/nidc/nidc2022"
   status = 302
   force = true
 

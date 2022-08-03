@@ -11,45 +11,39 @@
 <div class="container">
   <div class="row">
     <div class="col-md-2">
-      <a href="/"><img alt="Logo" class="logo logo-dark" src="/img/nidc-logo-2021.png"></a>
+      <a href="/"><img alt="Logo" class="logo logo-dark" src="/img/nidc-logo.png"></a>
     </div>
 
     <div class="col-md-10 text-right">
       <ul class="menu">
         <li class="has-dropdown">
-          <a class="inner-link" href="/">NIDC 2022</a>
+          <a class="inner-link" href="/">NIDC {{ $.Site.Params.year }}</a>
           <ul class="nav-dropdown">
-            <li><a class="inner-link" href="/mailing-list/">Mailing list</a></li>
+            <li><a class="inner-link" href="/newsletter/">Newsletter</a></li>
+            <li><a class="inner-link" href="{{ $.Site.Params.bookingurl }}">Tickets</a></li>
+            <li><a class="inner-link" href="{{ $.Site.Params.cfpurl }}">Call for Speakers</a></li>
+            <!-- <li><a class="inner-link" href="/agenda/">Agenda</a></li>
+            <li><a class="inner-link" href="/sessions/">Sessions</a></li>
+            <li><a class="inner-link" href="/speakers/">Speakers</a></li>
+            <li><a class="inner-link" href="/sponsors/">Sponsors</a></li> -->
+            <li><a class="inner-link" href="https://www.iccbelfast.com/visitor#getting-to-icc-belfast">Venue</a></li>
+            <li><a class="inner-link" href="/covid/">COVID</a></li>
+            <!-- <li><a class="inner-link" href="/accessibility/">Accessibility</a></li>
+            <li><a class="inner-link" href="/workshops/">Workshops</a></li>
+            <li><a class="inner-link" href="/children/">Children</a></li> -->
           </ul>
         </li>
-
         <li class="has-dropdown">
           <a class="inner-link">Community</a>
           <ul class="nav-dropdown">
             <li><a class="inner-link" href="/meetups/">Meetup calendar</a></li>
           </ul>
         </li>
-        <!-- <li class="has-dropdown">
-          <a class="inner-link" href="/">NIDC2021</a>
-          <ul class="nav-dropdown">
-            <li><a class="inner-link" href="/agenda/">Agenda</a></li>
-            <li><a class="inner-link" href="{{ $.Site.Params.bookingurl }}">Tickets</a></li>
-            <li><a class="inner-link" href="{{ $.Site.Params.cfpurl }}">Call for Speakers</a></li>
-            <li><a class="inner-link" href="/agenda/">Agenda</a></li>
-            <li><a class="inner-link" href="/sessions/">Sessions</a></li>
-            <li><a class="inner-link" href="/speakers/">Speakers</a></li>
-            <li><a class="inner-link" href="/sponsors/">Sponsors</a></li>
-            <li><a class="inner-link" href="/venue/">Venue</a></li>
-            <li><a class="inner-link" href="/accessibility/">Accessibility</a></li>
-            <li><a class="inner-link" href="/workshops/">Workshops</a></li>
-            <li><a class="inner-link" href="/children/">Children</a></li>
-          </ul>
-        </li> -->
         <li class="has-dropdown">
           <a class="inner-link">About</a>
           <ul class="nav-dropdown">
             <!-- <li><a class="inner-link" href="/about/">Overview</a></li> -->
-            <!-- <li><a class="inner-link" href="/sponsorship/">Sponsoring</a></li> -->
+            <li><a class="inner-link" href="/sponsorship/">Sponsoring</a></li>
             <li><a class="inner-link" href="/team/">Team</a></li>
             <li><a class="inner-link" href="/code-of-conduct/">Code of Conduct</a></li>
           </ul>
