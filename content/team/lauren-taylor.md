@@ -8,4 +8,4 @@ twitter = "https://twitter.com/lornidon"
 github = "https://github.com/laurentaylor1"
 +++
 
-Lauren is an energetic, ambitious Software Engineer at Kainos with a passion for community building and TikTok memes. She founded Corgi; an undergraduate women in tech community, organised events within Queen's Computing Society, presented an AR tutorial at NIDC 2020 and is now AWS certified as a Solutions Architect Associate.
+Lauren is an energetic, ambitious Software Engineer at Kainos with a passion for community building and TikTok memes. She founded Corgi; an undergraduate women in tech community, organised events within Queen’s Computing Society, presented an AR tutorial at NIDC 2020 and is now AWS certified as a Solutions Architect Associate.

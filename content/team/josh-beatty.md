@@ -4,6 +4,7 @@ title = "Josh Beatty"
 role = "committee"
 image = "https://pbs.twimg.com/profile_images/1503517294701522946/x_KH2xai_400x400.jpg"
 twitter = "https://twitter.com/Josh_Bty"
+linkedin = "https://www.linkedin.com/in/josh-beatty/"
 +++
 
-Josh is a Placement Software Developer at ESO, studies Computer Science at Queen’s University Belfast and is the outgoing VP of the Queen's Computing Society. He's also an ex-organiser of the SISTEM conference and enjoys photography, building Lego and archery.
+Still) studying Computer Science at Queens, Josh has been on the Queen’s Computing Society Committee for four years in various roles, an organiser for SISTEM for two years and is currently looking a new personality as he transitions out of Uni to a full time job at ESO.

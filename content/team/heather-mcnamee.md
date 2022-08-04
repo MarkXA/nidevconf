@@ -4,6 +4,10 @@ title = "Heather McNamee"
 role = "committee"
 image = "/img/team/heather-mcnamee.jpg"
 linkedin = "https://www.linkedin.com/in/heatherjames/"
+twitter = "https://twitter.com/nearlythere"
+website = "https://nearlythere.com/"
 +++
 
-Heather has been involved in open source community organising in since 2008. She's spoken at NI Developer Conference and BelFOSS, and probably wouldn't have her current job at Instil as an Associate Product Manager if it weren't for local community events like these.
+Heather's been organising tech community events since 2008. She’s volunteered at and spoken at NI Dev. Now she’s on the team and thinks you should join us!
+
+Fun fact: She has lived and worked in 5 countries, volunteered at tech events in 8 countries, and travelled to 32 countries.

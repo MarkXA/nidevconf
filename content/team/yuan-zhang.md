@@ -6,4 +6,4 @@ image = "https://pbs.twimg.com/profile_images/1484605914141368321/gubJNihD_400x4
 twitter = "https://twitter.com/YuanMitchell"
 +++
 
-Yuan is active and energetic with a strong passion to link the students with the local tech community. He's chair of the Ulster University Computing Society and BCS NI Student Chapter, and organised the 2021 SISTEM conference, hosting the LGBTQ+ panel.
+Yuan is the chair of Ulster University Computing Society & the first BCS Student Chapter in NI. He is an active, energetic person that has a strong passion to link the student body with the local tech community. Also, he has organised the SISTEM conference (The largest student-run Tech Conference in Europe) and hosted the LGBTQ+ panel. Now he is the student ambassador at Liberty IT.
