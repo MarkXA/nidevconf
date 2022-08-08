@@ -24,6 +24,18 @@
   force = true
 
 [[redirects]]
+  from = "/cfp/"
+  to = "https://sessionize.com/nidc2022"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/venue/"
+  to = "https://www.iccbelfast.com/visitor#getting-to-icc-belfast"
+  status = 302
+  force = true
+
+[[redirects]]
   from = "/data/ni-tech-meetups.ics"
   to = "https://nidc.blob.core.windows.net/public/ni-tech-meetups.ics"
   status = 200
