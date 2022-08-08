@@ -28,6 +28,10 @@ Wearing masks is a personal choice, however we would recommend doing so at least
 
 We strongly encourage you to take a lateral flow test before attending. Please do not attend if you have COVID-19 symptoms, or if you have tested positive for COVID-19 - your ticket will be refunded in this eventuality.
 
+## Hybrid
+
+For those who still are not confident attending an in-person event, we will be streaming talks online on the day.
+
 ## More information
 
 We will follow all government guidance in place at the time, so please check for any updated information before your visit.
