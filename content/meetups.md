@@ -1,6 +1,5 @@
 +++
 title = "NI Tech Meetup calendar"
-layout = "generic"
 +++
 
 # NI Tech Meetup calendar

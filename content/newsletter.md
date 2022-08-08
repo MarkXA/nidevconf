@@ -1,6 +1,5 @@
 +++
-title = "Mailing list sign-up"
-layout = "generic"
+title = "Newsletter sign-up"
 +++
 
 # Mailing list

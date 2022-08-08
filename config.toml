@@ -12,6 +12,6 @@ theme = "nidevconf"
   unsafe = true
 
 [params]
-  year = "2021"
-  bookingurl = "https://ti.to/nidc/nidc2021"
-  cfpurl = "https://sessionize.com/northern-ireland-developer-conference-2021/"
+  year = "2022"
+  bookingurl = "https://ti.to/nidc/nidc2022"
+  cfpurl = "https://sessionize.com/nidc2022"
