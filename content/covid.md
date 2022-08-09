@@ -4,7 +4,7 @@ title = "COVID"
 
 # COVID
 
-One of the reasons we selected ICC Belfast as our venue this year is its suitability for holding an in-person event while COVID-19 is still a factor, evidenced by the fact that they recently safely hosted a conference for 1,500 microbiologists.
+NIDC {{< param year >}} will be a hybrid event, so some of the experience will be available online. However, for those keen to attend in person, one of the reasons we selected ICC Belfast as our venue is its suitability for holding an in-person event while COVID-19 is still a factor, evidenced by the fact that they recently safely hosted a conference for 1,500 microbiologists.
 
 ## Ventilation
 
@@ -18,11 +18,7 @@ Hand sanitising facilities are available at key points throughout the venue, and
 
 ## Distancing
 
-ICC is a very large venue, with plenty of room on all floors for attendees to circulate while retaining the option to keep a reasonable distance. 
-
-## Masks
-
-Wearing masks is a personal choice, however we would recommend doing so at least while seated and not eating or talking.
+ICC is a large venue, with plenty of room across all floors for attendees to circulate while retaining the option to keep a reasonable distance.
 
 ## Tests
 

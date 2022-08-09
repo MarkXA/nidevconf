@@ -1009,7 +1009,7 @@ nav .container {
 }
 
 .hero-slider .slides li {
-  height: 750px;
+  height: 850px;
   position: relative;
   overflow: hidden;
   -webkit-transform-style: preserve-3d;
@@ -3443,4 +3443,8 @@ workshops {
 
 .randomorder {
   visibility: hidden;
+}
+
+h2 a, h2 a:hover {
+  color: inherit;
 }
