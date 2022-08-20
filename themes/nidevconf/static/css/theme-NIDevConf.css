@@ -299,7 +299,7 @@ body {
   font-smoothing: antialiased;
   -webkit-font-smoothing: antialiased;
   color: #555555;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   background: #eee;
   -moz-osx-font-smoothing: grayscale;
@@ -342,7 +342,6 @@ h3 {
 }
 
 p {
-  font-size: 16px;
   line-height: 24px;
   margin-bottom: 1em;
 }
@@ -352,7 +351,6 @@ p {
 }*/
 
 p.lead {
-  font-size: 16px;
   line-height: 30px;
   font-weight: 400;
 }
@@ -372,11 +370,11 @@ strong {
   font-weight: 600;
 }
 
-ul {
+/* ul {
   list-style: none;
   margin: 0px;
   padding: 0px;
-}
+} */
 
 @media all and (max-width: 767px) {
   h1 {
@@ -725,7 +723,6 @@ nav .container {
 }
 
 .menu .social-link {
-  font-size: 14px;
   top: 0px !important;
   margin-right: 18px !important;
 }
@@ -818,7 +815,6 @@ nav .container {
 }
 
 .widget .title {
-  font-size: 16px;
   font-weight: 600;
   display: inline-block;
   margin-bottom: 12px;
@@ -1271,8 +1267,7 @@ nav .container {
   }
 
   .countdown-period {
-    font-size: 16px;
-  }
+    }
 }
 
 .video-wrapper {
@@ -1546,7 +1541,6 @@ nav .container {
 .speaker span,
 .speaker span a {
   color: #777777 !important;
-  font-size: 14px;
   font-weight: 600;
 }
 
@@ -1711,7 +1705,6 @@ nav .container {
 .ruled-list li {
   border-top: 1px dotted rgba(0, 0, 0, 0.3);
   padding: 12px 0px;
-  font-size: 16px;
 }
 
 @media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
@@ -1793,7 +1786,6 @@ nav .container {
 
 .schedule-title span {
   display: block;
-  font-size: 16px;
 }
 
 .schedule-title .title {
@@ -2161,7 +2153,6 @@ nav .container {
 
 .type {
   display: block;
-  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-top: 12px;
@@ -2213,7 +2204,6 @@ nav .container {
 p.question {
   font-weight: 600;
   color: #333333;
-  font-size: 16px;
 }
 
 /*!
@@ -2507,28 +2497,28 @@ p.question {
 }
 
 .diamond .sponsor {
-  flex-basis: 33%;
+  flex-basis: 50%;
   min-width: 350px;
 }
 
 .platinum .sponsor {
-  flex-basis: 25%;
-  min-width: 300px;
+  flex-basis: 30%;
+  min-width: 250px;
 }
 
 .gold .sponsor {
   flex-basis: 20%;
-  min-width: 250px;
+  min-width: 200px;
 }
 
 .silver .sponsor {
   flex-basis: 15%;
-  min-width: 200px;
+  min-width: 175px;
 }
 
 .supporter .sponsor {
   flex-basis: 10%;
-  min-width: 200px;
+  min-width: 150px;
 }
 
 .prizes {
@@ -2618,7 +2608,6 @@ form.register .select-holder {
   border: none;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 25px;
-  font-size: 14px;
   max-width: 90%;
   color: #fff;
   padding-left: 24px;
@@ -2950,7 +2939,6 @@ footer.short .top-border {
   position: relative;
   bottom: 10px;
   left: 8px;
-  font-size: 16px;
 }
 
 footer.classic .social-profiles {
@@ -3100,7 +3088,6 @@ body .colors .col-xs-2:nth-child(6n+0) {
   color: #fff;
   height: 26px;
   padding: 6px 12px;
-  font-size: 16px;
   position: relative;
   bottom: -38px;
   margin-top: -42px;
@@ -3392,7 +3379,6 @@ section.homeIntro {
   list-style: disc;
   padding-left: 1em;
   margin-bottom: 1em;
-  font-size: 16px;
 }
 
 .flexcolumn {
@@ -3409,13 +3395,11 @@ workshops {
   list-style: disc;
   padding-left: 1em;
   margin-bottom: 1em;
-  font-size: 16px;
 }
 
 .workshops ol {
   padding-left: 1em;
   margin-bottom: 1em;
-  font-size: 16px;
 }
 
 .scrollSection {
