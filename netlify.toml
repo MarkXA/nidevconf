@@ -24,12 +24,6 @@
   force = true
 
 [[redirects]]
-  from = "/cfp/"
-  to = "https://sessionize.com/nidc22"
-  status = 302
-  force = true
-
-[[redirects]]
   from = "/venue/"
   to = "https://www.iccbelfast.com/visitor#getting-to-icc-belfast"
   status = 302

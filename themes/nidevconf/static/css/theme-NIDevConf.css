@@ -312,7 +312,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: normal;
   margin: 0px;
   color: #333333;
 }
@@ -452,7 +452,7 @@ span a:hover {
 
 p a,
 .text-link a {
-  color: #004470 !important;
+  /* color: #004470 !important; */
   border-color: #004470;
 }
 
@@ -474,10 +474,10 @@ p a.highlight {
 .btn {
   min-width: 180px;
   border-radius: 25px;
-  background: #ff6b1e;
+  background: #35566a;
+  color: white;
   text-align: center;
   padding: 13px 0px 14px 0px;
-  color: #fff;
   font-size: 15px;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
@@ -487,6 +487,15 @@ p a.highlight {
 }
 
 .btn:hover {
+  color: white;
+  background: #45667a;
+}
+
+.btn.home {
+  background: #ff6b1e;
+}
+
+.btn.home:hover {
   color: #fff;
   background: #ffb452;
 }
@@ -1266,8 +1275,7 @@ nav .container {
     font-size: 36px;
   }
 
-  .countdown-period {
-    }
+  .countdown-period {}
 }
 
 .video-wrapper {
@@ -3429,6 +3437,7 @@ workshops {
   visibility: hidden;
 }
 
-h2 a, h2 a:hover {
+h2 a,
+h2 a:hover {
   color: inherit;
 }
