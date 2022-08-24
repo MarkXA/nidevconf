@@ -1015,7 +1015,13 @@ nav .container {
   background: #2b2b2b;
 }
 
+.hero-slider .slides {
+  margin: 0;
+  padding: 0;
+}
+
 .hero-slider .slides li {
+  list-style: none;
   height: 850px;
   position: relative;
   overflow: hidden;
