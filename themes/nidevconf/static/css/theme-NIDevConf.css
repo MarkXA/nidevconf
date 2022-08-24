@@ -676,6 +676,7 @@ nav .container {
   min-width: 200px;
   overflow: hidden;
   margin-top: -2px;
+  padding-left: 0;
 }
 
 .nav-dropdown li:first-child {
@@ -683,6 +684,7 @@ nav .container {
 }
 
 .nav-dropdown li {
+  list-style: none;
   opacity: 0;
   margin-right: 0px;
   float: none;
