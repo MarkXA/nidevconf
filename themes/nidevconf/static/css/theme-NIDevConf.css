@@ -477,7 +477,7 @@ p a.highlight {
   background: #35566a;
   color: white;
   text-align: center;
-  padding: 13px 0px 14px 0px;
+  padding: 13px 15px 14px 15px;
   font-size: 15px;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
