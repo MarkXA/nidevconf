@@ -14,4 +14,4 @@ Meetups confirmed so far:
 * Tuesday, September 13 - [PyBelfast](https://www.meetup.com/pybelfast/events/287739426/)
 * Wednesday, September 14 - [Belfast JS](https://www.meetup.com/Belfast-JS/events/287738425/)
 * Thursday, September 15 - [BelfAWSt Meetup - AWS Open Space](https://www.meetup.com/belfawst-meetup/events/287635152/)
-* Friday, September 16 - Student Pub Quiz
+* Friday, September 16 - [Student Pub Quiz](https://www.eventbrite.co.uk/e/nidc-pub-quiz-w-qcs-and-uucs-tickets-414332227847)
