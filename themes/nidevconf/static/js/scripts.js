@@ -168,6 +168,10 @@ jQuery(function ($) {
         var wrapper = document.querySelector(".testimonials");
         if (!wrapper) return;
         var testimonials = [].slice.call(wrapper.querySelectorAll(".testimonial")).sort(function(a,b) { return Math.random() - 0.5; });
+
+        var maxHeight = Math.max(...testimonials.map(t => t.offsetHeight));
+        wrapper.style.height = maxHeight + "px";
+
         var index = 0;
         var nextTestimonal = function() {
             for (var n = 0; n < testimonials.length; n++)

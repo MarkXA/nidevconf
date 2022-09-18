@@ -2,7 +2,7 @@
 draft = false
 title = "Josh Beatty"
 role = "committee"
-image = "https://pbs.twimg.com/profile_images/1503517294701522946/x_KH2xai_400x400.jpg"
+image = "/img/team/josh-beatty.jpg"
 twitter = "https://twitter.com/Josh_Bty"
 linkedin = "https://www.linkedin.com/in/josh-beatty/"
 +++

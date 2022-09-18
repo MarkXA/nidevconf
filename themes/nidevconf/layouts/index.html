@@ -8,29 +8,39 @@
     </nav>
   </div>
   <div class="main-container">
-    <section class="hero-slider">
-      <ul class="slides">
-        <li class="video-header">
-          <div class="background-image-holder parallax-background">
-            <img class="background-image" alt="Background Image" src="/images/giants-causeway.jpg">
-          </div>
-
-          <div class="container">
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                <img alt="logo" class="logo" src="/img/nidc-logo.png">
-                <h2 class="text-white" style="margin-bottom: 0.5em;">Bringing together the whole development community of Northern Ireland, every year.</h2>
-                <h1 class="large-h1 text-white" style="margin-bottom: 0.5em;">22nd October 2022<br/>@ ICC Belfast (Waterfront Hall)</h1>
-                <h2 class="text-white" style="margin-bottom: 0.5em;"><a href="/workshops/">Workshop pre-day 21st October 2022</a></h2>
-                <h2 class="text-white" style="margin-bottom: 0.5em;"><a href="/meetup-fest/">Meetup Fest 5th-16th September 2022</a></h2>
-                <a href="/tickets/" class="btn home">Get your tickets</a>
-                <p class="text-white"></p>
-                {{ partial "testimonials.html" . }}
-              </div>
+    <section class="hero">
+      <div class="hero-shade">
+        <div class="content">
+          <div class="columns">
+            <div class="column">
+              <img alt="logo" class="logo" src="/img/nidc-logo.png">
+            </div>
+            <div class="column">
+              <h2 class="text-white">Bringing together the whole development community of Northern Ireland, every year.</h2>
+              <ul>
+                <li>Non-profit local community conference</li>
+                <li>Run by volunteers</li>
+                <li>Local speakers</li>
+                <li>Friendly and informal</li>
+                <li>Free childcare</li>
+                <li>Covers the full spectrum of software development</li>
+                <li>Tickets held at 2017 prices</li>
+                <li>Pay-what-you-can tickets right down to £0</li>
+              </ul>
+              <a href="/tickets/" class="btn home">Grab your tickets &nbsp;&raquo;</a>
             </div>
           </div>
-        </li>
-      </ul>
+          <div>
+            <div>
+              <h1 class="large-h1 text-white" style="margin-bottom: 0.5em;">22nd October 2022<br/>@ ICC Belfast (Waterfront Hall)</h1>
+              <h2 class="text-white" style="margin-bottom: 0.5em;"><a href="/workshops/">Workshop pre-day 21st October 2022</a></h2>
+              <h2 class="text-white" style="margin-bottom: 0.5em;"><a href="/meetup-fest/">Meetup Fest 5th-16th September 2022</a></h2>
+              <p class="text-white"></p>
+              {{ partial "testimonials.html" . }}
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
     <section class="color-blocks main-container">

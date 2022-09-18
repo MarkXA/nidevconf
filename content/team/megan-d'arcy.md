@@ -2,7 +2,7 @@
 draft = false
 title = "Megan D'Arcy"
 role = "committee"
-image = "https://pbs.twimg.com/profile_images/1546166047362977799/XInNd8Ar_400x400.jpg"
+image = "/img/team/megan-d'arcy.jpg"
 twitter = "https://twitter.com/dhorcai75"
 +++
 
