@@ -1049,10 +1049,13 @@ nav .container {
 .hero ul {
   margin: 0 0 1em 0;
   padding: 0;
+}
+
+ul.checkmarks {
   list-style: none;
 }
 
-.hero li::before {
+ul.checkmarks li::before {
   content: "✓ ";
   color: var(--brand-accent-light);
   font-weight: bold;
