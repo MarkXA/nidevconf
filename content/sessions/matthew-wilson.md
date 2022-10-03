@@ -4,6 +4,8 @@ title = "Zero To Serverless Car Insurance"
 speakers = ["matthew-wilson"]
 lightning = false
 sessionizeId = "380142"
+room = "A"
+time = "7"
 +++
 
 At the start of 2021 we began an ambitious project, building a car insurance platform from scratch using serverless technology on AWS.

@@ -4,6 +4,8 @@ title = "Building for VR in the Browser"
 speakers = ["neil-mccallion"]
 lightning = false
 sessionizeId = "380568"
+room = "A"
+time = "3"
 +++
 
 Virtual Reality (VR) has evolved in recent years. No longer a cyberpunk fantasy, we can immerse ourselves in other worlds for entertainment, education, art and science. The industry saw fresh growth during COVID lockdowns, and the next generation of hardware is now on the horizon.

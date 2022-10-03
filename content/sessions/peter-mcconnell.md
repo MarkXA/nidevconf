@@ -4,6 +4,8 @@ title = "Giving your colleagues superpowers with autonomy and automation"
 speakers = ["peter-mcconnell"]
 lightning = false
 sessionizeId = "375817"
+room = "B"
+time = "7"
 +++
 
 Just as Hephaestus built tools for the Gods, you too can create tools that give your team superpowers. Creating an environment where each team has the autonomy and capabilities to perform their jobs quickly and reliably is key to having a scalable business, reducing toil and avoiding team-based bottlenecks.

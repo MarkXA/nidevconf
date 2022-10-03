@@ -4,6 +4,8 @@ title = "The Powerlifting Principal"
 speakers = ["hannah-mckee"]
 lightning = false
 sessionizeId = "380134"
+room = "C"
+time = "6"
 +++
 
 Aspiring principals focus on technical skills. Often to the exclusion of all else. To succeed as a senior developer you need to collaborate, negotiate and work effectively with your team. These social skills can't be learned in front of a compiler. 

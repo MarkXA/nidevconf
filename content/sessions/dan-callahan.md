@@ -4,6 +4,8 @@ title = "Extending serverside applications with WebAssembly"
 speakers = ["dan-callahan"]
 lightning = false
 sessionizeId = "378603"
+room = "A"
+time = "8"
 +++
 
 You've been there. Searching for that missing API. Knowing you'd be done already if you could inject just a little bit of custom logic into an existing service.

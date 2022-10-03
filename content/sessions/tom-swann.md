@@ -4,6 +4,8 @@ title = "Mind Your Metadata"
 speakers = ["tom-swann"]
 lightning = false
 sessionizeId = "377842"
+room = "B"
+time = "4"
 +++
 
 In this talk we will examine the ever growing value of metadata, observability and data cataloging in delivering data solutions that are more trustworthy and understandable. 

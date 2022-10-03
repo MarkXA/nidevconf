@@ -4,6 +4,8 @@ title = "ID verification - who can you trust?"
 speakers = ["chloe-mcateer"]
 lightning = false
 sessionizeId = "377718"
+room = "A"
+time = "6"
 +++
 
 In an ever-evolving digital world trusting that someone is who they say they are, is harder than ever before.  

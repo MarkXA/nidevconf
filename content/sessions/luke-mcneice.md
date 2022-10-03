@@ -4,6 +4,8 @@ title = "Cracking the Furby code:  The path to evolve an icon"
 speakers = ["luke-mcneice"]
 lightning = false
 sessionizeId = "378677"
+room = "C"
+time = "7"
 +++
 
 It’s 1998. It’s the year of Britney Spears, The Spice Girls, the first Google Doodle, and the year Titanic dominated the box office.

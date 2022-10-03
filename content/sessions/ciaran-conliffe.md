@@ -4,6 +4,8 @@ title = "A Pragmatic Approach to Software Supply Chain Security"
 speakers = ["ciaran-conliffe"]
 lightning = false
 sessionizeId = "374896"
+room = "A"
+time = "1"
 +++
 
 At the start of this year, two major security incidents impacted developers: log4shell and spring4shell. Both involved trusted standard Java libraries that turned out to have critical vulnerabilities, and both led to headaches and long hours for developers and security staff alike. These are only the tip of the iceberg when it comes to software supply chain issues though – malicious attackers, unsuitable licences and deprecated code can all lead to problems in stuff that used to “just work”. So, what can you do about it?

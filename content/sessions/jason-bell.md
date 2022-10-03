@@ -4,6 +4,8 @@ title = "Data is Business, Business is Data"
 speakers = ["jason-bell"]
 lightning = false
 sessionizeId = "373860"
+room = "A"
+time = "4"
 +++
 
 Data is at the core of the things we do as developers. This talk goes back to the start, what data is and how we can use it for business benefit. 
