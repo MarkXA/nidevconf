@@ -4,6 +4,7 @@ title = "Feature Flagging with Harness"
 speakers = ["dave-johnston"]
 lightning = true
 sessionizeId = "376686"
+order = 8
 +++
 
 Feature Flags are a common tool in a developers toolbox.  They make it easy to hide new features still under development.    

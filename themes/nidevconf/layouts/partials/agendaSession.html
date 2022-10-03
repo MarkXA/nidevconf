@@ -1,5 +1,40 @@
-<div>
-    <a href="{{ .RelPermalink }}" class="sessionlink">
-        {{ .Params.time }} - {{ .Title }}
-    </a>
-</div>
+{{ $session := .session }}
+{{ $room := .room }}
+{{ $time := .time }}
+
+{{ if $session }}
+    {{ range $session }}
+        <div>
+            <a href="{{ .RelPermalink }}" class="sessionlink">
+                {{ if $room }}
+                    <span class="agendaRoom">{{ $room.name }} - </span>
+                {{ end }}
+                {{ if .Params.keynote }}
+                    <strong>KEYNOTE:
+                {{ end }}
+                {{ .Title }}
+                {{ if .Params.keynote }}
+                    </strong>
+                {{ end }}
+            </a>
+        </div>
+    {{ end }}
+{{ else }}
+    <div>
+        {{ if (eq $room.id "C2A") }}
+            {{ if (gt $time "3") }}
+                <a href="#lightning" class="sessionlink">
+                    <span class="agendaRoom">{{ $room.name }} - </span>
+                    Lightning Talks
+                </a>
+            {{ else }}
+                <a href="#productcamp" class="sessionlink">
+                    <span class="agendaRoom">{{ $room.name }} - </span>
+                    ProductCamp
+                </a>
+            {{ end }}
+        {{ else }}
+            Session TBC
+        {{ end }}
+    </div>
+{{ end }}

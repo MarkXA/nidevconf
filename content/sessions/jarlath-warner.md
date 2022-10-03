@@ -4,6 +4,7 @@ title = "Machine Learning and AI for biosignal processing and medical applicatio
 speakers = ["jarlath-warner"]
 lightning = true
 sessionizeId = "378228"
+order = 9
 +++
 
 The session will provide some introductory information about the use of machine learning for processing biosignals produced by the human body (and some practical code examples of how someone can get started). 

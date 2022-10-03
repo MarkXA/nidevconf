@@ -4,6 +4,7 @@ title = "CouchDB - when, where and why?"
 speakers = ["michael-drury"]
 lightning = true
 sessionizeId = "381605"
+order = 6
 +++
 
 A quick talk about the pros and cons of CouchDB, a niche but powerful when used correctly database.

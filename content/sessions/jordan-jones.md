@@ -4,6 +4,7 @@ title = "No Fungin' Thanks"
 speakers = ["jordan-jones"]
 lightning = true
 sessionizeId = "376365"
+order = 4
 +++
 
 New things are exciting. So is being a part of a new thing. But sometimes that excitement can maybe get the better of us...
