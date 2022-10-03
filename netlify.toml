@@ -24,6 +24,12 @@
   force = true
 
 [[redirects]]
+  from = "/volunteers/"
+  to = "https://forms.gle/MGcw82dNT1TZwYby8"
+  status = 302
+  force = true
+
+[[redirects]]
   from = "/venue/"
   to = "https://www.iccbelfast.com/visitor#getting-to-icc-belfast"
   status = 302
