@@ -26,7 +26,7 @@
                 <span class="agendaRoom">{{ $room.name }} - </span>
                 Lightning Talks
             </a>
-        {{ else if and (eq $room.id "E") (le $time "3") }}
+        {{ else if and (eq $room.id "E") (ge $time "7") }}
             <a href="#productcamp" class="sessionlink">
                 <span class="agendaRoom">{{ $room.name }} - </span>
                 ProductCamp

@@ -1,9 +1,9 @@
 {{ $speakerIds := .Params.speakers }}
 {{ $speakers := where (where .Site.Pages "Section" "speakers") "File.BaseFileName" "in" $speakerIds }}
 
-{{ $times := slice (dict "title" "8:30-9:00" "allRooms" "REGISTRATION") (dict "title" "9:00-9:20" "allRooms" "TEA/COFFEE") (dict "title" "9:30-9:40" "plenary" "Welcome address (in Lecture Room)") (dict "time" "1" "title" "9:50-10:20") (dict "time" "2" "title" "10:30-11:00") (dict "time" "3" "title" "11:10-11:40") (dict "time" "4" "title" "11:50-12:20") (dict "time" "5" "title" "12:30-13:00") (dict "time" "6" "title" "13:10-13:40") (dict "time" "7" "title" "13:50-14:20") (dict "time" "8" "title" "14:30-15:00") (dict "time" "9" "title" "15:10-15:40") (dict "title" "15:40-16:00" "allRooms" "BREAK") (dict "time" "10" "title" "16:00-16:30") (dict "time" "11" "title" "16:40-17:10") (dict "time" "12" "title" "17:20-17:50") (dict "title" "18:00-18:20" "plenary" "Closing address (in Lecture Room)") (dict "title" "AFTERWARDS" "allRooms" "Complimentary food and drink at the Botanic Inn") }}
+{{ $times := slice (dict "title" "8:30-9:30" "allRooms" "REGISTRATION / TEA / COFFEE") (dict "title" "9:35-9:45" "plenary" "Welcome (in Hall 1A)") (dict "time" "1" "title" "10:00-10:30") (dict "time" "2" "title" "10:45-11:15") (dict "time" "3" "title" "11:30-12:00") (dict "title" "12:00-13:00" "plenary" "LUNCH") (dict "time" "4" "title" "13:00-13:30") (dict "time" "5" "title" "13:45-14:15") (dict "time" "6" "title" "14:30-15:00") (dict "title" "15:00-15:30" "allRooms" "BREAK") (dict "time" "7" "title" "15:30-16:00") (dict "time" "8" "title" "16:15-16:45") (dict "time" "9" "title" "17:00-17:30") (dict "title" "17:45-18:15" "plenary" "Closing address (in Hall 1A)") (dict "title" "AFTERWARDS" "allRooms" "Afterparty") }}
 
-{{ $rooms := slice (dict "id" "CR1" "name" "Conference Room 1 (\"Lightning\")") (dict "id" "CR2" "name" "Conference Room 2") (dict "id" "LR1" "name" "Lecture Room 1") (dict "id" "LR3" "name" "Lecture Room 3") (dict "id" "LT" "name" "Lecture Theatre (\"Raked\")") }}
+{{ $rooms := slice (dict "id" "A" "name" "Hall 1A") (dict "id" "B" "name" "Hall 1B") (dict "id" "C" "name" "Conference Room 1") (dict "id" "D" "name" "Conference Room 2B") (dict "id" "E" "name" "Conference Room 2A") }}
 
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
