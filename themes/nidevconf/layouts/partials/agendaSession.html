@@ -21,18 +21,18 @@
     {{ end }}
 {{ else }}
     <div>
-        {{ if (eq $room.id "E") }}
-            {{ if (gt $time "3") }}
-                <a href="#lightning" class="sessionlink">
-                    <span class="agendaRoom">{{ $room.name }} - </span>
-                    Lightning Talks
-                </a>
-            {{ else }}
-                <a href="#productcamp" class="sessionlink">
-                    <span class="agendaRoom">{{ $room.name }} - </span>
-                    ProductCamp
-                </a>
-            {{ end }}
+        {{ if and (eq $room.id "D") (gt $time "3") }}
+            <a href="#lightning" class="sessionlink">
+                <span class="agendaRoom">{{ $room.name }} - </span>
+                Lightning Talks
+            </a>
+        {{ else if and (eq $room.id "E") (le $time "3") }}
+            <a href="#productcamp" class="sessionlink">
+                <span class="agendaRoom">{{ $room.name }} - </span>
+                ProductCamp
+            </a>
+        {{ else if (eq $room.id "E") }}
+            Raspberry Jam
         {{ else }}
             Session TBC
         {{ end }}
