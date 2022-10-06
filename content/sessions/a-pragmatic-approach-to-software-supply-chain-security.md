@@ -4,7 +4,7 @@ title = "A Pragmatic Approach to Software Supply Chain Security"
 speakers = ["ciaran-conliffe"]
 lightning = false
 sessionizeId = "374896"
-room = "A"
+room = "C"
 time = "1"
 +++
 

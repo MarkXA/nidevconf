@@ -4,7 +4,7 @@ title = "Security Data Magic With Elastic Cloud & Python"
 speakers = ["claire-burn"]
 lightning = false
 sessionizeId = "378365"
-room = "B"
+room = "C"
 time = "5"
 +++
 

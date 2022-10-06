@@ -4,8 +4,8 @@ title = "Protecting our culture as we grow our teams"
 speakers = ["janine-crosbie"]
 lightning = false
 sessionizeId = "379727"
-room = "C"
-time = "1"
+room = "B"
+time = "2"
 +++
 
 As Mintel’s business has grown, so have our ambitions.  That’s why, in early 2021, we decided to add roughly 40 IT roles - more than a 30% increase to our existing department - as part of a larger investment into growing our business.  We elected to add the majority of these roles in Belfast, where we already had a small data science team  This would give us a fourth location as an option for adding people in the future, too. 

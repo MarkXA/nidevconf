@@ -4,7 +4,7 @@ title = "In-Memory Integration Testing"
 speakers = ["jon-glass"]
 lightning = false
 sessionizeId = "380261"
-room = "B"
+room = "A"
 time = "6"
 +++
 
