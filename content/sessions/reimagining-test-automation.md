@@ -1,7 +1,7 @@
 +++
 id = "reimagining-test-automation"
 title = "Reimagining Test Automation"
-speakers = ["richard-robinson","aoibheann-maye"]
+speakers = ["richard-robinson","aoibheann-maye","connor-henry"]
 lightning = false
 sessionizeId = "381652"
 room = "C"
