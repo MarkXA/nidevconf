@@ -7,4 +7,4 @@ twitter = "https://twitter.com/FluxusNerd"
 linkedin = "https://www.linkedin.com/in/maycheungni"
 +++
 
-With a professional background in the legal sector for 14 years, May realised her passion in tech; now works operations in a startup. In addition, she recently she became Chief of Staff at OpenUK. An active member of the tech community having previously given talks at NI Developer Conference and BelFOSS.
+After a background in the legal sector for 14+ years, May realised her passion has always been in tech, having previously studied Computer Science a very long time ago. She now runs operations in a startup. An active member of the tech community having previously spoken at NI Developer Conference and BelFOSS, May continues to find ways to support and contribute to a growing community.
