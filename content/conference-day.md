@@ -12,7 +12,11 @@ You can install the Sessionize app at https://nidc22.sessionize.com/ to view the
 
 ## Getting there
 
-The ICC is in the Waterfront Hall building. Please use the [Riverside Entrance](https://goo.gl/maps/HBpsZp54xJoYbWHG6), not the Waterfront Hall entrance!
+ICC Belfast, 2 Lanyon Place, Belfast, BT1 3WH
+
+The ICC is next to the Waterfront Hall building. Please use the [Riverside Entrance](https://goo.gl/maps/HBpsZp54xJoYbWHG6), not the Waterfront Hall entrance!
+
+What3Words: [https://w3w.co/candy.flags.scouts](https://w3w.co/candy.flags.scouts)
 
 ### By public transport
 
@@ -24,10 +28,10 @@ There are cycle hoops outside the Waterfront Hall entrance of the building, and 
 
 ### By car
 
-Discounted parking is available at the [APCOA Lanyon Place car park](https://goo.gl/maps/kY77gfY7MKkEic7d8) (note NOT the Oxford Street car park adjacent to the Waterfront Hall - it's a little further along Lanyon Place). To avail of the discounted £10 day rate, visit https://citycentre.apcoa.co.uk/ and use the following details:
+Discounted parking is available at the [APCOA Lanyon Place car park](https://goo.gl/maps/kY77gfY7MKkEic7d8) (note **NOT** the Oxford Street car park adjacent to the Waterfront Hall - it's a little further along Lanyon Place). To avail of the discounted £10 day rate, visit https://citycentre.apcoa.co.uk/ and prebook use the following details:
 
-* Select parking location Lanyon Place
-* Choose Day Parking (£20)
+* Select parking location **Lanyon Place**
+* Choose **Day Parking (£20)**
 * Select date and time for entry and exit
 * Enter promo code **con10** to reduce the price to £10
 
@@ -41,8 +45,8 @@ Water will be available throughout the day - please bring your own refillable bo
 
 ## Assistance
 
-NIDC committee and volunteers will be wearing branded pink t-shirts. Feel free to ask us for help with anything during the day.
+NIDC organisers and volunteers will be wearing branded pink t-shirts. Feel free to ask us for help with anything during the day.
 
-## After party
+## Afterparty
 
 After the conference you're welcome to join us in the Black Box to chill out with a drink or two. Remember to bring your conference badge with you to gain entry!
