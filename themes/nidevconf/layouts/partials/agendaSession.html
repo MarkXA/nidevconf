@@ -32,7 +32,10 @@
                 ProductCamp
             </a>
         {{ else if (eq $room.id "E") }}
-            Raspberry Jam
+            <a href="#productcamp" class="sessionlink">
+                <span class="agendaRoom">{{ $room.name }} - </span>
+                Raspberry Jam
+            </a>
         {{ else }}
             Session TBC
         {{ end }}

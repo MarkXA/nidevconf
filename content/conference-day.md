@@ -32,7 +32,7 @@ There are cycle hoops outside the Waterfront Hall entrance of the building, and 
 
 ### By car
 
-Discounted parking is available at the [APCOA Lanyon Place car park](https://goo.gl/maps/kY77gfY7MKkEic7d8) (note **NOT** the Oxford Street car park adjacent to the Waterfront Hall - it's a little further along Lanyon Place). To avail of the discounted £10 day rate, visit https://citycentre.apcoa.co.uk/ and prebook use the following details:
+Discounted parking is available at the [APCOA Lanyon Place car park](https://goo.gl/maps/kY77gfY7MKkEic7d8) (note **NOT** the Oxford Street car park adjacent to the Waterfront Hall - it's a little further along Lanyon Place). To avail of the discounted £10 day rate, visit https://citycentre.apcoa.co.uk/ and prebook using the following details:
 
 * Select parking location **Lanyon Place**
 * Choose **Day Parking (£20)**
