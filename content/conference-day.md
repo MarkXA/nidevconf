@@ -53,4 +53,4 @@ NIDC organisers and volunteers will be wearing branded pink t-shirts. Feel free 
 
 ## Afterparty
 
-After the conference you're welcome to join us in the Black Box to chill out with a drink or two. Remember to bring your conference badge with you to gain entry!
+After the conference you're welcome to join us in the [Black Box](https://goo.gl/maps/WRVmPTGkQx2GcWfy5) to chill out with a drink or two. Remember to bring your conference badge with you to gain entry!
