@@ -1,7 +1,7 @@
 +++
 id = "driving-the-data-agenda-in-healthcare"
 title = "Driving the Data agenda in Healthcare"
-speakers = ["alexios-sofias"]
+speakers = ["alexios-sofias","georgina-milne"]
 lightning = false
 sessionizeId = "392434"
 room = "C"
