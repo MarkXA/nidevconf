@@ -47,6 +47,14 @@ A light lunch will be provided at 12pm. A separate station will cater for attend
 
 Water will be available throughout the day - please bring your own refillable bottle if you can.
 
+## Facilities etc
+
+* A staffed cloakroom is located on the ground floor.
+* Childcare is on the second floor and will be there all day - those who have booked childcare places please take your children up when you arrive to hand them over to the carers.
+* Toilets are available on all floors. A "Changing Places" accessible toilet is located on the ground floor.
+* Lifts are available to all floors.
+* No fire drills are planned - if the fire alarm sounds, please follow the instructions of ICC staff.
+
 ## Assistance
 
 NIDC organisers and volunteers will be wearing branded pink t-shirts. Feel free to ask us for help with anything during the day.
