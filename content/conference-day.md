@@ -12,7 +12,7 @@ Registration is between 8:30am and 9:30am. Lunch is 12pm-1pm, and the conference
 
 ## Mobile app
 
-You can install the Sessionize app at https://nidc22.sessionize.com/ to view the agenda and set up your own personal schedule.
+You can install the Sessionize app at https://nidc23.sessionize.com/ to view the agenda and set up your own personal schedule.
 
 ## Getting there
 

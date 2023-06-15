@@ -19,7 +19,7 @@
 
 [[redirects]]
   from = "/tickets/"
-  to = "https://ti.to/nidc/nidc2022"
+  to = "https://ti.to/nidc/nidc2023"
   status = 302
   force = true
 
@@ -31,7 +31,7 @@
 
 [[redirects]]
   from = "/venue/"
-  to = "https://www.iccbelfast.com/visitor#getting-to-icc-belfast"
+  to = "https://iccbelfast.com/plan-your-visit/getting-here"
   status = 302
   force = true
 
