@@ -18,12 +18,6 @@
   force = true
 
 [[redirects]]
-  from = "/tickets/"
-  to = "https://ti.to/nidc/nidc2023"
-  status = 302
-  force = true
-
-[[redirects]]
   from = "/volunteers/"
   to = "https://forms.gle/MGcw82dNT1TZwYby8"
   status = 302
