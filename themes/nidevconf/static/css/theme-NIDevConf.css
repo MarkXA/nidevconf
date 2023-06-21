@@ -3507,3 +3507,7 @@ h2 a,
 h2 a:hover {
   color: inherit;
 }
+
+body #mc_embed_signup {
+  max-width: 100%;
+}

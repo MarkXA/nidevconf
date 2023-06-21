@@ -12,7 +12,7 @@ theme = "nidevconf"
   unsafe = true
 
 [params]
-  year = "2022"
+  year = "2023"
   email = "inbox@nidevconf.com"
-  bookingurl = "https://ti.to/nidc/nidc2022"
-  cfpurl = "https://sessionize.com/nidc22"
+  bookingurl = "https://ti.to/nidc/nidc2023"
+  cfpurl = "https://sessionize.com/nidc2023"

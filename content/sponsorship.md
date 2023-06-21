@@ -25,7 +25,3 @@ Our sponsorship packages offer you a wide range of opportunities adapted to your
 Also, in addition to existing packages, we are open to tailor-made partnerships.
 
 Our Sponsorship team is available for any questions you may have - just email sponsors@nidevconf.com.
-
-Download our brochure for full details:
-
-[![Sponsorship flyer](/img/sponsorship-flyer.jpg)](/downloads/sponsorship.pdf)
