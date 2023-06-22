@@ -44,7 +44,7 @@ Standard talks should last for 30 minutes. Lightning talks should be up to 10 mi
 
 ## When do submissions close?
 
-Proposals must be submitted by Sunday 30th July (at 23:59:59).
+Proposals must be submitted by Sunday 13th August (at 23:59:59).
 
 ## Where do I submit my talk?
 
