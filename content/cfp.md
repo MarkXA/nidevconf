@@ -10,7 +10,7 @@ title = "Call for Speakers"
 
 NIDC is unique because...
 
-- It's an open call for speakers working in the tech sector in Northern Ireland. We're not looking for "rockstars" - some of our best talks have been from students, and even managers ;)
+- It's an open call for speakers working in the tech sector. We're not looking for "rockstars" - some of our best talks have been from students, and even managers ;)
 - We select a diverse range of topics. If you're willing to talk about it, we're willing to listen.
 - There are different formats including lightning talks (great for easily getting "**conference speaker**" on your CV!) and panels. 
 
@@ -22,7 +22,18 @@ By the way, speakers get a free ticket. So if you’ve bought your ticket, and y
 
 ## What should talks be about?
 
-**Anything of interest to the tech community!** We've seen all kinds of presentations, such as live demos, tutorials, and stories of trials and triumphs. Folks from fields in Software, Infrastructure, Security, Product, UX, and Design have joined NIDC.
+**Anything of interest to the tech community!** We've seen all kinds of presentations, such as live demos, tutorials, and stories of trials and triumphs. Folks from many fields have joined NIDC:
+- Software
+- Design
+- Infrastructure
+- UX
+- Testing
+- Leadership
+- Game Dev
+- Project
+- Data
+- Students
+- Architecture
 
 You're working on interesting stuff, either in your day job or as a side project. Why not come and tell us about it? The tools, methodologies and approaches that have helped you out, how you've addressed technical or non-technical pain points, or just showing off something fun.
 
