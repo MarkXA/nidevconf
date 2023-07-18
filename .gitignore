@@ -1,3 +1,4 @@
 /public
 .DS_Store
 codealike.json
+.hugo_build.lock
