@@ -3511,3 +3511,27 @@ h2 a:hover {
 body #mc_embed_signup {
   max-width: 100%;
 }
+
+.imageGallery {
+  margin: 1em 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.imageGallery img {
+  margin-bottom: 1em;
+}
+.imageGallery.cols-3 img {
+  width: calc(33% - 0.5em);
+}
+.imageGallery.cols-4 img {
+  width: calc(25% - 0.5em);
+}
+@media all and (max-width: 767px) {
+  .imageGallery.cols-3 img {
+    width: 100%;
+  }
+  .imageGallery.cols-4 img {
+    width: calc(50% - 0.5em);
+  }
+}
