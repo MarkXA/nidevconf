@@ -7,10 +7,10 @@ title = "About"
 TL;DR it's an annual chance for the Northern Irish tech community to get together, learn, make connections and have fun.
 
 <div class="imageGallery cols-4">
-    <img src='/img/about-1.jpg' />
-    <img src='/img/about-2.jpg' />
-    <img src='/img/about-3.jpg' />
-    <img src='/img/about-4.jpg' />
+    <img src='/img/about-1.jpg' alt='A person playing a game with a VR headset' />
+    <img src='/img/about-2.jpg' alt='A person giving a presentation in a small room watched by an audience' />
+    <img src='/img/about-3.jpg' alt='Children and parents sitting at tables with laptops learning something' />
+    <img src='/img/about-4.jpg' alt='A person in the audience of a talk taking notes' />
 </div>
 
 ## What makes it different to other conferences?
@@ -28,7 +28,7 @@ As with most conferences, it is based around a core of technical talks, but:
 * It's **fun**. Everyone's there to have a good time, and we always have some fun activities if you need a break from the talks.
 
 <div class="imageGallery cols-3">
-    <img src='/img/about-5.jpg' />
-    <img src='/img/about-6.jpg' />
-    <img src='/img/about-7.jpg' />
+    <img src='/img/about-5.jpg' alt='Two people doing things with 3D printers' />
+    <img src='/img/about-6.jpg' alt='A person on stage in a large lecture hall, leaning on the lectern' />
+    <img src='/img/about-7.jpg' alt='Lots of people in a large room with many stands, mostly standing in groups and chatting' />
 </div>
