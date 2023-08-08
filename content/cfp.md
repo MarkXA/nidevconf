@@ -29,11 +29,14 @@ By the way, speakers get a free ticket. So if you’ve bought your ticket, and y
 - UX
 - Testing
 - Leadership
+- Security
 - Game Dev
+- DevOps
 - Project
 - Data
 - Students
 - Architecture
+- ...and more than we can even remember to mention!
 
 You're working on interesting stuff, either in your day job or as a side project. Why not come and tell us about it? The tools, methodologies and approaches that have helped you out, how you've addressed technical or non-technical pain points, or just showing off something fun.
 
