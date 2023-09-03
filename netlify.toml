@@ -38,3 +38,9 @@
   from = "/data/ni-tech-meetups.json"
   to = "https://nidc.blob.core.windows.net/public/ni-tech-meetups.json"
   status = 200
+
+[[redirects]]
+  from = "/meetup-fest/"
+  to = "https://nidc.notion.site/Meetup-Fest-2023-4b8d0a6aa6124c489e49f74790399337"
+  status = 302
+  force = true
