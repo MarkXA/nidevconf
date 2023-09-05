@@ -182,3 +182,7 @@
 #mc_embed_signup input[type="text"] {
   color: inherit;
 }
+
+table th, table td {
+  padding: 0.15em 0.5em;
+}
