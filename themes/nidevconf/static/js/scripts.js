@@ -4,14 +4,6 @@ $(document).ready(function () {
 
     /************** Nav Scripts **************/
 
-    $(window).scroll(function () {
-        if ($(window).scrollTop() > 1) {
-            $('nav').addClass('sticky-nav');
-        } else {
-            $('nav').removeClass('sticky-nav');
-        }
-    });
-
     $('a').click(function () {
         if ($(this).attr('href') === '#') {
             return false;

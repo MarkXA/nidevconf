@@ -2,3 +2,6 @@
 .DS_Store
 codealike.json
 .hugo_build.lock
+
+# Local Netlify folder
+.netlify
