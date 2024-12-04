@@ -304,7 +304,7 @@ body {
   font-smoothing: antialiased;
   -webkit-font-smoothing: antialiased;
   color: #555555;
-  font-size: 16px;
+  font-size: 18px;
   background: #eee;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -323,7 +323,7 @@ h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 36px;
   margin-bottom: 1em;
 }
 
@@ -2267,11 +2267,6 @@ p.question {
   }
 }
 
-.mx-10 {
-  margin-left: 10rem;
-  margin-right: 10rem;
-}
-
 /*!
 // 14. Subscribe
 // --------------------------------------------------*/
@@ -3518,6 +3513,47 @@ body #mc_embed_signup {
   max-height: 150px;
 }
 
+.w-125{
+  width: 125px;
+}
+
+.h-125{
+  height: 125px;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.mt-4 {
+  margin-top: 4rem;
+}
+
+.mt-10 {
+  margin-top: 10rem;
+}
+
+.mb-2 {
+  margin-bottom: 2rem;
+}
+
+.mb-4 {
+  margin-bottom: 4rem;
+}
+
+.mb-10 {
+  margin-bottom: 10rem;
+}
+
+.ml-2 {
+  margin-left: 2rem;
+}
+
+.mx-10 {
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
@@ -3525,4 +3561,12 @@ body #mc_embed_signup {
 
 .text-green {
   color: #63BC46;
+}
+
+a {
+  color: #63BC46;
+}
+
+.d-flex {
+  display: flex;
 }
