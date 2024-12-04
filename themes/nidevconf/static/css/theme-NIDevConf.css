@@ -3570,3 +3570,15 @@ a {
 .d-flex {
   display: flex;
 }
+
+.text-xl {
+  font-size: 10rem;
+}
+
+.lh-9 {
+  line-height: 9rem;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
