@@ -1,12 +1,26 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
-<div class="main-container">
-  <section class="speakers">
-    <div class="container">
-      {{ partial "speaker.html" . }}
+{{ $speakers := where .Site.Pages "Params.role" "speaker" }}
+
+<section class="row">
+  <div class="main-container">
+    <a id="top"></a>
+    <div class="container generic">
+      <div class="col-md-12 main">
+        <h1 class="text-xl text-green lh-9">Speakers</h1>
+      </div>
+      {{ if $speakers }}
+      <div class="row">
+      </div>
+      <div class="flexcolumn">
+        {{ range $speaker := $speakers }}
+        {{ partial "team.html" $speaker }}
+        {{ end }}
+      </div>
+      {{ end }}
     </div>
-  </section>
-</div>
+  </div>
+</section>
 
 {{ partial "footer.html" . }}
