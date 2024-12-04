@@ -6,47 +6,19 @@
   HUGO_VERSION = "0.83.1"
 
 [[redirects]]
-  from = "https://nidevconf.netlify.com/*"
-  to = "https://www.nidevconf.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/mailing-list*"
   to = "/newsletter/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/volunteers/"
-  to = "https://forms.gle/MGcw82dNT1TZwYby8"
-  status = 302
-  force = true
-
-[[redirects]]
   from = "/venue/"
-  to = "https://iccbelfast.com/plan-your-visit/getting-here"
-  status = 302
-  force = true
-
-[[redirects]]
-  from = "/data/ni-tech-meetups.ics"
-  to = "https://nidc.blob.core.windows.net/public/ni-tech-meetups.ics"
-  status = 200
-
-[[redirects]]
-  from = "/data/ni-tech-meetups.json"
-  to = "https://nidc.blob.core.windows.net/public/ni-tech-meetups.json"
-  status = 200
-
-[[redirects]]
-  from = "/meetup-fest/"
-  to = "https://nidc.notion.site/Meetup-Fest-2023-4b8d0a6aa6124c489e49f74790399337"
+  to = "https://www.thealexhotel.ie/find-us/"
   status = 302
   force = true
 
 [[redirects]]
   from = "/tickets/"
-  to = "https://ti.to/nidc/nidc2023"
+  to = "https://www.eventbrite.ie/e/national-open-source-innovation-summit-2025-tickets-1082435336229?aff=oddtdtcreator"
   status = 302
   force = true
