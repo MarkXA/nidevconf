@@ -1607,10 +1607,6 @@ ul.checkmarks li::before {
   margin-bottom: 2em;
 }
 
-.speaker-description h2 a {
-  color: #333;
-}
-
 .speaker-description .sessionlink {
   display: inline-block;
   font-weight: 600;
@@ -1657,7 +1653,6 @@ ul.checkmarks li::before {
 }
 
 .socialicon {
-  border: 1px solid #333;
   border-radius: 50%;
   width: 25px;
   height: 25px;
@@ -1665,7 +1660,8 @@ ul.checkmarks li::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 15px;
+  font-size: 20px;
+  color: #63BC46;
 }
 
 @media all and (max-width: 767px) {
@@ -3580,5 +3576,12 @@ a {
 }
 
 .mb-0 {
-  margin-bottom: 0;
+  margin-bottom: 0!important;
+}
+
+.bluesky-icon {
+  padding-top: 12px;
+  width: 15px;
+  height: auto;
+  filter: invert(48%) sepia(7%) saturate(3485%) hue-rotate(61deg) brightness(135%) contrast(82%);
 }

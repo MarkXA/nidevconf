@@ -3,7 +3,7 @@ draft = false
 title = "May Cheung"
 role = "committee"
 image = "/img/team/may-cheung.jpg"
-twitter = "https://twitter.com/FluxusNerd"
+bluesky = "https://twitter.com/FluxusNerd"
 linkedin = "https://www.linkedin.com/in/maycheungni"
 +++
 

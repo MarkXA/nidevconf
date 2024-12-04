@@ -4,7 +4,7 @@ title = "Zan Dani"
 role = "committee"
 image = "/img/team/zan-dani.jpg"
 linkedin = "https://www.linkedin.com/in/zan-dani/"
-twitter = "https://twitter.com/zan_dani"
+bluesky = "https://twitter.com/zan_dani"
 website = "https://www.behance.net/zandani"
 +++
 

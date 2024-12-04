@@ -4,7 +4,7 @@ title = "Lauren Taylor"
 role = "committee"
 image = "/img/team/lauren-taylor.jpg"
 linkedin = "https://www.linkedin.com/in/lauren-taylor-48a15013b/"
-twitter = "https://twitter.com/lornidon"
+bluesky = "https://twitter.com/lornidon"
 github = "https://github.com/laurentaylor1"
 +++
 

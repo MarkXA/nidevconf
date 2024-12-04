@@ -3,7 +3,7 @@ draft = false
 title = "Yuan Zhang"
 role = "committee"
 image = "/img/team/yuan-zhang.jpg"
-twitter = "https://twitter.com/YuanMitchell"
+bluesky = "https://twitter.com/YuanMitchell"
 linkedin = "    "
 +++
 

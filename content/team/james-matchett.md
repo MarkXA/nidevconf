@@ -4,7 +4,7 @@ title = "James Matchett"
 role = "committee"
 image = "/img/team/james-matchett.jpg"
 linkedin = "https://www.linkedin.com/in/jmatch"
-twitter = "https://twitter.com/JMMatchett"
+bluesky = "https://twitter.com/JMMatchett"
 github = "https://github.com/jamesMatchett"
 +++
 
