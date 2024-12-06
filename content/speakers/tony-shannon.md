@@ -2,7 +2,7 @@
 draft = false
 title = "Tony Shannon"
 role = "speaker"
-position = "CHead of Digital Services, OGCIO"
+position = "Head of Digital Services, OGCIO"
 image = "/img/speakers/sachiko-muto.jpg"
 +++
 
