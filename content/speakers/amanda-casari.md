@@ -3,7 +3,7 @@ draft = false
 title = "Amanda Casari"
 role = "speaker"
 position = "Researcher & Engineer, Google OSPO"
-image = "/img/team/amanda-casari.jpg"
+image = "/img/speakers/amanda-casari.jpg"
     bluesky = "https://twitter.com/Josh_Bty"
     linkedin = "https://www.linkedin.com/in/josh-beatty/"
 +++

@@ -4,7 +4,7 @@ title = "Joan Mulvihill"
 role = "committee"
 position = "Moderator"
 image = "/img/team/joan-mulvihill.jpg"
-bluesky = "@joanmulvihill.bsky.social"
+bluesky = "https://bsky.app/profile/joanmulvihill.bsky.social"
 linkedin = "https://www.linkedin.com/in/joanmulvihill/"
 +++
 

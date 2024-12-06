@@ -4,7 +4,7 @@ title = "Clare Dillon"
 role = "committee"
 position = "Co-founder & Organiser"
 image = "/img/team/clare-dillon.jpg"
-bluesky = "@claredillon.bsky.social"
+bluesky = "https://bsky.app/profile/claredillon.bsky.social"
 linkedin = "https://www.linkedin.com/in/claredillon/"
 github = "https://github.com/claredillon"
 +++
