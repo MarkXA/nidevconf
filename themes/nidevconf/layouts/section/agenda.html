@@ -1,276 +1,34 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
-{{ $sessions := where .Site.Pages "Section" "sessions" }}
-{{ $lightnings := where $sessions "Params.lightning" true }}
-
-{{ $times := slice (dict "title" "8:30-9:30" "allRooms" "REGISTRATION / TEA / COFFEE") (dict "title" "9:35-9:45" "plenary" "Welcome (in Hall 1A)") (dict "time" "1" "title" "10:00-10:30") (dict "time" "2" "title" "10:45-11:15") (dict "time" "3" "title" "11:30-12:00") (dict "title" "12:00-13:00" "plenary" "LUNCH") (dict "time" "4" "title" "13:00-13:30") (dict "time" "5" "title" "13:45-14:15") (dict "time" "6" "title" "14:30-15:00") (dict "title" "15:00-15:30" "allRooms" "BREAK") (dict "time" "7" "title" "15:30-16:00") (dict "time" "8" "title" "16:15-16:45") (dict "time" "9" "title" "17:00-17:30") (dict "title" "17:45-18:15" "plenary" "Closing address (in Hall 1A)") (dict "title" "AFTERWARDS" "allRooms" "Afterparty at the Black Box") }}
-
-{{ $rooms := slice (dict "id" "A" "name" "Hall 1A") (dict "id" "B" "name" "Hall 1B") (dict "id" "C" "name" "Conference Room 1") (dict "id" "D" "name" "Conference Room 2B") (dict "id" "E" "name" "Conference Room 2A") }}
-
-{{ $lightningTimes := slice "13:45" "14:00" "14:30" "14:45" "15:30" "15:45" "16:15" "16:30" "17:00" "17:15" }}
-
-<style>
-  .agendaHeader {
-    background-color: #e0e0e0;
-    margin-bottom: 2em;
-  }
-  .agendaHeader h3 {
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
-  }
-  .agendaHeader h3 a {
-    text-decoration: underline;
-    font-weight: bold;
-    color: inherit;
-  }
-  .agenda {
-    border: solid 1px #35566a;
-  }
-  .agenda table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  .agenda td {
-    padding: 0.25em 1em;
-    border: solid 2px white;
-  }
-  .agenda td:nth-child(n+2) {
-    width: 20%;
-  }
-  .agenda td.agendaBlocked {
-    background-color: #FFFFFF !important;
-  }
-  .agenda tr:first-child td {
-    font-weight: bold;
-    color: white;
-    background-color: #35566a;
-    text-align: center;
-  }
-  .agenda tr td:first-child {
-    font-weight: bold;
-    color: white;
-    background-color: #35566a;
-    text-align: center;
-    white-space: nowrap;
-  }
-  .agenda tr:nth-child(2n) td:nth-child(2n) {
-    background-color: #E0E0E0;
-  }
-  .agenda tr:nth-child(2n) td:nth-child(2n+3) {
-    background-color: #E8E8E8;
-  }
-  .agenda tr:nth-child(2n+3) td:nth-child(2n) {
-    background-color: #F0F0F0;
-  }
-  .agenda tr:nth-child(2n+3) td:nth-child(2n+3) {
-    background-color: #F8F8F8;
-  }
-  .agenda table tr td.agendaSeparator {
-    text-align: center;
-    font-weight: bold;
-    color: inherit;
-    background-color: #CCC !important;
-    border: solid 2px white;
-  }
-  .agenda td.lightnings div {
-    font-size: 75%;
-    line-height: 1.25em;
-    margin-bottom: 0.25em;
-  }
-
-  .agendaSlot {
-    margin: 0.5em;
-  }
-  .agendaSeparator, .agendaTime {
-    background-color: #DDD;
-  }
-
-  @media (max-width:991px) {
-      .agendaRoom {
-          display: inline;
-      }
-  }
-
-  @media (min-width: 992px) {
-      .agendaRoom {
-          display: none;
-      }
-  }
-</style>
 
 <div class="main-container">
-  <a id="top"></a>
   <section class="speakers">
     <div class="container">
-      <div class="row" style="text-align: center">
-        <div class="col-sm-3 agendaHeader">
-          <h3><a href="#agenda">Agenda</a></h3>
-        </div>
-        <div class="col-sm-3 agendaHeader">
-          <h3><a href="#lightning">Lightning talks</a></h3>
-        </div>
-        <div class="col-sm-3 agendaHeader">
-          <h3><a href="#raspberryjam">Raspberry Jam</a></h3>
-        </div>
-        <div class="col-sm-3 agendaHeader">
-          <h3><a href="#productcamp">Product Camp</a></h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <h1 id="agenda">Agenda</h1>
-          <p>
-            Please note the timings below are subject to change!
-          </p>
-          <div></div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="agenda">
-
-            <div class="visible-xs visible-sm">
-              {{ range $times }}
-                {{ $time := .time }}
-                {{ $timespan := .timespan }}
-                {{ $title := .title }}
-                {{ $allRooms := .allRooms }}
-                {{ $plenary := .plenary }}
-                <div class="agendaSlot">
-                  <div class="agendaTime">
-                    {{ $title }}
-                  </div>
-                {{ if $time }}
-                  {{ range $index, $room := $rooms }}
-                    {{ $session := where (where $sessions "Params.time" $time) ".Params.room" $room.id }}
-                    {{ if $session }}
-                      <div>
-                        {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
-                      </div>
-                    {{ else if eq $room.id "E" }}
-                      <div>
-                        {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
-                      </div>
-                    {{ end }}
-                  {{ end }}
-                {{ else }}
-                    <div class="agendaItem">
-                      {{ if $allRooms }}
-                        <strong>{{ $allRooms }}</strong>
-                      {{ end }}
-                      {{ if $plenary }}
-                        <strong>{{ $plenary }}</strong>
-                      {{ end }}
-                    </div>
-                  {{ end }}
-                </div>
-              {{ end }}
-            </div>
-            
-            <table class="visible-md visible-lg">
-              <tr>
-                <td></td>
-                {{ range $rooms }}
-                  <td>{{ .name }}</td>
-                {{ end }}
-              </tr>
-              {{ range $times }}
-                {{ $time := .time }}
-                {{ $timespan := .timespan }}
-                {{ $title := .title }}
-                {{ $allRooms := .allRooms }}
-                {{ $plenary := .plenary }}
-                <tr>
-                  {{ if $allRooms }}
-                    <tr>
-                      <td class="agendaTimeHead">
-                        {{ $title }}
-                      </td>
-                      <td colspan="{{ len $rooms }}" class="agendaSeparator">
-                        {{ $allRooms }}
-                      </td>
-                    </tr>
-                  {{ else if $plenary }}
-                    <tr>
-                      <td class="agendaTimeHead">
-                        {{ $title }}
-                      </td>
-                      <td class="agendaSeparator" colspan="5">
-                        {{ $plenary }}
-                      </td>
-                    </tr>
-                  {{ else if $time }}
-                    <td class="agendaTimeHead">
-                      {{ $title }}
-                    </td>
-                    {{ range $index, $room := $rooms }}
-                      {{ $session := where (where $sessions "Params.time" $time) ".Params.room" $room.id }}
-                      {{ if $session }}
-                      <td class="agendaSession">
-                      {{ else if and (eq $room.id "CR1") (gt $time "6") }}
-                      <td class="agendaSession">
-                      {{ else }}
-                      <td class="agendaSeparator">
-                      {{ end }}
-                          {{ partial "agendaSession.html" (dict "session" $session "room" $room "time" $time) }}
-                      </td>
-                    {{ end }}
-                  {{ else }}
-                    <td class="agendaTimeHead">
-                      {{ $timespan }}
-                    </td>
-                    <td colspan="4" class="agendaSeparator">
-                      {{ $title }}
-                    </td>
-                  {{ end }}
-                </tr>
-              {{ end }}
-            </table>
-
+      <div class="d-flex col-md-12">
+        <h1 class="text-green text-xl col-md-6 mb-2 lh-9 mt-2">Event at <br> a Glance</h1>
+        <div class="col-md-6">
+          <div class="column d-flex h-100">
+            <p class="my-auto">
+              <!-- CHANGE THIS FILE PATH AND NAME IF NEEDED -->
+              <a href="/downloads/agenda.pdf" download="agenda.pdf" class="btn home">DOWNLOAD AGENDA</a>
+            </p>
           </div>
         </div>
       </div>
-      <div class="row" style="margin-top:2em">
-        <div class="col-sm-12">
-          <h1 id="lightning">Lightning talks</h1>
-          <p>
-            Lightning talks will run at approximately these times.
-          </p>
-          <div>
-            <ul>
-            {{ range $talkIndex, $talk := sort $lightnings "Params.order" }}
-              <li>
-                  {{ index $lightningTimes $talkIndex }} -
-                  <a href="{{ .RelPermalink }}" class="sessionlink">
-                      {{ .Params.title }}
-                  </a>
-              </li>
-            {{ end }}
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="row" style="margin-top:2em">
-        <div class="col-sm-12">
-          <h1 id="productcamp">ProductCamp</h1>
-          <p>
-            ProductCamp is a user-driven, collaborative "unconference" for product managers and marketers.
-            No booking required - first come, first served.
-          </p>
-        </div>
-      </div>
-      <div class="row" style="margin-top:2em">
-        <div class="col-sm-12">
-          <h1 id="raspberryjam">Raspberry Jam</h1>
-          <p>
-            The Northern Ireland Raspberry Jam is a programme of free, regular and family friendly events,
-            aimed at providing attendees with an opportunity to get hands on with coding and electronics,
-            in a fun and practical setting.
-
-            Come along and have a play! No booking required - first come, first served.
-          </p>
-        </div>
+      <div>
+        <p class="text-bold">Morning Sessions:</p>
+        <ul>
+          <li>Keynotes and panel discussions.</li>
+        </ul>
+        <p class="text-bold">Afternoon Breakouts:</p>
+        <ul>
+          <li>Breakout tracks (Government, Business, Open Source AI and Academic)</li>
+        </ul>
+        <p class="text-bold">Evening Reception:</p>
+        <ul>
+          <li>Networking and Drinks</li>
+        </ul>
       </div>
     </div>
   </section>
