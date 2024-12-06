@@ -3,8 +3,7 @@ draft = false
 title = "Ailbhe Duffy"
 role = "committee"
 position = "Head of Marketing & Partnerships"
-image = "/img/team/michael-meagher.jpg"
-rem bluesky = "https://twitter.com/mmeagher11"
+image = "/img/team/ailbhe-duffy.jpg"
 linkedin = "https://www.linkedin.com/in/ailbhe-duffy-b2bdifferent/"
 +++
 

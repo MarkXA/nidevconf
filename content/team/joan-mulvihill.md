@@ -3,7 +3,7 @@ draft = false
 title = "Joan Mulvihill"
 role = "committee"
 position = "Moderator"
-image = "/img/team/michael-meagher.jpg"
+image = "/img/team/joan-mulvihill.jpg"
 bluesky = "@joanmulvihill.bsky.social"
 linkedin = "https://www.linkedin.com/in/joanmulvihill/"
 +++

@@ -4,7 +4,7 @@ title = "Michael Meagher"
 role = "committee"
 position = "Director & Organiser"
 image = "/img/team/michael-meagher.jpg"
-bluesky = "https://twitter.com/mmeagher11"
+bluesky = "@mmeagher11.bsky.social"
 linkedin = "https://www.linkedin.com/in/michaelmeagher/"
 github = "https://github.com/mmeagher11"
 +++
