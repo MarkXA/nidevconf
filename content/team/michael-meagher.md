@@ -2,6 +2,7 @@
 draft = false
 title = "Michael Meagher"
 role = "committee"
+position = "Director & Organiser"
 image = "/img/team/michael-meagher.jpg"
 bluesky = "https://twitter.com/mmeagher22"
 linkedin = "https://www.linkedin.com/in/michaelmeagher/"
