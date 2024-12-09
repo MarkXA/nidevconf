@@ -2,8 +2,7 @@
 draft = false
 title = "Sayeed Choudhury"
 role = "speaker"
-Position = "Associate Dean for Digital Infrastructure; Director of the Open Source Programs Office
-Carnegie Mellon University"
+Position = "Associate Dean for Digital Infrastructure; Director of the Open Source Programs Office Carnegie Mellon University"
 image = "/img/speakers/sayeed-choudhury.jpg"
 +++
 

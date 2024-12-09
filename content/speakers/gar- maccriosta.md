@@ -2,7 +2,7 @@
 draft = false
 title = "Gar Mac Críosta"
 role = "speaker"
-image = "/img/speakers/gar- maccriosta.jpg"
+image = "/img/speakers/gar-maccriosta.jpg"
 position = "Sottware Architect and Digitial Advisor, HSE"
 +++
 
