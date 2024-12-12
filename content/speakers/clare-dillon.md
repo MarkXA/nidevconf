@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Clare Dillon"
-role = "committee"
+role = "speaker"
 position = "Co-founder Open Ireland Network, CURIOSS Community Lead, PhD Candidate, University of Galway"
 image = "/img/team/clare-dillon.jpg"
 bluesky = "https://bsky.app/profile/claredillon.bsky.social"

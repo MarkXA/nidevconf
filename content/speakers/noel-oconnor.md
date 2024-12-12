@@ -1,9 +1,9 @@
 +++
 draft = false
-title = "Ciarán O'Riordain"
+title = "Prof Noel O'Connor"
 role = "speaker"
-position = "Senior Policy Advisor, OpenForum Europe"
-image = "/img/speakers/ciaran-oriordain.jpg"
+position = "CEO, Insight (SFI Research Centre for Data Analytics)"
+image = "/img/speakers/noel-oconnor.jpg"
 +++
 
-Senior Policy Advisor at OpenForum Europe, Ciarán O’Riordan has been working in Brussels since 2004 with a focus on EU policy related to free and open source software. Before 2004 he worked as a software developer and has been using GNU/Linux since 1998. Topics he has worked on include patents, copyrights, GDPR and market regulation such as the Cyber Resilience Act.
+Prof. Noel E. O’Connor is a Full Professor in the School of Electronic Engineering at Dublin City University (DCU) Ireland. He is CEO of the Insight SFI Research Centre for Data Analytics, Ireland’s largest SFI-funded research centre. He was previously Academic Director of DCU’s Research and Enterprise Hub on Information Technology and the Digital Society, with the responsibility of coordinating multi-disciplinary ICT-related research across the university.  The focus of his research is in multimedia content analysis, computer vision, machine learning, information fusion and multi-modal analysis for applications in security/safety, autonomous vehicles, medical imaging, IoT and smart cities, multimedia content-based retrieval, and environmental monitoring. Since 1999 he has published over 400 peer-reviewed publications, made 11 standards submissions, and filed 7 patents. He is an Area Editor for Signal Processing: Image Communication (Elsevier) and an Associate Editor for the Journal of Image and Video Processing (Springer). He is a member of the ACM and IEEE. https://www.dcu.ie/electronics/people/noel-oconnor

@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Malcom Bain"
+title = "Dr. Maria Doyle"
 role = "speaker"
 image = "/img/speakers/maria-doyle.jpg"
 +++

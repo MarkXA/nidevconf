@@ -1,9 +1,9 @@
 +++
 draft = false
-title = "Sachiko Muto"
+title = "Ciarán O'Riordain"
 role = "speaker"
-position = "Chair, OpenForum Europe; Research, RISE (Research Institutes of Sweden)"
-image = "/img/speakers/sachiko-muto.jpg"
+position = "Senior Policy Advisor, OpenForum Europe"
+image = "/img/speakers/ciaran-oriordain.jpg"
 +++
 
-Sachiko Muto is the Chair of OpenForum Europe and a senior researcher at RISE Research Institutes of Sweden. She originally joined OFE in 2007 and served for several years as Director with responsibility for government relations and then as CEO. Sachiko has degrees in Political Science from the University of Toronto and the London School of Economics; she received her doctorate in standardisation policy from TU Delft.
+Senior Policy Advisor at OpenForum Europe, Ciarán O’Riordan has been working in Brussels since 2004 with a focus on EU policy related to free and open source software. Before 2004 he worked as a software developer and has been using GNU/Linux since 1998. Topics he has worked on include patents, copyrights, GDPR and market regulation such as the Cyber Resilience Act.
