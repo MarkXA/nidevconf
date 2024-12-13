@@ -3492,7 +3492,7 @@ body #mc_embed_signup {
  color: #63BC46;
  top: 50%;
  border-bottom: 4px solid;
- width: 591px; /* half of limiter*/
+ width: 200px; /* half of limiter*/
  margin: 0 20px;
 }
 .decorated > .heading-with-lines:before{
@@ -3567,6 +3567,10 @@ a {
 
 .text-xl {
   font-size: 10rem;
+}
+
+.text-l {
+  font-size: 5rem;;
 }
 
 .lh-9 {
