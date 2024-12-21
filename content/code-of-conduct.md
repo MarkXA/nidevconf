@@ -6,13 +6,13 @@ title = "Code of Conduct"
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-**Official photography**: Please note that we have an official photographer, David Kane. If you do wish to participate in the event but do not wish for your photograph to be taken in individual or small group photos, please make yourself known to him on arrival (the team at the Info Desk will help you do so). Please bear in mind that you may appear in crowd photographs.
+**Official photography**: Please note that we will be taking photos and videos at the event. If you do wish to participate in the event but do not wish for your photograph to be taken in individual or small group photos, please make yourself known to the organisers on arrival (the team at the Info Desk will help you do so). Please bear in mind that you may appear in crowd photographs.
 
 **Attendee photography**: With the exception of speakers while on stage (where a no-recording announcement has not been made), if you wish to take a photograph where someone is the specific focus of the photograph, please ask their permission first.
 
 ## Need Help?
 
-Contact us at inbox@nidevconf.com or talk to any of our volunteers or committee on site (who will be wearing NIDC shirts). 
+Contact us at info@openirelandnetwork.com or talk to any of our volunteers or committee on site (who will be wearing Open Ireland Network badges). 
 
 ## The Quick Version
 
@@ -20,7 +20,7 @@ Our conference is dedicated to providing a harassment-free conference experience
     regardless of gender, gender identity and expression, age, sexual orientation, disability, physical
     appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not
     tolerate harassment of conference participants in any form. Sexual language and imagery is not
-    appropriate for any conference venue, including talks, workshops, parties, Twitter and other online
+    appropriate for any conference venue, including talks, workshops, parties, social media sites and other online
     media. Conference participants violating these rules may be sanctioned or expelled from the
     conference <em>without a refund</em> at the discretion of the conference organisers.
 
@@ -55,6 +55,7 @@ We expect participants to follow these rules at conference and workshop venues a
 ---
 
 _Original source and credit:_
+We have based our Code of Conduct on the NIDC code of conduct.
 https://2012.jsconf.us/#/about &amp; [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)  
 Please help by translating or improving: https://github.com/leftlogic/confcodeofconduct.com  
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US)
