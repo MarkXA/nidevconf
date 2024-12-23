@@ -6,12 +6,6 @@
   HUGO_VERSION = "0.83.1"
 
 [[redirects]]
-  from = "https://nidevconf.netlify.com/*"
-  to = "https://www.nidevconf.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/mailing-list*"
   to = "/newsletter/"
   status = 301
